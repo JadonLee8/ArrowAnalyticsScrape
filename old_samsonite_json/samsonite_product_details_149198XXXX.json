@@ -1,0 +1,638 @@
+{
+  "product": {
+    "uuid": "7d96dd4bd8a76a215bb7b4ec85",
+    "id": "1491981596",
+    "productName": "Virtuosa Wheeled Duffel",
+    "productType": "variant",
+    "brand": "Samsonite",
+    "gtmData": {
+      "id": "149198XXXX",
+      "name": "Virtuosa Wheeled Duffel",
+      "category": "Wheeled Duffels",
+      "categoryID": "wheeled-duffels",
+      "price": "149.99",
+      "item_id": "149198XXXX",
+      "item_variant": "1491981596",
+      "variant": "1491981596",
+      "item_color": "Blue"
+    },
+    "gtmGA4Data": {
+      "item_id": "149198XXXX",
+      "item_variant": "1491981596",
+      "item_name": "Virtuosa Wheeled Duffel",
+      "item_category": "Wheeled Duffels",
+      "price": 149.99,
+      "currencyCode": "USD",
+      "variant": "1491981596",
+      "item_color": "Blue"
+    },
+    "attrsToUseForSwatch": "[\"color\",\"size\"]",
+    "attrGroupInclusion": null,
+    "pdpSwatchTypeAsImage": false,
+    "enableStickyAddToCart": true,
+    "enableVariantSelectionInPdpStickyAddToCart": true,
+    "hideQty": true,
+    "enableQuantityStepper": true,
+    "pdpCollapsibleContentDesktop4": {},
+    "pdpCollapsibleContentDesktop3": {},
+    "pdpCollapsibleContentDesktop2": {},
+    "pdpCollapsibleContentDesktop1": {},
+    "pdpHideSingleVariants": true,
+    "pdpImageColumnWidth": {},
+    "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+    "quickviewShowHeadlineAndDescription": true,
+    "price": {
+      "sales": {
+        "value": 149.99,
+        "currency": "USD",
+        "formatted": "$149.99",
+        "decimalPrice": "149.99"
+      },
+      "list": null,
+      "percentageOff": null
+    },
+    "showPercentageOff": true,
+    "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"149.99\">\n        \n        $149.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $149.99\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea9e3288/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34.jpg?sw=912&sh=912",
+          "index": "0",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwea9e3288/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw719f938d/collections/_samsonite/virtuosa/500x500/149198-1596-INTERIOR_STYLED-6.jpg?sw=912&sh=912",
+          "index": "1",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw719f938d/collections/_samsonite/virtuosa/500x500/149198-1596-INTERIOR_STYLED-6.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwad3e3d86/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT_POCKET-10.jpg?sw=912&sh=912",
+          "index": "2",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwad3e3d86/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT_POCKET-10.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a021aa6/collections/_samsonite/virtuosa/500x500/149198-1596-HANDLE-9.jpg?sw=912&sh=912",
+          "index": "3",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a021aa6/collections/_samsonite/virtuosa/500x500/149198-1596-HANDLE-9.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f6beb35/collections/_samsonite/virtuosa/500x500/149198-1596-BOTTOM-7.jpg?sw=912&sh=912",
+          "index": "4",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1f6beb35/collections/_samsonite/virtuosa/500x500/149198-1596-BOTTOM-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2636128a/collections/_samsonite/virtuosa/500x500/149198-1596-BACK_POCKET-8.jpg?sw=912&sh=912",
+          "index": "5",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2636128a/collections/_samsonite/virtuosa/500x500/149198-1596-BACK_POCKET-8.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw20c10691/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34-2.jpg?sw=912&sh=912",
+          "index": "6",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw20c10691/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34-2.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea9e3288/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34.jpg?sw=176&sh=176",
+          "index": "0",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwea9e3288/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw719f938d/collections/_samsonite/virtuosa/500x500/149198-1596-INTERIOR_STYLED-6.jpg?sw=176&sh=176",
+          "index": "1",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw719f938d/collections/_samsonite/virtuosa/500x500/149198-1596-INTERIOR_STYLED-6.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwad3e3d86/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT_POCKET-10.jpg?sw=176&sh=176",
+          "index": "2",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwad3e3d86/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT_POCKET-10.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a021aa6/collections/_samsonite/virtuosa/500x500/149198-1596-HANDLE-9.jpg?sw=176&sh=176",
+          "index": "3",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a021aa6/collections/_samsonite/virtuosa/500x500/149198-1596-HANDLE-9.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f6beb35/collections/_samsonite/virtuosa/500x500/149198-1596-BOTTOM-7.jpg?sw=176&sh=176",
+          "index": "4",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1f6beb35/collections/_samsonite/virtuosa/500x500/149198-1596-BOTTOM-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2636128a/collections/_samsonite/virtuosa/500x500/149198-1596-BACK_POCKET-8.jpg?sw=176&sh=176",
+          "index": "5",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2636128a/collections/_samsonite/virtuosa/500x500/149198-1596-BACK_POCKET-8.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw20c10691/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34-2.jpg?sw=176&sh=176",
+          "index": "6",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw20c10691/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34-2.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "hi-res": [
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea9e3288/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34.jpg?sw=3000&sh=3000",
+          "index": "0",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwea9e3288/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw719f938d/collections/_samsonite/virtuosa/500x500/149198-1596-INTERIOR_STYLED-6.jpg?sw=3000&sh=3000",
+          "index": "1",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw719f938d/collections/_samsonite/virtuosa/500x500/149198-1596-INTERIOR_STYLED-6.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwad3e3d86/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT_POCKET-10.jpg?sw=3000&sh=3000",
+          "index": "2",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwad3e3d86/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT_POCKET-10.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a021aa6/collections/_samsonite/virtuosa/500x500/149198-1596-HANDLE-9.jpg?sw=3000&sh=3000",
+          "index": "3",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a021aa6/collections/_samsonite/virtuosa/500x500/149198-1596-HANDLE-9.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f6beb35/collections/_samsonite/virtuosa/500x500/149198-1596-BOTTOM-7.jpg?sw=3000&sh=3000",
+          "index": "4",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1f6beb35/collections/_samsonite/virtuosa/500x500/149198-1596-BOTTOM-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2636128a/collections/_samsonite/virtuosa/500x500/149198-1596-BACK_POCKET-8.jpg?sw=3000&sh=3000",
+          "index": "5",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2636128a/collections/_samsonite/virtuosa/500x500/149198-1596-BACK_POCKET-8.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw20c10691/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34-2.jpg?sw=3000&sh=3000",
+          "index": "6",
+          "title": "Virtuosa Wheeled Duffel in the color Navy.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw20c10691/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34-2.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "stacked-highlight": [
+        {
+          "alt": "Virtuosa Wheeled Duffel in the color .",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw67e35f3d/pdps/samsonite/virtuosa/149198_1596_virtuosa_wheeled_dfl_pdp_colorway_3000x3000.jpg?sw=400&sh=400",
+          "index": "0",
+          "title": "Virtuosa Wheeled Duffel in the color .",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw67e35f3d/pdps/samsonite/virtuosa/149198_1596_virtuosa_wheeled_dfl_pdp_colorway_3000x3000.jpg",
+          "type": "stacked-highlight"
+        }
+      ],
+      "pdp-background": [
+        {
+          "alt": "Virtuosa Wheeled Duffel",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1744809363285/images/noimage-pdp-background.png?sw=912&sh=912",
+          "index": "0",
+          "title": "Virtuosa Wheeled Duffel",
+          "absURL": {},
+          "type": "pdp-background"
+        }
+      ],
+      "video-thumbnail": [
+        {
+          "alt": "Virtuosa Wheeled Duffel",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1744809363285/images/noimage-video-thumbnail.png?sw=912&sh=912",
+          "index": "0",
+          "title": "Virtuosa Wheeled Duffel",
+          "absURL": {},
+          "type": "video-thumbnail"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 10,
+    "variationAttributes": [
+      {
+        "attributeId": "color",
+        "displayName": "Color",
+        "id": "color",
+        "swatchable": true,
+        "displayValue": "Navy",
+        "values": [
+          {
+            "id": "1491981693",
+            "description": null,
+            "displayValue": "Pine Green",
+            "value": "1491981693",
+            "selected": false,
+            "default": false,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=149198XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+                  "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw44bb859a/colors/SAM_virtuosa-pine-green.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+                  "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw44bb859a/colors/SAM_virtuosa-pine-green.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "1491981596",
+            "description": null,
+            "displayValue": "Navy",
+            "value": "1491981596",
+            "selected": true,
+            "default": true,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=&pid=149198XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+                  "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw99a5b8bb/colors/SAM_virtuosa-navy.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Virtuosa Wheeled Duffel in the color Navy.",
+                  "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw99a5b8bb/colors/SAM_virtuosa-navy.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "1491982136",
+            "description": null,
+            "displayValue": "Merlot",
+            "value": "1491982136",
+            "selected": false,
+            "default": false,
+            "hide": true,
+            "selectable": false,
+            "available": false,
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Virtuosa Wheeled Duffel in the color Merlot.",
+                  "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd0d4e127/colors/SAM-Virtuosa_12135_MERLOT.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Virtuosa Wheeled Duffel in the color Merlot.",
+                  "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd0d4e127/colors/SAM-Virtuosa_12135_MERLOT.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          }
+        ],
+        "isOnlyVariant": false
+      }
+    ],
+    "longDescription": null,
+    "shortDescription": "Move with ease with the Virtuosa Wheeled Duffel. Carry handheld or wheel using the trolley handle, this style delivers the function of a duffel bag with the added convenience of wheeled luggage!",
+    "rating": 5,
+    "promotions": null,
+    "attributes": null,
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": "Wed Apr 16 2025"
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&quantity=10"
+      }
+    ],
+    "features": {},
+    "overall-height": 11.5,
+    "overall-length": 21.5,
+    "overall-width": 10.3,
+    "unit-height": 11,
+    "unit-length": 21.3,
+    "unit-width": 10,
+    "unit-weight": 4,
+    "unit-uom": "in",
+    "unit-weight-type": "lbs",
+    "linear-dimension": "43.3",
+    "product-dimensions": "11in\u00a0H x 21.3in\u00a0L x 10in\u00a0W",
+    "external-dimensions": "11.5in\u00a0H x 21.5in\u00a0L x 10.3in\u00a0W",
+    "specifications": [
+      {
+        "specification": "Item #",
+        "value": "1491981596"
+      },
+      {
+        "specification": "External Dimensions",
+        "value": "11.5in\u00a0H x 21.5in\u00a0L x 10.3in\u00a0W",
+        "tooltip": [
+          "The total dimensions of the case including handles and wheels"
+        ]
+      },
+      {
+        "specification": "Internal Dimensions",
+        "value": "11in\u00a0H x 21.3in\u00a0L x 10in\u00a0W",
+        "tooltip": [
+          "The dimensions of the case without handles or wheels; packing dimensions"
+        ]
+      },
+      {
+        "specification": "Linear Dimension",
+        "value": "43.3"
+      },
+      {
+        "specification": "Weight",
+        "value": 4
+      },
+      {
+        "specification": "Material",
+        "value": [
+          "Polyester",
+          "Recycled Fabric"
+        ],
+        "tooltip": [
+          "Durable Polyester fabric.",
+          "Made with recycled fabric. All fabrics, including the lining, are created from 100% post-consumer recycled plastic bottles."
+        ]
+      },
+      {
+        "specification": "SmartSleeve",
+        "value": "Yes",
+        "tooltip": [
+          "Strap that fits over most upright luggage handles for easy transportation"
+        ]
+      },
+      {
+        "specification": "Warranty",
+        "value": [
+          "Limited 10 Year Global Warranty"
+        ],
+        "tooltip": [
+          "Warranty covers manufacturing defects. For more information please visit our warranty page"
+        ]
+      }
+    ],
+    "materials": [],
+    "selectedProductUrl": "/luggage/wheeled-duffels/virtuosa-wheeled-duffel/149198XXXX.html?dwvar_149198XXXX_color=1491981596&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": "Virtuosa Wheeled Duffel | Rolling Duffel | Samsonite",
+    "pageDescription": "The Virtuosa Wheeled Duffel combines the convenience of wheeled luggage with the functionality of a duffel bag, making travel a breeze.",
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "template": null,
+    "headlineDescription": "<ul><br>Move with ease, this style delivers the function of a duffel bag with the added convenience of wheeled luggage.<br><br><li>Overall Dimensions: 21.5 in. x 11.5 in. x 10.25 in.</li><li>Weight: 3.97 lbs</ul>",
+    "headline": null,
+    "recommendations": [
+      {
+        "ID": "150033XXXX"
+      },
+      {
+        "ID": "149177XXXX"
+      },
+      {
+        "ID": "1491961596"
+      },
+      {
+        "ID": "1491971596"
+      }
+    ],
+    "pdpAssetIds": [],
+    "pdpGalleryAssets": [],
+    "pdpVideoAssets": [],
+    "tabs": [],
+    "collapsibleContent": [],
+    "badges": [],
+    "selectedColorName": "Navy",
+    "compareSpecifications": [
+      {
+        "name": "Item #",
+        "value": "1491981596"
+      },
+      {
+        "name": "Overall Height",
+        "value": "11.5in",
+        "tooltip": "The total height of the case including handles and wheels"
+      },
+      {
+        "name": "Overall Length",
+        "value": "21.5in",
+        "tooltip": "The total length of the case including handles and wheels"
+      },
+      {
+        "name": "Overall Width",
+        "value": "10.3in",
+        "tooltip": "The total width of the case including handles and wheels"
+      },
+      {
+        "name": "Internal Height",
+        "value": "11in",
+        "tooltip": "The height of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Internal Length",
+        "value": "21.3in",
+        "tooltip": "The length of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Internal Width",
+        "value": "10in",
+        "tooltip": "The width of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Weight",
+        "value": "4lbs"
+      },
+      {
+        "name": "Linear Dimension",
+        "value": "43.3"
+      },
+      {
+        "name": "Material",
+        "value": [
+          "Polyester",
+          "Recycled Fabric"
+        ]
+      },
+      {
+        "name": "Handles",
+        "value": [
+          "Top Carry Handle",
+          "Retractable Handle"
+        ]
+      },
+      {
+        "name": "Wheels",
+        "value": [
+          "Rolling Wheels"
+        ]
+      },
+      {
+        "name": "Packing Features",
+        "value": "\u2014"
+      },
+      {
+        "name": "USB Port",
+        "value": "No",
+        "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+      },
+      {
+        "name": "Smart Sleeve",
+        "value": "Yes",
+        "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+      },
+      {
+        "name": "TSA Lock",
+        "value": "No",
+        "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      },
+      {
+        "name": "Expandable",
+        "value": "No",
+        "tooltip": "Does the case expand for added packing capacity?"
+      },
+      {
+        "name": "Warranty",
+        "value": [
+          "Limited 10 Year Global Warranty"
+        ],
+        "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      }
+    ],
+    "wishlistpid": "1491981596",
+    "categorized": true,
+    "categoryTree": "Luggage > Wheeled Duffels"
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected",
+    "unavailableMsg": "- not available with current selections"
+  },
+  "quickViewFullDetailMsg": "View Full Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "pickUpInStore": {
+    "actionUrl": "/on/demandware.store/Sites-samsonite-Site/en_US/Stores-InventorySearch?showMap=false&horizontalView=true&isForm=true",
+    "atsActionUrl": "/on/demandware.store/Sites-samsonite-Site/en_US/Stores-getAtsValue"
+  },
+  "quickViewSource": null,
+  "renderedTemplate": "<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"1491981596\"  data-swatchable-attributes=\"[&quot;color&quot;,&quot;size&quot;]\">\n    <div class=\"row \">\n        <!-- Product Images Carousel -->\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div class=\"primary-images col-12 col-md-8 image-display-slider\">\n    <div class=\"row\">\n        \n        <div class=\"badge-in-main-images mt-md-4 ml-md-5 pl-2 ml-1 pl-md-5 position-absolute w-md-100\">\n            \n\n\n\n\n<div class=\"badge-product-container badge-image-over justify-content-start\">\n    \n</div>\n\n\n        </div>\n        \n            <div class='primary-images-main col-12  col-lg-9 product-has-thumbnails order-md-2' cypress-target=\"pdpCarouselPrimaryImagesMain\">\n                <div class=\"slider-container slider-buttons-hidden slider-buttons-hidden-md slider-buttons-hidden-lg slider-bullets-hidden slider-bullets-hidden-md slider-bullets-hidden-lg\"\n                    data-slider-thumbnail-container=\"#slider-pdp-1491981596\"\n                    data-slider-loop=\"true\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea9e3288/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea9e3288/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 0\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw719f938d/collections/_samsonite/virtuosa/500x500/149198-1596-INTERIOR_STYLED-6.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw719f938d/collections/_samsonite/virtuosa/500x500/149198-1596-INTERIOR_STYLED-6.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 1\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwad3e3d86/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT_POCKET-10.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwad3e3d86/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT_POCKET-10.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 2\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a021aa6/collections/_samsonite/virtuosa/500x500/149198-1596-HANDLE-9.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a021aa6/collections/_samsonite/virtuosa/500x500/149198-1596-HANDLE-9.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 3\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f6beb35/collections/_samsonite/virtuosa/500x500/149198-1596-BOTTOM-7.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f6beb35/collections/_samsonite/virtuosa/500x500/149198-1596-BOTTOM-7.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 4\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2636128a/collections/_samsonite/virtuosa/500x500/149198-1596-BACK_POCKET-8.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2636128a/collections/_samsonite/virtuosa/500x500/149198-1596-BACK_POCKET-8.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 5\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw20c10691/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34-2.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw20c10691/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34-2.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 6\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n\n                    \n                        \n                    </div>\n                </div>\n            </div>\n\n            \n            \n            \n            \n                \n                \n            \n            \n\n            <div class=\"col-12  primary-images-thumbnails col-lg-3 order-md-1 \">\n                <div id=\"slider-pdp-1491981596\" class=\"slider-thumbnail-lines slider-container slider-thumbnails slider-buttons-inside slider-buttons-inside-md slider-buttons-inside-lg slider-thumbnails-vertical-md slider-thumbnails-vertical-lg\"\n                    data-slider-items=\"7\"\n                    data-slider-items-md=\"7\"\n                    data-slider-items-lg=\"7\"\n                    data-slider-items-max-display=\"5.0\"\n                    data-slider-items-max-display-site-pref=\"5.0\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                    data-slider-loop=\"true\"\n                    cypress-target=\"pdpCarouselSliderThumbnails\"\n                    style=\"\n                        --max-number-of-slides: 5.0;\n                        --thumbnail-product-slider-number-of-slides: 7;\n                        --thumbnail-product-slider-max-height: calc((var(--slider-thumbnail-width) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-md: calc((var(--slider-thumbnail-width-md) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-lg: calc((var(--slider-thumbnail-width-lg) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                    \"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea9e3288/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 1\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw719f938d/collections/_samsonite/virtuosa/500x500/149198-1596-INTERIOR_STYLED-6.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 2\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwad3e3d86/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT_POCKET-10.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 3\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a021aa6/collections/_samsonite/virtuosa/500x500/149198-1596-HANDLE-9.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 4\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f6beb35/collections/_samsonite/virtuosa/500x500/149198-1596-BOTTOM-7.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 5\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2636128a/collections/_samsonite/virtuosa/500x500/149198-1596-BACK_POCKET-8.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 6\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw20c10691/collections/_samsonite/virtuosa/500x500/149198-1596-FRONT34-2.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Virtuosa Wheeled Duffel in the color Navy. image number 7\" itemprop=\"image\" />\n                            </div>\n                        \n\n                        \n                        \n                    </div>\n                    <div class=\"slider-thumbnail-controls d-none d-md-block\">\n                        <div class=\"prev icon-arrow-left-thin d-none\"></div>\n                        <div class=\"next icon-arrow-right-thin\"></div>\n                    </div>\n\n                    \n                    \n                    \n                </div>\n\n            </div>\n        \n        \n    </div>\n    \n        <div id=\"imageCarouselModal\" class=\"modal fade image-carousel-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"imageCarouselModal\">\n    <div class=\"modal-dialog modal-full-screen\" role=\"document\">\n        <div class=\"modal-content\">\n            <div class=\"modal-body\">\n                <img class=\"mw-100 mx-auto\" />\n                <button type=\"button\" class=\"icon-close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                    <span aria-hidden=\"true\" class=\"sr-only\">\u00d7</span>\n                </button>\n            </div>\n        </div>\n    </div>\n</div>\n    \n</div>\n\n\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-md-4\">\n            <div class=\"row\">\n                <div class=\"col\">\n                    <section>\n                        <h1 class=\"product-name\">Virtuosa Wheeled Duffel</h1>\n                    </section>\n                    <div class=\"sr-only\">\n                        no.\n<span class=\"product-id\">1491981596</span>\n\n                    </div>\n                </div>\n            </div>\n            \n\n            <div class=\"detail-panel\">\n                <!-- Attributes -->\n                <section class=\"attributes\">\n\n                    \n                    \n                    \n                    \n                        <div data-attr=\"color\" class=\"swatch row\">\n                            <div class=\"col-12\">\n                                \n                                \n\n\n\n\n\n\n    <div class=\"attribute clearfix\">\n        \n\n            \n            <span class=\"color non-input-label color-label\" id=\"product-attributes-aria-color\">\n                Color: <span class=\"color-display-value\">Navy</span>\n            </span>\n\n            \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Pine Green\"\n                                aria-describedby=\"1491981693-main\"\n                                data-url=\"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&amp;pid=149198XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"1491981693\"\n                                data-displayvalue=\"Pine Green\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw44bb859a/colors/SAM_virtuosa-pine-green.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"1491981693-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Navy\"\n                                aria-describedby=\"1491981596-main\"\n                                data-url=\"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=&amp;pid=149198XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"1491981596\"\n                                data-displayvalue=\"Navy\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    default\n                                    selected\n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw99a5b8bb/colors/SAM_virtuosa-navy.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"1491981596-main\" class=\"sr-only selected-assistive-text\">\n                                selected\n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute swatch-hide\"\n                                aria-label=\"Select Color Merlot\"\n                                aria-describedby=\"1491982136-main\"\n                                data-url=\"null\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"1491982136\"\n                                data-displayvalue=\"Merlot\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    unselectable\n                                    unavailable\n                                \"\n                                style=\"background-image: url(https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd0d4e127/colors/SAM-Virtuosa_12135_MERLOT.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"1491982136-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n            \n            \n        \n    </div>\n\n\n\n                            </div>\n\n                            \n                                <!-- Quantity Drop Down Menu -->\n                                <div class=\"attribute quantity col-4 d-sm-none d-none\">\n                                    \n                                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                                    \n                                </div>\n                            \n                        </div>\n                    \n                    \n                        <div class=\"row mt-3\">\n                            <div class=\"col\">\n                                <ul><br>Move with ease, this style delivers the function of a duffel bag with the added convenience of wheeled luggage.<br><br><li>Overall Dimensions: 21.5 in. x 11.5 in. x 10.25 in.</li><li>Weight: 3.97 lbs</ul>\n                            </div>\n                        </div>\n                    \n\n                    <div class=\"row availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                        <!-- Availability -->\n<div class=\"availability row product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n    <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n</div>\n\n\n\n\n\n\n\n\n\n                    </div>\n\n                    <!-- Applicable Promotions -->\n                    <div class=\"row mt-md-3\">\n                        <div class=\"col-12 promotions\">\n                            <div class=\"align-self-center\">\n                                \n\n\n\n\n                            </div>\n                        </div>\n                    </div>\n                </section>\n\n                    <!-- Options -->\n                    <div class=\"product-options\">\n                        \n                    </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n    \n</div>\n<div class=\"modal-footer row align-items-end\">\n    \n    \n\n    <div class=\"col\">\n        <div class=\"row align-items-center\">\n            <div class=\"col-12 col-md-8\">\n                <!-- Prices -->\n                <div class=\"prices clearfix\">\n                    \n                    \n\n\n\n    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"149.99\">\n        \n        $149.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $149.99\n</span>\n\n    </div>\n\n\n                </div>\n\n                <div class=\"availability d-none d-md-block align-self-end global-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                    <div class=\"row\">\n                        <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4 d-none\">\n                <!-- Quantity -->\n                <div class=\"quantity col-12\">\n                    \n                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1491981596&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                    \n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4\">\n                <!-- Cart and [Optionally] Apple Pay -->\n                \n                    \n\n\n<div class=\"row cart-and-ipay\">\n    <div class=\"col-sm-12\">\n        <input type=\"hidden\" class=\"add-to-cart-url\" value=\"/on/demandware.store/Sites-samsonite-Site/en_US/Cart-AddProduct\"/>\n        <button class=\"add-to-cart-global btn btn-primary qv-product-edit-add\"\n                \n                    data-gtmdata=\"{&quot;id&quot;:&quot;149198XXXX&quot;,&quot;name&quot;:&quot;Virtuosa Wheeled Duffel&quot;,&quot;category&quot;:&quot;Wheeled Duffels&quot;,&quot;categoryID&quot;:&quot;wheeled-duffels&quot;,&quot;price&quot;:&quot;149.99&quot;,&quot;item_id&quot;:&quot;149198XXXX&quot;,&quot;item_variant&quot;:&quot;1491981596&quot;,&quot;variant&quot;:&quot;1491981596&quot;,&quot;item_color&quot;:&quot;Blue&quot;}\"\n                    data-gtmga4data=\"{&quot;item_id&quot;:&quot;149198XXXX&quot;,&quot;item_variant&quot;:&quot;1491981596&quot;,&quot;item_name&quot;:&quot;Virtuosa Wheeled Duffel&quot;,&quot;item_category&quot;:&quot;Wheeled Duffels&quot;,&quot;price&quot;:149.99,&quot;currencyCode&quot;:&quot;USD&quot;,&quot;variant&quot;:&quot;1491981596&quot;,&quot;item_color&quot;:&quot;Blue&quot;}\"\n                \n                data-pid=\"1491981596\"\n                >\n            <i class=\"fa fa-shopping-bag\"></i>\n            \n                Add to Bag\n            \n        </button>\n    </div>\n</div>\n\n                \n            </div>\n        </div>\n    </div>\n\n</div>\n",
+  "productUrl": "/virtuosa-wheeled-duffel/1491981596.html",
+  "__gtmEvents": []
+}

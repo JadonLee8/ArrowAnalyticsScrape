@@ -1,0 +1,667 @@
+{
+  "product": {
+    "uuid": "44959e1108095b791682f03d53",
+    "id": "1520295963",
+    "productName": "UpLIFT Hardside Carry-On",
+    "productType": "variant",
+    "brand": "Samsonite",
+    "gtmData": {
+      "id": "152029XXXX",
+      "name": "UpLIFT Hardside Carry-On",
+      "category": "Carry-On",
+      "categoryID": "luggage-carry-on",
+      "price": "189.99",
+      "item_id": "152029XXXX",
+      "item_variant": "1520295963",
+      "variant": "1520295963",
+      "item_color": "Grey"
+    },
+    "gtmGA4Data": {
+      "item_id": "152029XXXX",
+      "item_variant": "1520295963",
+      "item_name": "UpLIFT Hardside Carry-On",
+      "item_category": "Carry-On",
+      "price": 189.99,
+      "currencyCode": "USD",
+      "variant": "1520295963",
+      "item_color": "Grey"
+    },
+    "attrsToUseForSwatch": "[\"color\",\"size\"]",
+    "attrGroupInclusion": null,
+    "pdpSwatchTypeAsImage": false,
+    "enableStickyAddToCart": true,
+    "enableVariantSelectionInPdpStickyAddToCart": true,
+    "hideQty": true,
+    "enableQuantityStepper": true,
+    "pdpCollapsibleContentDesktop4": {},
+    "pdpCollapsibleContentDesktop3": {},
+    "pdpCollapsibleContentDesktop2": {},
+    "pdpCollapsibleContentDesktop1": {},
+    "pdpHideSingleVariants": true,
+    "pdpImageColumnWidth": {},
+    "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+    "quickviewShowHeadlineAndDescription": true,
+    "price": {
+      "sales": {
+        "value": 189.99,
+        "currency": "USD",
+        "formatted": "$189.99",
+        "decimalPrice": "189.99"
+      },
+      "list": null,
+      "percentageOff": null
+    },
+    "showPercentageOff": true,
+    "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"189.99\">\n        \n        $189.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $189.99\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9914307b/collections/_samsonite/UpLIFT/500x500/152029-5963-FRONT34.jpg?sw=912&sh=912",
+          "index": "0",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9914307b/collections/_samsonite/UpLIFT/500x500/152029-5963-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9241d643/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-16.jpg?sw=912&sh=912",
+          "index": "1",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9241d643/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-16.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw886b1b87/collections/_samsonite/UpLIFT/500x500/152029-5963-HANDLE-4.jpg?sw=912&sh=912",
+          "index": "2",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw886b1b87/collections/_samsonite/UpLIFT/500x500/152029-5963-HANDLE-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf7608227/collections/_samsonite/UpLIFT/500x500/152029-5963-LOCK-7.jpg?sw=912&sh=912",
+          "index": "3",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf7608227/collections/_samsonite/UpLIFT/500x500/152029-5963-LOCK-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1de332d4/collections/_samsonite/UpLIFT/500x500/152029-5963-EXPANSION-5.jpg?sw=912&sh=912",
+          "index": "4",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1de332d4/collections/_samsonite/UpLIFT/500x500/152029-5963-EXPANSION-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw292af6df/collections/_samsonite/UpLIFT/500x500/152029-5963-BACK34-3.jpg?sw=912&sh=912",
+          "index": "5",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw292af6df/collections/_samsonite/UpLIFT/500x500/152029-5963-BACK34-3.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2dfb8737/collections/_samsonite/UpLIFT/500x500/152029-5963-WHEEL-9.jpg?sw=912&sh=912",
+          "index": "6",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2dfb8737/collections/_samsonite/UpLIFT/500x500/152029-5963-WHEEL-9.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd00ac011/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-17.jpg?sw=912&sh=912",
+          "index": "7",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd00ac011/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-17.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "small": [
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9914307b/collections/_samsonite/UpLIFT/500x500/152029-5963-FRONT34.jpg?sw=176&sh=176",
+          "index": "0",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9914307b/collections/_samsonite/UpLIFT/500x500/152029-5963-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9241d643/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-16.jpg?sw=176&sh=176",
+          "index": "1",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9241d643/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-16.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw886b1b87/collections/_samsonite/UpLIFT/500x500/152029-5963-HANDLE-4.jpg?sw=176&sh=176",
+          "index": "2",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw886b1b87/collections/_samsonite/UpLIFT/500x500/152029-5963-HANDLE-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf7608227/collections/_samsonite/UpLIFT/500x500/152029-5963-LOCK-7.jpg?sw=176&sh=176",
+          "index": "3",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf7608227/collections/_samsonite/UpLIFT/500x500/152029-5963-LOCK-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1de332d4/collections/_samsonite/UpLIFT/500x500/152029-5963-EXPANSION-5.jpg?sw=176&sh=176",
+          "index": "4",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1de332d4/collections/_samsonite/UpLIFT/500x500/152029-5963-EXPANSION-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw292af6df/collections/_samsonite/UpLIFT/500x500/152029-5963-BACK34-3.jpg?sw=176&sh=176",
+          "index": "5",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw292af6df/collections/_samsonite/UpLIFT/500x500/152029-5963-BACK34-3.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2dfb8737/collections/_samsonite/UpLIFT/500x500/152029-5963-WHEEL-9.jpg?sw=176&sh=176",
+          "index": "6",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2dfb8737/collections/_samsonite/UpLIFT/500x500/152029-5963-WHEEL-9.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd00ac011/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-17.jpg?sw=176&sh=176",
+          "index": "7",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd00ac011/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-17.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "hi-res": [
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9914307b/collections/_samsonite/UpLIFT/500x500/152029-5963-FRONT34.jpg?sw=3000&sh=3000",
+          "index": "0",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9914307b/collections/_samsonite/UpLIFT/500x500/152029-5963-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9241d643/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-16.jpg?sw=3000&sh=3000",
+          "index": "1",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9241d643/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-16.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw886b1b87/collections/_samsonite/UpLIFT/500x500/152029-5963-HANDLE-4.jpg?sw=3000&sh=3000",
+          "index": "2",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw886b1b87/collections/_samsonite/UpLIFT/500x500/152029-5963-HANDLE-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf7608227/collections/_samsonite/UpLIFT/500x500/152029-5963-LOCK-7.jpg?sw=3000&sh=3000",
+          "index": "3",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf7608227/collections/_samsonite/UpLIFT/500x500/152029-5963-LOCK-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1de332d4/collections/_samsonite/UpLIFT/500x500/152029-5963-EXPANSION-5.jpg?sw=3000&sh=3000",
+          "index": "4",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1de332d4/collections/_samsonite/UpLIFT/500x500/152029-5963-EXPANSION-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw292af6df/collections/_samsonite/UpLIFT/500x500/152029-5963-BACK34-3.jpg?sw=3000&sh=3000",
+          "index": "5",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw292af6df/collections/_samsonite/UpLIFT/500x500/152029-5963-BACK34-3.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2dfb8737/collections/_samsonite/UpLIFT/500x500/152029-5963-WHEEL-9.jpg?sw=3000&sh=3000",
+          "index": "6",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2dfb8737/collections/_samsonite/UpLIFT/500x500/152029-5963-WHEEL-9.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd00ac011/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-17.jpg?sw=3000&sh=3000",
+          "index": "7",
+          "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd00ac011/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-17.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "stacked-highlight": [
+        {
+          "alt": "UpLIFT Hardside Carry-On in the color .",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe202e818/pdps/samsonite/uplift/SAM_08.13.24_Site_PLP_3000x3000_4.jpg?sw=400&sh=400",
+          "index": "0",
+          "title": "UpLIFT Hardside Carry-On in the color .",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe202e818/pdps/samsonite/uplift/SAM_08.13.24_Site_PLP_3000x3000_4.jpg",
+          "type": "stacked-highlight"
+        }
+      ],
+      "pdp-background": [
+        {
+          "alt": "UpLIFT Hardside Carry-On",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1744809363285/images/noimage-pdp-background.png?sw=912&sh=912",
+          "index": "0",
+          "title": "UpLIFT Hardside Carry-On",
+          "absURL": {},
+          "type": "pdp-background"
+        }
+      ],
+      "video-thumbnail": [
+        {
+          "alt": "UpLIFT Hardside Carry-On",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1744809363285/images/noimage-video-thumbnail.png?sw=912&sh=912",
+          "index": "0",
+          "title": "UpLIFT Hardside Carry-On",
+          "absURL": {},
+          "type": "video-thumbnail"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 10,
+    "variationAttributes": [
+      {
+        "attributeId": "color",
+        "displayName": "Color",
+        "id": "color",
+        "swatchable": true,
+        "displayValue": "Silver Shimmer",
+        "values": [
+          {
+            "id": "152029A382",
+            "description": null,
+            "displayValue": "Elemental Blue",
+            "value": "152029A382",
+            "selected": false,
+            "default": false,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152029XXXX_color=152029A382&pid=152029XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "UpLIFT Hardside Carry-On in the color Elemental Blue.",
+                  "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc6f340dd/colors/UpLIFT_HS_Elemental_Blue_A382.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "UpLIFT Hardside Carry-On in the color Elemental Blue.",
+                  "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc6f340dd/colors/UpLIFT_HS_Elemental_Blue_A382.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "1520295963",
+            "description": null,
+            "displayValue": "Silver Shimmer",
+            "value": "1520295963",
+            "selected": true,
+            "default": true,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152029XXXX_color=&pid=152029XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+                  "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwca1ce26e/colors/SAM_UpLIFT-silver-shimmer.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "UpLIFT Hardside Carry-On in the color Silver Shimmer.",
+                  "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwca1ce26e/colors/SAM_UpLIFT-silver-shimmer.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "1520295928",
+            "description": null,
+            "displayValue": "Phantom Black",
+            "value": "1520295928",
+            "selected": false,
+            "default": false,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152029XXXX_color=1520295928&pid=152029XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "UpLIFT Hardside Carry-On in the color Phantom Black.",
+                  "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbd745035/colors/UpLIFT_HS_Phantom_Black_5928.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "UpLIFT Hardside Carry-On in the color Phantom Black.",
+                  "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbd745035/colors/UpLIFT_HS_Phantom_Black_5928.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          }
+        ],
+        "isOnlyVariant": false
+      }
+    ],
+    "longDescription": null,
+    "shortDescription": "Introducing UpLIFT Hardside, one of the lightest polycarbonate luggage collections on the market. We\u2019ve made it our mission to design incredibly lightweight and durable luggage, creating a special formulated shell that\u2019s both sleek and strong. No need to worry about lifting your heavy luggage into the overhead compartment or off the baggage carousel. UpLIFT\u2019s thoughtful design balances durability and style and is sure to enhance your future travels.",
+    "rating": 3.3,
+    "promotions": null,
+    "attributes": null,
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": "Wed Apr 16 2025"
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&quantity=10"
+      }
+    ],
+    "features": {},
+    "overall-height": 22,
+    "overall-length": 14,
+    "overall-width": 9,
+    "unit-height": 19.3,
+    "unit-length": 13.6,
+    "unit-width": 9.1,
+    "unit-weight": 5.1,
+    "unit-uom": "in",
+    "unit-weight-type": "lbs",
+    "linear-dimension": "45",
+    "product-dimensions": "19.3in\u00a0H x 13.6in\u00a0L x 9.1in\u00a0W",
+    "external-dimensions": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+    "specifications": [
+      {
+        "specification": "Item #",
+        "value": "1520295963"
+      },
+      {
+        "specification": "External Dimensions",
+        "value": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+        "tooltip": [
+          "The total dimensions of the case including handles and wheels"
+        ]
+      },
+      {
+        "specification": "Internal Dimensions",
+        "value": "19.3in\u00a0H x 13.6in\u00a0L x 9.1in\u00a0W",
+        "tooltip": [
+          "The dimensions of the case without handles or wheels; packing dimensions"
+        ]
+      },
+      {
+        "specification": "Linear Dimension",
+        "value": "45"
+      },
+      {
+        "specification": "Weight",
+        "value": 5.1
+      },
+      {
+        "specification": "Material",
+        "value": [
+          "Polycarbonate",
+          "Recyclex\u00ae"
+        ],
+        "tooltip": [
+          "Shell material is made of vacuum formed polycarbonate, a highly impact-resistant plastic that is strong and lightweight.",
+          "Recyclex\u00ae polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+        ]
+      },
+      {
+        "specification": "TSA Lock",
+        "value": "Yes",
+        "tooltip": [
+          "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+        ]
+      },
+      {
+        "specification": "Warranty",
+        "value": [
+          "Limited 10 Year Global Warranty"
+        ],
+        "tooltip": [
+          "Warranty covers manufacturing defects. For more information please visit our warranty page"
+        ]
+      }
+    ],
+    "materials": [],
+    "selectedProductUrl": "/luggage/carry-on-luggage/uplift-hardside-carry-on/152029XXXX.html?dwvar_152029XXXX_color=1520295963&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "template": null,
+    "headlineDescription": "<ul><br>UpLIFT\u2019s thoughtful design balances durability and style and is sure to enhance your future travels<br><br><li>Overall Dimensions: 22\"H x 14\"L x 9\"H</li><li>Weight: 5.07 lbs</li></ul>",
+    "headline": null,
+    "recommendations": [
+      {
+        "ID": "152021XXXX"
+      },
+      {
+        "ID": "152031XXXX"
+      },
+      {
+        "ID": "152024XXXX"
+      },
+      {
+        "ID": "152030XXXX"
+      }
+    ],
+    "pdpAssetIds": [],
+    "pdpGalleryAssets": [],
+    "pdpVideoAssets": [],
+    "tabs": [],
+    "collapsibleContent": [],
+    "badges": [],
+    "selectedColorName": "Silver Shimmer",
+    "compareSpecifications": [
+      {
+        "name": "Item #",
+        "value": "1520295963"
+      },
+      {
+        "name": "Overall Height",
+        "value": "22in",
+        "tooltip": "The total height of the case including handles and wheels"
+      },
+      {
+        "name": "Overall Length",
+        "value": "14in",
+        "tooltip": "The total length of the case including handles and wheels"
+      },
+      {
+        "name": "Overall Width",
+        "value": "9in",
+        "tooltip": "The total width of the case including handles and wheels"
+      },
+      {
+        "name": "Internal Height",
+        "value": "19.3in",
+        "tooltip": "The height of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Internal Length",
+        "value": "13.6in",
+        "tooltip": "The length of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Internal Width",
+        "value": "9.1in",
+        "tooltip": "The width of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Weight",
+        "value": "5.1lbs"
+      },
+      {
+        "name": "Linear Dimension",
+        "value": "45"
+      },
+      {
+        "name": "Material",
+        "value": [
+          "Polycarbonate",
+          "Recyclex\u00ae"
+        ]
+      },
+      {
+        "name": "Handles",
+        "value": [
+          "Retractable Handle",
+          "Side Carry Handle",
+          "Top Carry Handle"
+        ]
+      },
+      {
+        "name": "Wheels",
+        "value": [
+          "Spinner Wheels"
+        ]
+      },
+      {
+        "name": "Packing Features",
+        "value": [
+          "Interior Divider",
+          "TSA Lock"
+        ]
+      },
+      {
+        "name": "USB Port",
+        "value": "No",
+        "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+      },
+      {
+        "name": "Smart Sleeve",
+        "value": "No",
+        "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+      },
+      {
+        "name": "TSA Lock",
+        "value": "Yes",
+        "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      },
+      {
+        "name": "Expandable",
+        "value": "No",
+        "tooltip": "Does the case expand for added packing capacity?"
+      },
+      {
+        "name": "Warranty",
+        "value": [
+          "Limited 10 Year Global Warranty"
+        ],
+        "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      }
+    ],
+    "wishlistpid": "1520295963",
+    "categorized": true,
+    "categoryTree": "Luggage > Carry-On"
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected",
+    "unavailableMsg": "- not available with current selections"
+  },
+  "quickViewFullDetailMsg": "View Full Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "pickUpInStore": {
+    "actionUrl": "/on/demandware.store/Sites-samsonite-Site/en_US/Stores-InventorySearch?showMap=false&horizontalView=true&isForm=true",
+    "atsActionUrl": "/on/demandware.store/Sites-samsonite-Site/en_US/Stores-getAtsValue"
+  },
+  "quickViewSource": null,
+  "renderedTemplate": "<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"1520295963\"  data-swatchable-attributes=\"[&quot;color&quot;,&quot;size&quot;]\">\n    <div class=\"row \">\n        <!-- Product Images Carousel -->\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div class=\"primary-images col-12 col-md-8 image-display-slider\">\n    <div class=\"row\">\n        \n        <div class=\"badge-in-main-images mt-md-4 ml-md-5 pl-2 ml-1 pl-md-5 position-absolute w-md-100\">\n            \n\n\n\n\n<div class=\"badge-product-container badge-image-over justify-content-start\">\n    \n</div>\n\n\n        </div>\n        \n            <div class='primary-images-main col-12  col-lg-9 product-has-thumbnails order-md-2' cypress-target=\"pdpCarouselPrimaryImagesMain\">\n                <div class=\"slider-container slider-buttons-hidden slider-buttons-hidden-md slider-buttons-hidden-lg slider-bullets-hidden slider-bullets-hidden-md slider-bullets-hidden-lg\"\n                    data-slider-thumbnail-container=\"#slider-pdp-1520295963\"\n                    data-slider-loop=\"true\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9914307b/collections/_samsonite/UpLIFT/500x500/152029-5963-FRONT34.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9914307b/collections/_samsonite/UpLIFT/500x500/152029-5963-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 0\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9241d643/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-16.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9241d643/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-16.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 1\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw886b1b87/collections/_samsonite/UpLIFT/500x500/152029-5963-HANDLE-4.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw886b1b87/collections/_samsonite/UpLIFT/500x500/152029-5963-HANDLE-4.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 2\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf7608227/collections/_samsonite/UpLIFT/500x500/152029-5963-LOCK-7.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf7608227/collections/_samsonite/UpLIFT/500x500/152029-5963-LOCK-7.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 3\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1de332d4/collections/_samsonite/UpLIFT/500x500/152029-5963-EXPANSION-5.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1de332d4/collections/_samsonite/UpLIFT/500x500/152029-5963-EXPANSION-5.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 4\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw292af6df/collections/_samsonite/UpLIFT/500x500/152029-5963-BACK34-3.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw292af6df/collections/_samsonite/UpLIFT/500x500/152029-5963-BACK34-3.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 5\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2dfb8737/collections/_samsonite/UpLIFT/500x500/152029-5963-WHEEL-9.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2dfb8737/collections/_samsonite/UpLIFT/500x500/152029-5963-WHEEL-9.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 6\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd00ac011/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-17.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd00ac011/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-17.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 7\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n\n                    \n                        \n                    </div>\n                </div>\n            </div>\n\n            \n            \n            \n            \n                \n                \n            \n            \n\n            <div class=\"col-12  primary-images-thumbnails col-lg-3 order-md-1 \">\n                <div id=\"slider-pdp-1520295963\" class=\"slider-thumbnail-lines slider-container slider-thumbnails slider-buttons-inside slider-buttons-inside-md slider-buttons-inside-lg slider-thumbnails-vertical-md slider-thumbnails-vertical-lg\"\n                    data-slider-items=\"8\"\n                    data-slider-items-md=\"8\"\n                    data-slider-items-lg=\"8\"\n                    data-slider-items-max-display=\"5.0\"\n                    data-slider-items-max-display-site-pref=\"5.0\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                    data-slider-loop=\"true\"\n                    cypress-target=\"pdpCarouselSliderThumbnails\"\n                    style=\"\n                        --max-number-of-slides: 5.0;\n                        --thumbnail-product-slider-number-of-slides: 8;\n                        --thumbnail-product-slider-max-height: calc((var(--slider-thumbnail-width) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-md: calc((var(--slider-thumbnail-width-md) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-lg: calc((var(--slider-thumbnail-width-lg) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                    \"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9914307b/collections/_samsonite/UpLIFT/500x500/152029-5963-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 1\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9241d643/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-16.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 2\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw886b1b87/collections/_samsonite/UpLIFT/500x500/152029-5963-HANDLE-4.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 3\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf7608227/collections/_samsonite/UpLIFT/500x500/152029-5963-LOCK-7.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 4\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1de332d4/collections/_samsonite/UpLIFT/500x500/152029-5963-EXPANSION-5.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 5\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw292af6df/collections/_samsonite/UpLIFT/500x500/152029-5963-BACK34-3.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 6\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2dfb8737/collections/_samsonite/UpLIFT/500x500/152029-5963-WHEEL-9.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 7\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd00ac011/collections/_samsonite/UpLIFT/500x500/152029-5963-LIFESTYLE-17.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"UpLIFT Hardside Carry-On in the color Silver Shimmer. image number 8\" itemprop=\"image\" />\n                            </div>\n                        \n\n                        \n                        \n                    </div>\n                    <div class=\"slider-thumbnail-controls d-none d-md-block\">\n                        <div class=\"prev icon-arrow-left-thin d-none\"></div>\n                        <div class=\"next icon-arrow-right-thin\"></div>\n                    </div>\n\n                    \n                    \n                    \n                </div>\n\n            </div>\n        \n        \n    </div>\n    \n        <div id=\"imageCarouselModal\" class=\"modal fade image-carousel-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"imageCarouselModal\">\n    <div class=\"modal-dialog modal-full-screen\" role=\"document\">\n        <div class=\"modal-content\">\n            <div class=\"modal-body\">\n                <img class=\"mw-100 mx-auto\" />\n                <button type=\"button\" class=\"icon-close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                    <span aria-hidden=\"true\" class=\"sr-only\">\u00d7</span>\n                </button>\n            </div>\n        </div>\n    </div>\n</div>\n    \n</div>\n\n\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-md-4\">\n            <div class=\"row\">\n                <div class=\"col\">\n                    <section>\n                        <h1 class=\"product-name\">UpLIFT Hardside Carry-On</h1>\n                    </section>\n                    <div class=\"sr-only\">\n                        no.\n<span class=\"product-id\">1520295963</span>\n\n                    </div>\n                </div>\n            </div>\n            \n\n            <div class=\"detail-panel\">\n                <!-- Attributes -->\n                <section class=\"attributes\">\n\n                    \n                    \n                    \n                    \n                        <div data-attr=\"color\" class=\"swatch row\">\n                            <div class=\"col-12\">\n                                \n                                \n\n\n\n\n\n\n    <div class=\"attribute clearfix\">\n        \n\n            \n            <span class=\"color non-input-label color-label\" id=\"product-attributes-aria-color\">\n                Color: <span class=\"color-display-value\">Silver Shimmer</span>\n            </span>\n\n            \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Elemental Blue\"\n                                aria-describedby=\"152029A382-main\"\n                                data-url=\"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152029XXXX_color=152029A382&amp;pid=152029XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"152029A382\"\n                                data-displayvalue=\"Elemental Blue\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc6f340dd/colors/UpLIFT_HS_Elemental_Blue_A382.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"152029A382-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Silver Shimmer\"\n                                aria-describedby=\"1520295963-main\"\n                                data-url=\"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152029XXXX_color=&amp;pid=152029XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"1520295963\"\n                                data-displayvalue=\"Silver Shimmer\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    default\n                                    selected\n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwca1ce26e/colors/SAM_UpLIFT-silver-shimmer.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"1520295963-main\" class=\"sr-only selected-assistive-text\">\n                                selected\n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Phantom Black\"\n                                aria-describedby=\"1520295928-main\"\n                                data-url=\"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152029XXXX_color=1520295928&amp;pid=152029XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"1520295928\"\n                                data-displayvalue=\"Phantom Black\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbd745035/colors/UpLIFT_HS_Phantom_Black_5928.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"1520295928-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n            \n            \n        \n    </div>\n\n\n\n                            </div>\n\n                            \n                                <!-- Quantity Drop Down Menu -->\n                                <div class=\"attribute quantity col-4 d-sm-none d-none\">\n                                    \n                                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                                    \n                                </div>\n                            \n                        </div>\n                    \n                    \n                        <div class=\"row mt-3\">\n                            <div class=\"col\">\n                                <ul><br>UpLIFT\u2019s thoughtful design balances durability and style and is sure to enhance your future travels<br><br><li>Overall Dimensions: 22\"H x 14\"L x 9\"H</li><li>Weight: 5.07 lbs</li></ul>\n                            </div>\n                        </div>\n                    \n\n                    <div class=\"row availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                        <!-- Availability -->\n<div class=\"availability row product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n    <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n</div>\n\n\n\n\n\n\n\n\n\n                    </div>\n\n                    <!-- Applicable Promotions -->\n                    <div class=\"row mt-md-3\">\n                        <div class=\"col-12 promotions\">\n                            <div class=\"align-self-center\">\n                                \n\n\n\n\n                            </div>\n                        </div>\n                    </div>\n                </section>\n\n                    <!-- Options -->\n                    <div class=\"product-options\">\n                        \n                    </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n    \n</div>\n<div class=\"modal-footer row align-items-end\">\n    \n    \n\n    <div class=\"col\">\n        <div class=\"row align-items-center\">\n            <div class=\"col-12 col-md-8\">\n                <!-- Prices -->\n                <div class=\"prices clearfix\">\n                    \n                    \n\n\n\n    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"189.99\">\n        \n        $189.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $189.99\n</span>\n\n    </div>\n\n\n                </div>\n\n                <div class=\"availability d-none d-md-block align-self-end global-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                    <div class=\"row\">\n                        <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4 d-none\">\n                <!-- Quantity -->\n                <div class=\"quantity col-12\">\n                    \n                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1520295963&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                    \n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4\">\n                <!-- Cart and [Optionally] Apple Pay -->\n                \n                    \n\n\n<div class=\"row cart-and-ipay\">\n    <div class=\"col-sm-12\">\n        <input type=\"hidden\" class=\"add-to-cart-url\" value=\"/on/demandware.store/Sites-samsonite-Site/en_US/Cart-AddProduct\"/>\n        <button class=\"add-to-cart-global btn btn-primary qv-product-edit-add\"\n                \n                    data-gtmdata=\"{&quot;id&quot;:&quot;152029XXXX&quot;,&quot;name&quot;:&quot;UpLIFT Hardside Carry-On&quot;,&quot;category&quot;:&quot;Carry-On&quot;,&quot;categoryID&quot;:&quot;luggage-carry-on&quot;,&quot;price&quot;:&quot;189.99&quot;,&quot;item_id&quot;:&quot;152029XXXX&quot;,&quot;item_variant&quot;:&quot;1520295963&quot;,&quot;variant&quot;:&quot;1520295963&quot;,&quot;item_color&quot;:&quot;Grey&quot;}\"\n                    data-gtmga4data=\"{&quot;item_id&quot;:&quot;152029XXXX&quot;,&quot;item_variant&quot;:&quot;1520295963&quot;,&quot;item_name&quot;:&quot;UpLIFT Hardside Carry-On&quot;,&quot;item_category&quot;:&quot;Carry-On&quot;,&quot;price&quot;:189.99,&quot;currencyCode&quot;:&quot;USD&quot;,&quot;variant&quot;:&quot;1520295963&quot;,&quot;item_color&quot;:&quot;Grey&quot;}\"\n                \n                data-pid=\"1520295963\"\n                >\n            <i class=\"fa fa-shopping-bag\"></i>\n            \n                Add to Bag\n            \n        </button>\n    </div>\n</div>\n\n                \n            </div>\n        </div>\n    </div>\n\n</div>\n",
+  "productUrl": "/luggage/carry-on-luggage/uplift-hardside-carry-on/1520295963.html",
+  "__gtmEvents": []
+}

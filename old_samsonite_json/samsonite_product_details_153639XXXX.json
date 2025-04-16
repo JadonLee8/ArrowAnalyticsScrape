@@ -1,0 +1,715 @@
+{
+  "product": {
+    "uuid": "d1c7c334e5d7f5f6917be0df6d",
+    "id": "1536391041",
+    "productName": "Silhouette 18 Softside Carry-On Spinner",
+    "productType": "variant",
+    "brand": "Samsonite",
+    "gtmData": {
+      "id": "153639XXXX",
+      "name": "Silhouette 18 Softside Carry-On Spinner",
+      "category": "Carry-On",
+      "categoryID": "luggage-carry-on",
+      "price": "270.00",
+      "item_id": "153639XXXX",
+      "item_variant": "1536391041",
+      "variant": "1536391041",
+      "item_color": "Black"
+    },
+    "gtmGA4Data": {
+      "item_id": "153639XXXX",
+      "item_variant": "1536391041",
+      "item_name": "Silhouette 18 Softside Carry-On Spinner",
+      "item_category": "Carry-On",
+      "price": 270,
+      "currencyCode": "USD",
+      "variant": "1536391041",
+      "item_color": "Black"
+    },
+    "attrsToUseForSwatch": "[\"color\",\"size\"]",
+    "attrGroupInclusion": null,
+    "pdpSwatchTypeAsImage": false,
+    "enableStickyAddToCart": true,
+    "enableVariantSelectionInPdpStickyAddToCart": true,
+    "hideQty": true,
+    "enableQuantityStepper": true,
+    "pdpCollapsibleContentDesktop4": {},
+    "pdpCollapsibleContentDesktop3": {},
+    "pdpCollapsibleContentDesktop2": {},
+    "pdpCollapsibleContentDesktop1": {},
+    "pdpHideSingleVariants": true,
+    "pdpImageColumnWidth": {},
+    "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+    "quickviewShowHeadlineAndDescription": true,
+    "price": {
+      "sales": {
+        "value": 270,
+        "currency": "USD",
+        "formatted": "$270.00",
+        "decimalPrice": "270.00"
+      },
+      "list": null,
+      "percentageOff": null
+    },
+    "showPercentageOff": true,
+    "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"270.00\">\n        \n        $270.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $270.00\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe1f286b3/collections/_samsonite/silhouette-18/500x500/153639-1041-FRONT34.jpg?sw=912&sh=912",
+          "index": "0",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe1f286b3/collections/_samsonite/silhouette-18/500x500/153639-1041-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a7e3e94/collections/_samsonite/silhouette-18/500x500/153639-1041-INTERIOR_STYLED-4.jpg?sw=912&sh=912",
+          "index": "1",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a7e3e94/collections/_samsonite/silhouette-18/500x500/153639-1041-INTERIOR_STYLED-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac00485c/collections/_samsonite/silhouette-18/500x500/153639-1041-HANDLE-5.jpg?sw=912&sh=912",
+          "index": "2",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac00485c/collections/_samsonite/silhouette-18/500x500/153639-1041-HANDLE-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc54b30a0/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-12.jpg?sw=912&sh=912",
+          "index": "3",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc54b30a0/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-12.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw480fec96/collections/_samsonite/silhouette-18/500x500/153639-1041-USB-9.jpg?sw=912&sh=912",
+          "index": "4",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw480fec96/collections/_samsonite/silhouette-18/500x500/153639-1041-USB-9.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb8d5b51/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-15.jpg?sw=912&sh=912",
+          "index": "5",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb8d5b51/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-15.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg?sw=912&sh=912",
+          "index": "6",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5e979893/collections/_samsonite/silhouette-18/500x500/153639-1041-REMOVABLE_BAG-10.jpg?sw=912&sh=912",
+          "index": "7",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5e979893/collections/_samsonite/silhouette-18/500x500/153639-1041-REMOVABLE_BAG-10.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24bf51d0/collections/_samsonite/silhouette-18/500x500/153639-1041-WETPOCKET-11.jpg?sw=912&sh=912",
+          "index": "8",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24bf51d0/collections/_samsonite/silhouette-18/500x500/153639-1041-WETPOCKET-11.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0848032f/collections/_samsonite/silhouette-18/500x500/153639-1041-WHEEL-8.jpg?sw=912&sh=912",
+          "index": "9",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0848032f/collections/_samsonite/silhouette-18/500x500/153639-1041-WHEEL-8.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe1f286b3/collections/_samsonite/silhouette-18/500x500/153639-1041-FRONT34.jpg?sw=176&sh=176",
+          "index": "0",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe1f286b3/collections/_samsonite/silhouette-18/500x500/153639-1041-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a7e3e94/collections/_samsonite/silhouette-18/500x500/153639-1041-INTERIOR_STYLED-4.jpg?sw=176&sh=176",
+          "index": "1",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a7e3e94/collections/_samsonite/silhouette-18/500x500/153639-1041-INTERIOR_STYLED-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac00485c/collections/_samsonite/silhouette-18/500x500/153639-1041-HANDLE-5.jpg?sw=176&sh=176",
+          "index": "2",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac00485c/collections/_samsonite/silhouette-18/500x500/153639-1041-HANDLE-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc54b30a0/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-12.jpg?sw=176&sh=176",
+          "index": "3",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc54b30a0/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-12.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw480fec96/collections/_samsonite/silhouette-18/500x500/153639-1041-USB-9.jpg?sw=176&sh=176",
+          "index": "4",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw480fec96/collections/_samsonite/silhouette-18/500x500/153639-1041-USB-9.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb8d5b51/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-15.jpg?sw=176&sh=176",
+          "index": "5",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb8d5b51/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-15.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg?sw=176&sh=176",
+          "index": "6",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5e979893/collections/_samsonite/silhouette-18/500x500/153639-1041-REMOVABLE_BAG-10.jpg?sw=176&sh=176",
+          "index": "7",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5e979893/collections/_samsonite/silhouette-18/500x500/153639-1041-REMOVABLE_BAG-10.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24bf51d0/collections/_samsonite/silhouette-18/500x500/153639-1041-WETPOCKET-11.jpg?sw=176&sh=176",
+          "index": "8",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24bf51d0/collections/_samsonite/silhouette-18/500x500/153639-1041-WETPOCKET-11.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0848032f/collections/_samsonite/silhouette-18/500x500/153639-1041-WHEEL-8.jpg?sw=176&sh=176",
+          "index": "9",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0848032f/collections/_samsonite/silhouette-18/500x500/153639-1041-WHEEL-8.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "hi-res": [
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe1f286b3/collections/_samsonite/silhouette-18/500x500/153639-1041-FRONT34.jpg?sw=3000&sh=3000",
+          "index": "0",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe1f286b3/collections/_samsonite/silhouette-18/500x500/153639-1041-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a7e3e94/collections/_samsonite/silhouette-18/500x500/153639-1041-INTERIOR_STYLED-4.jpg?sw=3000&sh=3000",
+          "index": "1",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a7e3e94/collections/_samsonite/silhouette-18/500x500/153639-1041-INTERIOR_STYLED-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac00485c/collections/_samsonite/silhouette-18/500x500/153639-1041-HANDLE-5.jpg?sw=3000&sh=3000",
+          "index": "2",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac00485c/collections/_samsonite/silhouette-18/500x500/153639-1041-HANDLE-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc54b30a0/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-12.jpg?sw=3000&sh=3000",
+          "index": "3",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc54b30a0/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-12.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw480fec96/collections/_samsonite/silhouette-18/500x500/153639-1041-USB-9.jpg?sw=3000&sh=3000",
+          "index": "4",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw480fec96/collections/_samsonite/silhouette-18/500x500/153639-1041-USB-9.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb8d5b51/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-15.jpg?sw=3000&sh=3000",
+          "index": "5",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb8d5b51/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-15.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg?sw=3000&sh=3000",
+          "index": "6",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5e979893/collections/_samsonite/silhouette-18/500x500/153639-1041-REMOVABLE_BAG-10.jpg?sw=3000&sh=3000",
+          "index": "7",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5e979893/collections/_samsonite/silhouette-18/500x500/153639-1041-REMOVABLE_BAG-10.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24bf51d0/collections/_samsonite/silhouette-18/500x500/153639-1041-WETPOCKET-11.jpg?sw=3000&sh=3000",
+          "index": "8",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24bf51d0/collections/_samsonite/silhouette-18/500x500/153639-1041-WETPOCKET-11.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0848032f/collections/_samsonite/silhouette-18/500x500/153639-1041-WHEEL-8.jpg?sw=3000&sh=3000",
+          "index": "9",
+          "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+          "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0848032f/collections/_samsonite/silhouette-18/500x500/153639-1041-WHEEL-8.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "stacked-highlight": [
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1744809363285/images/noimage-stacked-highlight.png?sw=400&sh=400",
+          "index": "0",
+          "title": "Silhouette 18 Softside Carry-On Spinner",
+          "absURL": {},
+          "type": "stacked-highlight"
+        }
+      ],
+      "pdp-background": [
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1744809363285/images/noimage-pdp-background.png?sw=912&sh=912",
+          "index": "0",
+          "title": "Silhouette 18 Softside Carry-On Spinner",
+          "absURL": {},
+          "type": "pdp-background"
+        }
+      ],
+      "video-thumbnail": [
+        {
+          "alt": "Silhouette 18 Softside Carry-On Spinner",
+          "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1744809363285/images/noimage-video-thumbnail.png?sw=912&sh=912",
+          "index": "0",
+          "title": "Silhouette 18 Softside Carry-On Spinner",
+          "absURL": {},
+          "type": "video-thumbnail"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 10,
+    "variationAttributes": [
+      {
+        "attributeId": "color",
+        "displayName": "Color",
+        "id": "color",
+        "swatchable": true,
+        "displayValue": "Black",
+        "values": [
+          {
+            "id": "1536391041",
+            "description": null,
+            "displayValue": "Black",
+            "value": "1536391041",
+            "selected": true,
+            "default": true,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=&pid=153639XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+                  "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8a1b9186/colors/SAM_silhouette-18-ss-black.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+                  "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8a1b9186/colors/SAM_silhouette-18-ss-black.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "153639D418",
+            "description": null,
+            "displayValue": "Deep Navy",
+            "value": "153639D418",
+            "selected": false,
+            "default": false,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+                  "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb3c15768/colors/SAM_silhouette-18-ss-deep-navy.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+                  "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb3c15768/colors/SAM_silhouette-18-ss-deep-navy.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "153639E264",
+            "description": null,
+            "displayValue": "Slate Blue",
+            "value": "153639E264",
+            "selected": false,
+            "default": false,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639E264&pid=153639XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Silhouette 18 Softside Carry-On Spinner in the color Slate Blue.",
+                  "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3ca53bf4/colors/SAM_silhouette-18-ss-slate-blue.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Silhouette 18 Softside Carry-On Spinner in the color Slate Blue.",
+                  "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw3ca53bf4/colors/SAM_silhouette-18-ss-slate-blue.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          }
+        ],
+        "isOnlyVariant": false
+      }
+    ],
+    "longDescription": null,
+    "shortDescription": "Tried and trusted since 1958, the Silhouette collection is a timeless classic rooted in our legacy. We\u2019ve updated the time-honored sleek luggage style by combining the distinct elements from our hardside but with the flexibility of a softside. Our carry-on offers a strong, rigid design with multiple interior and exterior pockets. To keep you well-organized, we\u2019ve included a 3-1-1 WetPakTM and TecKit Pouch to conveniently fit in the front slip pocket and keep your tech accessories within reach. A bonus slip pocket provides space for your laptop or tablet. And the proprietary molded bottom is made with fiberglass to keep your luggage strong and light. Mix, match, and create your set with any luggage or bag from our Silhouette 18 collection.",
+    "rating": 3.4,
+    "promotions": null,
+    "attributes": null,
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": "Wed Apr 16 2025"
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&quantity=10"
+      }
+    ],
+    "features": {},
+    "overall-height": 23.3,
+    "overall-length": 15,
+    "overall-width": 10,
+    "unit-height": 20.4,
+    "unit-length": 14.1,
+    "unit-width": 8,
+    "unit-weight": 8.3,
+    "unit-uom": "in",
+    "unit-weight-type": "lbs",
+    "linear-dimension": "48.3",
+    "product-dimensions": "20.4in\u00a0H x 14.1in\u00a0L x 8in\u00a0W",
+    "external-dimensions": "23.3in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+    "specifications": [
+      {
+        "specification": "Item #",
+        "value": "1536391041"
+      },
+      {
+        "specification": "External Dimensions",
+        "value": "23.3in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+        "tooltip": [
+          "The total dimensions of the case including handles and wheels"
+        ]
+      },
+      {
+        "specification": "Internal Dimensions",
+        "value": "20.4in\u00a0H x 14.1in\u00a0L x 8in\u00a0W",
+        "tooltip": [
+          "The dimensions of the case without handles or wheels; packing dimensions"
+        ]
+      },
+      {
+        "specification": "Linear Dimension",
+        "value": "48.3"
+      },
+      {
+        "specification": "Weight",
+        "value": 8.3
+      },
+      {
+        "specification": "Material",
+        "value": [
+          "Polyester"
+        ],
+        "tooltip": [
+          "Durable Polyester fabric."
+        ]
+      },
+      {
+        "specification": "Expandable",
+        "value": "Yes",
+        "tooltip": [
+          "Does the case expand for added packing capacity?"
+        ]
+      },
+      {
+        "specification": "Warranty",
+        "value": [
+          "Limited 10 Year Global Warranty"
+        ],
+        "tooltip": [
+          "Warranty covers manufacturing defects. For more information please visit our warranty page"
+        ]
+      }
+    ],
+    "materials": [],
+    "selectedProductUrl": "/luggage/carry-on-luggage/silhouette-18-softside-carry-on-spinner/153639XXXX.html?dwvar_153639XXXX_color=1536391041&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "template": null,
+    "headlineDescription": "<ul><br>Our carry-on offers a strong, rigid design with multiple interior and exterior pockets. To keep you well-organized, we\u2019ve included a 3-1-1 WetPakTM and TecKit Pouch to conveniently fit in the front slip pocket and keep your tech accessories within reach.<br><br><li>Overall Dimensions: 23.25 in. x 15 in. x 10 in.</li><li>Weight: 8.29 lbs.</ul>",
+    "headline": null,
+    "recommendations": [
+      {
+        "ID": "153643XXXX"
+      },
+      {
+        "ID": "153635XXXX"
+      },
+      {
+        "ID": "153638XXXX"
+      }
+    ],
+    "pdpAssetIds": [],
+    "pdpGalleryAssets": [],
+    "pdpVideoAssets": [],
+    "tabs": [],
+    "collapsibleContent": [],
+    "badges": [
+      {
+        "class": "token-background--accent text--white font-size--12 font-size--lg--16",
+        "name": "New"
+      }
+    ],
+    "selectedColorName": "Black",
+    "compareSpecifications": [
+      {
+        "name": "Item #",
+        "value": "1536391041"
+      },
+      {
+        "name": "Overall Height",
+        "value": "23.3in",
+        "tooltip": "The total height of the case including handles and wheels"
+      },
+      {
+        "name": "Overall Length",
+        "value": "15in",
+        "tooltip": "The total length of the case including handles and wheels"
+      },
+      {
+        "name": "Overall Width",
+        "value": "10in",
+        "tooltip": "The total width of the case including handles and wheels"
+      },
+      {
+        "name": "Internal Height",
+        "value": "20.4in",
+        "tooltip": "The height of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Internal Length",
+        "value": "14.1in",
+        "tooltip": "The length of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Internal Width",
+        "value": "8in",
+        "tooltip": "The width of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Weight",
+        "value": "8.3lbs"
+      },
+      {
+        "name": "Linear Dimension",
+        "value": "48.3"
+      },
+      {
+        "name": "Material",
+        "value": [
+          "Polyester"
+        ]
+      },
+      {
+        "name": "Handles",
+        "value": [
+          "RightHeight\u2122 Pull Handle",
+          "Top Carry Handle",
+          "Side Carry Handle"
+        ]
+      },
+      {
+        "name": "Wheels",
+        "value": [
+          "Aero-Trac\u2122 Suspension Wheel"
+        ]
+      },
+      {
+        "name": "Packing Features",
+        "value": [
+          "Built-in ID tag holder",
+          "Expandable",
+          "Compression Straps"
+        ]
+      },
+      {
+        "name": "USB Port",
+        "value": "No",
+        "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+      },
+      {
+        "name": "Smart Sleeve",
+        "value": "No",
+        "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+      },
+      {
+        "name": "TSA Lock",
+        "value": "No",
+        "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      },
+      {
+        "name": "Expandable",
+        "value": "Yes",
+        "tooltip": "Does the case expand for added packing capacity?"
+      },
+      {
+        "name": "Warranty",
+        "value": [
+          "Limited 10 Year Global Warranty"
+        ],
+        "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      }
+    ],
+    "wishlistpid": "1536391041",
+    "categorized": true,
+    "categoryTree": "Luggage > Carry-On"
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected",
+    "unavailableMsg": "- not available with current selections"
+  },
+  "quickViewFullDetailMsg": "View Full Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "pickUpInStore": {
+    "actionUrl": "/on/demandware.store/Sites-samsonite-Site/en_US/Stores-InventorySearch?showMap=false&horizontalView=true&isForm=true",
+    "atsActionUrl": "/on/demandware.store/Sites-samsonite-Site/en_US/Stores-getAtsValue"
+  },
+  "quickViewSource": null,
+  "renderedTemplate": "<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"1536391041\"  data-swatchable-attributes=\"[&quot;color&quot;,&quot;size&quot;]\">\n    <div class=\"row \">\n        <!-- Product Images Carousel -->\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div class=\"primary-images col-12 col-md-8 image-display-slider\">\n    <div class=\"row\">\n        \n        <div class=\"badge-in-main-images mt-md-4 ml-md-5 pl-2 ml-1 pl-md-5 position-absolute w-md-100\">\n            \n\n\n\n\n<div class=\"badge-product-container badge-image-over justify-content-start\">\n    \n        \n            <span class=\"badge-product token-background--accent text--white font-size--12 font-size--lg--16\">New</span>\n            \n        \n        \n</div>\n\n\n        </div>\n        \n            <div class='primary-images-main col-12  col-lg-9 product-has-thumbnails order-md-2' cypress-target=\"pdpCarouselPrimaryImagesMain\">\n                <div class=\"slider-container slider-buttons-hidden slider-buttons-hidden-md slider-buttons-hidden-lg slider-bullets-hidden slider-bullets-hidden-md slider-bullets-hidden-lg\"\n                    data-slider-thumbnail-container=\"#slider-pdp-1536391041\"\n                    data-slider-loop=\"true\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe1f286b3/collections/_samsonite/silhouette-18/500x500/153639-1041-FRONT34.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe1f286b3/collections/_samsonite/silhouette-18/500x500/153639-1041-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 0\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a7e3e94/collections/_samsonite/silhouette-18/500x500/153639-1041-INTERIOR_STYLED-4.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a7e3e94/collections/_samsonite/silhouette-18/500x500/153639-1041-INTERIOR_STYLED-4.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 1\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac00485c/collections/_samsonite/silhouette-18/500x500/153639-1041-HANDLE-5.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac00485c/collections/_samsonite/silhouette-18/500x500/153639-1041-HANDLE-5.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 2\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc54b30a0/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-12.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc54b30a0/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-12.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 3\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw480fec96/collections/_samsonite/silhouette-18/500x500/153639-1041-USB-9.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw480fec96/collections/_samsonite/silhouette-18/500x500/153639-1041-USB-9.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 4\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb8d5b51/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-15.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb8d5b51/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-15.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 5\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 6\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5e979893/collections/_samsonite/silhouette-18/500x500/153639-1041-REMOVABLE_BAG-10.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5e979893/collections/_samsonite/silhouette-18/500x500/153639-1041-REMOVABLE_BAG-10.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 7\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24bf51d0/collections/_samsonite/silhouette-18/500x500/153639-1041-WETPOCKET-11.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24bf51d0/collections/_samsonite/silhouette-18/500x500/153639-1041-WETPOCKET-11.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 8\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0848032f/collections/_samsonite/silhouette-18/500x500/153639-1041-WHEEL-8.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0848032f/collections/_samsonite/silhouette-18/500x500/153639-1041-WHEEL-8.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 9\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n\n                    \n                        \n                    </div>\n                </div>\n            </div>\n\n            \n            \n            \n            \n                \n                \n            \n            \n\n            <div class=\"col-12  primary-images-thumbnails col-lg-3 order-md-1 \">\n                <div id=\"slider-pdp-1536391041\" class=\"slider-thumbnail-lines slider-container slider-thumbnails slider-buttons-inside slider-buttons-inside-md slider-buttons-inside-lg slider-thumbnails-vertical-md slider-thumbnails-vertical-lg\"\n                    data-slider-items=\"10\"\n                    data-slider-items-md=\"10\"\n                    data-slider-items-lg=\"10\"\n                    data-slider-items-max-display=\"5.0\"\n                    data-slider-items-max-display-site-pref=\"5.0\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                    data-slider-loop=\"true\"\n                    cypress-target=\"pdpCarouselSliderThumbnails\"\n                    style=\"\n                        --max-number-of-slides: 5.0;\n                        --thumbnail-product-slider-number-of-slides: 10;\n                        --thumbnail-product-slider-max-height: calc((var(--slider-thumbnail-width) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-md: calc((var(--slider-thumbnail-width-md) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-lg: calc((var(--slider-thumbnail-width-lg) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                    \"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe1f286b3/collections/_samsonite/silhouette-18/500x500/153639-1041-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 1\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a7e3e94/collections/_samsonite/silhouette-18/500x500/153639-1041-INTERIOR_STYLED-4.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 2\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac00485c/collections/_samsonite/silhouette-18/500x500/153639-1041-HANDLE-5.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 3\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc54b30a0/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-12.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 4\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw480fec96/collections/_samsonite/silhouette-18/500x500/153639-1041-USB-9.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 5\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb8d5b51/collections/_samsonite/silhouette-18/500x500/153639-1041-ACCESSORY_CLIP-15.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 6\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 7\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5e979893/collections/_samsonite/silhouette-18/500x500/153639-1041-REMOVABLE_BAG-10.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 8\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24bf51d0/collections/_samsonite/silhouette-18/500x500/153639-1041-WETPOCKET-11.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 9\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0848032f/collections/_samsonite/silhouette-18/500x500/153639-1041-WHEEL-8.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Silhouette 18 Softside Carry-On Spinner in the color Black. image number 10\" itemprop=\"image\" />\n                            </div>\n                        \n\n                        \n                        \n                    </div>\n                    <div class=\"slider-thumbnail-controls d-none d-md-block\">\n                        <div class=\"prev icon-arrow-left-thin d-none\"></div>\n                        <div class=\"next icon-arrow-right-thin\"></div>\n                    </div>\n\n                    \n                    \n                    \n                </div>\n\n            </div>\n        \n        \n    </div>\n    \n        <div id=\"imageCarouselModal\" class=\"modal fade image-carousel-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"imageCarouselModal\">\n    <div class=\"modal-dialog modal-full-screen\" role=\"document\">\n        <div class=\"modal-content\">\n            <div class=\"modal-body\">\n                <img class=\"mw-100 mx-auto\" />\n                <button type=\"button\" class=\"icon-close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                    <span aria-hidden=\"true\" class=\"sr-only\">\u00d7</span>\n                </button>\n            </div>\n        </div>\n    </div>\n</div>\n    \n</div>\n\n\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-md-4\">\n            <div class=\"row\">\n                <div class=\"col\">\n                    <section>\n                        <h1 class=\"product-name\">Silhouette 18 Softside Carry-On Spinner</h1>\n                    </section>\n                    <div class=\"sr-only\">\n                        no.\n<span class=\"product-id\">1536391041</span>\n\n                    </div>\n                </div>\n            </div>\n            \n\n            <div class=\"detail-panel\">\n                <!-- Attributes -->\n                <section class=\"attributes\">\n\n                    \n                    \n                    \n                    \n                        <div data-attr=\"color\" class=\"swatch row\">\n                            <div class=\"col-12\">\n                                \n                                \n\n\n\n\n\n\n    <div class=\"attribute clearfix\">\n        \n\n            \n            <span class=\"color non-input-label color-label\" id=\"product-attributes-aria-color\">\n                Color: <span class=\"color-display-value\">Black</span>\n            </span>\n\n            \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Black\"\n                                aria-describedby=\"1536391041-main\"\n                                data-url=\"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=&amp;pid=153639XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"1536391041\"\n                                data-displayvalue=\"Black\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    default\n                                    selected\n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8a1b9186/colors/SAM_silhouette-18-ss-black.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"1536391041-main\" class=\"sr-only selected-assistive-text\">\n                                selected\n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Deep Navy\"\n                                aria-describedby=\"153639D418-main\"\n                                data-url=\"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&amp;pid=153639XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"153639D418\"\n                                data-displayvalue=\"Deep Navy\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb3c15768/colors/SAM_silhouette-18-ss-deep-navy.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"153639D418-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Slate Blue\"\n                                aria-describedby=\"153639E264-main\"\n                                data-url=\"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639E264&amp;pid=153639XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"153639E264\"\n                                data-displayvalue=\"Slate Blue\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3ca53bf4/colors/SAM_silhouette-18-ss-slate-blue.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"153639E264-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n            \n            \n        \n    </div>\n\n\n\n                            </div>\n\n                            \n                                <!-- Quantity Drop Down Menu -->\n                                <div class=\"attribute quantity col-4 d-sm-none d-none\">\n                                    \n                                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                                    \n                                </div>\n                            \n                        </div>\n                    \n                    \n                        <div class=\"row mt-3\">\n                            <div class=\"col\">\n                                <ul><br>Our carry-on offers a strong, rigid design with multiple interior and exterior pockets. To keep you well-organized, we\u2019ve included a 3-1-1 WetPakTM and TecKit Pouch to conveniently fit in the front slip pocket and keep your tech accessories within reach.<br><br><li>Overall Dimensions: 23.25 in. x 15 in. x 10 in.</li><li>Weight: 8.29 lbs.</ul>\n                            </div>\n                        </div>\n                    \n\n                    <div class=\"row availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                        <!-- Availability -->\n<div class=\"availability row product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n    <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n</div>\n\n\n\n\n\n\n\n\n\n                    </div>\n\n                    <!-- Applicable Promotions -->\n                    <div class=\"row mt-md-3\">\n                        <div class=\"col-12 promotions\">\n                            <div class=\"align-self-center\">\n                                \n\n\n\n\n                            </div>\n                        </div>\n                    </div>\n                </section>\n\n                    <!-- Options -->\n                    <div class=\"product-options\">\n                        \n                    </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n    \n</div>\n<div class=\"modal-footer row align-items-end\">\n    \n    \n\n    <div class=\"col\">\n        <div class=\"row align-items-center\">\n            <div class=\"col-12 col-md-8\">\n                <!-- Prices -->\n                <div class=\"prices clearfix\">\n                    \n                    \n\n\n\n    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"270.00\">\n        \n        $270.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $270.00\n</span>\n\n    </div>\n\n\n                </div>\n\n                <div class=\"availability d-none d-md-block align-self-end global-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                    <div class=\"row\">\n                        <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4 d-none\">\n                <!-- Quantity -->\n                <div class=\"quantity col-12\">\n                    \n                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?pid=1536391041&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                    \n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4\">\n                <!-- Cart and [Optionally] Apple Pay -->\n                \n                    \n\n\n<div class=\"row cart-and-ipay\">\n    <div class=\"col-sm-12\">\n        <input type=\"hidden\" class=\"add-to-cart-url\" value=\"/on/demandware.store/Sites-samsonite-Site/en_US/Cart-AddProduct\"/>\n        <button class=\"add-to-cart-global btn btn-primary qv-product-edit-add\"\n                \n                    data-gtmdata=\"{&quot;id&quot;:&quot;153639XXXX&quot;,&quot;name&quot;:&quot;Silhouette 18 Softside Carry-On Spinner&quot;,&quot;category&quot;:&quot;Carry-On&quot;,&quot;categoryID&quot;:&quot;luggage-carry-on&quot;,&quot;price&quot;:&quot;270.00&quot;,&quot;item_id&quot;:&quot;153639XXXX&quot;,&quot;item_variant&quot;:&quot;1536391041&quot;,&quot;variant&quot;:&quot;1536391041&quot;,&quot;item_color&quot;:&quot;Black&quot;}\"\n                    data-gtmga4data=\"{&quot;item_id&quot;:&quot;153639XXXX&quot;,&quot;item_variant&quot;:&quot;1536391041&quot;,&quot;item_name&quot;:&quot;Silhouette 18 Softside Carry-On Spinner&quot;,&quot;item_category&quot;:&quot;Carry-On&quot;,&quot;price&quot;:270,&quot;currencyCode&quot;:&quot;USD&quot;,&quot;variant&quot;:&quot;1536391041&quot;,&quot;item_color&quot;:&quot;Black&quot;}\"\n                \n                data-pid=\"1536391041\"\n                >\n            <i class=\"fa fa-shopping-bag\"></i>\n            \n                Add to Bag\n            \n        </button>\n    </div>\n</div>\n\n                \n            </div>\n        </div>\n    </div>\n\n</div>\n",
+  "productUrl": "/luggage/carry-on-luggage/silhouette-18-softside-carry-on-spinner/1536391041.html",
+  "__gtmEvents": []
+}
