@@ -9,7 +9,13 @@ import time
 from bs4 import BeautifulSoup
 import os
 import json
+import re
+import requests
 
+
+# NOTE ABOUT IDS:
+# the product id is expressed as 117224XXXX where the last 4 digits differentiate colors
+# so really the color id is a product id, but specifies which color of a product as well
 
 # data url: https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Search-UpdateGrid?cgid=luggage-carry-on&srule=category-position&start=0&sz=60
 # sort options: {"options":[{"displayName":"Featured","id":"category-position","url":"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Search-UpdateGrid?cgid=luggage-carry-on&srule=category-position&start=0&sz=30"},{"displayName":"Best Sellers","id":"best-sellers","url":"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Search-UpdateGrid?cgid=luggage-carry-on&srule=best-sellers-7-days-revenue-updated&start=0&sz=30"},{"displayName":"Top Rated","id":"top-rated","url":"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Search-UpdateGrid?cgid=luggage-carry-on&srule=top-rated&start=0&sz=30"},{"displayName":"Price Low To High","id":"price-low-to-high","url":"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Search-UpdateGrid?cgid=luggage-carry-on&srule=price-low-to-high&start=0&sz=30"},{"displayName":"Price High to Low","id":"price-high-to-low","url":"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Search-UpdateGrid?cgid=luggage-carry-on&srule=price-high-to-low&start=0&sz=30"},{"displayName":"Product Name A - Z","id":"product-name-ascending","url":"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Search-UpdateGrid?cgid=luggage-carry-on&srule=product-name-a-z&start=0&sz=30"},{"displayName":"Product Name Z - A","id":"product-name-descending","url":"https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Search-UpdateGrid?cgid=luggage-carry-on&srule=product-name-z-a&start=0&sz=30"}],"ruleId":"category-position"}
@@ -108,8 +114,19 @@ def get_product_ids():
 # - get the color ids then get the product details for each color.
 # - opt to not refetch the product details from the page if the file already exists.
 # - proper file naming and folder structure.
+# - create class with all information for each product.
+# - create object to track dimensions + object for weight?
 
-def get_product_details(driver, pid):
+def sanitize_filename(filename):
+    # Replace invalid characters with underscores
+    invalid_chars = r'[<>:"/\\|?*]'
+    sanitized = re.sub(invalid_chars, '_', filename)
+    # Remove any leading/trailing spaces and dots
+    sanitized = sanitized.strip('. ')
+    return sanitized
+
+# returns a dictionary with product name as the key and a dictionary of color names to color ids as the values.
+def get_product_color_ids(driver, pid):
     url = QUICK_VIEW_BASE_URL + pid
     logger.info(f"Loading product details from {url}")
     driver.get(url)
@@ -118,25 +135,103 @@ def get_product_details(driver, pid):
     pre_tag = soup.find('pre') # note can't use a simple cloudscraper or requests get because it tends to set off the bot detector more
     if pre_tag:
         try:
-            return json.loads(pre_tag.text)
+            product_data = json.loads(pre_tag.text)
+            product_name = product_data["product"]["productName"]
+            sanitized_name = sanitize_filename(product_name)
+            
+            # Create the directory if it doesn't exist
+            base_details_path = os.path.join(RAW_DATA_FOLDER, "Base_Details")
+            os.makedirs(base_details_path, exist_ok=True)
+            
+            with open(os.path.join(base_details_path, f'samsonite_product_details_{sanitized_name}.json'), 'w', encoding='utf-8') as f:
+                json.dump(product_data, f, indent=2)
+            logger.info(f"Saved base product details raw data for {product_name}")
+
+            # get the color ids
+            color_mapping = {}
+            variationAttributes = product_data["product"]["variationAttributes"]
+            for attribute in variationAttributes:
+                if attribute["attributeId"] == "color":
+                    colors = attribute["values"]
+                    logger.info(f"Found {len(colors)} color IDs for {product_name}")
+                    for color in colors:
+                        color_id = color["value"]
+                        color_name = color["displayValue"]
+                        color_mapping[color_name] = color_id
+                        logger.info(f"Color ID: {color_id}, Color Name: {color_name}")
+            
+            return {product_name: color_mapping}
         except json.JSONDecodeError as e:
             logger.error(f"Failed to parse JSON for product {pid}: {str(e)}")
-            return None
     return None
 
+def download_images(image_urls):
+    print(image_urls)
+    # for url in image_urls:
+    #     response = requests.get(url)
+    #     if response.status_code == 200:
+    #         with open(f"images/{url.split('/')[-1]}", "wb") as f:
+    #             f.write(response.content)
+
+# returns (product brand, product name, product color, product dimensions, product weight)
+# calls download images function with list of image urls
+def get_product_color_details(driver, color_id):
+    pid = color_id[:-4] + "XXXX"
+    url = f"{QUICK_VIEW_BASE_URL}{pid}&dwvar_{pid}_color={color_id}"
+    logger.info(f"Loading product details from {url}")
+    driver.get(url)
+    html = driver.page_source
+    soup = BeautifulSoup(html, 'html.parser')
+    product_data = json.loads(soup.find('pre').text)["product"]
+    product_name = product_data["productName"]
+    product_brand = "Samsonite"
+    for attribute in product_data["variationAttributes"]:
+        if attribute["attributeId"] == "color":
+            product_color = attribute["displayValue"]
+    
+    product_dimensions = product_data["product-dimensions"]
+    product_weight = str(product_data["unit-weight"]) + " " + product_data["unit-weight-type"]
+    image_urls = [image["url"] for image_types in product_data["images"].values() for image in image_types]
+    download_images(image_urls)
+    return (product_brand, product_name, product_color, product_dimensions, product_weight)
+
 def main():
+    # Create the main raw data folder if it doesn't exist
+    os.makedirs(RAW_DATA_FOLDER, exist_ok=True)
+    
     pids = get_product_ids()
     driver = setup_driver()
-    try:
-        for pid in pids:
-            product_data = get_product_details(driver, pid)
-            if product_data:
-                with open(f'samsonite_product_details_{pid}.json', 'w', encoding='utf-8') as f:
-                    json.dump(product_data, f, indent=2)
-                logger.info(f"Saved product details for {pid}")
-            time.sleep(1)
-    finally:
+    product_colors = {}
+    refetch = 'y' if not os.path.exists(os.path.join(RAW_DATA_FOLDER, 'product_colors.json')) else input("Would you like to refetch product color IDs? (y/n): ")
+    
+    if refetch.lower() == 'y':
+        try:
+            for pid in pids:
+                result = get_product_color_ids(driver, pid)
+                if result:
+                    product_colors.update(result)
+                time.sleep(1)
+        finally:
+            driver.quit()
+            # Save the final color mappings
+        with open(os.path.join(RAW_DATA_FOLDER, 'product_colors.json'), 'w', encoding='utf-8') as f:
+            json.dump(product_colors, f, indent=2)
+        logger.info(f"Saved color mappings for {len(product_colors)} products")
+    else:
+        logger.info("Loading existing color mappings")
+        # Load existing color mappings from JSON
+        with open(os.path.join(RAW_DATA_FOLDER, 'product_colors.json'), 'r', encoding='utf-8') as f:
+            product_colors = json.load(f)
         driver.quit()
+    print(product_colors)
+    driver = setup_driver()
+    for product_name, color_mapping in product_colors.items():
+        for color_name, color_id in color_mapping.items():
+            product_details = get_product_color_details(driver, color_id)
+            print(product_details)
+            time.sleep(1)
+    driver.quit()
+
 
 if __name__ == "__main__":
     main()
