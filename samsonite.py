@@ -165,16 +165,13 @@ def get_product_color_ids(driver, pid):
             logger.error(f"Failed to parse JSON for product {pid}: {str(e)}")
     return None
 
-def download_images(image_urls):
-    print(image_urls)
-    # for url in image_urls:
-    #     response = requests.get(url)
-    #     if response.status_code == 200:
-    #         with open(f"images/{url.split('/')[-1]}", "wb") as f:
-    #             f.write(response.content)
+def append_to_image_urls():
+    print("append")
+    # TODO: this function takes in a list of image urls, a product brand, name, and color and puts the image urls under that specific heirarchy in a json. the json should key each image with the name of the file which it will be downloaded to later and values of the actual url.
 
 # returns (product brand, product name, product color, product dimensions, product weight)
 # calls download images function with list of image urls
+# TODO: wrap the json getting stuff and driver.get(url) in a try that checks for a attribute error since that means theres a captcha. if there is a captcha, keep the window open and wait for the user to complete it
 def get_product_color_details(driver, color_id):
     pid = color_id[:-4] + "XXXX"
     url = f"{QUICK_VIEW_BASE_URL}{pid}&dwvar_{pid}_color={color_id}"
@@ -191,8 +188,16 @@ def get_product_color_details(driver, color_id):
     
     product_dimensions = product_data["product-dimensions"]
     product_weight = str(product_data["unit-weight"]) + " " + product_data["unit-weight-type"]
-    image_urls = [image["url"] for image_types in product_data["images"].values() for image in image_types]
-    download_images(image_urls)
+    
+    # Get all image URLs except for background, highlight, and thumbnail images
+    excluded_types = ["pdp-background", "stacked-highlight", "video-thumbnail"]
+    image_urls = [
+        image["url"]
+        for image_type, images in product_data["images"].items()
+        if image_type not in excluded_types
+        for image in images
+    ]
+    
     return (product_brand, product_name, product_color, product_dimensions, product_weight)
 
 def main():
@@ -223,7 +228,6 @@ def main():
         with open(os.path.join(RAW_DATA_FOLDER, 'product_colors.json'), 'r', encoding='utf-8') as f:
             product_colors = json.load(f)
         driver.quit()
-    print(product_colors)
     driver = setup_driver()
     for product_name, color_mapping in product_colors.items():
         for color_name, color_id in color_mapping.items():
@@ -231,6 +235,7 @@ def main():
             print(product_details)
             time.sleep(1)
     driver.quit()
+    # TODO: write function and call it that appends all the info to a csv
 
 
 if __name__ == "__main__":
