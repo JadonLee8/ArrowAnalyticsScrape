@@ -1,0 +1,721 @@
+{
+  "uuid": "d876adf9849a0a6073ab652998",
+  "id": "1373931327",
+  "productName": "Outline Pro Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "137393XXXX",
+    "name": "Outline Pro Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "169.99",
+    "item_id": "137393XXXX",
+    "item_variant": "1373931327",
+    "variant": "1373931327",
+    "item_color": "Green"
+  },
+  "gtmGA4Data": {
+    "item_id": "137393XXXX",
+    "item_variant": "1373931327",
+    "item_name": "Outline Pro Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 169.99,
+    "currencyCode": "USD",
+    "variant": "1373931327",
+    "item_color": "Green"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 169.99,
+      "currency": "USD",
+      "formatted": "$169.99",
+      "decimalPrice": "169.99"
+    },
+    "list": {
+      "value": 199.99,
+      "currency": "USD",
+      "formatted": "$199.99",
+      "decimalPrice": "199.99"
+    },
+    "percentageOff": "15% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"169.99\">\n        \n        $169.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"199.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $199.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $169.99 , was $199.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7bd61b56/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7bd61b56/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd6c3a39f/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_2_Interior.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd6c3a39f/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_2_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaf02f63a/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_3_Interior.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaf02f63a/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_3_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc0323486/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_6_USB_TSA_Lock.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc0323486/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_6_USB_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd3a52fea/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_5_Expand.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd3a52fea/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_5_Expand.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a9a4cab/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_4_Top_Pull_Handle.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a9a4cab/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_4_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd36b6a55/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_8_Wheels.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd36b6a55/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_8_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw701549de/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_7_Back.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw701549de/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_7_Back.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7bd61b56/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7bd61b56/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd6c3a39f/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_2_Interior.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd6c3a39f/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_2_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaf02f63a/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_3_Interior.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaf02f63a/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_3_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc0323486/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_6_USB_TSA_Lock.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc0323486/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_6_USB_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd3a52fea/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_5_Expand.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd3a52fea/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_5_Expand.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a9a4cab/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_4_Top_Pull_Handle.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a9a4cab/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_4_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd36b6a55/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_8_Wheels.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd36b6a55/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_8_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw701549de/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_7_Back.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw701549de/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_7_Back.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7bd61b56/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7bd61b56/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd6c3a39f/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_2_Interior.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd6c3a39f/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_2_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaf02f63a/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_3_Interior.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaf02f63a/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_3_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc0323486/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_6_USB_TSA_Lock.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc0323486/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_6_USB_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd3a52fea/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_5_Expand.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd3a52fea/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_5_Expand.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a9a4cab/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_4_Top_Pull_Handle.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a9a4cab/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_4_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd36b6a55/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_8_Wheels.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd36b6a55/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_8_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw701549de/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_7_Back.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw701549de/collections/_samsonite/Outline-Pro/500x500/1373931327_COSpin_7_Back.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Outline Pro Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4962d3c5/pdps/samsonite/outline-pro/outline-pro-carry-on-137393-stone-grey-pdp-description-tile-3000x3000-v2.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "Outline Pro Carry-On Spinner in the color .",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4962d3c5/pdps/samsonite/outline-pro/outline-pro-carry-on-137393-stone-grey-pdp-description-tile-3000x3000-v2.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Outline Pro Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745057462630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Outline Pro Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Outline Pro Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745057462630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Outline Pro Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Emerald Green",
+      "values": [
+        {
+          "id": "1373931549",
+          "description": null,
+          "displayValue": "Midnight Blue",
+          "value": "1373931549",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931549&pid=137393XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Outline Pro Carry-On Spinner in the color Midnight Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaf6d87e2/colors/SAM_outline-pro-midnight-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Outline Pro Carry-On Spinner in the color Midnight Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaf6d87e2/colors/SAM_outline-pro-midnight-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1373931327",
+          "description": null,
+          "displayValue": "Emerald Green",
+          "value": "1373931327",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=&pid=137393XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf75bf07c/colors/SAM_outline-pro-emerald-green.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Outline Pro Carry-On Spinner in the color Emerald Green.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf75bf07c/colors/SAM_outline-pro-emerald-green.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1373931548",
+          "description": null,
+          "displayValue": "Midnight Black",
+          "value": "1373931548",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931548&pid=137393XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Outline Pro Carry-On Spinner in the color Midnight Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw76f42299/colors/SAM_outline-pro-midnight-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Outline Pro Carry-On Spinner in the color Midnight Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw76f42299/colors/SAM_outline-pro-midnight-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1373931534",
+          "description": null,
+          "displayValue": "Mars Red",
+          "value": "1373931534",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931534&pid=137393XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Outline Pro Carry-On Spinner in the color Mars Red.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw52e3931a/colors/SAM_outline-pro-mars-red.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Outline Pro Carry-On Spinner in the color Mars Red.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw52e3931a/colors/SAM_outline-pro-mars-red.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1373931830",
+          "description": null,
+          "displayValue": "Stone Grey",
+          "value": "1373931830",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931830&pid=137393XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Outline Pro Carry-On Spinner in the color Stone Grey.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw532a4529/colors/SAM_outline-pro-stone-grey.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Outline Pro Carry-On Spinner in the color Stone Grey.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw532a4529/colors/SAM_outline-pro-stone-grey.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Our instantly-iconic Outline Pro polypropylene collection takes you confidently in the direction of your destination thanks to its elevated design and eye-catching color options. This smart and sleek piece is all systems go \u2013 while pulling out all the stops: from its molded trolley handle to easy-lift top and side grips, major touchpoints are treated with Sam-AMH&trade; technology to help keep hands clean. With integrated extras like a built-in TSA lock and USB port (available in carry-on sizes only), as well as superb-adaptable interior lined in our eco-conscious Recyclex&reg; fabric, this all-time travel essential bridges form and function flawlessly. Bordering on genius. Say it to yourself: You\u2019ve earned this upgrade.<br>&#149; Ergonomic retractable trolley handle with multi-stop Right Height&trade; adjustability<br>&#149; Smooth, dual spinner wheels for easy handling and long-haul travel across any surface<br>&#149; Durable polypropylene shell constructed in a clean, contemporary design<br>&#149; Recyclex&trade; interior liner fabric made from 100% recycled plastic bottles<br>&#149; Spacious interior with removeable Kompresspak&trade; divider fitted with dry and WetPak&trade; pockets<br>&#149; Built-in TSA lock with an integrated USB port (carry-on sizes only) and internal battery pocket<br>&#149; Anti-microbial handle technology suppresses bacteria and mold<br>&#149; Weight: 6.39 lbs.<br><br>Body Dimensions: 20.5\" x 14.5\" x 10.0\"<br>Overall Dimensions: 23.0\" x 15.0\" x 10.0\"",
+  "shortDescription": "Our instantly-iconic Outline Pro polypropylene collection takes you confidently in the direction of your destination thanks to its elevated design and eye-catching color options. This smart and sleek piece is all systems go \u2013 while pulling out all the stops: from its molded trolley handle to easy-lift top and side grips, major touchpoints are treated with Sam-AMH&trade; technology to help keep hands clean. With integrated extras like a built-in TSA lock and USB port (available in carry-on sizes only), as well as superb-adaptable interior lined in our eco-conscious Recyclex&reg; fabric, this all-time travel essential bridges form and function flawlessly. Bordering on genius. Say it to yourself: You\u2019ve earned this upgrade.",
+  "rating": 4,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Sat Apr 19 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_137393XXXX_color=1373931327&pid=1373931327&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 23,
+  "overall-length": 15,
+  "overall-width": 10,
+  "unit-height": 20.5,
+  "unit-length": 14.5,
+  "unit-width": 10,
+  "unit-weight": 6.4,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "48",
+  "product-dimensions": "20.5in\u00a0H x 14.5in\u00a0L x 10in\u00a0W",
+  "external-dimensions": "23in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1373931327"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "23in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20.5in\u00a0H x 14.5in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "48"
+    },
+    {
+      "specification": "Weight",
+      "value": 6.4
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polypropylene",
+        "Recyclex\u00ae"
+      ],
+      "tooltip": [
+        "Recyclex\u00ae polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+      ]
+    },
+    {
+      "specification": "USB Port",
+      "value": "Yes",
+      "tooltip": [
+        "Built in USB port lets you power devices on the go. Battery sold separately"
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/outline-pro-carry-on-spinner/137393XXXX.html?dwvar_137393XXXX_color=1373931327&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Outline Pro Carry-On Spinner | Hardside Carry On | Samsonite",
+  "pageDescription": "Travel redefined: The modern and timeless Outline Pro Carry-On Spinner features a durable design that's built to last and an elegance that never fades.",
+  "pageKeywords": "outline pro carry-on spinner",
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>This smart and sleek piece is all systems go \u2013 while pulling out all the stops: from its molded trolley handle to easy-lift top and side grips. With integrated extras like a built-in TSA lock and USB port, as well as superb-adaptable interior lined in our eco-conscious Recyclex&reg; fabric, this all-time travel essential bridges form and function flawlessly. <br><br><li>Overall Dimensions: 23 in. x 15 in. x 10 in.</li><li>Weight: 6.4 lbs</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "151906XXXX"
+    },
+    {
+      "ID": "151758XXXX"
+    },
+    {
+      "ID": "137395XXXX"
+    },
+    {
+      "ID": "137394XXXX"
+    },
+    {
+      "ID": "778881212"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Emerald Green",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1373931327"
+    },
+    {
+      "name": "Overall Height",
+      "value": "23in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "10in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20.5in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.5in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "10in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "6.4lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "48"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polypropylene",
+        "Recyclex\u00ae"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "Side carry handle",
+        "Retractable Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "KompressPak\u2122",
+        "Removable panels",
+        "Wetpak\u2122",
+        "TSA Lock",
+        "Expandable"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "Yes",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1373931327",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

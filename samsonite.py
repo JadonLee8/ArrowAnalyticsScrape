@@ -165,9 +165,39 @@ def get_product_color_ids(driver, pid):
             logger.error(f"Failed to parse JSON for product {pid}: {str(e)}")
     return None
 
-def append_to_image_urls():
-    print("append")
-    # TODO: this function takes in a list of image urls, a product brand, name, and color and puts the image urls under that specific heirarchy in a json. the json should key each image with the name of the file which it will be downloaded to later and values of the actual url.
+def append_to_image_urls(images, brand, name, color):
+    # Define the path for the JSON file
+    json_path = os.path.join(RAW_DATA_FOLDER, "image_urls.json")
+
+    # Load existing data if the JSON file already exists
+    if os.path.exists(json_path):
+        with open(json_path, 'r', encoding='utf-8') as f:
+            image_data = json.load(f)
+    else:
+        image_data = {}
+
+    # Navigate the hierarchy: brand -> name -> color
+    if brand not in image_data:
+        image_data[brand] = {}
+    if name not in image_data[brand]:
+        image_data[brand][name] = {}
+    if color not in image_data[brand][name]:
+        image_data[brand][name][color] = []
+
+    # Append the new image URLs to the list for the specific color
+    image_data[brand][name][color].extend(images)
+
+    # Remove duplicates while preserving order
+    image_data[brand][name][color] = list(dict.fromkeys(image_data[brand][name][color]))
+
+    # Save the updated image data to the JSON file
+    try:
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(image_data, f, indent=2)
+    except Exception as e:
+        logger.error(f"Failed to save image URLs to {json_path}: {str(e)}")
+
+    logger.info(f"Appended {len(images)} image URLs under {brand} -> {name} -> {color} in {json_path}")
 
 # returns (product brand, product name, product color, product dimensions, product weight)
 # calls download images function with list of image urls
@@ -176,19 +206,45 @@ def get_product_color_details(driver, color_id):
     pid = color_id[:-4] + "XXXX"
     url = f"{QUICK_VIEW_BASE_URL}{pid}&dwvar_{pid}_color={color_id}"
     logger.info(f"Loading product details from {url}")
-    driver.get(url)
-    html = driver.page_source
-    soup = BeautifulSoup(html, 'html.parser')
-    product_data = json.loads(soup.find('pre').text)["product"]
+    # Check if the JSON file for this color ID already exists
+    # Search for the JSON file in the entire Samsonite_Raw directory
+    json_file_path = None
+    product_data = ""
+    for root, _, files in os.walk(RAW_DATA_FOLDER):
+        for file in files:
+            if sanitize_filename(color_id) in file and file.endswith(".json"):
+                json_file_path = os.path.join(root, file)
+                break
+        if json_file_path:
+            break
+    if os.path.exists(json_file_path):
+        logger.info(f"JSON file for color ID {color_id} already exists. Loading from file.")
+        with open(json_file_path, 'r', encoding='utf-8') as f:
+            product_data = json.load(f)
+    else:
+        driver.get(url)
+        html = driver.page_source
+
+        # Check for captcha
+        if has_captcha(html):
+            logger.warning("Captcha detected. Waiting 2 minutes for user to solve it...")
+            time.sleep(120)  # Wait for 2 minutes
+            html = driver.page_source
+            if has_captcha(html):
+                logger.error("Captcha still present after waiting. Exiting gracefully.")
+                return None
+
+        soup = BeautifulSoup(html, 'html.parser')
+        product_data = json.loads(soup.find('pre').text)["product"]
     product_name = product_data["productName"]
     product_brand = "Samsonite"
     for attribute in product_data["variationAttributes"]:
         if attribute["attributeId"] == "color":
             product_color = attribute["displayValue"]
-    
+
     product_dimensions = product_data["product-dimensions"]
     product_weight = str(product_data["unit-weight"]) + " " + product_data["unit-weight-type"]
-    
+
     # Get all image URLs except for background, highlight, and thumbnail images
     excluded_types = ["pdp-background", "stacked-highlight", "video-thumbnail"]
     image_urls = [
@@ -197,7 +253,19 @@ def get_product_color_details(driver, color_id):
         if image_type not in excluded_types
         for image in images
     ]
-    
+    append_to_image_urls(image_urls, product_brand, product_name, product_color)
+    # Create the directory structure for saving the product data
+    product_folder = os.path.join(RAW_DATA_FOLDER, sanitize_filename(product_name), sanitize_filename(product_color))
+    os.makedirs(product_folder, exist_ok=True)
+
+    # Save the product data as a JSON file
+    json_file_path = os.path.join(product_folder, f"samsonite_{color_id}_{sanitize_filename(product_name)}_{sanitize_filename(product_color)}_raw.json")
+    try:
+        with open(json_file_path, 'w', encoding='utf-8') as f:
+            json.dump(product_data, f, indent=2)
+        logger.info(f"Saved product data to {json_file_path}")
+    except Exception as e:
+        logger.error(f"Failed to save product data to {json_file_path}: {str(e)}")
     return (product_brand, product_name, product_color, product_dimensions, product_weight)
 
 def main():
@@ -232,8 +300,7 @@ def main():
     for product_name, color_mapping in product_colors.items():
         for color_name, color_id in color_mapping.items():
             product_details = get_product_color_details(driver, color_id)
-            print(product_details)
-            time.sleep(1)
+            time.sleep(2)
     driver.quit()
     # TODO: write function and call it that appends all the info to a csv
 
