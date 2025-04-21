@@ -111,9 +111,15 @@ def get_product_ids():
     return product_ids
 
 # TODOLIST:
-# - proper file naming and folder structure.
-# - create class with all information for each product.
-# - create object to track dimensions + object for weight?
+# - more elegent dimension/weight formatting
+# - image download functionality
+# - undetectable driver? https://github.com/UltrafunkAmsterdam/undetected-chromedriver
+
+def fetch_html(driver, url):
+    driver.get(url)
+    time.sleep(2)  # Wait for the page to load
+    html = driver.page_source
+    return html
 
 def sanitize_filename(filename):
     # Replace invalid characters with underscores
