@@ -1,0 +1,725 @@
+{
+  "uuid": "1349d640cfd520461175a18f23",
+  "id": "1281681041",
+  "productName": "Mobile Solution Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "128168XXXX",
+    "name": "Mobile Solution Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "159.99",
+    "item_id": "128168XXXX",
+    "item_variant": "1281681041",
+    "variant": "1281681041",
+    "item_color": "Black"
+  },
+  "gtmGA4Data": {
+    "item_id": "128168XXXX",
+    "item_variant": "1281681041",
+    "item_name": "Mobile Solution Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 159.99,
+    "currencyCode": "USD",
+    "variant": "1281681041",
+    "item_color": "Black"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 159.99,
+      "currency": "USD",
+      "formatted": "$159.99",
+      "decimalPrice": "159.99"
+    },
+    "list": {
+      "value": 199.99,
+      "currency": "USD",
+      "formatted": "$199.99",
+      "decimalPrice": "199.99"
+    },
+    "percentageOff": "20% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"159.99\">\n        \n        $159.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"199.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $199.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $159.99 , was $199.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbf858612/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbf858612/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5eb75eea/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_2_Interior_Stylized.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5eb75eea/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_2_Interior_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw816a808e/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_4_Side.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw816a808e/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_4_Side.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac64ab93/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_5_Back.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac64ab93/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_5_Back.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw72f90abe/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_3_Removable_311_Pouch.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw72f90abe/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_3_Removable_311_Pouch.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1215c0b5/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_6_USB_Port.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1215c0b5/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_6_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc81d022b/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_7_USB_Port.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc81d022b/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_7_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw947af9d6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_8_Whireless_Charging.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw947af9d6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_8_Whireless_Charging.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaceeb067/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_9_Whireless_Charging.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaceeb067/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_9_Whireless_Charging.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf2a50b56/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_10_Lifestyle.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf2a50b56/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_10_Lifestyle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac062ff6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_11_Lifestyle.jpg?sw=912&sh=912",
+        "index": "10",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac062ff6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_11_Lifestyle.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbf858612/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbf858612/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5eb75eea/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_2_Interior_Stylized.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5eb75eea/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_2_Interior_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw816a808e/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_4_Side.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw816a808e/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_4_Side.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac64ab93/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_5_Back.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac64ab93/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_5_Back.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw72f90abe/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_3_Removable_311_Pouch.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw72f90abe/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_3_Removable_311_Pouch.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1215c0b5/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_6_USB_Port.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1215c0b5/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_6_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc81d022b/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_7_USB_Port.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc81d022b/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_7_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw947af9d6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_8_Whireless_Charging.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw947af9d6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_8_Whireless_Charging.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaceeb067/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_9_Whireless_Charging.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaceeb067/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_9_Whireless_Charging.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf2a50b56/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_10_Lifestyle.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf2a50b56/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_10_Lifestyle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac062ff6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_11_Lifestyle.jpg?sw=176&sh=176",
+        "index": "10",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac062ff6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_11_Lifestyle.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbf858612/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbf858612/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5eb75eea/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_2_Interior_Stylized.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5eb75eea/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_2_Interior_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw816a808e/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_4_Side.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw816a808e/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_4_Side.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac64ab93/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_5_Back.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac64ab93/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_5_Back.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw72f90abe/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_3_Removable_311_Pouch.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw72f90abe/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_3_Removable_311_Pouch.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1215c0b5/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_6_USB_Port.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1215c0b5/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_6_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc81d022b/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_7_USB_Port.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc81d022b/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_7_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw947af9d6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_8_Whireless_Charging.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw947af9d6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_8_Whireless_Charging.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaceeb067/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_9_Whireless_Charging.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaceeb067/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_9_Whireless_Charging.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf2a50b56/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_10_Lifestyle.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf2a50b56/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_10_Lifestyle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac062ff6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_11_Lifestyle.jpg?sw=3000&sh=3000",
+        "index": "10",
+        "title": "Mobile Solution Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac062ff6/collections/_samsonite/mobile-solution/500x500/1281681041_19Spin_11_Lifestyle.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Mobile Solution Carry-On Spinner in the color .",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw21e2bf60/pdps/samsonite/mobile-solution/128168-1598_A645_LIFESTYLE_3.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "Mobile Solution Carry-On Spinner in the color .",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw21e2bf60/pdps/samsonite/mobile-solution/128168-1598_A645_LIFESTYLE_3.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Mobile Solution Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Mobile Solution Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Mobile Solution Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Mobile Solution Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Black",
+      "values": [
+        {
+          "id": "1281681806",
+          "description": null,
+          "displayValue": "Silver Shadow",
+          "value": "1281681806",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681806&pid=128168XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Mobile Solution Carry-On Spinner in the color Silver Shadow.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf1156e85/colors/SAM_mobile-solution-silver-shadow.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Mobile Solution Carry-On Spinner in the color Silver Shadow.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf1156e85/colors/SAM_mobile-solution-silver-shadow.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1281681041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1281681041",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=&pid=128168XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Mobile Solution Carry-On Spinner in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd440e2c7/colors/SAM_mobilesolution-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Mobile Solution Carry-On Spinner in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd440e2c7/colors/SAM_mobilesolution-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1281681598",
+          "description": null,
+          "displayValue": "Navy Blue",
+          "value": "1281681598",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681598&pid=128168XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Mobile Solution Carry-On Spinner in the color Navy Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0d8d41ab/colors/SAM_mobilesolution-navyblue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Mobile Solution Carry-On Spinner in the color Navy Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0d8d41ab/colors/SAM_mobilesolution-navyblue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Skip checking a bag, carry on with style and ease. Expansion, a USB charging port and a patent pending Wireless Charging pocket create the ideal marriage of smart tech and sleek form in our Expandable 19\u201d Spinner.<br><b>Product Features</b><br>&#149; Nylon Twill fabric with vinyl trim and water resistant coating<br>&#149; Front zippered pocket: perfect for storing smaller items needing quick and easy access; includes an integrated USB Port that provides easy connection to USB accessories (battery/USB accessories not included)<br>&#149; Wireless Charging Pocket: located in the middle exterior pocket, this patent pending feature is designed to fit your wireless battery and phone for effortless charging on the go (wireless battery not included)  <br>&#149; Expansion: .5\", designated by a unique zipper pull; offers additional packing capacity<br>&#149; Fully Featured Interior: includes two side storage pockets, Smart Fix Buckles&trade; and removable 3-1-1 friendly pouch<br>&#149; Smart Fix Buckles&trade;: Smart design keeps compression straps out of the way while packing, then easily clasps to securely essentials<br>&#149; Removable 3-1-1 Friendly Pouch: transparent, spill-friendly and just the right size to make getting through the airport that much easier<br>&#149; Dual Spinner Wheels<br>&#149; Retractable ID Tag: discreetly located on the back of the bag; protects private information needed for bag identification or retrieval<br>&#149; Carry-On size and weight allowances vary by airlines. Go to <a href=\"http://shop.samsonite.com/airline-carry-on-guide.html\">shop.samsonite.com/airline-carry-on-guide </a>for more details. If the bag is overstuffed, it may not be accepted by the airlines.<br>&#149; Weight: 6.5 lbs.<br><br>Body Dimensions: 19.0\" x 14.0\" x 10.0\"<br>Overall Dimensions: 22.0\" x 14.0\" x 10.0\"",
+  "shortDescription": "Skip checking a bag, carry on with style and ease. Expansion, a USB charging port and a patent pending Wireless Charging pocket create the ideal marriage of smart tech and sleek form in our Expandable 19\" Spinner.",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_128168XXXX_color=1281681041&pid=1281681041&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22,
+  "overall-length": 14,
+  "overall-width": 10,
+  "unit-height": 19,
+  "unit-length": 14,
+  "unit-width": 10,
+  "unit-weight": 6.5,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "46",
+  "product-dimensions": "19in\u00a0H x 14in\u00a0L x 10in\u00a0W",
+  "external-dimensions": "22in\u00a0H x 14in\u00a0L x 10in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1281681041"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22in\u00a0H x 14in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "19in\u00a0H x 14in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "46"
+    },
+    {
+      "specification": "Weight",
+      "value": 6.5
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Nylon",
+        "Water-Resistant Coating"
+      ],
+      "tooltip": [
+        "Durable Nylon fabric.",
+        "able to resist the penetration of water to some degree but not entirely."
+      ]
+    },
+    {
+      "specification": "USB Port",
+      "value": "Yes",
+      "tooltip": [
+        "Built in USB port lets you power devices on the go. Battery sold separately"
+      ]
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 3 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/mobile-solution-carry-on-spinner/128168XXXX.html?dwvar_128168XXXX_color=1281681041&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Mobile Solution Carry-On Expandable Spinner",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "128172XXXX"
+    },
+    {
+      "ID": "1365431041"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Black",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1281681041"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "10in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "19in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "10in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "6.5lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "46"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Nylon",
+        "Water-Resistant Coating"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Waterproof Pocket",
+        "Smart Fix Buckles&trade;",
+        "Built-in ID tag holder",
+        "Expandable"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "Yes",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 3 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1281681041",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

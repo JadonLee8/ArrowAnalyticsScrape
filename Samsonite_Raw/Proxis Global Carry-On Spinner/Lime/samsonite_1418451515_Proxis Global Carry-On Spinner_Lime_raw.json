@@ -1,0 +1,834 @@
+{
+  "uuid": "82d481d5dc7c27528e78949c7d",
+  "id": "1418451515",
+  "productName": "Proxis Global Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "141845XXXX",
+    "name": "Proxis Global Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "500.00",
+    "item_id": "141845XXXX",
+    "item_variant": "1418451515",
+    "variant": "1418451515",
+    "item_color": "Green"
+  },
+  "gtmGA4Data": {
+    "item_id": "141845XXXX",
+    "item_variant": "1418451515",
+    "item_name": "Proxis Global Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 500,
+    "currencyCode": "USD",
+    "variant": "1418451515",
+    "item_color": "Green"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 500,
+      "currency": "USD",
+      "formatted": "$500.00",
+      "decimalPrice": "500.00"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"500.00\">\n        \n        $500.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $500.00\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw72b88696/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_1.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw72b88696/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb6fb3dd8/collections/_samsonite/Proxis/500x500/141845-1515_C347_INTERIOR.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb6fb3dd8/collections/_samsonite/Proxis/500x500/141845-1515_C347_INTERIOR.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwebfc5b9f/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_1.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwebfc5b9f/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw037e164c/collections/_samsonite/Proxis/500x500/141845-1515_C347_EXPANSION.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw037e164c/collections/_samsonite/Proxis/500x500/141845-1515_C347_EXPANSION.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0b2a3f42/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_2.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0b2a3f42/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf627ba8e/collections/_samsonite/Proxis/500x500/141845-1515_C347_BACK.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf627ba8e/collections/_samsonite/Proxis/500x500/141845-1515_C347_BACK.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa47a634a/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_2.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa47a634a/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw51af9a4a/collections/_samsonite/Proxis/500x500/141845-1515_C347_ADDRESS TAG.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw51af9a4a/collections/_samsonite/Proxis/500x500/141845-1515_C347_ADDRESS TAG.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f743e6b/collections/_samsonite/Proxis/500x500/141845-1515_C347_COMPRESSION STRAP.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1f743e6b/collections/_samsonite/Proxis/500x500/141845-1515_C347_COMPRESSION STRAP.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwef52116b/collections/_samsonite/Proxis/500x500/141845-1515_C347_MEDIA POCKET.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwef52116b/collections/_samsonite/Proxis/500x500/141845-1515_C347_MEDIA POCKET.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw69efda08/collections/_samsonite/Proxis/500x500/141845-1515_C347_USB.jpg?sw=912&sh=912",
+        "index": "10",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw69efda08/collections/_samsonite/Proxis/500x500/141845-1515_C347_USB.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0821431c/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL HANDLE.jpg?sw=912&sh=912",
+        "index": "11",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0821431c/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL HANDLE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc0f35ba1/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL.jpg?sw=912&sh=912",
+        "index": "12",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc0f35ba1/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw72b88696/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_1.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw72b88696/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb6fb3dd8/collections/_samsonite/Proxis/500x500/141845-1515_C347_INTERIOR.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb6fb3dd8/collections/_samsonite/Proxis/500x500/141845-1515_C347_INTERIOR.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwebfc5b9f/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_1.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwebfc5b9f/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw037e164c/collections/_samsonite/Proxis/500x500/141845-1515_C347_EXPANSION.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw037e164c/collections/_samsonite/Proxis/500x500/141845-1515_C347_EXPANSION.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0b2a3f42/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_2.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0b2a3f42/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf627ba8e/collections/_samsonite/Proxis/500x500/141845-1515_C347_BACK.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf627ba8e/collections/_samsonite/Proxis/500x500/141845-1515_C347_BACK.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa47a634a/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_2.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa47a634a/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw51af9a4a/collections/_samsonite/Proxis/500x500/141845-1515_C347_ADDRESS TAG.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw51af9a4a/collections/_samsonite/Proxis/500x500/141845-1515_C347_ADDRESS TAG.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f743e6b/collections/_samsonite/Proxis/500x500/141845-1515_C347_COMPRESSION STRAP.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1f743e6b/collections/_samsonite/Proxis/500x500/141845-1515_C347_COMPRESSION STRAP.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwef52116b/collections/_samsonite/Proxis/500x500/141845-1515_C347_MEDIA POCKET.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwef52116b/collections/_samsonite/Proxis/500x500/141845-1515_C347_MEDIA POCKET.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw69efda08/collections/_samsonite/Proxis/500x500/141845-1515_C347_USB.jpg?sw=176&sh=176",
+        "index": "10",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw69efda08/collections/_samsonite/Proxis/500x500/141845-1515_C347_USB.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0821431c/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL HANDLE.jpg?sw=176&sh=176",
+        "index": "11",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0821431c/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL HANDLE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc0f35ba1/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL.jpg?sw=176&sh=176",
+        "index": "12",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc0f35ba1/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw72b88696/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_1.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw72b88696/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb6fb3dd8/collections/_samsonite/Proxis/500x500/141845-1515_C347_INTERIOR.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb6fb3dd8/collections/_samsonite/Proxis/500x500/141845-1515_C347_INTERIOR.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwebfc5b9f/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_1.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwebfc5b9f/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw037e164c/collections/_samsonite/Proxis/500x500/141845-1515_C347_EXPANSION.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw037e164c/collections/_samsonite/Proxis/500x500/141845-1515_C347_EXPANSION.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0b2a3f42/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_2.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0b2a3f42/collections/_samsonite/Proxis/500x500/141845-1515_C347_SIDE_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf627ba8e/collections/_samsonite/Proxis/500x500/141845-1515_C347_BACK.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf627ba8e/collections/_samsonite/Proxis/500x500/141845-1515_C347_BACK.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa47a634a/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_2.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa47a634a/collections/_samsonite/Proxis/500x500/141845-1515_C347_FRONT34_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw51af9a4a/collections/_samsonite/Proxis/500x500/141845-1515_C347_ADDRESS TAG.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw51af9a4a/collections/_samsonite/Proxis/500x500/141845-1515_C347_ADDRESS TAG.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f743e6b/collections/_samsonite/Proxis/500x500/141845-1515_C347_COMPRESSION STRAP.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1f743e6b/collections/_samsonite/Proxis/500x500/141845-1515_C347_COMPRESSION STRAP.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwef52116b/collections/_samsonite/Proxis/500x500/141845-1515_C347_MEDIA POCKET.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwef52116b/collections/_samsonite/Proxis/500x500/141845-1515_C347_MEDIA POCKET.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw69efda08/collections/_samsonite/Proxis/500x500/141845-1515_C347_USB.jpg?sw=3000&sh=3000",
+        "index": "10",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw69efda08/collections/_samsonite/Proxis/500x500/141845-1515_C347_USB.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0821431c/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL HANDLE.jpg?sw=3000&sh=3000",
+        "index": "11",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0821431c/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL HANDLE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc0f35ba1/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL.jpg?sw=3000&sh=3000",
+        "index": "12",
+        "title": "Proxis Global Carry-On Spinner in the color Lime.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc0f35ba1/collections/_samsonite/Proxis/500x500/141845-1515_C347_WHEEL.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color .",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0d748752/pdps/samsonite/proxis/proxis-carry-on-141845-pdp-description-tile-3000x3000.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner in the color .",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0d748752/pdps/samsonite/proxis/proxis-carry-on-141845-pdp-description-tile-3000x3000.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Proxis Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Proxis Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Lime",
+      "values": [
+        {
+          "id": "1418451041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1418451041",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451041&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd5677a0a/colors/SAM_proxis-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd5677a0a/colors/SAM_proxis-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1418451686",
+          "description": null,
+          "displayValue": "Petrol Blue",
+          "value": "1418451686",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451686&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Petrol Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw756e5048/colors/SAM_proxis-petrol-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Petrol Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw756e5048/colors/SAM_proxis-petrol-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1418456856",
+          "description": null,
+          "displayValue": "Honey Gold",
+          "value": "1418456856",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw568e09c4/colors/SAM_proxis-honey-gold.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw568e09c4/colors/SAM_proxis-honey-gold.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1418451776",
+          "description": null,
+          "displayValue": "Silver",
+          "value": "1418451776",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451776&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Silver.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2a42be5d/colors/SAM_proxis-silver.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Silver.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2a42be5d/colors/SAM_proxis-silver.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1418451515",
+          "description": null,
+          "displayValue": "Lime",
+          "value": "1418451515",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw401a2f3a/colors/SAM-Proxis-Lime.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Lime.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw401a2f3a/colors/SAM-Proxis-Lime.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Take Proxis luggage on your next trip to travel with both confidence and style. The Roxkin&trade; outer shell provides remarkable strength and resilience in a multi-layered lightweight design that you can find only at Samsonite. The ergonomic handle, dual spinner wheels, TSA-friendly lock, and built-in USB port add convenience to your experience, providing you with everything that you need when you\u2019re on the move.<br>&#149; Elongated double tube pull handle<br>&#149; Smooth rolling double wheels<br>&#149; Unimaginably strong - An innovative material produced at Samsonite\u2019s own production plant. Roxkin&trade; bounces back into shape and is resilient to shocks.<br>&#149; The interior offers immense packing capacity with thoughtful features for organized packing.<br>&#149; The two divider pads, large pocket and removable, in-height adjustable cross\u00a0ribbons ensure you can pack and compress your belonging carefully.<br>&#149; Weight: 4.72 lbs.<br><br>Body Dimensions: 19.0\" x 13.1\" x 8.7\"<br>Overall Dimensions: 23.6\" x 16.3\" x 9.3\"",
+  "shortDescription": "Take Proxis luggage on your next trip to travel with both confidence and style. The Roxkin&trade; outer shell provides remarkable strength and resilience in a multi-layered lightweight design that you can find only at Samsonite. The ergonomic handle, dual spinner wheels, TSA-friendly lock, and built-in USB port add convenience to your experience, providing you with everything that you need when you\u2019re on the move.",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=1418451515&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22,
+  "overall-length": 14,
+  "overall-width": 9,
+  "unit-height": 19,
+  "unit-length": 13.1,
+  "unit-width": 8.7,
+  "unit-weight": 4.7,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45",
+  "product-dimensions": "19in\u00a0H x 13.1in\u00a0L x 8.7in\u00a0W",
+  "external-dimensions": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1418451515"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "19in\u00a0H x 13.1in\u00a0L x 8.7in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "specification": "Weight",
+      "value": 4.7
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Roxkin\u2122"
+      ],
+      "tooltip": [
+        "An exclusive multi-layered material developed by Samsonite that bounces back into shape, offering remarkable strength, resilience and lightness. The sophisticated, self-reinforced design resonates confidence and is built to last while fully equipped"
+      ]
+    },
+    {
+      "specification": "USB Port",
+      "value": "Yes",
+      "tooltip": [
+        "Built in USB port lets you power devices on the go. Battery sold separately"
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/proxis-global-carry-on-spinner/141845XXXX.html?dwvar_141845XXXX_color=1418451515&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Proxis Carry-On Spinner | Carry-On Luggage | Samsonite",
+  "pageDescription": "Unlock a new era of traveling with the Proxis Carry-On Spinner. Its sophisticated design, with its Roxkin\u2122 outer shell material, inspires confidence.",
+  "pageKeywords": "samsonite carry on silver, samsonite proxis carry on",
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>Take Proxis luggage on your next trip to travel with both confidence and style. The Roxkin&trade; outer shell provides remarkable strength and resilience in a multi-layered lightweight design that you can find only at Samsonite.<br><br><li>Overall Dimensions: 22 in. x 14 in. x 9 in.</li><li>Weight: 4.6 lbs</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "153102XXXX"
+    },
+    {
+      "ID": "153104XXXX"
+    },
+    {
+      "ID": "141848XXXX"
+    },
+    {
+      "ID": "141847XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [
+    {
+      "class": "token-background--accent text--white font-size--12 font-size--lg--16",
+      "name": "New"
+    }
+  ],
+  "selectedColorName": "Lime",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1418451515"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "19in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13.1in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8.7in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "4.7lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Roxkin\u2122"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle",
+        "Top Carry Handle",
+        "Side carry handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Cross straps",
+        "TSA Lock",
+        "Expandable"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "Yes",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1418451515",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

@@ -11,6 +11,7 @@ import os
 import json
 import re
 import requests
+import csv
 
 
 # NOTE ABOUT IDS:
@@ -110,9 +111,6 @@ def get_product_ids():
     return product_ids
 
 # TODOLIST:
-# - if the page shows a captcha, wait until the user solves it and then continue. make some kinda of notification. keep checking for the captcha page to go away.
-# - get the color ids then get the product details for each color.
-# - opt to not refetch the product details from the page if the file already exists.
 # - proper file naming and folder structure.
 # - create class with all information for each product.
 # - create object to track dimensions + object for weight?
@@ -201,7 +199,6 @@ def append_to_image_urls(images, brand, name, color):
 
 # returns (product brand, product name, product color, product dimensions, product weight)
 # calls download images function with list of image urls
-# TODO: wrap the json getting stuff and driver.get(url) in a try that checks for a attribute error since that means theres a captcha. if there is a captcha, keep the window open and wait for the user to complete it
 def get_product_color_details(driver, color_id):
     pid = color_id[:-4] + "XXXX"
     url = f"{QUICK_VIEW_BASE_URL}{pid}&dwvar_{pid}_color={color_id}"
@@ -217,12 +214,13 @@ def get_product_color_details(driver, color_id):
                 break
         if json_file_path:
             break
-    if os.path.exists(json_file_path):
+    if json_file_path is not None and os.path.exists(json_file_path):
         logger.info(f"JSON file for color ID {color_id} already exists. Loading from file.")
         with open(json_file_path, 'r', encoding='utf-8') as f:
             product_data = json.load(f)
     else:
         driver.get(url)
+        time.sleep(2)
         html = driver.page_source
 
         # Check for captcha
@@ -272,6 +270,17 @@ def main():
     # Create the main raw data folder if it doesn't exist
     os.makedirs(RAW_DATA_FOLDER, exist_ok=True)
     
+    # Define CSV headers
+    headers = ['Brand', 'Product Name', 'Color', 'Dimensions', 'Weight']
+    csv_path = os.path.join(RAW_DATA_FOLDER, 'samsonite_data.csv')
+    
+    # Check if CSV exists, create it with headers if it doesn't
+    csv_exists = os.path.exists(csv_path)
+    if not csv_exists:
+        with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(headers)
+    
     pids = get_product_ids()
     driver = setup_driver()
     product_colors = {}
@@ -300,9 +309,12 @@ def main():
     for product_name, color_mapping in product_colors.items():
         for color_name, color_id in color_mapping.items():
             product_details = get_product_color_details(driver, color_id)
-            time.sleep(2)
+            if product_details:  # Only append if we got valid details
+                with open(csv_path, 'a', newline='', encoding='utf-8') as f:
+                    writer = csv.writer(f)
+                    writer.writerow(product_details)
+                logger.info(f"Appended details for {product_name} - {color_name} to CSV")
     driver.quit()
-    # TODO: write function and call it that appends all the info to a csv
 
 
 if __name__ == "__main__":

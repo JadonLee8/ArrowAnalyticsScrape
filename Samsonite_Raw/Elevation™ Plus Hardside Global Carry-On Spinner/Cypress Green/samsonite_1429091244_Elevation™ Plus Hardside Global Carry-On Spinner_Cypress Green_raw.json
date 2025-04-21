@@ -1,0 +1,715 @@
+{
+  "uuid": "12e95e1c5b08fcf0fcb5b8e498",
+  "id": "1429091244",
+  "productName": "Elevation\u2122 Plus Hardside Global Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "142909XXXX",
+    "name": "Elevation\u2122 Plus Hardside Global Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "209.99",
+    "item_id": "142909XXXX",
+    "item_variant": "1429091244",
+    "variant": "1429091244",
+    "item_color": "Green"
+  },
+  "gtmGA4Data": {
+    "item_id": "142909XXXX",
+    "item_variant": "1429091244",
+    "item_name": "Elevation\u2122 Plus Hardside Global Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 209.99,
+    "currencyCode": "USD",
+    "variant": "1429091244",
+    "item_color": "Green"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 209.99,
+      "currency": "USD",
+      "formatted": "$209.99",
+      "decimalPrice": "209.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"209.99\">\n        \n        $209.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $209.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw65f652f2/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Corrected.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw65f652f2/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Corrected.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a612414/collections/_samsonite/Elevation/500x500/1429102620_COSpin_Lifestyle_Front_Door.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a612414/collections/_samsonite/Elevation/500x500/1429102620_COSpin_Lifestyle_Front_Door.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8541cff/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_10_Wheels.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe8541cff/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_10_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb9ed99c9/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Interior.gif?sw=912&sh=912",
+        "index": "3",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb9ed99c9/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Interior.gif",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd5fa864c/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Lifestyle3.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd5fa864c/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Lifestyle3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw83989705/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_3_Top_Pull_Handle.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw83989705/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_3_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5ceb013f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_4_FrontPanel_Tablet.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5ceb013f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_4_FrontPanel_Tablet.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbe30fe3f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_5_Front_Panel_Laptop.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbe30fe3f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_5_Front_Panel_Laptop.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa97b7974/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_6_AirTag.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa97b7974/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_6_AirTag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a4660a8/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_8_TSA_Lock.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a4660a8/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_8_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw12251169/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_9_Removable_Pouch.jpg?sw=912&sh=912",
+        "index": "10",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw12251169/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_9_Removable_Pouch.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw65f652f2/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Corrected.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw65f652f2/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Corrected.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a612414/collections/_samsonite/Elevation/500x500/1429102620_COSpin_Lifestyle_Front_Door.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a612414/collections/_samsonite/Elevation/500x500/1429102620_COSpin_Lifestyle_Front_Door.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8541cff/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_10_Wheels.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe8541cff/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_10_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb9ed99c9/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Interior.gif?sw=176&sh=176",
+        "index": "3",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb9ed99c9/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Interior.gif",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd5fa864c/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Lifestyle3.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd5fa864c/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Lifestyle3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw83989705/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_3_Top_Pull_Handle.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw83989705/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_3_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5ceb013f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_4_FrontPanel_Tablet.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5ceb013f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_4_FrontPanel_Tablet.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbe30fe3f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_5_Front_Panel_Laptop.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbe30fe3f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_5_Front_Panel_Laptop.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa97b7974/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_6_AirTag.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa97b7974/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_6_AirTag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a4660a8/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_8_TSA_Lock.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a4660a8/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_8_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw12251169/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_9_Removable_Pouch.jpg?sw=176&sh=176",
+        "index": "10",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw12251169/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_9_Removable_Pouch.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw65f652f2/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Corrected.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw65f652f2/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Corrected.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a612414/collections/_samsonite/Elevation/500x500/1429102620_COSpin_Lifestyle_Front_Door.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a612414/collections/_samsonite/Elevation/500x500/1429102620_COSpin_Lifestyle_Front_Door.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8541cff/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_10_Wheels.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe8541cff/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_10_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb9ed99c9/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Interior.gif",
+        "index": "3",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb9ed99c9/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Interior.gif",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd5fa864c/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Lifestyle3.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd5fa864c/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_Lifestyle3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw83989705/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_3_Top_Pull_Handle.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw83989705/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_3_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5ceb013f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_4_FrontPanel_Tablet.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5ceb013f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_4_FrontPanel_Tablet.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbe30fe3f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_5_Front_Panel_Laptop.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbe30fe3f/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_5_Front_Panel_Laptop.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa97b7974/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_6_AirTag.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa97b7974/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_6_AirTag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a4660a8/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_8_TSA_Lock.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a4660a8/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_8_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw12251169/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_9_Removable_Pouch.jpg?sw=3000&sh=3000",
+        "index": "10",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw12251169/collections/_samsonite/Elevation/500x500/1429091244_22x14x9_9_Removable_Pouch.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Cypress Green",
+      "values": [
+        {
+          "id": "1429091549",
+          "description": null,
+          "displayValue": "Midnight Blue",
+          "value": "1429091549",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091549&pid=142909XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Midnight Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbb54fadf/colors/SAM_elevation-midnight-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Midnight Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbb54fadf/colors/SAM_elevation-midnight-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1429092620",
+          "description": null,
+          "displayValue": "Triple Black",
+          "value": "1429092620",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429092620&pid=142909XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Triple Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6728e96b/colors/SAM_elevation-triple-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Triple Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6728e96b/colors/SAM_elevation-triple-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1429091244",
+          "description": null,
+          "displayValue": "Cypress Green",
+          "value": "1429091244",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=&pid=142909XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9ff458d1/colors/SAM_elevation-cypress-green.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Elevation\u2122 Plus Hardside Global Carry-On Spinner in the color Cypress Green.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9ff458d1/colors/SAM_elevation-cypress-green.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Bring stylish convenience on your next journey with the Elevation&trade; Plus 22 x 14 x 9 Carry-on Spinner. Keep your most important essentials within reach with the innovative QuickEntry&trade; pocket, featuring air-mesh sleeves that safely hold up to a 13-inch laptop. The case\u2019s interior offers unmatched packing capabilities, keeping your belongings organized and secure. This unique carry-on spinner meets most airlines' carry-on requirements with the overall 22\u201d x 14\u201d x 9\u201d measurement (check your airline for final requirement.)\r\n<ul><li>RightHeight&trade; handle system with multiple 1\u201d adjustments and an ergonomically designed TPR comfort grip</li><li>Modernly designed hubcaps with durable and smooth nylon tires</li><li>Fuzion&trade; zippers by YKK&reg; eliminate traditional weak points for long-lasting strength and durability</li><li>Polypropylene material that's known for its flexural strength and fatigue resistance</li><li>All interior lining fabric is made from Recyclex&trade; material that's woven from 100% post-consumer recycled plastic bottles</li><li>Fully removable garment-divider functions as a compression panel, keeping all the belongings organized and wrinkle free while on the go</li><li>Zippered lining and Wetpak&trade; pockets on the secondary divider keep all the toiletry and small accessories neat</li><li>The carry on also comes with a versatile Tecfolio&trade; pouch for loose charging cables, makeup brushes, and other endless possibilities</li><li>The keyless TSA-approved lock keeps both compartments secured with the same locking mechanism</li><li>Integrated AirTag is located subtly right behind the front compartment zipper divider</li><li>Carry-On size and weight allowances vary by airlines. Go to <a href=\"http://shop.samsonite.com/airline-carry-on-guide.html\">shop.samsonite.com/airline-carry-on-guide</a> for more details. If the bag is overstuffed, it may not be accepted by the airlines</li></ul>",
+  "shortDescription": "Bring stylish convenience on your next journey with the Elevation&trade; Plus 22 x 14 x 9 Carry-on Spinner. Keep your most important essentials within reach with the innovative QuickEntry&trade; pocket, featuring air-mesh sleeves that safely hold up to a 13-inch laptop. The case\u2019s interior offers unmatched packing capabilities, keeping your belongings organized and secure. This unique carry-on spinner meets most airlines' carry-on requirements with the overall 22\u201d x 14\u201d x 9\u201d measurement (check your airline for final requirement.)",
+  "rating": 3.7,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142909XXXX_color=1429091244&pid=1429091244&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22,
+  "overall-length": 14,
+  "overall-width": 9,
+  "unit-height": 20,
+  "unit-length": 13.8,
+  "unit-width": 9,
+  "unit-weight": 8.5,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45",
+  "product-dimensions": "20in\u00a0H x 13.8in\u00a0L x 9in\u00a0W",
+  "external-dimensions": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1429091244"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20in\u00a0H x 13.8in\u00a0L x 9in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "specification": "Weight",
+      "value": 8.5
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polypropylene"
+      ],
+      "tooltip": [
+        "Suitcase shell material is made of injection molded polyproplyene, a highly impact-resistant plastic that is strong, lightweight, flexible, and moisture resistant.",
+        "Recyclex&reg; polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/elevation%E2%84%A2-plus-hardside-global-carry-on-spinner/142909XXXX.html?dwvar_142909XXXX_color=1429091244&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Elevation\u2122 Plus Global Carry-On Spinner | Hardside | Samsonite",
+  "pageDescription": "The Elevation\u2122 Plus Global Carry-On Spinner is a stylish and functional carry-on for your travel needs.",
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "142911XXXX"
+    },
+    {
+      "ID": "142910XXXX"
+    },
+    {
+      "ID": "142908XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Cypress Green",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1429091244"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13.8in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "9in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "8.5lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polypropylene"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "Side Carry Handle",
+        "RightHeight\u2122 Pull Handle",
+        "Push Button Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "TSA Lock",
+        "Stash Pockets"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1429091244",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

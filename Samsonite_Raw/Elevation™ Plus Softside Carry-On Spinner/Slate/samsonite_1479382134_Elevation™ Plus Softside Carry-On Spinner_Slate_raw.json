@@ -1,0 +1,674 @@
+{
+  "uuid": "7f3662914db5db405e6b0934f1",
+  "id": "1479382134",
+  "productName": "Elevation\u2122 Plus Softside Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "147938XXXX",
+    "name": "Elevation\u2122 Plus Softside Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "229.99",
+    "item_id": "147938XXXX",
+    "item_variant": "1479382134",
+    "variant": "1479382134",
+    "item_color": "Grey"
+  },
+  "gtmGA4Data": {
+    "item_id": "147938XXXX",
+    "item_variant": "1479382134",
+    "item_name": "Elevation\u2122 Plus Softside Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 229.99,
+    "currencyCode": "USD",
+    "variant": "1479382134",
+    "item_color": "Grey"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 229.99,
+      "currency": "USD",
+      "formatted": "$229.99",
+      "decimalPrice": "229.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"229.99\">\n        \n        $229.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $229.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1c544567/collections/_samsonite/Elevation/500x500/147938-2134-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1c544567/collections/_samsonite/Elevation/500x500/147938-2134-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9b258e7b/collections/_samsonite/Elevation/500x500/147938-2134-INTERIOR-10.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9b258e7b/collections/_samsonite/Elevation/500x500/147938-2134-INTERIOR-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw313b440b/collections/_samsonite/Elevation/500x500/147938-2134-BACK34-3.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw313b440b/collections/_samsonite/Elevation/500x500/147938-2134-BACK34-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb29d74d9/collections/_samsonite/Elevation/500x500/147938-2134-WETPOCKET-12.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb29d74d9/collections/_samsonite/Elevation/500x500/147938-2134-WETPOCKET-12.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf6353149/collections/_samsonite/Elevation/500x500/147938-2134-EXPANSION-11.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf6353149/collections/_samsonite/Elevation/500x500/147938-2134-EXPANSION-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4f1ff76a/collections/_samsonite/Elevation/500x500/147938-2134-ACCESSORY_CLIP-8.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4f1ff76a/collections/_samsonite/Elevation/500x500/147938-2134-ACCESSORY_CLIP-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw02bee806/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-6.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw02bee806/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw86ab0aa7/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-7.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw86ab0aa7/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf0465f98/collections/_samsonite/Elevation/500x500/147938-2134-HANDLE-9.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf0465f98/collections/_samsonite/Elevation/500x500/147938-2134-HANDLE-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc3074400/collections/_samsonite/Elevation/500x500/147938-1549-WHEEL-14.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc3074400/collections/_samsonite/Elevation/500x500/147938-1549-WHEEL-14.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1c544567/collections/_samsonite/Elevation/500x500/147938-2134-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1c544567/collections/_samsonite/Elevation/500x500/147938-2134-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9b258e7b/collections/_samsonite/Elevation/500x500/147938-2134-INTERIOR-10.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9b258e7b/collections/_samsonite/Elevation/500x500/147938-2134-INTERIOR-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw313b440b/collections/_samsonite/Elevation/500x500/147938-2134-BACK34-3.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw313b440b/collections/_samsonite/Elevation/500x500/147938-2134-BACK34-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb29d74d9/collections/_samsonite/Elevation/500x500/147938-2134-WETPOCKET-12.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb29d74d9/collections/_samsonite/Elevation/500x500/147938-2134-WETPOCKET-12.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf6353149/collections/_samsonite/Elevation/500x500/147938-2134-EXPANSION-11.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf6353149/collections/_samsonite/Elevation/500x500/147938-2134-EXPANSION-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4f1ff76a/collections/_samsonite/Elevation/500x500/147938-2134-ACCESSORY_CLIP-8.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4f1ff76a/collections/_samsonite/Elevation/500x500/147938-2134-ACCESSORY_CLIP-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw02bee806/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-6.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw02bee806/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw86ab0aa7/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-7.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw86ab0aa7/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf0465f98/collections/_samsonite/Elevation/500x500/147938-2134-HANDLE-9.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf0465f98/collections/_samsonite/Elevation/500x500/147938-2134-HANDLE-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc3074400/collections/_samsonite/Elevation/500x500/147938-1549-WHEEL-14.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc3074400/collections/_samsonite/Elevation/500x500/147938-1549-WHEEL-14.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1c544567/collections/_samsonite/Elevation/500x500/147938-2134-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1c544567/collections/_samsonite/Elevation/500x500/147938-2134-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9b258e7b/collections/_samsonite/Elevation/500x500/147938-2134-INTERIOR-10.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9b258e7b/collections/_samsonite/Elevation/500x500/147938-2134-INTERIOR-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw313b440b/collections/_samsonite/Elevation/500x500/147938-2134-BACK34-3.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw313b440b/collections/_samsonite/Elevation/500x500/147938-2134-BACK34-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb29d74d9/collections/_samsonite/Elevation/500x500/147938-2134-WETPOCKET-12.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb29d74d9/collections/_samsonite/Elevation/500x500/147938-2134-WETPOCKET-12.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf6353149/collections/_samsonite/Elevation/500x500/147938-2134-EXPANSION-11.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf6353149/collections/_samsonite/Elevation/500x500/147938-2134-EXPANSION-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4f1ff76a/collections/_samsonite/Elevation/500x500/147938-2134-ACCESSORY_CLIP-8.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4f1ff76a/collections/_samsonite/Elevation/500x500/147938-2134-ACCESSORY_CLIP-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw02bee806/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-6.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw02bee806/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw86ab0aa7/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-7.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw86ab0aa7/collections/_samsonite/Elevation/500x500/147938-2134-FRONT_POCKET-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf0465f98/collections/_samsonite/Elevation/500x500/147938-2134-HANDLE-9.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf0465f98/collections/_samsonite/Elevation/500x500/147938-2134-HANDLE-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc3074400/collections/_samsonite/Elevation/500x500/147938-1549-WHEEL-14.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc3074400/collections/_samsonite/Elevation/500x500/147938-1549-WHEEL-14.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Elevation\u2122 Plus Softside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Softside Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Slate",
+      "values": [
+        {
+          "id": "1479381244",
+          "description": null,
+          "displayValue": "Cypress Green",
+          "value": "1479381244",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479381244&pid=147938XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Cypress Green.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb964c07/colors/SAM_elevationSS-cypress-green.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Cypress Green.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb964c07/colors/SAM_elevationSS-cypress-green.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1479381549",
+          "description": null,
+          "displayValue": "Midnight Blue",
+          "value": "1479381549",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479381549&pid=147938XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Midnight Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw63be659e/colors/SAM_elevationSS-midnight-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Midnight Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw63be659e/colors/SAM_elevationSS-midnight-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1479382134",
+          "description": null,
+          "displayValue": "Slate",
+          "value": "1479382134",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=&pid=147938XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw342110db/colors/SAM_elevationSS-slate.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Elevation\u2122 Plus Softside Carry-On Spinner in the color Slate.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw342110db/colors/SAM_elevationSS-slate.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "The Carry-On Expandable Spinner offers a brand new design language using soft forms and contemporary materials, creating a beautiful minimal aesthetic without compromising on elevated details and thoughtful features.",
+  "rating": 3.3,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_147938XXXX_color=1479382134&pid=1479382134&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 24.5,
+  "overall-length": 15.8,
+  "overall-width": 10.5,
+  "unit-height": 21.3,
+  "unit-length": 14.5,
+  "unit-width": 8.5,
+  "unit-weight": 8.2,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "50.8",
+  "product-dimensions": "21.3in\u00a0H x 14.5in\u00a0L x 8.5in\u00a0W",
+  "external-dimensions": "24.5in\u00a0H x 15.8in\u00a0L x 10.5in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1479382134"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "24.5in\u00a0H x 15.8in\u00a0L x 10.5in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "21.3in\u00a0H x 14.5in\u00a0L x 8.5in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "50.8"
+    },
+    {
+      "specification": "Weight",
+      "value": 8.2
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Recyclex\u00ae"
+      ],
+      "tooltip": [
+        "Recyclex\u00ae polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/elevation%E2%84%A2-plus-softside-carry-on-spinner/147938XXXX.html?dwvar_147938XXXX_color=1479382134&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Elevation\u2122 Plus Carry-On Spinner | Softside | Samsonite",
+  "pageDescription": "The\u00a0Elevation\u2122 Plus\u00a0softside\u00a0Carry-On Spinner\u00a0has sleek contours, intelligent packing, and durable materials for travelers who demand excellence.",
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "148761XXXX"
+    },
+    {
+      "ID": "149197XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Slate",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1479382134"
+    },
+    {
+      "name": "Overall Height",
+      "value": "24.5in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15.8in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "10.5in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "21.3in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.5in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8.5in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "8.2lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "50.8"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Recyclex\u00ae"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "Retractable Handle",
+        "Side Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": "\u2014"
+    },
+    {
+      "name": "Packing Features",
+      "value": "\u2014"
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1479382134",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

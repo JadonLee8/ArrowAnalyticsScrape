@@ -1,0 +1,744 @@
+{
+  "uuid": "ec927f5f3d55e22f453299fd71",
+  "id": "1429101549",
+  "productName": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "142910XXXX",
+    "name": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "219.99",
+    "item_id": "142910XXXX",
+    "item_variant": "1429101549",
+    "variant": "1429101549",
+    "item_color": "Blue"
+  },
+  "gtmGA4Data": {
+    "item_id": "142910XXXX",
+    "item_variant": "1429101549",
+    "item_name": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner",
+    "item_category": "Carry-On",
+    "price": 219.99,
+    "currencyCode": "USD",
+    "variant": "1429101549",
+    "item_color": "Blue"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 219.99,
+      "currency": "USD",
+      "formatted": "$219.99",
+      "decimalPrice": "219.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"219.99\">\n        \n        $219.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $219.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4547c45e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Corrected.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4547c45e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Corrected.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwde8e82dc/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Lifestyle3.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwde8e82dc/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Lifestyle3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw01bff8c2/collections/_samsonite/Elevation/500x500/ebags_10.06.23_Site_PDP_Red_Dot.png?sw=912&sh=912",
+        "index": "2",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw01bff8c2/collections/_samsonite/Elevation/500x500/ebags_10.06.23_Site_PDP_Red_Dot.png",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw091db634/collections/_samsonite/Elevation/500x500/1429101549_COSpin_10_Wheels.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw091db634/collections/_samsonite/Elevation/500x500/1429101549_COSpin_10_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9fdc8280/collections/_samsonite/Elevation/500x500/1429101549_COSpin_2_Interior.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9fdc8280/collections/_samsonite/Elevation/500x500/1429101549_COSpin_2_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw93cfbf23/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Interior_Lifestyle.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw93cfbf23/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Interior_Lifestyle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf9e4ca19/collections/_samsonite/Elevation/500x500/1429101549_COSpin_3_Top_Pull_Handle.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf9e4ca19/collections/_samsonite/Elevation/500x500/1429101549_COSpin_3_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd8543e06/collections/_samsonite/Elevation/500x500/1429101549_COSpin_4_FrontPanel_Tablet.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd8543e06/collections/_samsonite/Elevation/500x500/1429101549_COSpin_4_FrontPanel_Tablet.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw197ab6b9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_5_FrontPanel_Laptop.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw197ab6b9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_5_FrontPanel_Laptop.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1d0a4e5e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_6_AirTag.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1d0a4e5e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_6_AirTag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw392d621f/collections/_samsonite/Elevation/500x500/1429101549_COSpin_8_TSA_Lock.jpg?sw=912&sh=912",
+        "index": "10",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw392d621f/collections/_samsonite/Elevation/500x500/1429101549_COSpin_8_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1a5ac4a9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_9_Remove_Pouch.jpg?sw=912&sh=912",
+        "index": "11",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1a5ac4a9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_9_Remove_Pouch.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4547c45e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Corrected.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4547c45e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Corrected.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwde8e82dc/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Lifestyle3.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwde8e82dc/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Lifestyle3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw01bff8c2/collections/_samsonite/Elevation/500x500/ebags_10.06.23_Site_PDP_Red_Dot.png?sw=176&sh=176",
+        "index": "2",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw01bff8c2/collections/_samsonite/Elevation/500x500/ebags_10.06.23_Site_PDP_Red_Dot.png",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw091db634/collections/_samsonite/Elevation/500x500/1429101549_COSpin_10_Wheels.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw091db634/collections/_samsonite/Elevation/500x500/1429101549_COSpin_10_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9fdc8280/collections/_samsonite/Elevation/500x500/1429101549_COSpin_2_Interior.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9fdc8280/collections/_samsonite/Elevation/500x500/1429101549_COSpin_2_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw93cfbf23/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Interior_Lifestyle.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw93cfbf23/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Interior_Lifestyle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf9e4ca19/collections/_samsonite/Elevation/500x500/1429101549_COSpin_3_Top_Pull_Handle.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf9e4ca19/collections/_samsonite/Elevation/500x500/1429101549_COSpin_3_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd8543e06/collections/_samsonite/Elevation/500x500/1429101549_COSpin_4_FrontPanel_Tablet.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd8543e06/collections/_samsonite/Elevation/500x500/1429101549_COSpin_4_FrontPanel_Tablet.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw197ab6b9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_5_FrontPanel_Laptop.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw197ab6b9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_5_FrontPanel_Laptop.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1d0a4e5e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_6_AirTag.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1d0a4e5e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_6_AirTag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw392d621f/collections/_samsonite/Elevation/500x500/1429101549_COSpin_8_TSA_Lock.jpg?sw=176&sh=176",
+        "index": "10",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw392d621f/collections/_samsonite/Elevation/500x500/1429101549_COSpin_8_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1a5ac4a9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_9_Remove_Pouch.jpg?sw=176&sh=176",
+        "index": "11",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1a5ac4a9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_9_Remove_Pouch.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4547c45e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Corrected.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4547c45e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Corrected.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwde8e82dc/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Lifestyle3.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwde8e82dc/collections/_samsonite/Elevation/500x500/1429091549_22x14x9_Lifestyle3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw01bff8c2/collections/_samsonite/Elevation/500x500/ebags_10.06.23_Site_PDP_Red_Dot.png?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw01bff8c2/collections/_samsonite/Elevation/500x500/ebags_10.06.23_Site_PDP_Red_Dot.png",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw091db634/collections/_samsonite/Elevation/500x500/1429101549_COSpin_10_Wheels.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw091db634/collections/_samsonite/Elevation/500x500/1429101549_COSpin_10_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9fdc8280/collections/_samsonite/Elevation/500x500/1429101549_COSpin_2_Interior.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9fdc8280/collections/_samsonite/Elevation/500x500/1429101549_COSpin_2_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw93cfbf23/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Interior_Lifestyle.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw93cfbf23/collections/_samsonite/Elevation/500x500/1429101549_COSpin_Interior_Lifestyle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf9e4ca19/collections/_samsonite/Elevation/500x500/1429101549_COSpin_3_Top_Pull_Handle.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf9e4ca19/collections/_samsonite/Elevation/500x500/1429101549_COSpin_3_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd8543e06/collections/_samsonite/Elevation/500x500/1429101549_COSpin_4_FrontPanel_Tablet.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd8543e06/collections/_samsonite/Elevation/500x500/1429101549_COSpin_4_FrontPanel_Tablet.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw197ab6b9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_5_FrontPanel_Laptop.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw197ab6b9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_5_FrontPanel_Laptop.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1d0a4e5e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_6_AirTag.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1d0a4e5e/collections/_samsonite/Elevation/500x500/1429101549_COSpin_6_AirTag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw392d621f/collections/_samsonite/Elevation/500x500/1429101549_COSpin_8_TSA_Lock.jpg?sw=3000&sh=3000",
+        "index": "10",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw392d621f/collections/_samsonite/Elevation/500x500/1429101549_COSpin_8_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1a5ac4a9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_9_Remove_Pouch.jpg?sw=3000&sh=3000",
+        "index": "11",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1a5ac4a9/collections/_samsonite/Elevation/500x500/1429101549_COSpin_9_Remove_Pouch.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Midnight Blue",
+      "values": [
+        {
+          "id": "1429101549",
+          "description": null,
+          "displayValue": "Midnight Blue",
+          "value": "1429101549",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=&pid=142910XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbb54fadf/colors/SAM_elevation-midnight-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Midnight Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbb54fadf/colors/SAM_elevation-midnight-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1429101244",
+          "description": null,
+          "displayValue": "Cypress Green",
+          "value": "1429101244",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101244&pid=142910XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Cypress Green.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9ff458d1/colors/SAM_elevation-cypress-green.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Cypress Green.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9ff458d1/colors/SAM_elevation-cypress-green.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1429102620",
+          "description": null,
+          "displayValue": "Triple Black",
+          "value": "1429102620",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429102620&pid=142910XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Triple Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6728e96b/colors/SAM_elevation-triple-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Elevation\u2122 Plus Hardside Carry-On Pro Spinner in the color Triple Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6728e96b/colors/SAM_elevation-triple-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Bring stylish convenience on your next journey with the Elevation&trade; Plus Carry-on Spinner. Keep your most important essentials within reach with the innovative QuickEntry&trade; pocket, featuring air-mesh sleeves that safely hold up to a 15-inch standard size laptop and a 13-inch tablet. The case\u2019s interior offers unmatched packing capabilities, keeping your belongings organized and secure while on-the-go.",
+  "shortDescription": "Bring stylish convenience on your next journey with the Elevation\u2122 Plus Carry-on Spinner. Keep your most important essentials within reach with the innovative QuickEntry\u2122 pocket, featuring air-mesh sleeves that safely hold up to a 15-inch standard size laptop and a 13-inch tablet. The case\u2019s interior offers unmatched packing capabilities, keeping your belongings organized and secure while on-the-go.",
+  "rating": 3.7,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_142910XXXX_color=1429101549&pid=1429101549&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 23,
+  "overall-length": 15,
+  "overall-width": 10,
+  "unit-height": 20.5,
+  "unit-length": 14.5,
+  "unit-width": 10,
+  "unit-weight": 9.4,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "48",
+  "product-dimensions": "20.5in\u00a0H x 14.5in\u00a0L x 10in\u00a0W",
+  "external-dimensions": "23in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1429101549"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "23in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20.5in\u00a0H x 14.5in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "48"
+    },
+    {
+      "specification": "Weight",
+      "value": 9.4
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polypropylene"
+      ],
+      "tooltip": [
+        "Suitcase shell material is made of injection molded polyproplyene, a highly impact-resistant plastic that is strong, lightweight, flexible, and moisture resistant.",
+        "Recyclex&reg; polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/elevation%E2%84%A2-plus-hardside-carry-on-pro-spinner/142910XXXX.html?dwvar_142910XXXX_color=1429101549&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Elevation\u2122 Plus Carry-On Spinner | Hardside  | Samsonite",
+  "pageDescription": "Keep your essentials within reach with the Elevation\u2122 Plus Carry-On Spinner, a stylish carry-on that will make your next journey more convenient.",
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "142911XXXX"
+    },
+    {
+      "ID": "147935XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Midnight Blue",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1429101549"
+    },
+    {
+      "name": "Overall Height",
+      "value": "23in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "10in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20.5in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.5in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "10in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "9.4lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "48"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polypropylene"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "Side Carry Handle",
+        "RightHeight\u2122 Pull Handle",
+        "Push Button Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Expandable",
+        "TSA Lock",
+        "Stash Pockets"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1429101549",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

@@ -1,0 +1,614 @@
+{
+  "uuid": "d0f43e8dde847de41256e4c25f",
+  "id": "1496184127",
+  "productName": "Framelock Max Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "149618XXXX",
+    "name": "Framelock Max Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "195.99",
+    "item_id": "149618XXXX",
+    "item_variant": "1496184127",
+    "variant": "1496184127",
+    "item_color": "Blue"
+  },
+  "gtmGA4Data": {
+    "item_id": "149618XXXX",
+    "item_variant": "1496184127",
+    "item_name": "Framelock Max Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 195.99,
+    "currencyCode": "USD",
+    "variant": "1496184127",
+    "item_color": "Blue"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 195.99,
+      "currency": "USD",
+      "formatted": "$195.99",
+      "decimalPrice": "195.99"
+    },
+    "list": {
+      "value": 279.99,
+      "currency": "USD",
+      "formatted": "$279.99",
+      "decimalPrice": "279.99"
+    },
+    "percentageOff": "30% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"195.99\">\n        \n        $195.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"279.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $279.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $195.99 , was $279.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw18467a50/collections/_samsonite/Framelock-Max/500x500/149618-4127-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw18467a50/collections/_samsonite/Framelock-Max/500x500/149618-4127-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6d781de7/collections/_samsonite/Framelock-Max/500x500/149618-4127-INTERIOR-6.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6d781de7/collections/_samsonite/Framelock-Max/500x500/149618-4127-INTERIOR-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw50fc82eb/collections/_samsonite/Framelock-Max/500x500/149618-4127_D617_LIFESTYLE_2_Updated.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw50fc82eb/collections/_samsonite/Framelock-Max/500x500/149618-4127_D617_LIFESTYLE_2_Updated.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24955a3e/collections/_samsonite/Framelock-Max/500x500/149618-4127-HANDLE-4.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24955a3e/collections/_samsonite/Framelock-Max/500x500/149618-4127-HANDLE-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7fc5ca6e/collections/_samsonite/Framelock-Max/500x500/149618-4127-LOCK-7.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7fc5ca6e/collections/_samsonite/Framelock-Max/500x500/149618-4127-LOCK-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaf19091d/collections/_samsonite/Framelock-Max/500x500/149618-4127-WHEEL-5.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaf19091d/collections/_samsonite/Framelock-Max/500x500/149618-4127-WHEEL-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1a2841cd/collections/_samsonite/Framelock-Max/500x500/149618-4127-LIFESTYLE-8.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1a2841cd/collections/_samsonite/Framelock-Max/500x500/149618-4127-LIFESTYLE-8.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw18467a50/collections/_samsonite/Framelock-Max/500x500/149618-4127-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw18467a50/collections/_samsonite/Framelock-Max/500x500/149618-4127-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6d781de7/collections/_samsonite/Framelock-Max/500x500/149618-4127-INTERIOR-6.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6d781de7/collections/_samsonite/Framelock-Max/500x500/149618-4127-INTERIOR-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw50fc82eb/collections/_samsonite/Framelock-Max/500x500/149618-4127_D617_LIFESTYLE_2_Updated.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw50fc82eb/collections/_samsonite/Framelock-Max/500x500/149618-4127_D617_LIFESTYLE_2_Updated.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24955a3e/collections/_samsonite/Framelock-Max/500x500/149618-4127-HANDLE-4.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24955a3e/collections/_samsonite/Framelock-Max/500x500/149618-4127-HANDLE-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7fc5ca6e/collections/_samsonite/Framelock-Max/500x500/149618-4127-LOCK-7.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7fc5ca6e/collections/_samsonite/Framelock-Max/500x500/149618-4127-LOCK-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaf19091d/collections/_samsonite/Framelock-Max/500x500/149618-4127-WHEEL-5.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaf19091d/collections/_samsonite/Framelock-Max/500x500/149618-4127-WHEEL-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1a2841cd/collections/_samsonite/Framelock-Max/500x500/149618-4127-LIFESTYLE-8.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1a2841cd/collections/_samsonite/Framelock-Max/500x500/149618-4127-LIFESTYLE-8.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw18467a50/collections/_samsonite/Framelock-Max/500x500/149618-4127-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw18467a50/collections/_samsonite/Framelock-Max/500x500/149618-4127-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6d781de7/collections/_samsonite/Framelock-Max/500x500/149618-4127-INTERIOR-6.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6d781de7/collections/_samsonite/Framelock-Max/500x500/149618-4127-INTERIOR-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw50fc82eb/collections/_samsonite/Framelock-Max/500x500/149618-4127_D617_LIFESTYLE_2_Updated.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw50fc82eb/collections/_samsonite/Framelock-Max/500x500/149618-4127_D617_LIFESTYLE_2_Updated.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24955a3e/collections/_samsonite/Framelock-Max/500x500/149618-4127-HANDLE-4.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24955a3e/collections/_samsonite/Framelock-Max/500x500/149618-4127-HANDLE-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7fc5ca6e/collections/_samsonite/Framelock-Max/500x500/149618-4127-LOCK-7.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7fc5ca6e/collections/_samsonite/Framelock-Max/500x500/149618-4127-LOCK-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaf19091d/collections/_samsonite/Framelock-Max/500x500/149618-4127-WHEEL-5.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaf19091d/collections/_samsonite/Framelock-Max/500x500/149618-4127-WHEEL-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1a2841cd/collections/_samsonite/Framelock-Max/500x500/149618-4127-LIFESTYLE-8.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1a2841cd/collections/_samsonite/Framelock-Max/500x500/149618-4127-LIFESTYLE-8.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Framelock Max Carry-On Spinner in the color .",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw14287936/pdps/samsonite/Framelock-Max/Sam_Site_PDP-Description-Image_Framelock-2.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "Framelock Max Carry-On Spinner in the color .",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw14287936/pdps/samsonite/Framelock-Max/Sam_Site_PDP-Description-Image_Framelock-2.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Framelock Max Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Framelock Max Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Framelock Max Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Framelock Max Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Emerald Teal",
+      "values": [
+        {
+          "id": "1496184127",
+          "description": null,
+          "displayValue": "Emerald Teal",
+          "value": "1496184127",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=&pid=149618XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw38d666a3/colors/SAM_framelockmax-emerald-teal.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Framelock Max Carry-On Spinner in the color Emerald Teal.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw38d666a3/colors/SAM_framelockmax-emerald-teal.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1496180423",
+          "description": null,
+          "displayValue": "Asphalt Black",
+          "value": "1496180423",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Framelock Max Carry-On Spinner in the color Asphalt Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe12f09e4/colors/SAM_framelockmax-asphalt-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Framelock Max Carry-On Spinner in the color Asphalt Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe12f09e4/colors/SAM_framelockmax-asphalt-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1496185423",
+          "description": null,
+          "displayValue": "Glacial Silver",
+          "value": "1496185423",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496185423&pid=149618XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Framelock Max Carry-On Spinner in the color Glacial Silver.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw001a780a/colors/SAM_framelockmax-glacial-silver.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Framelock Max Carry-On Spinner in the color Glacial Silver.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw001a780a/colors/SAM_framelockmax-glacial-silver.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "Step out with a sophisticated design, modern functionality, and lightweight zipper-less constructed case, your Framelock Max unlocks the unconventional luggage the industry is accustomed to seeing. Innovative and durable frame construction offers a highly secure Eazylock\u2122 mechanism, simply controlled by one centralized slide puller, for locking and unlocking. The RightHeight\u2122 handle system is accompanied by a TPR handle grip, 360\u00b0 spinner wheels, two interior zipper dividers made with Recyclex\u00ae, the Framelock Max collection is your ultimate travel partner maximizing your packing capacity and security.",
+  "rating": 4.4,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149618XXXX_color=1496184127&pid=1496184127&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 21.5,
+  "overall-length": 15.4,
+  "overall-width": 8.8,
+  "unit-height": 19.7,
+  "unit-length": 14.1,
+  "unit-width": 8.6,
+  "unit-weight": 7.2,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45.6",
+  "product-dimensions": "19.7in\u00a0H x 14.1in\u00a0L x 8.6in\u00a0W",
+  "external-dimensions": "21.5in\u00a0H x 15.4in\u00a0L x 8.8in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1496184127"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "21.5in\u00a0H x 15.4in\u00a0L x 8.8in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "19.7in\u00a0H x 14.1in\u00a0L x 8.6in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45.6"
+    },
+    {
+      "specification": "Weight",
+      "value": 7.2
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polycarbonate",
+        "Recyclex\u00ae"
+      ],
+      "tooltip": [
+        "Shell material is made of vacuum formed polycarbonate, a highly impact-resistant plastic that is strong and lightweight.",
+        "Recyclex\u00ae polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/framelock-max-carry-on-spinner/149618XXXX.html?dwvar_149618XXXX_color=1496184127&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Framelock Max Carry-On Spinner | Luggage | Samsonite",
+  "pageDescription": "Upgrade to the Framelock Max Carry-On Spinner for hassle-free packing with zipperless convenience and hardside protection.",
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>Step out with a sophisticated design, modern functionality, and lightweight zipper-less constructed case, your Framelock Max unlocks the unconventional luggage the industry is accustomed to seeing. Innovative and durable frame construction offers a highly secure Eazylock&trade; mechanism, simply controlled by one centralized slide puller, for locking and unlocking.<br><br><li>Overall Dimensions: 21.5 in. x 15.4 in. x 8.75 in.</li><li>Weight: 7.23 lbs</ul>",
+  "headline": null,
+  "recommendations": [],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Emerald Teal",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1496184127"
+    },
+    {
+      "name": "Overall Height",
+      "value": "21.5in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15.4in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "8.8in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "19.7in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.1in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8.6in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "7.2lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45.6"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polycarbonate",
+        "Recyclex\u00ae"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "Side Carry Handle",
+        "RightHeight\u2122 Pull Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "TSA Lock",
+        "Interior Divider"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1496184127",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

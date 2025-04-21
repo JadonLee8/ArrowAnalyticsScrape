@@ -1,0 +1,757 @@
+{
+  "uuid": "6b1b5a626d4fefdb731448359a",
+  "id": "1418456856",
+  "productName": "Proxis Global Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "141845XXXX",
+    "name": "Proxis Global Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "500.00",
+    "item_id": "141845XXXX",
+    "item_variant": "1418456856",
+    "variant": "1418456856",
+    "item_color": "Gold"
+  },
+  "gtmGA4Data": {
+    "item_id": "141845XXXX",
+    "item_variant": "1418456856",
+    "item_name": "Proxis Global Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 500,
+    "currencyCode": "USD",
+    "variant": "1418456856",
+    "item_color": "Gold"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 500,
+      "currency": "USD",
+      "formatted": "$500.00",
+      "decimalPrice": "500.00"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"500.00\">\n        \n        $500.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $500.00\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwceef8215/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwceef8215/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f820f53/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Interior.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1f820f53/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc35c940d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Top_Pull_Handle.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc35c940d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8029f386/collections/_samsonite/Proxis/500x500/1418456856_COSpin_ID_Tag.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8029f386/collections/_samsonite/Proxis/500x500/1418456856_COSpin_ID_Tag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc03387fc/collections/_samsonite/Proxis/500x500/1418456856_COSpin_TSA_Lock.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc03387fc/collections/_samsonite/Proxis/500x500/1418456856_COSpin_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7eda84f0/collections/_samsonite/Proxis/500x500/1418456856_COSpin_USB_Port.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7eda84f0/collections/_samsonite/Proxis/500x500/1418456856_COSpin_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw377c8753/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Cross_Straps.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw377c8753/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Cross_Straps.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc57cf18d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Expand.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc57cf18d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Expand.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9e7b2e7b/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Back.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9e7b2e7b/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Back.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4785819c/collections/_samsonite/Proxis/500x500/1418451041_COSpin_Lifestyle.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4785819c/collections/_samsonite/Proxis/500x500/1418451041_COSpin_Lifestyle.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwceef8215/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwceef8215/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f820f53/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Interior.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1f820f53/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc35c940d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Top_Pull_Handle.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc35c940d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8029f386/collections/_samsonite/Proxis/500x500/1418456856_COSpin_ID_Tag.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8029f386/collections/_samsonite/Proxis/500x500/1418456856_COSpin_ID_Tag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc03387fc/collections/_samsonite/Proxis/500x500/1418456856_COSpin_TSA_Lock.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc03387fc/collections/_samsonite/Proxis/500x500/1418456856_COSpin_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7eda84f0/collections/_samsonite/Proxis/500x500/1418456856_COSpin_USB_Port.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7eda84f0/collections/_samsonite/Proxis/500x500/1418456856_COSpin_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw377c8753/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Cross_Straps.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw377c8753/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Cross_Straps.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc57cf18d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Expand.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc57cf18d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Expand.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9e7b2e7b/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Back.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9e7b2e7b/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Back.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4785819c/collections/_samsonite/Proxis/500x500/1418451041_COSpin_Lifestyle.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4785819c/collections/_samsonite/Proxis/500x500/1418451041_COSpin_Lifestyle.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwceef8215/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwceef8215/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f820f53/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Interior.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1f820f53/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc35c940d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Top_Pull_Handle.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc35c940d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8029f386/collections/_samsonite/Proxis/500x500/1418456856_COSpin_ID_Tag.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8029f386/collections/_samsonite/Proxis/500x500/1418456856_COSpin_ID_Tag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc03387fc/collections/_samsonite/Proxis/500x500/1418456856_COSpin_TSA_Lock.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc03387fc/collections/_samsonite/Proxis/500x500/1418456856_COSpin_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7eda84f0/collections/_samsonite/Proxis/500x500/1418456856_COSpin_USB_Port.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7eda84f0/collections/_samsonite/Proxis/500x500/1418456856_COSpin_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw377c8753/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Cross_Straps.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw377c8753/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Cross_Straps.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc57cf18d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Expand.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc57cf18d/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Expand.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9e7b2e7b/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Back.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9e7b2e7b/collections/_samsonite/Proxis/500x500/1418456856_COSpin_Updated_Back.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4785819c/collections/_samsonite/Proxis/500x500/1418451041_COSpin_Lifestyle.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4785819c/collections/_samsonite/Proxis/500x500/1418451041_COSpin_Lifestyle.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Proxis Global Carry-On Spinner in the color .",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0d748752/pdps/samsonite/proxis/proxis-carry-on-141845-pdp-description-tile-3000x3000.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner in the color .",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0d748752/pdps/samsonite/proxis/proxis-carry-on-141845-pdp-description-tile-3000x3000.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Proxis Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Proxis Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Proxis Global Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Honey Gold",
+      "values": [
+        {
+          "id": "1418451041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1418451041",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451041&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd5677a0a/colors/SAM_proxis-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd5677a0a/colors/SAM_proxis-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1418451686",
+          "description": null,
+          "displayValue": "Petrol Blue",
+          "value": "1418451686",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451686&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Petrol Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw756e5048/colors/SAM_proxis-petrol-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Petrol Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw756e5048/colors/SAM_proxis-petrol-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1418456856",
+          "description": null,
+          "displayValue": "Honey Gold",
+          "value": "1418456856",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw568e09c4/colors/SAM_proxis-honey-gold.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Honey Gold.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw568e09c4/colors/SAM_proxis-honey-gold.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1418451776",
+          "description": null,
+          "displayValue": "Silver",
+          "value": "1418451776",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451776&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Silver.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2a42be5d/colors/SAM_proxis-silver.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Silver.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2a42be5d/colors/SAM_proxis-silver.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1418451515",
+          "description": null,
+          "displayValue": "Lime",
+          "value": "1418451515",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418451515&pid=141845XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Proxis Global Carry-On Spinner in the color Lime.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw401a2f3a/colors/SAM-Proxis-Lime.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Proxis Global Carry-On Spinner in the color Lime.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw401a2f3a/colors/SAM-Proxis-Lime.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Take Proxis luggage on your next trip to travel with both confidence and style. The Roxkin&trade; outer shell provides remarkable strength and resilience in a multi-layered lightweight design that you can find only at Samsonite. The ergonomic handle, dual spinner wheels, TSA-friendly lock, and built-in USB port add convenience to your experience, providing you with everything that you need when you\u2019re on the move.<br>&#149; Elongated double tube pull handle<br>&#149; Smooth rolling double wheels<br>&#149; Unimaginably strong - An innovative material produced at Samsonite\u2019s own production plant. Roxkin&trade; bounces back into shape and is resilient to shocks.<br>&#149; The interior offers immense packing capacity with thoughtful features for organized packing.<br>&#149; The two divider pads, large pocket and removable, in-height adjustable cross\u00a0ribbons ensure you can pack and compress your belonging carefully.<br>&#149; Weight: 4.72 lbs.<br><br>Body Dimensions: 19.0\" x 13.1\" x 8.7\"<br>Overall Dimensions: 23.6\" x 16.3\" x 9.3\"",
+  "shortDescription": "Take Proxis luggage on your next trip to travel with both confidence and style. The Roxkin&trade; outer shell provides remarkable strength and resilience in a multi-layered lightweight design that you can find only at Samsonite. The ergonomic handle, dual spinner wheels, TSA-friendly lock, and built-in USB port add convenience to your experience, providing you with everything that you need when you\u2019re on the move.",
+  "rating": 3.9,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_141845XXXX_color=1418456856&pid=1418456856&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22,
+  "overall-length": 14,
+  "overall-width": 9,
+  "unit-height": 19,
+  "unit-length": 13.1,
+  "unit-width": 8.7,
+  "unit-weight": 4.7,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45",
+  "product-dimensions": "19in\u00a0H x 13.1in\u00a0L x 8.7in\u00a0W",
+  "external-dimensions": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1418456856"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "19in\u00a0H x 13.1in\u00a0L x 8.7in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "specification": "Weight",
+      "value": 4.7
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Roxkin\u2122"
+      ],
+      "tooltip": [
+        "An exclusive multi-layered material developed by Samsonite that bounces back into shape, offering remarkable strength, resilience and lightness. The sophisticated, self-reinforced design resonates confidence and is built to last while fully equipped"
+      ]
+    },
+    {
+      "specification": "USB Port",
+      "value": "Yes",
+      "tooltip": [
+        "Built in USB port lets you power devices on the go. Battery sold separately"
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/proxis-global-carry-on-spinner/141845XXXX.html?dwvar_141845XXXX_color=1418456856&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Proxis Carry-On Spinner | Carry-On Luggage | Samsonite",
+  "pageDescription": "Unlock a new era of traveling with the Proxis Carry-On Spinner. Its sophisticated design, with its Roxkin\u2122 outer shell material, inspires confidence.",
+  "pageKeywords": "samsonite carry on silver, samsonite proxis carry on",
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>Take Proxis luggage on your next trip to travel with both confidence and style. The Roxkin&trade; outer shell provides remarkable strength and resilience in a multi-layered lightweight design that you can find only at Samsonite.<br><br><li>Overall Dimensions: 22 in. x 14 in. x 9 in.</li><li>Weight: 4.6 lbs</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "153102XXXX"
+    },
+    {
+      "ID": "153104XXXX"
+    },
+    {
+      "ID": "141848XXXX"
+    },
+    {
+      "ID": "141847XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Honey Gold",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1418456856"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "19in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13.1in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8.7in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "4.7lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Roxkin\u2122"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle",
+        "Top Carry Handle",
+        "Side carry handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Cross straps",
+        "TSA Lock",
+        "Expandable"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "Yes",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1418456856",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

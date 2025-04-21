@@ -1,0 +1,641 @@
+{
+  "uuid": "094754b525353378ebece9d831",
+  "id": "1491761693",
+  "productName": "Virtuosa Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "149176XXXX",
+    "name": "Virtuosa Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "199.99",
+    "item_id": "149176XXXX",
+    "item_variant": "1491761693",
+    "variant": "1491761693",
+    "item_color": "Green"
+  },
+  "gtmGA4Data": {
+    "item_id": "149176XXXX",
+    "item_variant": "1491761693",
+    "item_name": "Virtuosa Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 199.99,
+    "currencyCode": "USD",
+    "variant": "1491761693",
+    "item_color": "Green"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 199.99,
+      "currency": "USD",
+      "formatted": "$199.99",
+      "decimalPrice": "199.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"199.99\">\n        \n        $199.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $199.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1ba7b9a7/collections/_samsonite/virtuosa/500x500/149176-1693-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1ba7b9a7/collections/_samsonite/virtuosa/500x500/149176-1693-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf12319b5/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-5.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf12319b5/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3515ea36/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-4.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw3515ea36/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf9b3c940/collections/_samsonite/virtuosa/500x500/149176-1693-LOCK-9.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf9b3c940/collections/_samsonite/virtuosa/500x500/149176-1693-LOCK-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2c80fabf/collections/_samsonite/virtuosa/500x500/149176-1693-EXPANSION-8.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2c80fabf/collections/_samsonite/virtuosa/500x500/149176-1693-EXPANSION-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdb23bfff/collections/_samsonite/virtuosa/500x500/149176-1693-HANDLE-10.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdb23bfff/collections/_samsonite/virtuosa/500x500/149176-1693-HANDLE-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw33c78470/collections/_samsonite/virtuosa/500x500/149176-1693-WHEEL-6.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw33c78470/collections/_samsonite/virtuosa/500x500/149176-1693-WHEEL-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw45a95518/collections/_samsonite/virtuosa/500x500/149176-1693-BACK34-3.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw45a95518/collections/_samsonite/virtuosa/500x500/149176-1693-BACK34-3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1ba7b9a7/collections/_samsonite/virtuosa/500x500/149176-1693-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1ba7b9a7/collections/_samsonite/virtuosa/500x500/149176-1693-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf12319b5/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-5.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf12319b5/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3515ea36/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-4.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw3515ea36/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf9b3c940/collections/_samsonite/virtuosa/500x500/149176-1693-LOCK-9.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf9b3c940/collections/_samsonite/virtuosa/500x500/149176-1693-LOCK-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2c80fabf/collections/_samsonite/virtuosa/500x500/149176-1693-EXPANSION-8.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2c80fabf/collections/_samsonite/virtuosa/500x500/149176-1693-EXPANSION-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdb23bfff/collections/_samsonite/virtuosa/500x500/149176-1693-HANDLE-10.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdb23bfff/collections/_samsonite/virtuosa/500x500/149176-1693-HANDLE-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw33c78470/collections/_samsonite/virtuosa/500x500/149176-1693-WHEEL-6.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw33c78470/collections/_samsonite/virtuosa/500x500/149176-1693-WHEEL-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw45a95518/collections/_samsonite/virtuosa/500x500/149176-1693-BACK34-3.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw45a95518/collections/_samsonite/virtuosa/500x500/149176-1693-BACK34-3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1ba7b9a7/collections/_samsonite/virtuosa/500x500/149176-1693-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1ba7b9a7/collections/_samsonite/virtuosa/500x500/149176-1693-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf12319b5/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-5.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf12319b5/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3515ea36/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-4.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw3515ea36/collections/_samsonite/virtuosa/500x500/149176-1693-INTERIOR_STYLED-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf9b3c940/collections/_samsonite/virtuosa/500x500/149176-1693-LOCK-9.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf9b3c940/collections/_samsonite/virtuosa/500x500/149176-1693-LOCK-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2c80fabf/collections/_samsonite/virtuosa/500x500/149176-1693-EXPANSION-8.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2c80fabf/collections/_samsonite/virtuosa/500x500/149176-1693-EXPANSION-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdb23bfff/collections/_samsonite/virtuosa/500x500/149176-1693-HANDLE-10.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdb23bfff/collections/_samsonite/virtuosa/500x500/149176-1693-HANDLE-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw33c78470/collections/_samsonite/virtuosa/500x500/149176-1693-WHEEL-6.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw33c78470/collections/_samsonite/virtuosa/500x500/149176-1693-WHEEL-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw45a95518/collections/_samsonite/virtuosa/500x500/149176-1693-BACK34-3.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw45a95518/collections/_samsonite/virtuosa/500x500/149176-1693-BACK34-3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Virtuosa Expandable Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwddb7c6f2/pdps/samsonite/virtuosa/149176_1627_virtuosa_carryon_pdp_stacked_3000x3000.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "Elevate your carry-on aesthetic with the Virtuosa Expandable Carry On with its sleek leather-like accents. ",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwddb7c6f2/pdps/samsonite/virtuosa/149176_1627_virtuosa_carryon_pdp_stacked_3000x3000.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Virtuosa Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Virtuosa Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Virtuosa Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Virtuosa Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Pine Green",
+      "values": [
+        {
+          "id": "1491761693",
+          "description": null,
+          "displayValue": "Pine Green",
+          "value": "1491761693",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=&pid=149176XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Virtuosa Carry-On Spinner in the color Pine Green.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw44bb859a/colors/SAM_virtuosa-pine-green.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Virtuosa Carry-On Spinner in the color Pine Green.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw44bb859a/colors/SAM_virtuosa-pine-green.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1491761596",
+          "description": null,
+          "displayValue": "Navy",
+          "value": "1491761596",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761596&pid=149176XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Virtuosa Carry-On Spinner in the color Navy.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw99a5b8bb/colors/SAM_virtuosa-navy.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Virtuosa Carry-On Spinner in the color Navy.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw99a5b8bb/colors/SAM_virtuosa-navy.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1491761627",
+          "description": null,
+          "displayValue": "Off White",
+          "value": "1491761627",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761627&pid=149176XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Virtuosa Carry-On Spinner in the color Off White.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbf43a2c6/colors/SAM_virtuosa-off-white.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Virtuosa Carry-On Spinner in the color Off White.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbf43a2c6/colors/SAM_virtuosa-off-white.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "Elevate your carry-on aesthetic with the Virtuosa Expandable Carry On. Featuring expansion, a TSA integrated lock, RightHeight\u2122 handle, dual spinner wheels, and sleek leather-like accents, this case is the ultimate stylish addition!",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149176XXXX_color=1491761693&pid=1491761693&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 23,
+  "overall-length": 15,
+  "overall-width": 10,
+  "unit-height": 20.5,
+  "unit-length": 14.5,
+  "unit-width": 10,
+  "unit-weight": 6.4,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "48",
+  "product-dimensions": "20.5in\u00a0H x 14.5in\u00a0L x 10in\u00a0W",
+  "external-dimensions": "23in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1491761693"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "23in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20.5in\u00a0H x 14.5in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "48"
+    },
+    {
+      "specification": "Weight",
+      "value": 6.4
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polycarbonate"
+      ],
+      "tooltip": [
+        "Shell material is made of vacuum formed polycarbonate, a highly impact-resistant plastic that is strong and lightweight."
+      ]
+    },
+    {
+      "specification": "SmartSleeve",
+      "value": "Yes",
+      "tooltip": [
+        "Strap that fits over most upright luggage handles for easy transportation"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/virtuosa-carry-on-spinner/149176XXXX.html?dwvar_149176XXXX_color=1491761693&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Virtuosa Carry-On Spinner | Modern Style Carry-On | Samsonite",
+  "pageDescription": "Travel in style with the Virtuosa Expandable Carry-On, featuring timeless leather accents for modern jet-setters.",
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>Elevate your carry-on aesthetic with the Virtuosa Expandable Carry On. Featuring expansion, a TSA integrated lock, RightHeight\u2122 handle, dual spinner wheels, and sleek leather-like accents, this case is the ultimate stylish addition.<br><br><li>Overall Dimensions: 23 in. x 15 in. x 10 in.</li><li>Weight: 6.39 lbs</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "149197XXXX"
+    },
+    {
+      "ID": "149196XXXX"
+    },
+    {
+      "ID": "1491771596"
+    },
+    {
+      "ID": "1491981596"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Pine Green",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1491761693"
+    },
+    {
+      "name": "Overall Height",
+      "value": "23in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "10in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20.5in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.5in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "10in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "6.4lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "48"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polycarbonate"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "RightHeight\u2122 Pull Handle",
+        "Side Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": "\u2014"
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "Yes",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1491761693",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

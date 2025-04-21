@@ -1,0 +1,695 @@
+{
+  "uuid": "b84ef2324aa8275c86ed7d72e8",
+  "id": "153639D418",
+  "productName": "Silhouette 18 Softside Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "153639XXXX",
+    "name": "Silhouette 18 Softside Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "270.00",
+    "item_id": "153639XXXX",
+    "item_variant": "153639D418",
+    "variant": "153639D418",
+    "item_color": "Blue"
+  },
+  "gtmGA4Data": {
+    "item_id": "153639XXXX",
+    "item_variant": "153639D418",
+    "item_name": "Silhouette 18 Softside Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 270,
+    "currencyCode": "USD",
+    "variant": "153639D418",
+    "item_color": "Blue"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 270,
+      "currency": "USD",
+      "formatted": "$270.00",
+      "decimalPrice": "270.00"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"270.00\">\n        \n        $270.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $270.00\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2065e923/collections/_samsonite/silhouette-18/500x500/153639-D418-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2065e923/collections/_samsonite/silhouette-18/500x500/153639-D418-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb776766c/collections/_samsonite/silhouette-18/500x500/153639-D418-INTERIOR_STYLED-4.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb776766c/collections/_samsonite/silhouette-18/500x500/153639-D418-INTERIOR_STYLED-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw62631c8c/collections/_samsonite/silhouette-18/500x500/153639-D418-HANDLE-5.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw62631c8c/collections/_samsonite/silhouette-18/500x500/153639-D418-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw374ae7c0/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-12.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw374ae7c0/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-12.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwca0ed04c/collections/_samsonite/silhouette-18/500x500/153639-D418-USB-9.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwca0ed04c/collections/_samsonite/silhouette-18/500x500/153639-D418-USB-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe0694b7f/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-15.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe0694b7f/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb587bbb5/collections/_samsonite/silhouette-18/500x500/153639-D418-REMOVABLE_BAG-10.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb587bbb5/collections/_samsonite/silhouette-18/500x500/153639-D418-REMOVABLE_BAG-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24c6fcb9/collections/_samsonite/silhouette-18/500x500/153639-D418-WETPOCKET-11.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24c6fcb9/collections/_samsonite/silhouette-18/500x500/153639-D418-WETPOCKET-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw79a11d0b/collections/_samsonite/silhouette-18/500x500/153639-D418-WHEEL-8.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw79a11d0b/collections/_samsonite/silhouette-18/500x500/153639-D418-WHEEL-8.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2065e923/collections/_samsonite/silhouette-18/500x500/153639-D418-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2065e923/collections/_samsonite/silhouette-18/500x500/153639-D418-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb776766c/collections/_samsonite/silhouette-18/500x500/153639-D418-INTERIOR_STYLED-4.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb776766c/collections/_samsonite/silhouette-18/500x500/153639-D418-INTERIOR_STYLED-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw62631c8c/collections/_samsonite/silhouette-18/500x500/153639-D418-HANDLE-5.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw62631c8c/collections/_samsonite/silhouette-18/500x500/153639-D418-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw374ae7c0/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-12.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw374ae7c0/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-12.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwca0ed04c/collections/_samsonite/silhouette-18/500x500/153639-D418-USB-9.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwca0ed04c/collections/_samsonite/silhouette-18/500x500/153639-D418-USB-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe0694b7f/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-15.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe0694b7f/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb587bbb5/collections/_samsonite/silhouette-18/500x500/153639-D418-REMOVABLE_BAG-10.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb587bbb5/collections/_samsonite/silhouette-18/500x500/153639-D418-REMOVABLE_BAG-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24c6fcb9/collections/_samsonite/silhouette-18/500x500/153639-D418-WETPOCKET-11.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24c6fcb9/collections/_samsonite/silhouette-18/500x500/153639-D418-WETPOCKET-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw79a11d0b/collections/_samsonite/silhouette-18/500x500/153639-D418-WHEEL-8.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw79a11d0b/collections/_samsonite/silhouette-18/500x500/153639-D418-WHEEL-8.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2065e923/collections/_samsonite/silhouette-18/500x500/153639-D418-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2065e923/collections/_samsonite/silhouette-18/500x500/153639-D418-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb776766c/collections/_samsonite/silhouette-18/500x500/153639-D418-INTERIOR_STYLED-4.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb776766c/collections/_samsonite/silhouette-18/500x500/153639-D418-INTERIOR_STYLED-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw62631c8c/collections/_samsonite/silhouette-18/500x500/153639-D418-HANDLE-5.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw62631c8c/collections/_samsonite/silhouette-18/500x500/153639-D418-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw374ae7c0/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-12.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw374ae7c0/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-12.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwca0ed04c/collections/_samsonite/silhouette-18/500x500/153639-D418-USB-9.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwca0ed04c/collections/_samsonite/silhouette-18/500x500/153639-D418-USB-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe0694b7f/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-15.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe0694b7f/collections/_samsonite/silhouette-18/500x500/153639-D418-ACCESSORY_CLIP-15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe8c9fded/collections/_samsonite/silhouette-18/500x500/153639-E264-FRONT_POCKET-12.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb587bbb5/collections/_samsonite/silhouette-18/500x500/153639-D418-REMOVABLE_BAG-10.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb587bbb5/collections/_samsonite/silhouette-18/500x500/153639-D418-REMOVABLE_BAG-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24c6fcb9/collections/_samsonite/silhouette-18/500x500/153639-D418-WETPOCKET-11.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24c6fcb9/collections/_samsonite/silhouette-18/500x500/153639-D418-WETPOCKET-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw79a11d0b/collections/_samsonite/silhouette-18/500x500/153639-D418-WHEEL-8.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw79a11d0b/collections/_samsonite/silhouette-18/500x500/153639-D418-WHEEL-8.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Silhouette 18 Softside Carry-On Spinner",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Silhouette 18 Softside Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Silhouette 18 Softside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Silhouette 18 Softside Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Deep Navy",
+      "values": [
+        {
+          "id": "1536391041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1536391041",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=1536391041&pid=153639XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8a1b9186/colors/SAM_silhouette-18-ss-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Silhouette 18 Softside Carry-On Spinner in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8a1b9186/colors/SAM_silhouette-18-ss-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "153639D418",
+          "description": null,
+          "displayValue": "Deep Navy",
+          "value": "153639D418",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=&pid=153639XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb3c15768/colors/SAM_silhouette-18-ss-deep-navy.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Silhouette 18 Softside Carry-On Spinner in the color Deep Navy.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb3c15768/colors/SAM_silhouette-18-ss-deep-navy.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "153639E264",
+          "description": null,
+          "displayValue": "Slate Blue",
+          "value": "153639E264",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639E264&pid=153639XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Silhouette 18 Softside Carry-On Spinner in the color Slate Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3ca53bf4/colors/SAM_silhouette-18-ss-slate-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Silhouette 18 Softside Carry-On Spinner in the color Slate Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw3ca53bf4/colors/SAM_silhouette-18-ss-slate-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "Tried and trusted since 1958, the Silhouette collection is a timeless classic rooted in our legacy. We\u2019ve updated the time-honored sleek luggage style by combining the distinct elements from our hardside but with the flexibility of a softside. Our carry-on offers a strong, rigid design with multiple interior and exterior pockets. To keep you well-organized, we\u2019ve included a 3-1-1 WetPakTM and TecKit Pouch to conveniently fit in the front slip pocket and keep your tech accessories within reach. A bonus slip pocket provides space for your laptop or tablet. And the proprietary molded bottom is made with fiberglass to keep your luggage strong and light. Mix, match, and create your set with any luggage or bag from our Silhouette 18 collection.",
+  "rating": 3.1,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153639XXXX_color=153639D418&pid=153639D418&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 23.3,
+  "overall-length": 15,
+  "overall-width": 10,
+  "unit-height": 20.4,
+  "unit-length": 14.1,
+  "unit-width": 8,
+  "unit-weight": 8.3,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "48.3",
+  "product-dimensions": "20.4in\u00a0H x 14.1in\u00a0L x 8in\u00a0W",
+  "external-dimensions": "23.3in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "153639D418"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "23.3in\u00a0H x 15in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20.4in\u00a0H x 14.1in\u00a0L x 8in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "48.3"
+    },
+    {
+      "specification": "Weight",
+      "value": 8.3
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polyester"
+      ],
+      "tooltip": [
+        "Durable Polyester fabric."
+      ]
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/silhouette-18-softside-carry-on-spinner/153639XXXX.html?dwvar_153639XXXX_color=153639D418&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": null,
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>Our carry-on offers a strong, rigid design with multiple interior and exterior pockets. To keep you well-organized, we\u2019ve included a 3-1-1 WetPakTM and TecKit Pouch to conveniently fit in the front slip pocket and keep your tech accessories within reach.<br><br><li>Overall Dimensions: 23.25 in. x 15 in. x 10 in.</li><li>Weight: 8.29 lbs.</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "153643XXXX"
+    },
+    {
+      "ID": "153635XXXX"
+    },
+    {
+      "ID": "153638XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [
+    {
+      "class": "token-background--accent text--white font-size--12 font-size--lg--16",
+      "name": "New"
+    }
+  ],
+  "selectedColorName": "Deep Navy",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "153639D418"
+    },
+    {
+      "name": "Overall Height",
+      "value": "23.3in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "10in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20.4in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.1in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "8.3lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "48.3"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polyester"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "RightHeight\u2122 Pull Handle",
+        "Top Carry Handle",
+        "Side Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Aero-Trac\u2122 Suspension Wheel"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Built-in ID tag holder",
+        "Expandable",
+        "Compression Straps"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "153639D418",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

@@ -1,0 +1,637 @@
+{
+  "uuid": "bfe8659187cf213531cc59c4cf",
+  "id": "1536381041",
+  "productName": "Silhouette 18 Softside Global Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "153638XXXX",
+    "name": "Silhouette 18 Softside Global Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "260.00",
+    "item_id": "153638XXXX",
+    "item_variant": "1536381041",
+    "variant": "1536381041",
+    "item_color": "Black"
+  },
+  "gtmGA4Data": {
+    "item_id": "153638XXXX",
+    "item_variant": "1536381041",
+    "item_name": "Silhouette 18 Softside Global Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 260,
+    "currencyCode": "USD",
+    "variant": "1536381041",
+    "item_color": "Black"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 260,
+      "currency": "USD",
+      "formatted": "$260.00",
+      "decimalPrice": "260.00"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"260.00\">\n        \n        $260.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $260.00\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb728216/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb728216/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw61a78900/collections/_samsonite/silhouette-18/500x500/153638-1041-INTERIOR_STYLED-16.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw61a78900/collections/_samsonite/silhouette-18/500x500/153638-1041-INTERIOR_STYLED-16.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a5ed2fd/collections/_samsonite/silhouette-18/500x500/153638-1041-HANDLE-13.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a5ed2fd/collections/_samsonite/silhouette-18/500x500/153638-1041-HANDLE-13.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4c875f78/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-11.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4c875f78/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdaa01174/collections/_samsonite/silhouette-18/500x500/153638-1041-USB-15.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdaa01174/collections/_samsonite/silhouette-18/500x500/153638-1041-USB-15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1a081e6d/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-14.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1a081e6d/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-14.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7abbcfaa/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT_POCKET-9.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7abbcfaa/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT_POCKET-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwedde0153/collections/_samsonite/silhouette-18/500x500/153638-1041-REMOVABLE_BAG-8.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwedde0153/collections/_samsonite/silhouette-18/500x500/153638-1041-REMOVABLE_BAG-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw74a6afd4/collections/_samsonite/silhouette-18/500x500/153638-1041-WETPOCKET-5.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw74a6afd4/collections/_samsonite/silhouette-18/500x500/153638-1041-WETPOCKET-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa47d9ebb/collections/_samsonite/silhouette-18/500x500/153638-1041-WHEEL-17.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa47d9ebb/collections/_samsonite/silhouette-18/500x500/153638-1041-WHEEL-17.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb728216/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb728216/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw61a78900/collections/_samsonite/silhouette-18/500x500/153638-1041-INTERIOR_STYLED-16.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw61a78900/collections/_samsonite/silhouette-18/500x500/153638-1041-INTERIOR_STYLED-16.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a5ed2fd/collections/_samsonite/silhouette-18/500x500/153638-1041-HANDLE-13.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a5ed2fd/collections/_samsonite/silhouette-18/500x500/153638-1041-HANDLE-13.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4c875f78/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-11.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4c875f78/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdaa01174/collections/_samsonite/silhouette-18/500x500/153638-1041-USB-15.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdaa01174/collections/_samsonite/silhouette-18/500x500/153638-1041-USB-15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1a081e6d/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-14.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1a081e6d/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-14.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7abbcfaa/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT_POCKET-9.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7abbcfaa/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT_POCKET-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwedde0153/collections/_samsonite/silhouette-18/500x500/153638-1041-REMOVABLE_BAG-8.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwedde0153/collections/_samsonite/silhouette-18/500x500/153638-1041-REMOVABLE_BAG-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw74a6afd4/collections/_samsonite/silhouette-18/500x500/153638-1041-WETPOCKET-5.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw74a6afd4/collections/_samsonite/silhouette-18/500x500/153638-1041-WETPOCKET-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa47d9ebb/collections/_samsonite/silhouette-18/500x500/153638-1041-WHEEL-17.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa47d9ebb/collections/_samsonite/silhouette-18/500x500/153638-1041-WHEEL-17.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb728216/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb728216/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw61a78900/collections/_samsonite/silhouette-18/500x500/153638-1041-INTERIOR_STYLED-16.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw61a78900/collections/_samsonite/silhouette-18/500x500/153638-1041-INTERIOR_STYLED-16.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4a5ed2fd/collections/_samsonite/silhouette-18/500x500/153638-1041-HANDLE-13.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4a5ed2fd/collections/_samsonite/silhouette-18/500x500/153638-1041-HANDLE-13.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4c875f78/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-11.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4c875f78/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdaa01174/collections/_samsonite/silhouette-18/500x500/153638-1041-USB-15.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdaa01174/collections/_samsonite/silhouette-18/500x500/153638-1041-USB-15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1a081e6d/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-14.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1a081e6d/collections/_samsonite/silhouette-18/500x500/153638-1041-ACCESSORY_CLIP-14.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7abbcfaa/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT_POCKET-9.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7abbcfaa/collections/_samsonite/silhouette-18/500x500/153638-1041-FRONT_POCKET-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwedde0153/collections/_samsonite/silhouette-18/500x500/153638-1041-REMOVABLE_BAG-8.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwedde0153/collections/_samsonite/silhouette-18/500x500/153638-1041-REMOVABLE_BAG-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw74a6afd4/collections/_samsonite/silhouette-18/500x500/153638-1041-WETPOCKET-5.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw74a6afd4/collections/_samsonite/silhouette-18/500x500/153638-1041-WETPOCKET-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa47d9ebb/collections/_samsonite/silhouette-18/500x500/153638-1041-WHEEL-17.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa47d9ebb/collections/_samsonite/silhouette-18/500x500/153638-1041-WHEEL-17.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Silhouette 18 Softside Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Silhouette 18 Softside Global Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Black",
+      "values": [
+        {
+          "id": "1536381041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1536381041",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=&pid=153638XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8a1b9186/colors/SAM_silhouette-18-ss-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Silhouette 18 Softside Global Carry-On Spinner in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8a1b9186/colors/SAM_silhouette-18-ss-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": true
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "Tried and trusted since 1958, the Silhouette collection is a timeless classic rooted in our legacy. We\u2019ve updated the time-honored sleek luggage style by combining the distinct elements from our hardside but with the flexibility of a softside. Our carry-on offers a strong, rigid design with multiple interior and exterior pockets. To keep you well-organized, we\u2019ve included a 3-1-1 WetPakTM and TecKit Pouch to conveniently fit in the front slip pocket and keep your tech accessories within reach. A bonus slip pocket provides space for your laptop or tablet. And the proprietary molded bottom is made with fiberglass to keep your luggage strong and light. Added bonus: you can mix, match, and create your set with any luggage or bag from our Silhouette 18 collection.",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153638XXXX_color=1536381041&pid=1536381041&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 9,
+  "overall-length": 22,
+  "overall-width": 14,
+  "unit-height": 19.5,
+  "unit-length": 13.4,
+  "unit-width": 7.4,
+  "unit-weight": 7.5,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45",
+  "product-dimensions": "19.5in\u00a0H x 13.4in\u00a0L x 7.4in\u00a0W",
+  "external-dimensions": "9in\u00a0H x 22in\u00a0L x 14in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1536381041"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "9in\u00a0H x 22in\u00a0L x 14in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "19.5in\u00a0H x 13.4in\u00a0L x 7.4in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "specification": "Weight",
+      "value": 7.5
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polyester"
+      ],
+      "tooltip": [
+        "Durable Polyester fabric."
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/silhouette-18-softside-global-carry-on-spinner/153638XXXX.html?dwvar_153638XXXX_color=1536381041&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": null,
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>Our carry-on offers a strong, rigid design with multiple interior and exterior pockets. To keep you well-organized, we\u2019ve included a 3-1-1 WetPakTM and TecKit Pouch to conveniently fit in the front slip pocket and keep your tech accessories within reach.<br><br><li>Overall Dimensions: 22 in. x 14 in. x 9 in.</li><li>Weight: 7.54 lbs.</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "154631XXXX"
+    },
+    {
+      "ID": "153639XXXX"
+    },
+    {
+      "ID": "153635XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [
+    {
+      "class": "token-background--accent text--white font-size--12 font-size--lg--16",
+      "name": "New"
+    }
+  ],
+  "selectedColorName": "Black",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1536381041"
+    },
+    {
+      "name": "Overall Height",
+      "value": "9in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "22in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "14in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "19.5in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13.4in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "7.4in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "7.5lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polyester"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "RightHeight\u2122 Pull Handle",
+        "Top Carry Handle",
+        "Side Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Aero-Trac\u2122 Suspension Wheel"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Built-in ID tag holder",
+        "Compression Straps"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1536381041",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

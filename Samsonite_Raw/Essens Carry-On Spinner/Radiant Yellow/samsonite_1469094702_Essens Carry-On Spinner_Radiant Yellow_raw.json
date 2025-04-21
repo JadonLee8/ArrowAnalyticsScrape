@@ -1,0 +1,999 @@
+{
+  "uuid": "85d72f83e6df8417a8ede7ade8",
+  "id": "1469094702",
+  "productName": "Essens Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "146909XXXX",
+    "name": "Essens Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "250.00",
+    "item_id": "146909XXXX",
+    "item_variant": "1469094702",
+    "variant": "1469094702",
+    "item_color": "Yellow"
+  },
+  "gtmGA4Data": {
+    "item_id": "146909XXXX",
+    "item_variant": "1469094702",
+    "item_name": "Essens Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 250,
+    "currencyCode": "USD",
+    "variant": "1469094702",
+    "item_color": "Yellow"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 250,
+      "currency": "USD",
+      "formatted": "$250.00",
+      "decimalPrice": "250.00"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"250.00\">\n        \n        $250.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $250.00\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb2b62aa6/collections/_samsonite/Essens/500x500/146909-4702_D140_FRONT34_1.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb2b62aa6/collections/_samsonite/Essens/500x500/146909-4702_D140_FRONT34_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb5e73f7f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_1.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb5e73f7f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7789b716/collections/_samsonite/Essens/500x500/146909-4702_D140_CAGE.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7789b716/collections/_samsonite/Essens/500x500/146909-4702_D140_CAGE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw237eb031/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_3.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw237eb031/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw638ee04f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_2.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw638ee04f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa9263f7d/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_1.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa9263f7d/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5eb2356c/collections/_samsonite/Essens/500x500/146909-4702_D140_BACK.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5eb2356c/collections/_samsonite/Essens/500x500/146909-4702_D140_BACK.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwfa5ec9f4/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_2.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwfa5ec9f4/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw33494dd0/collections/_samsonite/Essens/500x500/146909-4702_D140_ADDRESS_TAG.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw33494dd0/collections/_samsonite/Essens/500x500/146909-4702_D140_ADDRESS_TAG.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd85cb403/collections/_samsonite/Essens/500x500/146909-4702_D140_DETAIL_1.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd85cb403/collections/_samsonite/Essens/500x500/146909-4702_D140_DETAIL_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9583af9f/collections/_samsonite/Essens/500x500/146909-4702_D140_LOCK.jpg?sw=912&sh=912",
+        "index": "10",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9583af9f/collections/_samsonite/Essens/500x500/146909-4702_D140_LOCK.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4e4148d9/collections/_samsonite/Essens/500x500/146909-4702_D140_LOGO.jpg?sw=912&sh=912",
+        "index": "11",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4e4148d9/collections/_samsonite/Essens/500x500/146909-4702_D140_LOGO.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd38ec737/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_1.jpg?sw=912&sh=912",
+        "index": "12",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd38ec737/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb02c5931/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_2.jpg?sw=912&sh=912",
+        "index": "13",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb02c5931/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0e994795/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_1.jpg?sw=912&sh=912",
+        "index": "14",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0e994795/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw600d5266/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_2.jpg?sw=912&sh=912",
+        "index": "15",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw600d5266/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1ffa7f04/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_3.jpg?sw=912&sh=912",
+        "index": "16",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1ffa7f04/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7f72d5db/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_4.jpg?sw=912&sh=912",
+        "index": "17",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7f72d5db/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4d86e151/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL.jpg?sw=912&sh=912",
+        "index": "18",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4d86e151/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwad86ba56/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL_HANDLE.jpg?sw=912&sh=912",
+        "index": "19",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwad86ba56/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL_HANDLE.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb2b62aa6/collections/_samsonite/Essens/500x500/146909-4702_D140_FRONT34_1.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb2b62aa6/collections/_samsonite/Essens/500x500/146909-4702_D140_FRONT34_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb5e73f7f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_1.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb5e73f7f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7789b716/collections/_samsonite/Essens/500x500/146909-4702_D140_CAGE.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7789b716/collections/_samsonite/Essens/500x500/146909-4702_D140_CAGE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw237eb031/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_3.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw237eb031/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw638ee04f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_2.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw638ee04f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa9263f7d/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_1.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa9263f7d/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5eb2356c/collections/_samsonite/Essens/500x500/146909-4702_D140_BACK.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5eb2356c/collections/_samsonite/Essens/500x500/146909-4702_D140_BACK.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwfa5ec9f4/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_2.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwfa5ec9f4/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw33494dd0/collections/_samsonite/Essens/500x500/146909-4702_D140_ADDRESS_TAG.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw33494dd0/collections/_samsonite/Essens/500x500/146909-4702_D140_ADDRESS_TAG.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd85cb403/collections/_samsonite/Essens/500x500/146909-4702_D140_DETAIL_1.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd85cb403/collections/_samsonite/Essens/500x500/146909-4702_D140_DETAIL_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9583af9f/collections/_samsonite/Essens/500x500/146909-4702_D140_LOCK.jpg?sw=176&sh=176",
+        "index": "10",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9583af9f/collections/_samsonite/Essens/500x500/146909-4702_D140_LOCK.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4e4148d9/collections/_samsonite/Essens/500x500/146909-4702_D140_LOGO.jpg?sw=176&sh=176",
+        "index": "11",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4e4148d9/collections/_samsonite/Essens/500x500/146909-4702_D140_LOGO.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd38ec737/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_1.jpg?sw=176&sh=176",
+        "index": "12",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd38ec737/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb02c5931/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_2.jpg?sw=176&sh=176",
+        "index": "13",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb02c5931/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0e994795/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_1.jpg?sw=176&sh=176",
+        "index": "14",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0e994795/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw600d5266/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_2.jpg?sw=176&sh=176",
+        "index": "15",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw600d5266/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1ffa7f04/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_3.jpg?sw=176&sh=176",
+        "index": "16",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1ffa7f04/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7f72d5db/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_4.jpg?sw=176&sh=176",
+        "index": "17",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7f72d5db/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4d86e151/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL.jpg?sw=176&sh=176",
+        "index": "18",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4d86e151/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwad86ba56/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL_HANDLE.jpg?sw=176&sh=176",
+        "index": "19",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwad86ba56/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL_HANDLE.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb2b62aa6/collections/_samsonite/Essens/500x500/146909-4702_D140_FRONT34_1.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb2b62aa6/collections/_samsonite/Essens/500x500/146909-4702_D140_FRONT34_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb5e73f7f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_1.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb5e73f7f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7789b716/collections/_samsonite/Essens/500x500/146909-4702_D140_CAGE.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7789b716/collections/_samsonite/Essens/500x500/146909-4702_D140_CAGE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw237eb031/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_3.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw237eb031/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw638ee04f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_2.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw638ee04f/collections/_samsonite/Essens/500x500/146909-4702_D140_INTERIOR_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa9263f7d/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_1.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa9263f7d/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5eb2356c/collections/_samsonite/Essens/500x500/146909-4702_D140_BACK.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5eb2356c/collections/_samsonite/Essens/500x500/146909-4702_D140_BACK.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwfa5ec9f4/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_2.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwfa5ec9f4/collections/_samsonite/Essens/500x500/146909-4702_D140_SIDE_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw33494dd0/collections/_samsonite/Essens/500x500/146909-4702_D140_ADDRESS_TAG.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw33494dd0/collections/_samsonite/Essens/500x500/146909-4702_D140_ADDRESS_TAG.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd85cb403/collections/_samsonite/Essens/500x500/146909-4702_D140_DETAIL_1.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd85cb403/collections/_samsonite/Essens/500x500/146909-4702_D140_DETAIL_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9583af9f/collections/_samsonite/Essens/500x500/146909-4702_D140_LOCK.jpg?sw=3000&sh=3000",
+        "index": "10",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9583af9f/collections/_samsonite/Essens/500x500/146909-4702_D140_LOCK.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4e4148d9/collections/_samsonite/Essens/500x500/146909-4702_D140_LOGO.jpg?sw=3000&sh=3000",
+        "index": "11",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4e4148d9/collections/_samsonite/Essens/500x500/146909-4702_D140_LOGO.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd38ec737/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_1.jpg?sw=3000&sh=3000",
+        "index": "12",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd38ec737/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb02c5931/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_2.jpg?sw=3000&sh=3000",
+        "index": "13",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb02c5931/collections/_samsonite/Essens/500x500/146909-4702_D140_MATERIAL_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0e994795/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_1.jpg?sw=3000&sh=3000",
+        "index": "14",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw0e994795/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_1.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw600d5266/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_2.jpg?sw=3000&sh=3000",
+        "index": "15",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw600d5266/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1ffa7f04/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_3.jpg?sw=3000&sh=3000",
+        "index": "16",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1ffa7f04/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7f72d5db/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_4.jpg?sw=3000&sh=3000",
+        "index": "17",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7f72d5db/collections/_samsonite/Essens/500x500/146909-4702_D140_STICKERS_4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4d86e151/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL.jpg?sw=3000&sh=3000",
+        "index": "18",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4d86e151/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwad86ba56/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL_HANDLE.jpg?sw=3000&sh=3000",
+        "index": "19",
+        "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwad86ba56/collections/_samsonite/Essens/500x500/146909-4702_D140_WHEEL_HANDLE.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Essens Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Essens Carry-On Spinner",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Essens Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Essens Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Essens Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Essens Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Radiant Yellow",
+      "values": [
+        {
+          "id": "1469091549",
+          "description": null,
+          "displayValue": "Midnight Blue",
+          "value": "1469091549",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469091549&pid=146909XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Essens Carry-On Spinner in the color Midnight Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb2faec64/colors/SAM_essens-midnight-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Essens Carry-On Spinner in the color Midnight Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb2faec64/colors/SAM_essens-midnight-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1469099559",
+          "description": null,
+          "displayValue": "Warm Neutral",
+          "value": "1469099559",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Essens Carry-On Spinner in the color Warm Neutral.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac951578/colors/SAM_essens-warm-neutral.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Essens Carry-On Spinner in the color Warm Neutral.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac951578/colors/SAM_essens-warm-neutral.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1469091374",
+          "description": null,
+          "displayValue": "Graphite",
+          "value": "1469091374",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469091374&pid=146909XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Essens Carry-On Spinner in the color Graphite.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa02c8e70/colors/SAM_essens-graphite.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Essens Carry-On Spinner in the color Graphite.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa02c8e70/colors/SAM_essens-graphite.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1469094702",
+          "description": null,
+          "displayValue": "Radiant Yellow",
+          "value": "1469094702",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=&pid=146909XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Essens Carry-On Spinner in the color Radiant Yellow.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf4525168/colors/SAM_essens-radiant-yellow.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Essens Carry-On Spinner in the color Radiant Yellow.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf4525168/colors/SAM_essens-radiant-yellow.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1469094705",
+          "description": null,
+          "displayValue": "Alpine Green",
+          "value": "1469094705",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094705&pid=146909XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Essens Carry-On Spinner in the color Alpine Green.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b6db20c/colors/SAM_essens-alpine-green.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Essens Carry-On Spinner in the color Alpine Green.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1b6db20c/colors/SAM_essens-alpine-green.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1469096182",
+          "description": null,
+          "displayValue": "Glacier",
+          "value": "1469096182",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Essens Carry-On Spinner in the color Glacier.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw439c8a13/colors/ESSENS-Glacier_6182.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Essens Carry-On Spinner in the color Glacier.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw439c8a13/colors/ESSENS-Glacier_6182.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "Meet Essens, your new essential for every trip. Enjoy carefree traveling thanks to its lightness, the innovative 3-point locking system and its new and unique packing solution.",
+  "rating": 3.3,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_146909XXXX_color=1469094702&pid=1469094702&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 21.6,
+  "overall-length": 15.7,
+  "overall-width": 7.9,
+  "unit-height": 19.5,
+  "unit-length": 15,
+  "unit-width": 7.5,
+  "unit-weight": 6.2,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45.2",
+  "product-dimensions": "19.5in\u00a0H x 15in\u00a0L x 7.5in\u00a0W",
+  "external-dimensions": "21.6in\u00a0H x 15.7in\u00a0L x 7.9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1469094702"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "21.6in\u00a0H x 15.7in\u00a0L x 7.9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "19.5in\u00a0H x 15in\u00a0L x 7.5in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45.2"
+    },
+    {
+      "specification": "Weight",
+      "value": 6.2
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polypropylene",
+        "Recyclex\u00ae"
+      ],
+      "tooltip": [
+        "Recyclex\u00ae polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 5 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/essens-carry-on-spinner/146909XXXX.html?dwvar_146909XXXX_color=1469094702&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Essens Carry-On Spinner | Luggage | Samsonite",
+  "pageDescription": "Travel with ease with the Essens Carry-On Spinner. Made from recycled materials, this lightweight suitcase is durable enough for worry-free journeys",
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>Meet Essens, your new essential for every trip. Enjoy carefree traveling thanks to its lightness, the innovative 3-point locking system and its new and unique packing solution.<br><br><li>Overall Dimensions: 21.6 in. x 15.7 in. x 7.9 in.</li><li>Weight: 6.2 lbs</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "146912XXXX"
+    },
+    {
+      "ID": "77888XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Radiant Yellow",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1469094702"
+    },
+    {
+      "name": "Overall Height",
+      "value": "21.6in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15.7in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "7.9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "19.5in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "15in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "7.5in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "6.2lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45.2"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polypropylene",
+        "Recyclex\u00ae"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Side Carry Handle",
+        "Retractable Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "TSA Lock"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 5 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1469094702",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

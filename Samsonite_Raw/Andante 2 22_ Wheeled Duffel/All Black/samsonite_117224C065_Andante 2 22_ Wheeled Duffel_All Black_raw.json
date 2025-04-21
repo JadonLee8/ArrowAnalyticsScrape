@@ -1,0 +1,644 @@
+{
+  "uuid": "7080ba0c35c0568c7b831a641d",
+  "id": "1172245455",
+  "productName": "Andante 2 22\" Wheeled Duffel",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "117224XXXX",
+    "name": "Andante 2 22\" Wheeled Duffel",
+    "category": "Wheeled Duffels",
+    "categoryID": "wheeled-duffels",
+    "price": "79.99",
+    "item_id": "117224XXXX",
+    "item_variant": "1172245455",
+    "variant": "1172245455",
+    "item_color": "Black"
+  },
+  "gtmGA4Data": {
+    "item_id": "117224XXXX",
+    "item_variant": "1172245455",
+    "item_name": "Andante 2 22\" Wheeled Duffel",
+    "item_category": "Wheeled Duffels",
+    "price": 79.99,
+    "currencyCode": "USD",
+    "variant": "1172245455",
+    "item_color": "Black"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 79.99,
+      "currency": "USD",
+      "formatted": "$79.99",
+      "decimalPrice": "79.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"79.99\">\n        \n        $79.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $79.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw87b8fde6/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Front.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw87b8fde6/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Front.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd22afc3d/collections/_samsonite/andantewhldduffles/500x500/Andante2_Top_Stylized.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd22afc3d/collections/_samsonite/andantewhldduffles/500x500/Andante2_Top_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd9d9486f/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Top_Pull_Handle.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd9d9486f/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6cfc245c/collections/_samsonite/andantewhldduffles/500x500/Andante2_5455_Side_Handles.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6cfc245c/collections/_samsonite/andantewhldduffles/500x500/Andante2_5455_Side_Handles.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw324fcea2/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Side_Pocket.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw324fcea2/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Side_Pocket.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw65af4a73/collections/_samsonite/andantewhldduffles/500x500/Andante2_Zipper_Pulls.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw65af4a73/collections/_samsonite/andantewhldduffles/500x500/Andante2_Zipper_Pulls.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a45bd92/collections/_samsonite/andantewhldduffles/500x500/Andante2_Wheels.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a45bd92/collections/_samsonite/andantewhldduffles/500x500/Andante2_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw87b8fde6/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Front.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw87b8fde6/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Front.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd22afc3d/collections/_samsonite/andantewhldduffles/500x500/Andante2_Top_Stylized.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd22afc3d/collections/_samsonite/andantewhldduffles/500x500/Andante2_Top_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd9d9486f/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Top_Pull_Handle.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd9d9486f/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6cfc245c/collections/_samsonite/andantewhldduffles/500x500/Andante2_5455_Side_Handles.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6cfc245c/collections/_samsonite/andantewhldduffles/500x500/Andante2_5455_Side_Handles.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw324fcea2/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Side_Pocket.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw324fcea2/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Side_Pocket.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw65af4a73/collections/_samsonite/andantewhldduffles/500x500/Andante2_Zipper_Pulls.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw65af4a73/collections/_samsonite/andantewhldduffles/500x500/Andante2_Zipper_Pulls.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a45bd92/collections/_samsonite/andantewhldduffles/500x500/Andante2_Wheels.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a45bd92/collections/_samsonite/andantewhldduffles/500x500/Andante2_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw87b8fde6/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Front.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw87b8fde6/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Front.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd22afc3d/collections/_samsonite/andantewhldduffles/500x500/Andante2_Top_Stylized.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd22afc3d/collections/_samsonite/andantewhldduffles/500x500/Andante2_Top_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd9d9486f/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Top_Pull_Handle.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd9d9486f/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6cfc245c/collections/_samsonite/andantewhldduffles/500x500/Andante2_5455_Side_Handles.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6cfc245c/collections/_samsonite/andantewhldduffles/500x500/Andante2_5455_Side_Handles.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw324fcea2/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Side_Pocket.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw324fcea2/collections/_samsonite/andantewhldduffles/500x500/1172245455_Andante2_22_Side_Pocket.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw65af4a73/collections/_samsonite/andantewhldduffles/500x500/Andante2_Zipper_Pulls.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw65af4a73/collections/_samsonite/andantewhldduffles/500x500/Andante2_Zipper_Pulls.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a45bd92/collections/_samsonite/andantewhldduffles/500x500/Andante2_Wheels.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a45bd92/collections/_samsonite/andantewhldduffles/500x500/Andante2_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Andante 2 22\" Wheeled Duffel",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Andante 2 22\" Wheeled Duffel",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Andante 2 22\" Wheeled Duffel",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Andante 2 22\" Wheeled Duffel",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "All Black",
+      "values": [
+        {
+          "id": "1172245455",
+          "description": null,
+          "displayValue": "All Black",
+          "value": "1172245455",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=&pid=117224XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdab92195/colors/SAM_andante2-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdab92195/colors/SAM_andante2-black.jpg",
+                "type": "swatch"
+              },
+              {
+                "alt": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/en_US/v1745230352630/collections/ _samsonite/andantewhldduffles/500x500/Andante2_5455_Corner_Bumpers.jpg?sw=60&sh=60",
+                "index": "1",
+                "title": "Andante 2 22\" Wheeled Duffel in the color All Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/en_US/v1745230352630/collections/ _samsonite/andantewhldduffles/500x500/Andante2_5455_Corner_Bumpers.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "117224C043",
+          "description": null,
+          "displayValue": "Riverrock/Black",
+          "value": "117224C043",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C043&pid=117224XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Andante 2 22\" Wheeled Duffel in the color Riverrock/Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbf267110/colors/SAM_andante2-riverrockblack.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Andante 2 22\" Wheeled Duffel in the color Riverrock/Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbf267110/colors/SAM_andante2-riverrockblack.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "117224C065",
+          "description": null,
+          "displayValue": "Moss Green/Black",
+          "value": "117224C065",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Andante 2 22\" Wheeled Duffel in the color Moss Green/Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw952c6323/colors/SAM_andante2-mossgreenblack.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Andante 2 22\" Wheeled Duffel in the color Moss Green/Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw952c6323/colors/SAM_andante2-mossgreenblack.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1172241599",
+          "description": null,
+          "displayValue": "Navy/Black",
+          "value": "1172241599",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=1172241599&pid=117224XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Andante 2 22\" Wheeled Duffel in the color Navy/Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa1ee534c/colors/SAM_andante2-navy-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Andante 2 22\" Wheeled Duffel in the color Navy/Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa1ee534c/colors/SAM_andante2-navy-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "An update to the original Andante wheeled duffel, Andante 2 boasts added features for convenience, while continuing to provide maximum durability for the toughest travel. Andante 2 wheeled duffels are constructed using water resistant polyester, have a locking pull handle and smooth rolling wheels for effortless mobility. Multiple exterior grab handles allow for easy handling from a variety of points for multiple carrying options. The large U-shaped opening makes packing and finding belongings a breeze.<br>&#149; Multiple external grab handles for easy handling<br>&#149; Locking pull handle for effortless carrying<br>&#149; Water resistant end pocket is perfect for shoes or wet items<br>&#149; Corner protectors safeguard against teh toughest travels<br>&#149; Large U-shaped main opening for easy packing and access<br>&#149; Weight: 5.2 lbs.<br><br>Body Dimensions: 22.0\" x 12.5\" x 12.0\"<br>Overall Dimensions: 22.5\" x 12.5\" x 12.5\"",
+  "shortDescription": "An update to the original Andante wheeled duffel, Andante 2 boasts added features for convenience, while continuing to provide maximum durability for the toughest travel. Andante 2 wheeled duffels are constructed using water resistant polyester, have a locking pull handle and smooth rolling wheels for effortless mobility. Multiple exterior grab handles allow for easy handling from a variety of points for multiple carrying options. The large U-shaped opening makes packing and finding belongings a breeze.",
+  "rating": 3.7,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_117224XXXX_color=117224C065&pid=1172245455&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22.5,
+  "overall-length": 12.5,
+  "overall-width": 12.5,
+  "unit-height": 22,
+  "unit-length": 12.5,
+  "unit-width": 12,
+  "unit-weight": 5.2,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "47.5",
+  "product-dimensions": "22in\u00a0H x 12.5in\u00a0L x 12in\u00a0W",
+  "external-dimensions": "22.5in\u00a0H x 12.5in\u00a0L x 12.5in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1172245455"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22.5in\u00a0H x 12.5in\u00a0L x 12.5in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "22in\u00a0H x 12.5in\u00a0L x 12in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "47.5"
+    },
+    {
+      "specification": "Weight",
+      "value": 5.2
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Corner guard",
+        "Water-Resistant Coating"
+      ],
+      "tooltip": [
+        "Bumpers are stitched onto the corners of your softside luggage to provide additional protection from wear and tear.",
+        "able to resist the penetration of water to some degree but not entirely."
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 3 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/wheeled-duffels/andante-2-22%22-wheeled-duffel/117224XXXX.html?dwvar_117224XXXX_color=1172245455&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Andante 2 22\" Wheeled Duffel | Rolling Duffel |  Samsonite",
+  "pageDescription": "Andante 2 22\" Wheeled Duffel boasts added features for convenience, while continuing to provide maximum durability for the toughest travel.",
+  "pageKeywords": "22 inch wheeled duffel bag",
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>Andante 2 boasts added features for convenience, while continuing to provide maximum durability for the toughest travel. The large U-shaped opening makes packing and finding belongings a breeze.<br><br><li>Overall Dimensions: 22.5\" x 12.5\" x 12.5\"</li><li>Weight: 5.2 lbs.</li></ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "144420XXXX"
+    },
+    {
+      "ID": "117226XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "All Black",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1172245455"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22.5in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "12.5in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "12.5in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "22in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "12.5in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "12in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "5.2lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "47.5"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Corner guard",
+        "Water-Resistant Coating"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Handle wrap",
+        "Push Button Handle",
+        "Retractable Handle",
+        "Top Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "SmoothRoller"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Shoe pockets",
+        "Front U-Zip",
+        "Shoe/Wet Pocket"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 3 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1172245455",
+  "categorized": true,
+  "categoryTree": "Luggage > Wheeled Duffels"
+}

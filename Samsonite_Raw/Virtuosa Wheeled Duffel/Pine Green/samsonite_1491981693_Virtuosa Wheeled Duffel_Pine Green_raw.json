@@ -1,0 +1,618 @@
+{
+  "uuid": "fee6e01c498ff9c79acd8e1b50",
+  "id": "1491981693",
+  "productName": "Virtuosa Wheeled Duffel",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "149198XXXX",
+    "name": "Virtuosa Wheeled Duffel",
+    "category": "Wheeled Duffels",
+    "categoryID": "wheeled-duffels",
+    "price": "149.99",
+    "item_id": "149198XXXX",
+    "item_variant": "1491981693",
+    "variant": "1491981693",
+    "item_color": "Green"
+  },
+  "gtmGA4Data": {
+    "item_id": "149198XXXX",
+    "item_variant": "1491981693",
+    "item_name": "Virtuosa Wheeled Duffel",
+    "item_category": "Wheeled Duffels",
+    "price": 149.99,
+    "currencyCode": "USD",
+    "variant": "1491981693",
+    "item_color": "Green"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 149.99,
+      "currency": "USD",
+      "formatted": "$149.99",
+      "decimalPrice": "149.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"149.99\">\n        \n        $149.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $149.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb6cf47d3/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb6cf47d3/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw02e7606d/collections/_samsonite/virtuosa/500x500/149198-1693-INTERIOR_STYLED-9.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw02e7606d/collections/_samsonite/virtuosa/500x500/149198-1693-INTERIOR_STYLED-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb124a99c/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT_POCKET-7.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb124a99c/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT_POCKET-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw56442398/collections/_samsonite/virtuosa/500x500/149198-1693-HANDLE-5.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw56442398/collections/_samsonite/virtuosa/500x500/149198-1693-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb0aa28cb/collections/_samsonite/virtuosa/500x500/149198-1693-BOTTOM-8.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb0aa28cb/collections/_samsonite/virtuosa/500x500/149198-1693-BOTTOM-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe91c299f/collections/_samsonite/virtuosa/500x500/149198-1693-BACK_POCKET-6.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe91c299f/collections/_samsonite/virtuosa/500x500/149198-1693-BACK_POCKET-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw98bb8a79/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34-3.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw98bb8a79/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34-3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb6cf47d3/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb6cf47d3/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw02e7606d/collections/_samsonite/virtuosa/500x500/149198-1693-INTERIOR_STYLED-9.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw02e7606d/collections/_samsonite/virtuosa/500x500/149198-1693-INTERIOR_STYLED-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb124a99c/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT_POCKET-7.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb124a99c/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT_POCKET-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw56442398/collections/_samsonite/virtuosa/500x500/149198-1693-HANDLE-5.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw56442398/collections/_samsonite/virtuosa/500x500/149198-1693-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb0aa28cb/collections/_samsonite/virtuosa/500x500/149198-1693-BOTTOM-8.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb0aa28cb/collections/_samsonite/virtuosa/500x500/149198-1693-BOTTOM-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe91c299f/collections/_samsonite/virtuosa/500x500/149198-1693-BACK_POCKET-6.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe91c299f/collections/_samsonite/virtuosa/500x500/149198-1693-BACK_POCKET-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw98bb8a79/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34-3.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw98bb8a79/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34-3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb6cf47d3/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb6cf47d3/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw02e7606d/collections/_samsonite/virtuosa/500x500/149198-1693-INTERIOR_STYLED-9.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw02e7606d/collections/_samsonite/virtuosa/500x500/149198-1693-INTERIOR_STYLED-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb124a99c/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT_POCKET-7.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb124a99c/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT_POCKET-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw56442398/collections/_samsonite/virtuosa/500x500/149198-1693-HANDLE-5.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw56442398/collections/_samsonite/virtuosa/500x500/149198-1693-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb0aa28cb/collections/_samsonite/virtuosa/500x500/149198-1693-BOTTOM-8.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb0aa28cb/collections/_samsonite/virtuosa/500x500/149198-1693-BOTTOM-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe91c299f/collections/_samsonite/virtuosa/500x500/149198-1693-BACK_POCKET-6.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe91c299f/collections/_samsonite/virtuosa/500x500/149198-1693-BACK_POCKET-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw98bb8a79/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34-3.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw98bb8a79/collections/_samsonite/virtuosa/500x500/149198-1693-FRONT34-3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Virtuosa Wheeled Duffel in the color .",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw67e35f3d/pdps/samsonite/virtuosa/149198_1596_virtuosa_wheeled_dfl_pdp_colorway_3000x3000.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "Virtuosa Wheeled Duffel in the color .",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw67e35f3d/pdps/samsonite/virtuosa/149198_1596_virtuosa_wheeled_dfl_pdp_colorway_3000x3000.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Virtuosa Wheeled Duffel",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Virtuosa Wheeled Duffel",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Virtuosa Wheeled Duffel",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Virtuosa Wheeled Duffel",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Pine Green",
+      "values": [
+        {
+          "id": "1491981693",
+          "description": null,
+          "displayValue": "Pine Green",
+          "value": "1491981693",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=&pid=149198XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Virtuosa Wheeled Duffel in the color Pine Green.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw44bb859a/colors/SAM_virtuosa-pine-green.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Virtuosa Wheeled Duffel in the color Pine Green.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw44bb859a/colors/SAM_virtuosa-pine-green.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1491981596",
+          "description": null,
+          "displayValue": "Navy",
+          "value": "1491981596",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981596&pid=149198XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Virtuosa Wheeled Duffel in the color Navy.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw99a5b8bb/colors/SAM_virtuosa-navy.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Virtuosa Wheeled Duffel in the color Navy.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw99a5b8bb/colors/SAM_virtuosa-navy.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1491982136",
+          "description": null,
+          "displayValue": "Merlot",
+          "value": "1491982136",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Virtuosa Wheeled Duffel in the color Merlot.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd0d4e127/colors/SAM-Virtuosa_12135_MERLOT.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Virtuosa Wheeled Duffel in the color Merlot.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd0d4e127/colors/SAM-Virtuosa_12135_MERLOT.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "Move with ease with the Virtuosa Wheeled Duffel. Carry handheld or wheel using the trolley handle, this style delivers the function of a duffel bag with the added convenience of wheeled luggage!",
+  "rating": 3.2,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_149198XXXX_color=1491981693&pid=1491981693&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 11.5,
+  "overall-length": 21.5,
+  "overall-width": 10.3,
+  "unit-height": 11,
+  "unit-length": 21.3,
+  "unit-width": 10,
+  "unit-weight": 4,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "43.3",
+  "product-dimensions": "11in\u00a0H x 21.3in\u00a0L x 10in\u00a0W",
+  "external-dimensions": "11.5in\u00a0H x 21.5in\u00a0L x 10.3in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1491981693"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "11.5in\u00a0H x 21.5in\u00a0L x 10.3in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "11in\u00a0H x 21.3in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "43.3"
+    },
+    {
+      "specification": "Weight",
+      "value": 4
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polyester",
+        "Recycled Fabric"
+      ],
+      "tooltip": [
+        "Durable Polyester fabric.",
+        "Made with recycled fabric. All fabrics, including the lining, are created from 100% post-consumer recycled plastic bottles."
+      ]
+    },
+    {
+      "specification": "SmartSleeve",
+      "value": "Yes",
+      "tooltip": [
+        "Strap that fits over most upright luggage handles for easy transportation"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/wheeled-duffels/virtuosa-wheeled-duffel/149198XXXX.html?dwvar_149198XXXX_color=1491981693&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Virtuosa Wheeled Duffel | Rolling Duffel | Samsonite",
+  "pageDescription": "The Virtuosa Wheeled Duffel combines the convenience of wheeled luggage with the functionality of a duffel bag, making travel a breeze.",
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>Move with ease, this style delivers the function of a duffel bag with the added convenience of wheeled luggage.<br><br><li>Overall Dimensions: 21.5 in. x 11.5 in. x 10.25 in.</li><li>Weight: 3.97 lbs</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "150033XXXX"
+    },
+    {
+      "ID": "149177XXXX"
+    },
+    {
+      "ID": "1491961596"
+    },
+    {
+      "ID": "1491971596"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Pine Green",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1491981693"
+    },
+    {
+      "name": "Overall Height",
+      "value": "11.5in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "21.5in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "10.3in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "11in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "21.3in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "10in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "4lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "43.3"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polyester",
+        "Recycled Fabric"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "Retractable Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Rolling Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": "\u2014"
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "Yes",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1491981693",
+  "categorized": true,
+  "categoryTree": "Luggage > Wheeled Duffels"
+}

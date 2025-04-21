@@ -1,0 +1,701 @@
+{
+  "uuid": "f179bebdcfdb68174ade04c342",
+  "id": "1405049551",
+  "productName": "NuRoad Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "140504XXXX",
+    "name": "NuRoad Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "289.99",
+    "item_id": "140504XXXX",
+    "item_variant": "1405049551",
+    "variant": "1405049551",
+    "item_color": "Blue"
+  },
+  "gtmGA4Data": {
+    "item_id": "140504XXXX",
+    "item_variant": "1405049551",
+    "item_name": "NuRoad Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 289.99,
+    "currencyCode": "USD",
+    "variant": "1405049551",
+    "item_color": "Blue"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 289.99,
+      "currency": "USD",
+      "formatted": "$289.99",
+      "decimalPrice": "289.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"289.99\">\n        \n        $289.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $289.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw07baa1f0/collections/_samsonite/Nuroad/500x500/1405049551_COSpin.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw07baa1f0/collections/_samsonite/Nuroad/500x500/1405049551_COSpin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac7c0634/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_2_Interior_Stylized.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac7c0634/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_2_Interior_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1dee072f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_3_Top_Pull_Handle.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1dee072f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_3_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8affd920/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_4_Removable_Wetpak.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8affd920/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_4_Removable_Wetpak.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb43f02a5/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_5_Removable_Pouch.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb43f02a5/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_5_Removable_Pouch.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb053dcc/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_6_Pouch_Interior.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb053dcc/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_6_Pouch_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw81f9237f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_7_Interior_Divider.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw81f9237f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_7_Interior_Divider.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa5624c25/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_8_Front_Pockets.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa5624c25/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_8_Front_Pockets.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6250d2d9/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_9_TSA_Lock.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6250d2d9/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_9_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa928fb8c/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_ID_Tag.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa928fb8c/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_ID_Tag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw92e9c74a/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_10_Wheels.jpg?sw=912&sh=912",
+        "index": "10",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw92e9c74a/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_10_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw07baa1f0/collections/_samsonite/Nuroad/500x500/1405049551_COSpin.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw07baa1f0/collections/_samsonite/Nuroad/500x500/1405049551_COSpin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac7c0634/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_2_Interior_Stylized.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac7c0634/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_2_Interior_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1dee072f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_3_Top_Pull_Handle.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1dee072f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_3_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8affd920/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_4_Removable_Wetpak.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8affd920/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_4_Removable_Wetpak.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb43f02a5/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_5_Removable_Pouch.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb43f02a5/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_5_Removable_Pouch.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb053dcc/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_6_Pouch_Interior.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb053dcc/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_6_Pouch_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw81f9237f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_7_Interior_Divider.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw81f9237f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_7_Interior_Divider.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa5624c25/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_8_Front_Pockets.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa5624c25/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_8_Front_Pockets.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6250d2d9/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_9_TSA_Lock.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6250d2d9/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_9_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa928fb8c/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_ID_Tag.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa928fb8c/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_ID_Tag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw92e9c74a/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_10_Wheels.jpg?sw=176&sh=176",
+        "index": "10",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw92e9c74a/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_10_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw07baa1f0/collections/_samsonite/Nuroad/500x500/1405049551_COSpin.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw07baa1f0/collections/_samsonite/Nuroad/500x500/1405049551_COSpin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwac7c0634/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_2_Interior_Stylized.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwac7c0634/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_2_Interior_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1dee072f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_3_Top_Pull_Handle.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1dee072f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_3_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8affd920/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_4_Removable_Wetpak.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8affd920/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_4_Removable_Wetpak.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb43f02a5/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_5_Removable_Pouch.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb43f02a5/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_5_Removable_Pouch.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb053dcc/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_6_Pouch_Interior.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb053dcc/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_6_Pouch_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw81f9237f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_7_Interior_Divider.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw81f9237f/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_7_Interior_Divider.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa5624c25/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_8_Front_Pockets.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa5624c25/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_8_Front_Pockets.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6250d2d9/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_9_TSA_Lock.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6250d2d9/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_9_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa928fb8c/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_ID_Tag.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa928fb8c/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_ID_Tag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw92e9c74a/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_10_Wheels.jpg?sw=3000&sh=3000",
+        "index": "10",
+        "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw92e9c74a/collections/_samsonite/Nuroad/500x500/1405049551_COSpin_10_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "NuRoad Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweef96926/pdps/samsonite/nuroad/nuroad-mens-14.1-15.6-backpacks-carry-on.png?sw=400&sh=400",
+        "index": "0",
+        "title": "NuRoad Carry-On Spinner in the color .",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweef96926/pdps/samsonite/nuroad/nuroad-mens-14.1-15.6-backpacks-carry-on.png",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "NuRoad Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "NuRoad Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "NuRoad Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "NuRoad Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Navy/Gunmetal",
+      "values": [
+        {
+          "id": "1405049551",
+          "description": null,
+          "displayValue": "Navy/Gunmetal",
+          "value": "1405049551",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=&pid=140504XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8caf2709/colors/SAM_nuroad-navy-gunmetal.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "NuRoad Carry-On Spinner in the color Navy/Gunmetal.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8caf2709/colors/SAM_nuroad-navy-gunmetal.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "140504T522",
+          "description": null,
+          "displayValue": "Black/Gunmetal",
+          "value": "140504T522",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "NuRoad Carry-On Spinner in the color Black/Gunmetal.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc007056d/colors/SAM_nuroad-black-gunmetal.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "NuRoad Carry-On Spinner in the color Black/Gunmetal.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc007056d/colors/SAM_nuroad-black-gunmetal.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "A new look to carry on, feature rich with a sustainable twist, the NuRoad Spinner is sure to go the distance. Featuring Samsonite\u2019s Recyclex&reg; lining made from 100% recycled bottles, 2 interior packing compartments, and bonus RIFD & 3-1-1 friendly bags make this perfect for the \u201ccarry on only\u201d crowd.\r\n<ul><li>Nylon & Polyester primary fabrics which include a water-repellent coating, leather-like PU trim, & Recyclex&reg; Lining</li><li>Carry-On size and weight allowances vary by airlines. Visit our <a href=\"https://shop.samsonite.com/carry-on-guide.html\">Carry-On Guide</a> for more details. If the bag is overstuffed, it may not be accepted by the airlines.</li><li>4 exterior pockets offer a place to put everything</li><li>Cable TSA Lock: TSA-approved cable lock threads through zipper pulls to secure access to the main compartment</li><li>Dual Spinner Wheels: provide easy & smooth handling over long-haul travel across various surfaces</li><li>RightHeight&trade; Trolley Handle: multi-stop adjustments allow you to extend the handle to a custom height that's perfect for you</li><li>2 padded handles for easy, grab & go carry</li><li>Retractable ID holder is discreetly located in the back of the case under the trolley handle</li><li>Back kickplate & corner guards provide a little extra protection for those rigorous journey's</li><li>Removable 3-1-1 friendly pouch is made of wipe-clean material</li><li>Front pocket interiors include 2 mesh slip pockets and a Key Fob to organize all the essentials</li><li>Packing compartment features 4 zippered storage pockets; 1 large to store items needed quickly without unpacking everything, 1 mesh pocket, and 2 lining pockets to store smaller accessories</li><li>Elastic cross straps keep belongings in place during travel</li><li>Removable pouch, ideal to store tech accessories; features an RFID lined pocket & wireless charging capabilities</li></ul>",
+  "shortDescription": "A new look to carry on, feature rich with a sustainable twist, the NuRoad Spinner is sure to go the distance. Featuring Samsonite\u2019s Recyclex&reg; lining made from 100% recycled bottles, 2 interior packing compartments, and bonus RIFD & 3-1-1 friendly bags make this perfect for the \u201ccarry on only\u201d crowd.",
+  "rating": 4.5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_140504XXXX_color=1405049551&pid=1405049551&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22,
+  "overall-length": 14,
+  "overall-width": 9,
+  "unit-height": 20.3,
+  "unit-length": 13.5,
+  "unit-width": 9,
+  "unit-weight": 8.3,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45",
+  "product-dimensions": "20.3in\u00a0H x 13.5in\u00a0L x 9in\u00a0W",
+  "external-dimensions": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1405049551"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20.3in\u00a0H x 13.5in\u00a0L x 9in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "specification": "Weight",
+      "value": 8.3
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Nylon",
+        "Polyester",
+        "Recyclex\u00ae"
+      ],
+      "tooltip": [
+        "Durable Nylon fabric.",
+        "Durable Polyester fabric.",
+        "Recyclex&reg; polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+      ]
+    },
+    {
+      "specification": "RFID Protection",
+      "value": "Yes",
+      "tooltip": [
+        "Includes an RFID pocket that protects against Identity Theft"
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/nuroad-carry-on-spinner/140504XXXX.html?dwvar_140504XXXX_color=1405049551&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "NuRoad Carry-On Spinner | Women's Carry-On Spinner | Samsonite",
+  "pageDescription": "A new look to carry on, feature rich with a sustainable twist, the NuRoad Carry-On Spinner is sure to go the distance with its interior packing compartments.",
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "140554XXXX"
+    },
+    {
+      "ID": "778881212"
+    },
+    {
+      "ID": "140505T522"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Navy/Gunmetal",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1405049551"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20.3in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13.5in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "9in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "8.3lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Nylon",
+        "Polyester",
+        "Recyclex\u00ae"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "RightHeight\u2122 Pull Handle",
+        "Top Carry Handle",
+        "Side carry handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Cross straps",
+        "Built-in ID tag holder",
+        "TSA Lock"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1405049551",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

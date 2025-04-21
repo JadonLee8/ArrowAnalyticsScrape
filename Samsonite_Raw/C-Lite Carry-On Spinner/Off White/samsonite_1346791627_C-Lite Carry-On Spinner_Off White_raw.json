@@ -1,0 +1,649 @@
+{
+  "uuid": "a2aa04b7a79abcc41d0f4d17fd",
+  "id": "1346791627",
+  "productName": "C-Lite Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "134679XXXX",
+    "name": "C-Lite Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "500.00",
+    "item_id": "134679XXXX",
+    "item_variant": "1346791627",
+    "variant": "1346791627",
+    "item_color": "White"
+  },
+  "gtmGA4Data": {
+    "item_id": "134679XXXX",
+    "item_variant": "1346791627",
+    "item_name": "C-Lite Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 500,
+    "currencyCode": "USD",
+    "variant": "1346791627",
+    "item_color": "White"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 500,
+      "currency": "USD",
+      "formatted": "$500.00",
+      "decimalPrice": "500.00"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"500.00\">\n        \n        $500.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $500.00\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw139c2c11/collections/_samsonite/C-Lite/500x500/1346791627_COSpin.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw139c2c11/collections/_samsonite/C-Lite/500x500/1346791627_COSpin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa7f14892/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Interior.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa7f14892/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8dea59ed/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_TSA_Lock.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8dea59ed/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw454b2829/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Back.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw454b2829/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Back.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw79c72bda/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Side.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw79c72bda/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Side.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw736bc69a/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Battery_Pocket.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw736bc69a/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Battery_Pocket.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa4f35ab6/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_ID_Tag.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa4f35ab6/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_ID_Tag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd9dd1195/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_USB_Port.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd9dd1195/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_USB_Port.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw139c2c11/collections/_samsonite/C-Lite/500x500/1346791627_COSpin.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw139c2c11/collections/_samsonite/C-Lite/500x500/1346791627_COSpin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa7f14892/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Interior.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa7f14892/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8dea59ed/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_TSA_Lock.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8dea59ed/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw454b2829/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Back.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw454b2829/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Back.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw79c72bda/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Side.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw79c72bda/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Side.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw736bc69a/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Battery_Pocket.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw736bc69a/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Battery_Pocket.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa4f35ab6/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_ID_Tag.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa4f35ab6/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_ID_Tag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd9dd1195/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_USB_Port.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd9dd1195/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_USB_Port.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw139c2c11/collections/_samsonite/C-Lite/500x500/1346791627_COSpin.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw139c2c11/collections/_samsonite/C-Lite/500x500/1346791627_COSpin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa7f14892/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Interior.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa7f14892/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8dea59ed/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_TSA_Lock.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw8dea59ed/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_TSA_Lock.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw454b2829/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Back.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw454b2829/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Back.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw79c72bda/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Side.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw79c72bda/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Side.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw736bc69a/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Battery_Pocket.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw736bc69a/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_Battery_Pocket.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa4f35ab6/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_ID_Tag.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa4f35ab6/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_ID_Tag.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "C-Lite Carry-On Spinner in the color Off White.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd9dd1195/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_USB_Port.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "C-Lite Carry-On Spinner in the color Off White.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd9dd1195/collections/_samsonite/C-Lite/500x500/1346791627_COSpin_USB_Port.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "C-Lite Carry-On Spinner in the color .",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea957fba/pdps/samsonite/c-lite/c-lite-carry-on-134679-chili-red-pdp-description-tile-3000x3000.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "C-Lite Carry-On Spinner in the color .",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwea957fba/pdps/samsonite/c-lite/c-lite-carry-on-134679-chili-red-pdp-description-tile-3000x3000.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "C-Lite Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "C-Lite Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "C-Lite Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "C-Lite Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Off White",
+      "values": [
+        {
+          "id": "1346791198",
+          "description": null,
+          "displayValue": "Chili Red",
+          "value": "1346791198",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791198&pid=134679XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "C-Lite Carry-On Spinner in the color Chili Red.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw24f98fb8/colors/SAM_c-lite-chili-red.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "C-Lite Carry-On Spinner in the color Chili Red.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw24f98fb8/colors/SAM_c-lite-chili-red.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1346791627",
+          "description": null,
+          "displayValue": "Off White",
+          "value": "1346791627",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=&pid=134679XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "C-Lite Carry-On Spinner in the color Off White.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw45d20ce0/colors/SAM_c-lite-off-white.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "C-Lite Carry-On Spinner in the color Off White.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw45d20ce0/colors/SAM_c-lite-off-white.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1346791041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1346791041",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791041&pid=134679XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "C-Lite Carry-On Spinner in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw46615efd/colors/SAM_c-lite-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "C-Lite Carry-On Spinner in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw46615efd/colors/SAM_c-lite-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Staying true to the great stories that are intrinsically woven into the CURV&reg; technology and our iconic design, we proudly introduce C-Lite. This top-notch and made in Europe collection now ensures an even smoother travel experience offering double wheels and an elongated double pull handle. Its incredible lightness and outstanding comfort will make your journey even more delightful.\r\n<ul><li>Multi stage dual-tube handle system with retractable top/side carry handles</li><li>360 dual spin wheels</li><li>Samsonite-branded lining made from Recyclex&reg;, a fabric engineered from 100% post-consumer recycled PET plastic bottles</li><li>Fully zippered divider and cross straps to keep belongings organized while using your case</li><li>TSA approved 3-digit combo lock</li><li>External integrated USB port for charging accessibility</li><li>Carry-On size and weight allowances vary by airlines. Visit our <a href=\"https://shop.samsonite.com/carry-on-guide.html\">Carry-On Guide</a> for more details. If the bag is overstuffed, it may not be accepted by the airlines.</li></ul></ul>",
+  "shortDescription": "Staying true to the great stories that are intrinsically woven into the CURV&reg; technology and our iconic design, we proudly introduce C-Lite. This top-notch and made in Europe collection now ensures an even smoother travel experience offering double wheels and an elongated double pull handle. Its incredible lightness and outstanding comfort will make your journey even more delightful.",
+  "rating": 4.7,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_134679XXXX_color=1346791627&pid=1346791627&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 21.6,
+  "overall-length": 15.8,
+  "overall-width": 7.9,
+  "unit-height": 19,
+  "unit-length": 15.1,
+  "unit-width": 7.4,
+  "unit-weight": 4.5,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45.3",
+  "product-dimensions": "19in\u00a0H x 15.1in\u00a0L x 7.4in\u00a0W",
+  "external-dimensions": "21.6in\u00a0H x 15.8in\u00a0L x 7.9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1346791627"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "21.6in\u00a0H x 15.8in\u00a0L x 7.9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "19in\u00a0H x 15.1in\u00a0L x 7.4in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45.3"
+    },
+    {
+      "specification": "Weight",
+      "value": 4.5
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Curv Material",
+        "Recyclex\u00ae"
+      ],
+      "tooltip": [
+        "Layers of woven polypropylene are formed into self reinforced composite sheets providing superior durability while being extremely lightweight.",
+        "Recyclex&reg; polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+      ]
+    },
+    {
+      "specification": "USB Port",
+      "value": "Yes",
+      "tooltip": [
+        "Built in USB port lets you power devices on the go. Battery sold separately"
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/c-lite-carry-on-spinner/134679XXXX.html?dwvar_134679XXXX_color=1346791627&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "C-Lite Carry-On Spinner | Ultra-Light Luggage | Samsonite",
+  "pageDescription": "Upgrade to the C-Lite Carry-On Spinner, made with revolutionary Curv\u00ae material, for an ultra-light travel experience without compromising on toughness.",
+  "pageKeywords": "clite, clite carry on,",
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br> This top-notch and made in Europe collection now ensures an even smoother travel experience offering double wheels and an elongated double pull handle. Its incredible lightness and outstanding comfort will make your journey even more delightful.<br><br><li>Overall Dimensions: 21.6 in. x 15.8  in. x 7.9 in.</li><li>Weight: 4.5 lbs.</li></ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "122863XXXX"
+    },
+    {
+      "ID": "122861XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Off White",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1346791627"
+    },
+    {
+      "name": "Overall Height",
+      "value": "21.6in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15.8in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "7.9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "19in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "15.1in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "7.4in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "4.5lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45.3"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Curv Material",
+        "Recyclex\u00ae"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle",
+        "Top Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Cross straps",
+        "Interior Divider",
+        "Built-in ID tag holder",
+        "TSA Lock"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "Yes",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1346791627",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}
