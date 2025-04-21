@@ -1,0 +1,672 @@
+{
+  "uuid": "43947422578105538fe96a744d",
+  "id": "1129341041",
+  "productName": "Spinner Underseater with USB Port",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "112934XXXX",
+    "name": "Spinner Underseater with USB Port",
+    "category": "Underseat Luggage",
+    "categoryID": "underseat-luggage",
+    "price": "112.00",
+    "item_id": "112934XXXX",
+    "item_variant": "1129341041",
+    "variant": "1129341041",
+    "item_color": "Black"
+  },
+  "gtmGA4Data": {
+    "item_id": "112934XXXX",
+    "item_variant": "1129341041",
+    "item_name": "Spinner Underseater with USB Port",
+    "item_category": "Underseat Luggage",
+    "price": 112,
+    "currencyCode": "USD",
+    "variant": "1129341041",
+    "item_color": "Black"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 112,
+      "currency": "USD",
+      "formatted": "$112.00",
+      "decimalPrice": "112.00"
+    },
+    "list": {
+      "value": 145,
+      "currency": "USD",
+      "formatted": "$145.00",
+      "decimalPrice": "145.00"
+    },
+    "percentageOff": "23% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"112.00\">\n        \n        $112.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"145.00\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $145.00\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $112.00 , was $145.00\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe85efd03/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Front.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe85efd03/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Front.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdd9534a1/collections/_samsonite/accessories/500x500/PROD_COL_55476_1041_AIR_CANADA_CAGE.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdd9534a1/collections/_samsonite/accessories/500x500/PROD_COL_55476_1041_AIR_CANADA_CAGE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf85c76b6/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Interior.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf85c76b6/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf23242b4/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf23242b4/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2e5279eb/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Pull_Handle.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2e5279eb/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5bf24c70/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side_Pocket.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5bf24c70/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side_Pocket.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4bdc6966/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_USB_Port.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4bdc6966/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc88df797/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Smart_Sleeve.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc88df797/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Smart_Sleeve.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3db5a48d/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Wheels.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw3db5a48d/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe85efd03/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Front.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe85efd03/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Front.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdd9534a1/collections/_samsonite/accessories/500x500/PROD_COL_55476_1041_AIR_CANADA_CAGE.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdd9534a1/collections/_samsonite/accessories/500x500/PROD_COL_55476_1041_AIR_CANADA_CAGE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf85c76b6/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Interior.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf85c76b6/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf23242b4/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf23242b4/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2e5279eb/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Pull_Handle.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2e5279eb/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5bf24c70/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side_Pocket.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5bf24c70/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side_Pocket.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4bdc6966/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_USB_Port.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4bdc6966/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc88df797/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Smart_Sleeve.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc88df797/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Smart_Sleeve.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3db5a48d/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Wheels.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw3db5a48d/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe85efd03/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Front.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe85efd03/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Front.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdd9534a1/collections/_samsonite/accessories/500x500/PROD_COL_55476_1041_AIR_CANADA_CAGE.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdd9534a1/collections/_samsonite/accessories/500x500/PROD_COL_55476_1041_AIR_CANADA_CAGE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf85c76b6/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Interior.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf85c76b6/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf23242b4/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf23242b4/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2e5279eb/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Pull_Handle.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2e5279eb/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5bf24c70/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side_Pocket.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5bf24c70/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Side_Pocket.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4bdc6966/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_USB_Port.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4bdc6966/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_USB_Port.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc88df797/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Smart_Sleeve.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc88df797/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Smart_Sleeve.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Spinner Underseater with USB Port in the color Black.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3db5a48d/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Wheels.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Spinner Underseater with USB Port in the color Black.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw3db5a48d/collections/_samsonite/accessories/500x500/SAM_Underseater_1129341041_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Spinner Underseater with USB Port",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Spinner Underseater with USB Port",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Spinner Underseater with USB Port",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Spinner Underseater with USB Port",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Spinner Underseater with USB Port",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Spinner Underseater with USB Port",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Black",
+      "values": [
+        {
+          "id": "1129341041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1129341041",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=&pid=112934XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Spinner Underseater with USB Port in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb191776a/colors/SAM_accessories-underseater-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Spinner Underseater with USB Port in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb191776a/colors/SAM_accessories-underseater-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1129341620",
+          "description": null,
+          "displayValue": "Ocean",
+          "value": "1129341620",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341620&pid=112934XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Spinner Underseater with USB Port in the color Ocean.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcf88ce4b/colors/SAM_accessories-underseater-ocean.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Spinner Underseater with USB Port in the color Ocean.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwcf88ce4b/colors/SAM_accessories-underseater-ocean.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1129341717",
+          "description": null,
+          "displayValue": "Purple",
+          "value": "1129341717",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341717&pid=112934XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Spinner Underseater with USB Port in the color Purple.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3cfe1330/colors/SAM_accessories-underseater-purple.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Spinner Underseater with USB Port in the color Purple.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw3cfe1330/colors/SAM_accessories-underseater-purple.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "This Spinner Underseater boasts the modern convenience of a USB port and the mobility of spinner wheels to move across all surfaces with ease.<br>&#149; Fits under most airline seats<br>&#149; Four, multi-directional spinner wheels for easy mobility<br>&#149; Integrated charging port allows for easy access to personal portable chargers (personal batteries not included)<br>&#149; Interior mesh organization pockets, laptop and tablet sleeve<br>&#149; Exterior zippered pocket with organizational panel for quick stash and organization for smaller items<br>&#149; Additional exterior pocket for quick stash items<br>&#149; Smart sleeve on back allows bag to be placed over handle of most upright luggage pieces<br><br>*Under seat storage capacities and dimensions vary by airline \u2013 please check with your airline for more information.<br>&#149; Weight: 5.6 lbs.<br><br>Body Dimensions: 15.0\" x 13.0\" x 8.0\"<br>Overall Dimensions: 16.5\" x 13.75\" x 9.0\"",
+  "shortDescription": "This Spinner Underseater boasts the modern convenience of a USB port and the mobility of spinner wheels to move across all surfaces with ease.",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_112934XXXX_color=1129341041&pid=1129341041&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 16.5,
+  "overall-length": 13.8,
+  "overall-width": 9,
+  "unit-height": 15,
+  "unit-length": 13,
+  "unit-width": 8,
+  "unit-weight": 5.6,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "39.3",
+  "product-dimensions": "15in\u00a0H x 13in\u00a0L x 8in\u00a0W",
+  "external-dimensions": "16.5in\u00a0H x 13.8in\u00a0L x 9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1129341041"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "16.5in\u00a0H x 13.8in\u00a0L x 9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "15in\u00a0H x 13in\u00a0L x 8in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "39.3"
+    },
+    {
+      "specification": "Weight",
+      "value": 5.6
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polyester"
+      ],
+      "tooltip": [
+        "Durable Polyester fabric."
+      ]
+    },
+    {
+      "specification": "USB Port",
+      "value": "Yes",
+      "tooltip": [
+        "Built in USB port lets you power devices on the go. Battery sold separately"
+      ]
+    },
+    {
+      "specification": "SmartSleeve",
+      "value": "Yes",
+      "tooltip": [
+        "Strap that fits over most upright luggage handles for easy transportation"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 3 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/underseat-luggage/spinner-underseater-with-usb-port/112934XXXX.html?dwvar_112934XXXX_color=1129341041&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Spinner Underseater with USB Port | Carry-On Underseater Luggage | Samsonite",
+  "pageDescription": "Samsonite's spinner underseater with USB port features an integrated charging port and multidirectional wheels, perfect for travel.",
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "78256XXXX"
+    },
+    {
+      "ID": "78255XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Black",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1129341041"
+    },
+    {
+      "name": "Overall Height",
+      "value": "16.5in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "13.8in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "15in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "5.6lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "39.3"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polyester"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "SmartSleeve\u2122",
+        "Interior pocket"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "Yes",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "Yes",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 3 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "1129341041",
+  "categorized": true,
+  "categoryTree": "Luggage > Underseat Luggage"
+}

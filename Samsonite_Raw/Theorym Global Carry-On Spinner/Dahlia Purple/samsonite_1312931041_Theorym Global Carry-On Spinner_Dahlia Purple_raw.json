@@ -1,0 +1,713 @@
+{
+  "uuid": "0cbeb2d25660813d5ba9cffbbd",
+  "id": "131293D385",
+  "productName": "Theorym Global Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "131293XXXX",
+    "name": "Theorym Global Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "174.99",
+    "item_id": "131293XXXX",
+    "item_variant": "131293D385",
+    "variant": "131293D385",
+    "item_color": "Purple"
+  },
+  "gtmGA4Data": {
+    "item_id": "131293XXXX",
+    "item_variant": "131293D385",
+    "item_name": "Theorym Global Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 174.99,
+    "currencyCode": "USD",
+    "variant": "131293D385",
+    "item_color": "Purple"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 174.99,
+      "currency": "USD",
+      "formatted": "$174.99",
+      "decimalPrice": "174.99"
+    },
+    "list": {
+      "value": 249.99,
+      "currency": "USD",
+      "formatted": "$249.99",
+      "decimalPrice": "249.99"
+    },
+    "percentageOff": "30% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"174.99\">\n        \n        $174.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"249.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $249.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $174.99 , was $249.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2537dd65/collections/_samsonite/Theorym/500x500/131293D385_19Spin.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2537dd65/collections/_samsonite/Theorym/500x500/131293D385_19Spin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf99c1f62/collections/_samsonite/Theorym/500x500/131293D385_19Spin_2_Interior_Stylized.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf99c1f62/collections/_samsonite/Theorym/500x500/131293D385_19Spin_2_Interior_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa2a5166e/collections/_samsonite/Theorym/500x500/131293D385_19Spin_10_SmartSLeeve.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa2a5166e/collections/_samsonite/Theorym/500x500/131293D385_19Spin_10_SmartSLeeve.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw835a50ed/collections/_samsonite/Theorym/500x500/131293D385_19Spin_3_Interior.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw835a50ed/collections/_samsonite/Theorym/500x500/131293D385_19Spin_3_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw018a8def/collections/_samsonite/Theorym/500x500/131293D385_19Spin_Zipwash_Lining.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw018a8def/collections/_samsonite/Theorym/500x500/131293D385_19Spin_Zipwash_Lining.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw97f329b8/collections/_samsonite/Theorym/500x500/131293D385_19Spin_4_Top_Pull_Handle.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw97f329b8/collections/_samsonite/Theorym/500x500/131293D385_19Spin_4_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw55442a7c/collections/_samsonite/Theorym/500x500/131293D385_19Spin_5_RightHeight.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw55442a7c/collections/_samsonite/Theorym/500x500/131293D385_19Spin_5_RightHeight.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcb9993e1/collections/_samsonite/Theorym/500x500/131293D385_19Spin_6_USB.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwcb9993e1/collections/_samsonite/Theorym/500x500/131293D385_19Spin_6_USB.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe313ae49/collections/_samsonite/Theorym/500x500/131293D385_19Spin_7_Zipper.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe313ae49/collections/_samsonite/Theorym/500x500/131293D385_19Spin_7_Zipper.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw07796cc7/collections/_samsonite/Theorym/500x500/131293D385_19Spin_8_Zipper_Kit.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw07796cc7/collections/_samsonite/Theorym/500x500/131293D385_19Spin_8_Zipper_Kit.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7d9b98ae/collections/_samsonite/Theorym/500x500/131293D385_19Spin_9_Wheels.jpg?sw=912&sh=912",
+        "index": "10",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7d9b98ae/collections/_samsonite/Theorym/500x500/131293D385_19Spin_9_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2537dd65/collections/_samsonite/Theorym/500x500/131293D385_19Spin.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2537dd65/collections/_samsonite/Theorym/500x500/131293D385_19Spin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf99c1f62/collections/_samsonite/Theorym/500x500/131293D385_19Spin_2_Interior_Stylized.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf99c1f62/collections/_samsonite/Theorym/500x500/131293D385_19Spin_2_Interior_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa2a5166e/collections/_samsonite/Theorym/500x500/131293D385_19Spin_10_SmartSLeeve.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa2a5166e/collections/_samsonite/Theorym/500x500/131293D385_19Spin_10_SmartSLeeve.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw835a50ed/collections/_samsonite/Theorym/500x500/131293D385_19Spin_3_Interior.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw835a50ed/collections/_samsonite/Theorym/500x500/131293D385_19Spin_3_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw018a8def/collections/_samsonite/Theorym/500x500/131293D385_19Spin_Zipwash_Lining.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw018a8def/collections/_samsonite/Theorym/500x500/131293D385_19Spin_Zipwash_Lining.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw97f329b8/collections/_samsonite/Theorym/500x500/131293D385_19Spin_4_Top_Pull_Handle.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw97f329b8/collections/_samsonite/Theorym/500x500/131293D385_19Spin_4_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw55442a7c/collections/_samsonite/Theorym/500x500/131293D385_19Spin_5_RightHeight.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw55442a7c/collections/_samsonite/Theorym/500x500/131293D385_19Spin_5_RightHeight.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcb9993e1/collections/_samsonite/Theorym/500x500/131293D385_19Spin_6_USB.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwcb9993e1/collections/_samsonite/Theorym/500x500/131293D385_19Spin_6_USB.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe313ae49/collections/_samsonite/Theorym/500x500/131293D385_19Spin_7_Zipper.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe313ae49/collections/_samsonite/Theorym/500x500/131293D385_19Spin_7_Zipper.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw07796cc7/collections/_samsonite/Theorym/500x500/131293D385_19Spin_8_Zipper_Kit.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw07796cc7/collections/_samsonite/Theorym/500x500/131293D385_19Spin_8_Zipper_Kit.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7d9b98ae/collections/_samsonite/Theorym/500x500/131293D385_19Spin_9_Wheels.jpg?sw=176&sh=176",
+        "index": "10",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7d9b98ae/collections/_samsonite/Theorym/500x500/131293D385_19Spin_9_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2537dd65/collections/_samsonite/Theorym/500x500/131293D385_19Spin.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw2537dd65/collections/_samsonite/Theorym/500x500/131293D385_19Spin.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf99c1f62/collections/_samsonite/Theorym/500x500/131293D385_19Spin_2_Interior_Stylized.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf99c1f62/collections/_samsonite/Theorym/500x500/131293D385_19Spin_2_Interior_Stylized.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa2a5166e/collections/_samsonite/Theorym/500x500/131293D385_19Spin_10_SmartSLeeve.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwa2a5166e/collections/_samsonite/Theorym/500x500/131293D385_19Spin_10_SmartSLeeve.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw835a50ed/collections/_samsonite/Theorym/500x500/131293D385_19Spin_3_Interior.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw835a50ed/collections/_samsonite/Theorym/500x500/131293D385_19Spin_3_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw018a8def/collections/_samsonite/Theorym/500x500/131293D385_19Spin_Zipwash_Lining.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw018a8def/collections/_samsonite/Theorym/500x500/131293D385_19Spin_Zipwash_Lining.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw97f329b8/collections/_samsonite/Theorym/500x500/131293D385_19Spin_4_Top_Pull_Handle.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw97f329b8/collections/_samsonite/Theorym/500x500/131293D385_19Spin_4_Top_Pull_Handle.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw55442a7c/collections/_samsonite/Theorym/500x500/131293D385_19Spin_5_RightHeight.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw55442a7c/collections/_samsonite/Theorym/500x500/131293D385_19Spin_5_RightHeight.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcb9993e1/collections/_samsonite/Theorym/500x500/131293D385_19Spin_6_USB.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwcb9993e1/collections/_samsonite/Theorym/500x500/131293D385_19Spin_6_USB.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe313ae49/collections/_samsonite/Theorym/500x500/131293D385_19Spin_7_Zipper.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwe313ae49/collections/_samsonite/Theorym/500x500/131293D385_19Spin_7_Zipper.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw07796cc7/collections/_samsonite/Theorym/500x500/131293D385_19Spin_8_Zipper_Kit.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw07796cc7/collections/_samsonite/Theorym/500x500/131293D385_19Spin_8_Zipper_Kit.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7d9b98ae/collections/_samsonite/Theorym/500x500/131293D385_19Spin_9_Wheels.jpg?sw=3000&sh=3000",
+        "index": "10",
+        "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7d9b98ae/collections/_samsonite/Theorym/500x500/131293D385_19Spin_9_Wheels.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Theorym Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Theorym Global Carry-On Spinner",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Theorym Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Theorym Global Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Theorym Global Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Theorym Global Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Dahlia Purple",
+      "values": [
+        {
+          "id": "1312934127",
+          "description": null,
+          "displayValue": "Emerald Teal",
+          "value": "1312934127",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Theorym Global Carry-On Spinner in the color Emerald Teal.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc34e0447/colors/SAM_theorym-emerald-teal.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Theorym Global Carry-On Spinner in the color Emerald Teal.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc34e0447/colors/SAM_theorym-emerald-teal.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "131293D385",
+          "description": null,
+          "displayValue": "Dahlia Purple",
+          "value": "131293D385",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=&pid=131293XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwef423412/colors/SAM_theorym-dahlia-purple.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Theorym Global Carry-On Spinner in the color Dahlia Purple.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwef423412/colors/SAM_theorym-dahlia-purple.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1312931041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1312931041",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Theorym Global Carry-On Spinner in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw26a8c325/colors/SAM_theorym-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Theorym Global Carry-On Spinner in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw26a8c325/colors/SAM_theorym-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Introducing Theorym, adapting to the demands of modern travel and built to last.<br>&#149; RightHeight&trade; handle system with multi-stop adjustments allow you to extend the handle to a height that's customized to you<br>&#149; ZipWash&trade; Removable Lining-Refresh your suitcase after a long trip and extend the life of your investment<BR>&#149; StackIt&trade; Sleeve for easy transport through your travels<br>&#149; Removable USB charging pouch<br>&#149; Custom designed TPR membrane top provides a comfortable grip<br>&#148; Custom-molded dual spinner wheels create a balanced and smooth rolling experience<br>&#149; Die-cast metal kiss-lock zipper sliders and pullers<br>&#149; Retractable ID tag protects your privacy. Uniquely placed on the front panel<br>&#149; Custom-tooled hardware for a true personalized experience<br>&#149; Recyclex&reg; Exterior fabric<br>&#149; YKK zipper puller repair kit<br>&#149;  Carry-On size and weight allowances vary by airlines. Go to <a href=\"http://shop.samsonite.com/airline-carry-on-guide.html\">shop.samsonite.com/airline-carry-on-guide </a>for more details. If the bag is overstuffed, it may not be accepted by the airlines.<br>&#149; Weight: 6.61 lbs.<br><br>Body Dimensions: 20.0\" x 13.8\" x 8.0\"<br>Overall Dimensions: 22.0\" x 14.0\" x 9.0\"",
+  "shortDescription": "Introducing Theorym, adapting to the demands of modern travel and built to last.",
+  "rating": 4.6,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_131293XXXX_color=1312931041&pid=131293D385&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22,
+  "overall-length": 14,
+  "overall-width": 9,
+  "unit-height": 20,
+  "unit-length": 13.8,
+  "unit-width": 8,
+  "unit-weight": 6.6,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45",
+  "product-dimensions": "20in\u00a0H x 13.8in\u00a0L x 8in\u00a0W",
+  "external-dimensions": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "131293D385"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20in\u00a0H x 13.8in\u00a0L x 8in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "specification": "Weight",
+      "value": 6.6
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Recyclex\u00ae"
+      ],
+      "tooltip": [
+        "Recyclex\u00ae polyester fabric, which is created using 100% recycled rPET bottles, is crafted to be durable, flexible, and prevents post-consumer waste from ending up in a landfill."
+      ]
+    },
+    {
+      "specification": "USB Port",
+      "value": "Yes",
+      "tooltip": [
+        "Built in USB port lets you power devices on the go. Battery sold separately"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/theorym-global-carry-on-spinner/131293XXXX.html?dwvar_131293XXXX_color=131293D385&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Theorym 22 x 14 x 9 Spinner",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "778881212"
+    },
+    {
+      "ID": "613371041"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Dahlia Purple",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "131293D385"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13.8in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "6.6lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Recyclex\u00ae"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "RightHeight\u2122 Pull Handle",
+        "Top Carry Handle",
+        "Side carry handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "ZipWash\u2122",
+        "Stack-It\u2122 System"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "Yes",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "131293D385",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

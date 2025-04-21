@@ -1,0 +1,643 @@
+{
+  "uuid": "43798554da65e41ed19a53d3d2",
+  "id": "152024A382",
+  "productName": "UpLIFT Softside Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "152024XXXX",
+    "name": "UpLIFT Softside Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "179.99",
+    "item_id": "152024XXXX",
+    "item_variant": "152024A382",
+    "variant": "152024A382",
+    "item_color": "Blue"
+  },
+  "gtmGA4Data": {
+    "item_id": "152024XXXX",
+    "item_variant": "152024A382",
+    "item_name": "UpLIFT Softside Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 179.99,
+    "currencyCode": "USD",
+    "variant": "152024A382",
+    "item_color": "Blue"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 179.99,
+      "currency": "USD",
+      "formatted": "$179.99",
+      "decimalPrice": "179.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"179.99\">\n        \n        $179.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $179.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw364496be/collections/_samsonite/UpLIFT/500x500/152024-A382-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw364496be/collections/_samsonite/UpLIFT/500x500/152024-A382-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbdb489b7/collections/_samsonite/UpLIFT/500x500/152024-A382-INTERIOR-11.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbdb489b7/collections/_samsonite/UpLIFT/500x500/152024-A382-INTERIOR-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd870238b/collections/_samsonite/UpLIFT/500x500/152024-A382-HANDLE-5.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd870238b/collections/_samsonite/UpLIFT/500x500/152024-A382-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbba31053/collections/_samsonite/UpLIFT/500x500/152024-A382-EXPANSION-8.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbba31053/collections/_samsonite/UpLIFT/500x500/152024-A382-EXPANSION-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf5933e5f/collections/_samsonite/UpLIFT/500x500/152024-A382-USB-10.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf5933e5f/collections/_samsonite/UpLIFT/500x500/152024-A382-USB-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdcf6cd27/collections/_samsonite/UpLIFT/500x500/152024-A382-ZIPPER-6.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdcf6cd27/collections/_samsonite/UpLIFT/500x500/152024-A382-ZIPPER-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7736dc54/collections/_samsonite/UpLIFT/500x500/152024-A382-ID_TAG-7.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7736dc54/collections/_samsonite/UpLIFT/500x500/152024-A382-ID_TAG-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc2ff3d01/collections/_samsonite/UpLIFT/500x500/152024-A382-WHEEL-4.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc2ff3d01/collections/_samsonite/UpLIFT/500x500/152024-A382-WHEEL-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6a5c04a1/collections/_samsonite/UpLIFT/500x500/152024-A382-SMART_SLEEVE-9.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6a5c04a1/collections/_samsonite/UpLIFT/500x500/152024-A382-SMART_SLEEVE-9.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw364496be/collections/_samsonite/UpLIFT/500x500/152024-A382-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw364496be/collections/_samsonite/UpLIFT/500x500/152024-A382-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbdb489b7/collections/_samsonite/UpLIFT/500x500/152024-A382-INTERIOR-11.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbdb489b7/collections/_samsonite/UpLIFT/500x500/152024-A382-INTERIOR-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd870238b/collections/_samsonite/UpLIFT/500x500/152024-A382-HANDLE-5.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd870238b/collections/_samsonite/UpLIFT/500x500/152024-A382-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbba31053/collections/_samsonite/UpLIFT/500x500/152024-A382-EXPANSION-8.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbba31053/collections/_samsonite/UpLIFT/500x500/152024-A382-EXPANSION-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf5933e5f/collections/_samsonite/UpLIFT/500x500/152024-A382-USB-10.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf5933e5f/collections/_samsonite/UpLIFT/500x500/152024-A382-USB-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdcf6cd27/collections/_samsonite/UpLIFT/500x500/152024-A382-ZIPPER-6.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdcf6cd27/collections/_samsonite/UpLIFT/500x500/152024-A382-ZIPPER-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7736dc54/collections/_samsonite/UpLIFT/500x500/152024-A382-ID_TAG-7.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7736dc54/collections/_samsonite/UpLIFT/500x500/152024-A382-ID_TAG-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc2ff3d01/collections/_samsonite/UpLIFT/500x500/152024-A382-WHEEL-4.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc2ff3d01/collections/_samsonite/UpLIFT/500x500/152024-A382-WHEEL-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6a5c04a1/collections/_samsonite/UpLIFT/500x500/152024-A382-SMART_SLEEVE-9.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6a5c04a1/collections/_samsonite/UpLIFT/500x500/152024-A382-SMART_SLEEVE-9.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw364496be/collections/_samsonite/UpLIFT/500x500/152024-A382-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw364496be/collections/_samsonite/UpLIFT/500x500/152024-A382-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbdb489b7/collections/_samsonite/UpLIFT/500x500/152024-A382-INTERIOR-11.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbdb489b7/collections/_samsonite/UpLIFT/500x500/152024-A382-INTERIOR-11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd870238b/collections/_samsonite/UpLIFT/500x500/152024-A382-HANDLE-5.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwd870238b/collections/_samsonite/UpLIFT/500x500/152024-A382-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbba31053/collections/_samsonite/UpLIFT/500x500/152024-A382-EXPANSION-8.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbba31053/collections/_samsonite/UpLIFT/500x500/152024-A382-EXPANSION-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf5933e5f/collections/_samsonite/UpLIFT/500x500/152024-A382-USB-10.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf5933e5f/collections/_samsonite/UpLIFT/500x500/152024-A382-USB-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdcf6cd27/collections/_samsonite/UpLIFT/500x500/152024-A382-ZIPPER-6.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdcf6cd27/collections/_samsonite/UpLIFT/500x500/152024-A382-ZIPPER-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7736dc54/collections/_samsonite/UpLIFT/500x500/152024-A382-ID_TAG-7.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7736dc54/collections/_samsonite/UpLIFT/500x500/152024-A382-ID_TAG-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc2ff3d01/collections/_samsonite/UpLIFT/500x500/152024-A382-WHEEL-4.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwc2ff3d01/collections/_samsonite/UpLIFT/500x500/152024-A382-WHEEL-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6a5c04a1/collections/_samsonite/UpLIFT/500x500/152024-A382-SMART_SLEEVE-9.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw6a5c04a1/collections/_samsonite/UpLIFT/500x500/152024-A382-SMART_SLEEVE-9.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner in the color .",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbd39d9bb/pdps/samsonite/uplift/SAM_08.13.24_Site_PLP_3000x3000_2.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "UpLIFT Softside Carry-On Spinner in the color .",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwbd39d9bb/pdps/samsonite/uplift/SAM_08.13.24_Site_PLP_3000x3000_2.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "UpLIFT Softside Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "UpLIFT Softside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "UpLIFT Softside Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Elemental Blue",
+      "values": [
+        {
+          "id": "152024A382",
+          "description": null,
+          "displayValue": "Elemental Blue",
+          "value": "152024A382",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=&pid=152024XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5c0cd62e/colors/SAM_upLIFT-elemental-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "UpLIFT Softside Carry-On Spinner in the color Elemental Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw5c0cd62e/colors/SAM_upLIFT-elemental-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1520241041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1520241041",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=1520241041&pid=152024XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "UpLIFT Softside Carry-On Spinner in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb31c2812/colors/SAM_upLIFT-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "UpLIFT Softside Carry-On Spinner in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwb31c2812/colors/SAM_upLIFT-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "By using tonal color blocking with\u00a0soft accents, and robust details, UpLIFT Softside is a fresh take on a familiar\u00a0Samsonite aesthetic\u00a0 - balancing of\u00a0durability and style\u200b",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_152024XXXX_color=152024A382&pid=152024A382&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 23.5,
+  "overall-length": 15,
+  "overall-width": 10.3,
+  "unit-height": 20.3,
+  "unit-length": 13.7,
+  "unit-width": 7.8,
+  "unit-weight": 5.9,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "48.8",
+  "product-dimensions": "20.3in\u00a0H x 13.7in\u00a0L x 7.8in\u00a0W",
+  "external-dimensions": "23.5in\u00a0H x 15in\u00a0L x 10.3in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "152024A382"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "23.5in\u00a0H x 15in\u00a0L x 10.3in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20.3in\u00a0H x 13.7in\u00a0L x 7.8in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "48.8"
+    },
+    {
+      "specification": "Weight",
+      "value": 5.9
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Recycled Fabric",
+        "Polyester"
+      ],
+      "tooltip": [
+        "Made with recycled fabric. All fabrics, including the lining, are created from 100% post-consumer recycled plastic bottles.",
+        "Durable Polyester fabric."
+      ]
+    },
+    {
+      "specification": "SmartSleeve",
+      "value": "Yes",
+      "tooltip": [
+        "Strap that fits over most upright luggage handles for easy transportation"
+      ]
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/uplift-softside-carry-on-spinner/152024XXXX.html?dwvar_152024XXXX_color=152024A382&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": null,
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>By using tonal color blocking with\u00a0soft accents, and robust details, UpLIFT Softside is a fresh take on a familiar\u00a0Samsonite aesthetic\u00a0 - balancing of\u00a0durability and style\u200b.<br><br><li>Overall Dimensions: 23.5 in. x 15 in. x 10.25 in.</li><li>Weight: 5.6 lbs</ul>",
+  "headline": null,
+  "recommendations": [],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Elemental Blue",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "152024A382"
+    },
+    {
+      "name": "Overall Height",
+      "value": "23.5in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "10.3in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20.3in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13.7in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "7.8in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "5.9lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "48.8"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Recycled Fabric",
+        "Polyester"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "Side Carry Handle",
+        "RightHeight\u2122 Pull Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Expandable",
+        "Cross straps",
+        "Wet Compartment",
+        "SmartSleeve\u2122",
+        "Built-in ID tag holder"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "Yes",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "152024A382",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

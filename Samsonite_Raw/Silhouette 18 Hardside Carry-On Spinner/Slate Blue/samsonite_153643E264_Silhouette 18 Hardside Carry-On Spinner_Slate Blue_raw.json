@@ -1,0 +1,728 @@
+{
+  "uuid": "c45eff311b431a9b7b1c710db2",
+  "id": "153643E264",
+  "productName": "Silhouette 18 Hardside Carry-On Spinner",
+  "productType": "variant",
+  "brand": "Samsonite",
+  "gtmData": {
+    "id": "153643XXXX",
+    "name": "Silhouette 18 Hardside Carry-On Spinner",
+    "category": "Carry-On",
+    "categoryID": "luggage-carry-on",
+    "price": "280.00",
+    "item_id": "153643XXXX",
+    "item_variant": "153643E264",
+    "variant": "153643E264",
+    "item_color": "Blue"
+  },
+  "gtmGA4Data": {
+    "item_id": "153643XXXX",
+    "item_variant": "153643E264",
+    "item_name": "Silhouette 18 Hardside Carry-On Spinner",
+    "item_category": "Carry-On",
+    "price": 280,
+    "currencyCode": "USD",
+    "variant": "153643E264",
+    "item_color": "Blue"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 280,
+      "currency": "USD",
+      "formatted": "$280.00",
+      "decimalPrice": "280.00"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"280.00\">\n        \n        $280.00\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $280.00\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a7c953e/collections/_samsonite/silhouette-18/500x500/153643-E264-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a7c953e/collections/_samsonite/silhouette-18/500x500/153643-E264-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdd56da12/collections/_samsonite/silhouette-18/500x500/153643-E264-INTERIOR_STYLED-4.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdd56da12/collections/_samsonite/silhouette-18/500x500/153643-E264-INTERIOR_STYLED-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf2d0491c/collections/_samsonite/silhouette-18/500x500/153643-E264-HANDLE-15.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf2d0491c/collections/_samsonite/silhouette-18/500x500/153643-E264-HANDLE-15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4f9d8605/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-7.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4f9d8605/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaa3475e8/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-10.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaa3475e8/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw88774771/collections/_samsonite/silhouette-18/500x500/153643-E264-LOCK-14.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw88774771/collections/_samsonite/silhouette-18/500x500/153643-E264-LOCK-14.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b3fb08e/collections/_samsonite/silhouette-18/500x500/153643-E264-EXPANSION-5.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1b3fb08e/collections/_samsonite/silhouette-18/500x500/153643-E264-EXPANSION-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw268f475b/collections/_samsonite/silhouette-18/500x500/153643-E264-ID_TAG-18.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw268f475b/collections/_samsonite/silhouette-18/500x500/153643-E264-ID_TAG-18.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw17536e9a/collections/_samsonite/silhouette-18/500x500/153643-E264-WHEEL-8.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw17536e9a/collections/_samsonite/silhouette-18/500x500/153643-E264-WHEEL-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb39d90a/collections/_samsonite/silhouette-18/500x500/153643-E264-LIFESTYLE-27.jpg?sw=912&sh=912",
+        "index": "9",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb39d90a/collections/_samsonite/silhouette-18/500x500/153643-E264-LIFESTYLE-27.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a7c953e/collections/_samsonite/silhouette-18/500x500/153643-E264-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a7c953e/collections/_samsonite/silhouette-18/500x500/153643-E264-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdd56da12/collections/_samsonite/silhouette-18/500x500/153643-E264-INTERIOR_STYLED-4.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdd56da12/collections/_samsonite/silhouette-18/500x500/153643-E264-INTERIOR_STYLED-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf2d0491c/collections/_samsonite/silhouette-18/500x500/153643-E264-HANDLE-15.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf2d0491c/collections/_samsonite/silhouette-18/500x500/153643-E264-HANDLE-15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4f9d8605/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-7.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4f9d8605/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaa3475e8/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-10.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaa3475e8/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw88774771/collections/_samsonite/silhouette-18/500x500/153643-E264-LOCK-14.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw88774771/collections/_samsonite/silhouette-18/500x500/153643-E264-LOCK-14.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b3fb08e/collections/_samsonite/silhouette-18/500x500/153643-E264-EXPANSION-5.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1b3fb08e/collections/_samsonite/silhouette-18/500x500/153643-E264-EXPANSION-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw268f475b/collections/_samsonite/silhouette-18/500x500/153643-E264-ID_TAG-18.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw268f475b/collections/_samsonite/silhouette-18/500x500/153643-E264-ID_TAG-18.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw17536e9a/collections/_samsonite/silhouette-18/500x500/153643-E264-WHEEL-8.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw17536e9a/collections/_samsonite/silhouette-18/500x500/153643-E264-WHEEL-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb39d90a/collections/_samsonite/silhouette-18/500x500/153643-E264-LIFESTYLE-27.jpg?sw=176&sh=176",
+        "index": "9",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb39d90a/collections/_samsonite/silhouette-18/500x500/153643-E264-LIFESTYLE-27.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7a7c953e/collections/_samsonite/silhouette-18/500x500/153643-E264-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw7a7c953e/collections/_samsonite/silhouette-18/500x500/153643-E264-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwdd56da12/collections/_samsonite/silhouette-18/500x500/153643-E264-INTERIOR_STYLED-4.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwdd56da12/collections/_samsonite/silhouette-18/500x500/153643-E264-INTERIOR_STYLED-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf2d0491c/collections/_samsonite/silhouette-18/500x500/153643-E264-HANDLE-15.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwf2d0491c/collections/_samsonite/silhouette-18/500x500/153643-E264-HANDLE-15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4f9d8605/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-7.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw4f9d8605/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaa3475e8/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-10.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dwaa3475e8/collections/_samsonite/silhouette-18/500x500/153643-E264-ACCESSORY_CLIP-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw88774771/collections/_samsonite/silhouette-18/500x500/153643-E264-LOCK-14.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw88774771/collections/_samsonite/silhouette-18/500x500/153643-E264-LOCK-14.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b3fb08e/collections/_samsonite/silhouette-18/500x500/153643-E264-EXPANSION-5.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw1b3fb08e/collections/_samsonite/silhouette-18/500x500/153643-E264-EXPANSION-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw268f475b/collections/_samsonite/silhouette-18/500x500/153643-E264-ID_TAG-18.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw268f475b/collections/_samsonite/silhouette-18/500x500/153643-E264-ID_TAG-18.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw17536e9a/collections/_samsonite/silhouette-18/500x500/153643-E264-WHEEL-8.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw17536e9a/collections/_samsonite/silhouette-18/500x500/153643-E264-WHEEL-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb39d90a/collections/_samsonite/silhouette-18/500x500/153643-E264-LIFESTYLE-27.jpg?sw=3000&sh=3000",
+        "index": "9",
+        "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+        "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dweb39d90a/collections/_samsonite/silhouette-18/500x500/153643-E264-LIFESTYLE-27.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Silhouette 18 Hardside Carry-On Spinner",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Silhouette 18 Hardside Carry-On Spinner",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Silhouette 18 Hardside Carry-On Spinner",
+        "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-samsonite-Site/-/en_US/v1745230352630/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Silhouette 18 Hardside Carry-On Spinner",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Slate Blue",
+      "values": [
+        {
+          "id": "1536431041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1536431041",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=1536431041&pid=153643XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Black.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9205ecdc/colors/SAM_silhouette-18-hs-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Silhouette 18 Hardside Carry-On Spinner in the color Black.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw9205ecdc/colors/SAM_silhouette-18-hs-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "153643E264",
+          "description": null,
+          "displayValue": "Slate Blue",
+          "value": "153643E264",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=&pid=153643XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw382e9cf9/colors/SAM_silhouette-18-hs-slate-blue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Silhouette 18 Hardside Carry-On Spinner in the color Slate Blue.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw382e9cf9/colors/SAM_silhouette-18-hs-slate-blue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1536431546",
+          "description": null,
+          "displayValue": "Metallic Silver",
+          "value": "1536431546",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=1536431546&pid=153643XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Metallic Silver.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw46b34501/colors/SAM_silhouette-18-hs-metallic-silver.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Silhouette 18 Hardside Carry-On Spinner in the color Metallic Silver.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw46b34501/colors/SAM_silhouette-18-hs-metallic-silver.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "153643D418",
+          "description": null,
+          "displayValue": "Deep Navy",
+          "value": "153643D418",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643D418&pid=153643XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Silhouette 18 Hardside Carry-On Spinner in the color Deep Navy.",
+                "url": "https://shop.samsonite.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw19cb229a/colors/SAM_silhouette-18-hs-deep-navy.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Silhouette 18 Hardside Carry-On Spinner in the color Deep Navy.",
+                "absURL": "https://shop.samsonite.com/on/demandware.static/-/Sites-product-catalog/default/dw19cb229a/colors/SAM_silhouette-18-hs-deep-navy.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "Tried and trusted since 1958, the Silhouette collection is a timeless classic rooted in our legacy. We\u2019ve updated the time-honored sleek luggage style with a scratch-resistant outer shell specially engineered from 100% polycarbonate. The hardside carry-on includes a pack flat shoe bag, multiple interior organizational features, and packing cubes that double as a compression panel to keep your clothes neat and must-have items organized. Plus, a 3-1-1 removable WetPak\u2122 is designed to keep travel-sized toiletries and cosmetics mess-free while you move to and from your destination.",
+  "rating": 4.6,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Mon Apr 21 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-samsonite-Site/en_US/Product-Variation?dwvar_153643XXXX_color=153643E264&pid=153643E264&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 23,
+  "overall-length": 14.8,
+  "overall-width": 10.5,
+  "unit-height": 20.6,
+  "unit-length": 14.3,
+  "unit-width": 10,
+  "unit-weight": 9,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "48.3",
+  "product-dimensions": "20.6in\u00a0H x 14.3in\u00a0L x 10in\u00a0W",
+  "external-dimensions": "23in\u00a0H x 14.8in\u00a0L x 10.5in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "153643E264"
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "23in\u00a0H x 14.8in\u00a0L x 10.5in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20.6in\u00a0H x 14.3in\u00a0L x 10in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "48.3"
+    },
+    {
+      "specification": "Weight",
+      "value": 9
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polycarbonate"
+      ],
+      "tooltip": [
+        "Shell material is made of vacuum formed polycarbonate, a highly impact-resistant plastic that is strong and lightweight."
+      ]
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on-luggage/silhouette-18-hardside-carry-on-spinner/153643XXXX.html?dwvar_153643XXXX_color=153643E264&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": null,
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<ul><br>The hardside carry-on includes a pack flat shoe bag, multiple interior organizational features, and packing cubes that double as a compression panel to keep your clothes neat and must-have items organized.<br><br><li>Overall Dimensions: 23 in. x 14.75 in. x 10 in.</li><li>Weight: 9.04 lbs.</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "153639XXXX"
+    },
+    {
+      "ID": "154631XXXX"
+    },
+    {
+      "ID": "153637XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [
+    {
+      "class": "token-background--accent text--white font-size--12 font-size--lg--16",
+      "name": "New"
+    }
+  ],
+  "selectedColorName": "Slate Blue",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "153643E264"
+    },
+    {
+      "name": "Overall Height",
+      "value": "23in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14.8in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "10.5in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20.6in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.3in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "10in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "9lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "48.3"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polycarbonate"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "RightHeight\u2122 Pull Handle",
+        "Top Carry Handle",
+        "Side Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Aero-Trac\u2122 Suspension Wheel"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Built-in ID tag holder",
+        "Expandable",
+        "TSA Lock",
+        "Compression Straps"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    },
+    {
+      "name": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": "Warranty covers manufacturing defects. For more information please visit our warranty page"
+    }
+  ],
+  "wishlistpid": "153643E264",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

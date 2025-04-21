@@ -270,16 +270,23 @@ def main():
     # Create the main raw data folder if it doesn't exist
     os.makedirs(RAW_DATA_FOLDER, exist_ok=True)
     
-    # Define CSV headers
+    # Define CSV headers and base path
     headers = ['Brand', 'Product Name', 'Color', 'Dimensions', 'Weight']
-    csv_path = os.path.join(RAW_DATA_FOLDER, 'samsonite_data.csv')
+    base_csv_path = os.path.join(RAW_DATA_FOLDER, 'samsonite_data.csv')
     
-    # Check if CSV exists, create it with headers if it doesn't
-    csv_exists = os.path.exists(csv_path)
-    if not csv_exists:
-        with open(csv_path, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow(headers)
+    # Find an available filename
+    csv_path = base_csv_path
+    counter = 1
+    while os.path.exists(csv_path):
+        csv_path = os.path.join(RAW_DATA_FOLDER, f'samsonite_data({counter}).csv')
+        counter += 1
+    
+    # Create new CSV with headers
+    with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(headers)
+    
+    logger.info(f"Created new CSV file: {csv_path}")
     
     pids = get_product_ids()
     driver = setup_driver()
