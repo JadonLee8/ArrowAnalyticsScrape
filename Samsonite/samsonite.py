@@ -1,9 +1,4 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+import undetected_chromedriver as uc
 from loguru import logger
 import time
 from bs4 import BeautifulSoup
@@ -27,14 +22,7 @@ SAMSONITE_BASE_URL = "https://shop.samsonite.com/"
 RAW_DATA_FOLDER = "Samsonite_Raw"
 
 def setup_driver():
-    # Configure Chrome options
-    chrome_options = Options()
-    # chrome_options.add_argument("--headless")  # Run in headless mode
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    
-    # Initialize the Chrome driver
-    driver = webdriver.Chrome(options=chrome_options)
+    driver = uc.Chrome(headless=False, use_subprocess=False)
     return driver
 
 def has_captcha(html):
@@ -119,6 +107,14 @@ def fetch_html(driver, url):
     driver.get(url)
     time.sleep(2)  # Wait for the page to load
     html = driver.page_source
+    # Check for captcha
+    if has_captcha(html):
+        logger.warning("Captcha detected. Waiting 2 minutes for user to solve it...")
+        time.sleep(120)  # Wait for 2 minutes
+        html = driver.page_source
+        if has_captcha(html):
+            logger.error("Captcha still present after waiting. Exiting gracefully.")
+            return None
     return html
 
 def sanitize_filename(filename):
