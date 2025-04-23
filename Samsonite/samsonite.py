@@ -19,7 +19,7 @@ QUICK_VIEW_BASE_URL = "https://shop.samsonite.com/on/demandware.store/Sites-sams
 LUGGAGE_LIST_URL = "https://shop.samsonite.com/on/demandware.store/Sites-samsonite-Site/en_US/Search-UpdateGrid?cgid=luggage-carry-on&start=0&sz=60"
 SAMSONITE_BASE_URL = "https://shop.samsonite.com/"
 
-RAW_DATA_FOLDER = "Samsonite_Raw"
+RAW_DATA_FOLDER = "Samsonite_Raw" 
 
 def setup_driver():
     driver = uc.Chrome(headless=False, use_subprocess=False)
@@ -34,60 +34,31 @@ def has_captcha(html):
 
 def get_product_ids():
     # Get all luggage URLs from the page
-    max_retries = 5
-    retry_count = 0
     html = ""
     driver = None
     
-    while retry_count < max_retries:
-        refetch = 'y' if not os.path.exists('samsonite_all_luggage.html') else input("Would you like to refetch product IDs? (y/n)")
-        if refetch == "y":
-            try:
-                if driver:
-                    driver.quit()
-                    time.sleep(2)  # Wait a bit before reopening
-                driver = setup_driver()
-                
-                # Load the webpage
-                logger.info("Loading from URL: " + LUGGAGE_LIST_URL)
-                driver.get(LUGGAGE_LIST_URL)
-                
-                # Wait for the page to load
-                time.sleep(2)
-                
-                # Get the page source
-                html = driver.page_source
-                
-                # Check for captcha
-                if has_captcha(html):
-                    retry_count += 1
-                    logger.warning(f"Captcha detected, retrying with new browser window... (Attempt {retry_count}/{max_retries})")
-                    time.sleep(5)  # Wait a bit before retrying
-                    continue
-                
-                logger.info("Successfully loaded the page without captcha")
-                with open('samsonite_all_luggage.html', 'w', encoding='utf-8') as f:
-                    f.write(html)
-                logger.info("Page source saved to samsonite_page.html")
-                break
-                
-            except Exception as e:
-                logger.error(f"An error occurred: {str(e)}")
-                retry_count += 1
-                if retry_count >= max_retries:
-                    logger.error("Max retries reached, giving up")
-                    break
+    refetch = 'y' if not os.path.exists('samsonite_all_luggage.html') else input("Would you like to refetch product IDs? (y/n)")
+    if refetch == "y":
+        try:
+            driver = setup_driver()
             
-            if retry_count >= max_retries:
-                logger.error("Failed to bypass captcha after maximum retries")
+            # Load the webpage
+            logger.info("Loading from URL: " + LUGGAGE_LIST_URL)
+            html = fetch_html(driver, LUGGAGE_LIST_URL)
             
-            if driver:
-                driver.quit()
-        else:
-            logger.info("Loading from cached file")
-            with open('samsonite_all_luggage.html', 'r', encoding='utf-8') as f:
-                html = f.read()
-            break
+            logger.info("Successfully loaded the page without captcha")
+            with open('samsonite_all_luggage.html', 'w', encoding='utf-8') as f:
+                f.write(html)
+            logger.info("Page source saved to samsonite_all_luggage.html")
+        except Exception as e:
+            logger.error(f"An error occurred: {str(e)}")
+
+        if driver:
+            driver.quit()
+    else:
+        logger.info("Loading from cached file")
+        with open('samsonite_all_luggage.html', 'r', encoding='utf-8') as f:
+            html = f.read()
 
     soup = BeautifulSoup(html, 'html.parser')
     product_ids = []
@@ -110,11 +81,11 @@ def fetch_html(driver, url):
     # Check for captcha
     if has_captcha(html):
         logger.warning("Captcha detected. Waiting 2 minutes for user to solve it...")
-        time.sleep(120)  # Wait for 2 minutes
+        time.sleep(60)  # Wait for 1 minute
         html = driver.page_source
         if has_captcha(html):
-            logger.error("Captcha still present after waiting. Exiting gracefully.")
-            return None
+            logger.error("Captcha still present after waiting.")
+            raise Exception("Captcha still present after waiting.")
     return html
 
 def sanitize_filename(filename):
@@ -125,12 +96,11 @@ def sanitize_filename(filename):
     sanitized = sanitized.strip('. ')
     return sanitized
 
-# returns a dictionary with product name as the key and a dictionary of color names to color ids as the values.
+# returns a dictionary with product name as the key and a dictionary of color names to color ids as the values
 def get_product_color_ids(driver, pid):
     url = QUICK_VIEW_BASE_URL + pid
     logger.info(f"Loading product details from {url}")
-    driver.get(url)
-    html = driver.page_source
+    html = fetch_html(driver, url)
     soup = BeautifulSoup(html, 'html.parser')
     pre_tag = soup.find('pre') # note can't use a simple cloudscraper or requests get because it tends to set off the bot detector more
     if pre_tag:
