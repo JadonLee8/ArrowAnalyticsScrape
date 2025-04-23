@@ -1,0 +1,742 @@
+{
+  "uuid": "2b675539c7d46ad84963d6ec5d",
+  "id": "1423526188",
+  "productName": "4 Kix 2.0 Carry-On",
+  "productType": "variant",
+  "brand": "American Tourister",
+  "gtmData": {
+    "id": "142352XXXX",
+    "name": "4 Kix 2.0 Carry-On",
+    "category": "Carry-On",
+    "categoryID": "carry-on",
+    "price": "89.99",
+    "item_id": "142352XXXX",
+    "item_variant": "1423526188",
+    "variant": "1423526188",
+    "item_color": "Blue"
+  },
+  "gtmGA4Data": {
+    "item_id": "142352XXXX",
+    "item_variant": "1423526188",
+    "item_name": "4 Kix 2.0 Carry-On",
+    "item_category": "Carry-On",
+    "price": 89.99,
+    "currencyCode": "USD",
+    "variant": "1423526188",
+    "item_color": "Blue"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 89.99,
+      "currency": "USD",
+      "formatted": "$89.99",
+      "decimalPrice": "89.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $89.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa5e58e59/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Front34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa5e58e59/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Front34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcdeaf635/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Interior.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwcdeaf635/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf15c0508/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle2.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf15c0508/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1126aea8/collections/_AT/4Kix-2/500x500/1423526188_20Spin_4_Zipper.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1126aea8/collections/_AT/4Kix-2/500x500/1423526188_20Spin_4_Zipper.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw383ac262/collections/_AT/4Kix-2/500x500/1423526188_20Spin_5_Wheels.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw383ac262/collections/_AT/4Kix-2/500x500/1423526188_20Spin_5_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5170d2c0/collections/_AT/4Kix-2/500x500/1423526188_20Spin_6_Expand.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5170d2c0/collections/_AT/4Kix-2/500x500/1423526188_20Spin_6_Expand.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa9fd944d/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle3.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa9fd944d/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa5e58e59/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Front34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa5e58e59/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Front34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcdeaf635/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Interior.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwcdeaf635/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf15c0508/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle2.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf15c0508/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1126aea8/collections/_AT/4Kix-2/500x500/1423526188_20Spin_4_Zipper.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1126aea8/collections/_AT/4Kix-2/500x500/1423526188_20Spin_4_Zipper.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw383ac262/collections/_AT/4Kix-2/500x500/1423526188_20Spin_5_Wheels.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw383ac262/collections/_AT/4Kix-2/500x500/1423526188_20Spin_5_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5170d2c0/collections/_AT/4Kix-2/500x500/1423526188_20Spin_6_Expand.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5170d2c0/collections/_AT/4Kix-2/500x500/1423526188_20Spin_6_Expand.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa9fd944d/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle3.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa9fd944d/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa5e58e59/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Front34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa5e58e59/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Front34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcdeaf635/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Interior.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwcdeaf635/collections/_AT/4Kix-2/500x500/1423526188_20Spin_Interior.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf15c0508/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle2.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf15c0508/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1126aea8/collections/_AT/4Kix-2/500x500/1423526188_20Spin_4_Zipper.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1126aea8/collections/_AT/4Kix-2/500x500/1423526188_20Spin_4_Zipper.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw383ac262/collections/_AT/4Kix-2/500x500/1423526188_20Spin_5_Wheels.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw383ac262/collections/_AT/4Kix-2/500x500/1423526188_20Spin_5_Wheels.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5170d2c0/collections/_AT/4Kix-2/500x500/1423526188_20Spin_6_Expand.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5170d2c0/collections/_AT/4Kix-2/500x500/1423526188_20Spin_6_Expand.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa9fd944d/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle3.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa9fd944d/collections/_AT/4Kix-2/500x500/1423522011_20Spin_Lifestyle3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "4 Kix 2.0 Carry-On in the color .",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa8bf2e7e/collections/_AT/4Kix-2/500x500/at-summer24-4kix-pdp-image-3000x3000.jpg?sw=400&sh=400",
+        "index": "0",
+        "title": "4 Kix 2.0 Carry-On in the color .",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa8bf2e7e/collections/_AT/4Kix-2/500x500/at-summer24-4kix-pdp-image-3000x3000.jpg",
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "4 Kix 2.0 Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "4 Kix 2.0 Carry-On",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "4 Kix 2.0 Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "4 Kix 2.0 Carry-On",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Classic Blue",
+      "values": [
+        {
+          "id": "1423526188",
+          "description": null,
+          "displayValue": "Classic Blue",
+          "value": "1423526188",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=&pid=142352XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0c9cd1bb/colors/AT_4-kix-2-classicblue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "4 Kix 2.0 Carry-On in the color Classic Blue.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw0c9cd1bb/colors/AT_4-kix-2-classicblue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1423522011",
+          "description": null,
+          "displayValue": "Purple Orchid",
+          "value": "1423522011",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522011&pid=142352XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "4 Kix 2.0 Carry-On in the color Purple Orchid.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3fa50670/colors/AT_4-kix-2-purpleorchid.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "4 Kix 2.0 Carry-On in the color Purple Orchid.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3fa50670/colors/AT_4-kix-2-purpleorchid.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1423521041",
+          "description": null,
+          "displayValue": "Black",
+          "value": "1423521041",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423521041&pid=142352XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "4 Kix 2.0 Carry-On in the color Black.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8aa8500c/colors/AT_4-kix-2-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "4 Kix 2.0 Carry-On in the color Black.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8aa8500c/colors/AT_4-kix-2-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1423521491",
+          "description": null,
+          "displayValue": "Lavender",
+          "value": "1423521491",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Lavender",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/default/dwed9e404b/images/noimage-swatch.png?sw=60&sh=60",
+                "index": "0",
+                "title": "Lavender",
+                "absURL": {},
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1423521635",
+          "description": null,
+          "displayValue": "Olive Green",
+          "value": "1423521635",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Olive Green",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/default/dwed9e404b/images/noimage-swatch.png?sw=60&sh=60",
+                "index": "0",
+                "title": "Olive Green",
+                "absURL": {},
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1423521408",
+          "description": null,
+          "displayValue": "Grey",
+          "value": "1423521408",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Grey",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/default/dwed9e404b/images/noimage-swatch.png?sw=60&sh=60",
+                "index": "0",
+                "title": "Grey",
+                "absURL": {},
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1423521457",
+          "description": null,
+          "displayValue": "Jade Green",
+          "value": "1423521457",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Jade Green",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/default/dwed9e404b/images/noimage-swatch.png?sw=60&sh=60",
+                "index": "0",
+                "title": "Jade Green",
+                "absURL": {},
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1423522190",
+          "description": null,
+          "displayValue": "Cornflower",
+          "value": "1423522190",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Cornflower",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/default/dwed9e404b/images/noimage-swatch.png?sw=60&sh=60",
+                "index": "0",
+                "title": "Cornflower",
+                "absURL": {},
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1423522538",
+          "description": null,
+          "displayValue": "Mauve",
+          "value": "1423522538",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Mauve",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/default/dwed9e404b/images/noimage-swatch.png?sw=60&sh=60",
+                "index": "0",
+                "title": "Mauve",
+                "absURL": {},
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "4 KIX 2.0 Carry On Spinner is perfect for a 1-3 day trip, this little guy has everything you need to make your quick getaway stress free and fun!<br>&#149; Sturdy handling with our ergonomic carbon fiber texture trolley grip that adjusts to you size.<br>&#149; Roll confidently with our wear and tear tested ball wheel.<br>&#149; It delivers maximum stability and comfort.<br>&#149; Smooth operator for hands of all kinds, our large zipper pulls are effortless to use<br>&#149; Rugged polyester with carbon fiber trim accents and gunmetal hardware creates a subtle and sophisticated finished look<br>&#149; Max-capacity interior, including a modesty pocket, mesh zipped door pocket, and elastic tie tapes<br>&#149; Case expands 1\"<br>&#149; Weight: 7.5 lbs.<br><br>Body Dimensions: 20.5\" x 14.0\" x 7.5\"<br>Overall Dimensions: 23.5\" x 14.5\" x 9.5\"",
+  "shortDescription": "4 KIX 2.0 Carry-On Spinner is perfect for a 1-3 day trip, this little guy has everything you need to make your quick getaway stress free and fun!",
+  "rating": 4.1,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Wed Apr 23 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_142352XXXX_color=1423522190&pid=1423526188&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 23.5,
+  "overall-length": 14.5,
+  "overall-width": 9.5,
+  "unit-height": 20.5,
+  "unit-length": 14,
+  "unit-width": 7.5,
+  "unit-weight": 7.5,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "47.5",
+  "product-dimensions": "20.5in\u00a0H x 14in\u00a0L x 7.5in\u00a0W",
+  "external-dimensions": "23.5in\u00a0H x 14.5in\u00a0L x 9.5in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1423526188"
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polyester"
+      ],
+      "tooltip": [
+        "Durable Polyester fabric."
+      ]
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "23.5in\u00a0H x 14.5in\u00a0L x 9.5in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "20.5in\u00a0H x 14in\u00a0L x 7.5in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "47.5"
+    },
+    {
+      "specification": "Weight",
+      "value": 7.5
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on/4-kix-2.0-carry-on/142352XXXX.html?dwvar_142352XXXX_color=1423526188&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "4 Kix 2.0 Carry-On Spinner | Softside Luggage | American Tourister",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 Rugged polyester with carbon fiber trim accents<br>\r\n\u2713 Expands 1\"<br>\r\n\u2713 Sturdy handle<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 23.5\" x 14.5\" x 9.5\"</li>\r\n<li>Weight: 7.50 lbs</li>\r\n</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "142353XXXX"
+    },
+    {
+      "ID": "142354XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Classic Blue",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1423526188"
+    },
+    {
+      "name": "Overall Height",
+      "value": "23.5in"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14.5in"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9.5in"
+    },
+    {
+      "name": "Internal Height",
+      "value": "20.5in"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14in"
+    },
+    {
+      "name": "Internal Width",
+      "value": "7.5in"
+    },
+    {
+      "name": "Weight",
+      "value": "7.5lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "47.5"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polyester"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle",
+        "Top Carry Handle",
+        "Side carry handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Cross straps",
+        "Expandable",
+        "Interior pocket"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes"
+    }
+  ],
+  "wishlistpid": "1423526188",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

@@ -1,0 +1,584 @@
+{
+  "uuid": "ee720012b9f5a9507727546157",
+  "id": "926999072",
+  "productName": "Disney Legends Dots Carry-On",
+  "productType": "variant",
+  "brand": "American Tourister",
+  "gtmData": {
+    "id": "92699XXXX",
+    "name": "Disney Legends Dots Carry-On",
+    "category": "Carry-On",
+    "categoryID": "carry-on",
+    "price": "89.99",
+    "item_id": "92699XXXX",
+    "item_variant": "926999072",
+    "variant": "926999072",
+    "item_color": "Multi"
+  },
+  "gtmGA4Data": {
+    "item_id": "92699XXXX",
+    "item_variant": "926999072",
+    "item_name": "Disney Legends Dots Carry-On",
+    "item_category": "Carry-On",
+    "price": 89.99,
+    "currencyCode": "USD",
+    "variant": "926999072",
+    "item_color": "Multi"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 89.99,
+      "currency": "USD",
+      "formatted": "$89.99",
+      "decimalPrice": "89.99"
+    },
+    "list": {
+      "value": 149.99,
+      "currency": "USD",
+      "formatted": "$149.99",
+      "decimalPrice": "149.99"
+    },
+    "percentageOff": "40% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"149.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $149.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $89.99 , was $149.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1eacd813/collections/_AT/Disney/500x500/92699-9072-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1eacd813/collections/_AT/Disney/500x500/92699-9072-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw687e7491/collections/_AT/Disney/500x500/92699-9072-INTERIOR-8.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw687e7491/collections/_AT/Disney/500x500/92699-9072-INTERIOR-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwfb96f33d/collections/_AT/Disney/500x500/92699-9072-LOCK-10.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwfb96f33d/collections/_AT/Disney/500x500/92699-9072-LOCK-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0b3ce32c/collections/_AT/Disney/500x500/92699-9072-WHEEL_HANDLE-7.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw0b3ce32c/collections/_AT/Disney/500x500/92699-9072-WHEEL_HANDLE-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8aabd994/collections/_AT/Disney/500x500/92699-9072-SIDE-3.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8aabd994/collections/_AT/Disney/500x500/92699-9072-SIDE-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb240e9c7/collections/_AT/Disney/500x500/92699-9072-WHEEL-9.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwb240e9c7/collections/_AT/Disney/500x500/92699-9072-WHEEL-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw47c00ae9/collections/_AT/Disney/500x500/92699-9072-LIFESTYLE-14.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw47c00ae9/collections/_AT/Disney/500x500/92699-9072-LIFESTYLE-14.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1eacd813/collections/_AT/Disney/500x500/92699-9072-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1eacd813/collections/_AT/Disney/500x500/92699-9072-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw687e7491/collections/_AT/Disney/500x500/92699-9072-INTERIOR-8.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw687e7491/collections/_AT/Disney/500x500/92699-9072-INTERIOR-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwfb96f33d/collections/_AT/Disney/500x500/92699-9072-LOCK-10.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwfb96f33d/collections/_AT/Disney/500x500/92699-9072-LOCK-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0b3ce32c/collections/_AT/Disney/500x500/92699-9072-WHEEL_HANDLE-7.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw0b3ce32c/collections/_AT/Disney/500x500/92699-9072-WHEEL_HANDLE-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8aabd994/collections/_AT/Disney/500x500/92699-9072-SIDE-3.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8aabd994/collections/_AT/Disney/500x500/92699-9072-SIDE-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb240e9c7/collections/_AT/Disney/500x500/92699-9072-WHEEL-9.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwb240e9c7/collections/_AT/Disney/500x500/92699-9072-WHEEL-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw47c00ae9/collections/_AT/Disney/500x500/92699-9072-LIFESTYLE-14.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw47c00ae9/collections/_AT/Disney/500x500/92699-9072-LIFESTYLE-14.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1eacd813/collections/_AT/Disney/500x500/92699-9072-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1eacd813/collections/_AT/Disney/500x500/92699-9072-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw687e7491/collections/_AT/Disney/500x500/92699-9072-INTERIOR-8.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw687e7491/collections/_AT/Disney/500x500/92699-9072-INTERIOR-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwfb96f33d/collections/_AT/Disney/500x500/92699-9072-LOCK-10.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwfb96f33d/collections/_AT/Disney/500x500/92699-9072-LOCK-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw0b3ce32c/collections/_AT/Disney/500x500/92699-9072-WHEEL_HANDLE-7.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw0b3ce32c/collections/_AT/Disney/500x500/92699-9072-WHEEL_HANDLE-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8aabd994/collections/_AT/Disney/500x500/92699-9072-SIDE-3.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8aabd994/collections/_AT/Disney/500x500/92699-9072-SIDE-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwb240e9c7/collections/_AT/Disney/500x500/92699-9072-WHEEL-9.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwb240e9c7/collections/_AT/Disney/500x500/92699-9072-WHEEL-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw47c00ae9/collections/_AT/Disney/500x500/92699-9072-LIFESTYLE-14.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw47c00ae9/collections/_AT/Disney/500x500/92699-9072-LIFESTYLE-14.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Disney Legends Dots Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Disney Legends Dots Carry-On",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Disney Legends Dots Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Disney Legends Dots Carry-On",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Disney Legends Dots Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Disney Legends Dots Carry-On",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Mickey Blue Dots",
+      "values": [
+        {
+          "id": "926999071",
+          "description": null,
+          "displayValue": "Minnie Blue Dots",
+          "value": "926999071",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999071&pid=92699XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Disney Legends Dots Carry-On in the color Minnie Blue Dots.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7e82d3fb/colors/AT_disney-legends-minnie.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Disney Legends Dots Carry-On in the color Minnie Blue Dots.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw7e82d3fb/colors/AT_disney-legends-minnie.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "926999072",
+          "description": null,
+          "displayValue": "Mickey Blue Dots",
+          "value": "926999072",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=&pid=92699XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcc808f1f/colors/AT_disney-legends-mickey.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Disney Legends Dots Carry-On in the color Mickey Blue Dots.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwcc808f1f/colors/AT_disney-legends-mickey.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Bright, fun Disney designs combined with high quality, durable luggage means an ideal collection for those young-at-heart.<br>&#149; \"Airflow\" Spinner wheels offer a smoother roll when gliding a fully-packed case.<br>&#149; 3-digit mounted combination lock.<br>&#149; Split-case design offers a zippered divider panel and cross-straps to keep belongings neatly packed while travelling.<br>&#149; Push-button locking handle for easy transport.<br>&#149; Constructed with durable ABS/PC.<br>&#149; Feel secure with a 10 year warranty.<br>&#149; Designed to fit in most overhead compartments; however, may not conform to some airlines' carry-on standards.<br>&#149; Weight: 5.5 lbs.<br><br>Body Dimensions: 19.0\" x 13.75\" x 8.75\"<br>Overall Dimensions: 21.5\" x 13.75\" x 8.75\"",
+  "shortDescription": "This Carry-On Spinner is perfect for a 1-3 day trip, this carry on has everything you need to make your quick getaway stress free and fun!",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Wed Apr 23 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_92699XXXX_color=926999072&pid=926999072&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22,
+  "overall-length": 16.1,
+  "overall-width": 8.9,
+  "unit-height": 21.6,
+  "unit-length": 15.8,
+  "unit-width": 8.5,
+  "unit-weight": 5.7,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "47",
+  "product-dimensions": "21.6in\u00a0H x 15.8in\u00a0L x 8.5in\u00a0W",
+  "external-dimensions": "22in\u00a0H x 16.1in\u00a0L x 8.9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "926999072"
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "ABS/Polycarbonate"
+      ],
+      "tooltip": [
+        "Luggage is made from a vacuum-formed or pressure-formed shell. Strong ABS plastic, a temperature-resistant, highly impact-resistant material, is combined with a textured finish for the classic hardside look that is strong and lightweight."
+      ]
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22in\u00a0H x 16.1in\u00a0L x 8.9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "21.6in\u00a0H x 15.8in\u00a0L x 8.5in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "47"
+    },
+    {
+      "specification": "Weight",
+      "value": 5.7
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on/disney-legends-dots-carry-on/92699XXXX.html?dwvar_92699XXXX_color=926999072&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Disney Legends Dots Carry-On Spinner | Hardside Luggage | American Tourister",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 Disney printed ABS shell<br>\r\n\u2713 Recessed 3 digit TSA Lock<br>\r\n\u2713 Sturdy handle<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 22.0\" x 16.1\" x 8.9\"</li>\r\n<li>Weight: 5.73 lbs</li>\r\n</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "67256XXXX"
+    },
+    {
+      "ID": "64480XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [
+    {
+      "class": "token-background--celery-green font-size--12 font-size--lg--16",
+      "name": "New"
+    }
+  ],
+  "selectedColorName": "Mickey Blue Dots",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "926999072"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "16.1in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "8.9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "21.6in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "15.8in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8.5in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "5.7lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "47"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "ABS/Polycarbonate"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle",
+        "Top Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "TSA Lock",
+        "Interior pocket",
+        "Zippered Mesh Accessory Pocket",
+        "Cross straps"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    }
+  ],
+  "wishlistpid": "926999072",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

@@ -1,0 +1,613 @@
+{
+  "uuid": "56286368a5726da93eed69f3db",
+  "id": "1466324450",
+  "productName": "Disney Characters Kids Hardside Carry-On",
+  "productType": "variant",
+  "brand": "American Tourister",
+  "gtmData": {
+    "id": "146632XXXX",
+    "name": "Disney Characters Kids Hardside Carry-On",
+    "category": "Kids Luggage",
+    "categoryID": "luggage-kids",
+    "price": "79.99",
+    "item_id": "146632XXXX",
+    "item_variant": "1466324450",
+    "variant": "1466324450",
+    "item_color": "Blue"
+  },
+  "gtmGA4Data": {
+    "item_id": "146632XXXX",
+    "item_variant": "1466324450",
+    "item_name": "Disney Characters Kids Hardside Carry-On",
+    "item_category": "Kids Luggage",
+    "price": 79.99,
+    "currencyCode": "USD",
+    "variant": "1466324450",
+    "item_color": "Blue"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 79.99,
+      "currency": "USD",
+      "formatted": "$79.99",
+      "decimalPrice": "79.99"
+    },
+    "list": null,
+    "percentageOff": null
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"79.99\">\n        \n        $79.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $79.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw834e8229/collections/_AT/Disney/500x500/146632-4450-FRONT34-2.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw834e8229/collections/_AT/Disney/500x500/146632-4450-FRONT34-2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4325bcfc/collections/_AT/Disney/500x500/146632-4450-INTERIOR_STYLED-7.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4325bcfc/collections/_AT/Disney/500x500/146632-4450-INTERIOR_STYLED-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw31e39b6b/collections/_AT/Disney/500x500/146632-4450-HANDLE-8.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw31e39b6b/collections/_AT/Disney/500x500/146632-4450-HANDLE-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea5c8894/collections/_AT/Disney/500x500/146632-4450-ZIPPER-6.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwea5c8894/collections/_AT/Disney/500x500/146632-4450-ZIPPER-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw900b2e15/collections/_AT/Disney/500x500/146632-4450-WHEEL-5.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw900b2e15/collections/_AT/Disney/500x500/146632-4450-WHEEL-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb5a58b7/collections/_AT/Disney/500x500/146632-4450-SIDE.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dweb5a58b7/collections/_AT/Disney/500x500/146632-4450-SIDE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc1ecf4cc/collections/_AT/Disney/500x500/146632-4450-BACK-3.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwc1ecf4cc/collections/_AT/Disney/500x500/146632-4450-BACK-3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw834e8229/collections/_AT/Disney/500x500/146632-4450-FRONT34-2.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw834e8229/collections/_AT/Disney/500x500/146632-4450-FRONT34-2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4325bcfc/collections/_AT/Disney/500x500/146632-4450-INTERIOR_STYLED-7.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4325bcfc/collections/_AT/Disney/500x500/146632-4450-INTERIOR_STYLED-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw31e39b6b/collections/_AT/Disney/500x500/146632-4450-HANDLE-8.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw31e39b6b/collections/_AT/Disney/500x500/146632-4450-HANDLE-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea5c8894/collections/_AT/Disney/500x500/146632-4450-ZIPPER-6.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwea5c8894/collections/_AT/Disney/500x500/146632-4450-ZIPPER-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw900b2e15/collections/_AT/Disney/500x500/146632-4450-WHEEL-5.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw900b2e15/collections/_AT/Disney/500x500/146632-4450-WHEEL-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb5a58b7/collections/_AT/Disney/500x500/146632-4450-SIDE.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dweb5a58b7/collections/_AT/Disney/500x500/146632-4450-SIDE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc1ecf4cc/collections/_AT/Disney/500x500/146632-4450-BACK-3.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwc1ecf4cc/collections/_AT/Disney/500x500/146632-4450-BACK-3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw834e8229/collections/_AT/Disney/500x500/146632-4450-FRONT34-2.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw834e8229/collections/_AT/Disney/500x500/146632-4450-FRONT34-2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4325bcfc/collections/_AT/Disney/500x500/146632-4450-INTERIOR_STYLED-7.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4325bcfc/collections/_AT/Disney/500x500/146632-4450-INTERIOR_STYLED-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw31e39b6b/collections/_AT/Disney/500x500/146632-4450-HANDLE-8.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw31e39b6b/collections/_AT/Disney/500x500/146632-4450-HANDLE-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwea5c8894/collections/_AT/Disney/500x500/146632-4450-ZIPPER-6.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwea5c8894/collections/_AT/Disney/500x500/146632-4450-ZIPPER-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw900b2e15/collections/_AT/Disney/500x500/146632-4450-WHEEL-5.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw900b2e15/collections/_AT/Disney/500x500/146632-4450-WHEEL-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dweb5a58b7/collections/_AT/Disney/500x500/146632-4450-SIDE.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dweb5a58b7/collections/_AT/Disney/500x500/146632-4450-SIDE.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc1ecf4cc/collections/_AT/Disney/500x500/146632-4450-BACK-3.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwc1ecf4cc/collections/_AT/Disney/500x500/146632-4450-BACK-3.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Disney Characters Kids Hardside Carry-On",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Disney Characters Kids Hardside Carry-On",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Disney Characters Kids Hardside Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Disney Characters Kids Hardside Carry-On",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Mickey",
+      "values": [
+        {
+          "id": "1466324451",
+          "description": null,
+          "displayValue": "Minnie",
+          "value": "1466324451",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324451&pid=146632XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Disney Characters Kids Hardside Carry-On in the color Minnie.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw05ecba0d/colors/AT_disneykids-minnie.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Disney Characters Kids Hardside Carry-On in the color Minnie.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw05ecba0d/colors/AT_disneykids-minnie.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1466322093",
+          "description": null,
+          "displayValue": "Princess",
+          "value": "1466322093",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466322093&pid=146632XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Disney Characters Kids Hardside Carry-On in the color Princess.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7ea7ea19/colors/AT_disneykids-princess.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Disney Characters Kids Hardside Carry-On in the color Princess.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw7ea7ea19/colors/AT_disneykids-princess.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1466324427",
+          "description": null,
+          "displayValue": "Frozen",
+          "value": "1466324427",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324427&pid=146632XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Disney Characters Kids Hardside Carry-On in the color Frozen.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa1ab9c41/colors/AT_disneykids-frozen.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Disney Characters Kids Hardside Carry-On in the color Frozen.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa1ab9c41/colors/AT_disneykids-frozen.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1466324450",
+          "description": null,
+          "displayValue": "Mickey",
+          "value": "1466324450",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=&pid=146632XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw29c989a2/colors/AT_disneykids-mickey.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Disney Characters Kids Hardside Carry-On in the color Mickey.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw29c989a2/colors/AT_disneykids-mickey.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "Small travelers will delight in this wheeled carry on bag by American Tourister. Featuring your favorite characters and plenty of storage and organization, traveling with little ones will be more fun than ever.",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Wed Apr 23 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_146632XXXX_color=1466324450&pid=1466324450&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 18,
+  "overall-length": 13,
+  "overall-width": 9,
+  "unit-height": 16,
+  "unit-length": 12.8,
+  "unit-width": 8.6,
+  "unit-weight": 4.2,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "40",
+  "product-dimensions": "16in\u00a0H x 12.8in\u00a0L x 8.6in\u00a0W",
+  "external-dimensions": "18in\u00a0H x 13in\u00a0L x 9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1466324450"
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Hardside ABS"
+      ]
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "18in\u00a0H x 13in\u00a0L x 9in\u00a0W"
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "16in\u00a0H x 12.8in\u00a0L x 8.6in\u00a0W"
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "40"
+    },
+    {
+      "specification": "Weight",
+      "value": 4.2
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/disney-%26-star-wars/kids-luggage/disney-characters-kids-hardside-carry-on/146632XXXX.html?dwvar_146632XXXX_color=1466324450&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Disney Characters Kids Upright Carry-On | Hardside Luggage | American Tourister",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 Disney graphic on a shiny hardside shell<br>\r\n\u2713 Zippered divider<br>\r\n\u2713 Cross straps<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 18.0\" x 13.0\" x 9.0\"</li>\r\n<li>Weight: 4.23 lbs</li>\r\n</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "129578XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Mickey",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1466324450"
+    },
+    {
+      "name": "Overall Height",
+      "value": "18in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "13in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "16in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "12.8in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8.6in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "4.2lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "40"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Hardside ABS"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "Retractable Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Rolling Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Interior Divider",
+        "Cross straps",
+        "Interior pocket"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    }
+  ],
+  "wishlistpid": "1466324450",
+  "categorized": true,
+  "categoryTree": "Disney & Star Wars > Kids Luggage"
+}

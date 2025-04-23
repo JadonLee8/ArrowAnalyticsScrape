@@ -1,0 +1,605 @@
+{
+  "uuid": "9520b3701fd022523c3f5b4b8f",
+  "id": "1532584450",
+  "productName": "Keith Haring x Disney Mickey Carry-On",
+  "productType": "variant",
+  "brand": "American Tourister",
+  "gtmData": {
+    "id": "153258XXXX",
+    "name": "Keith Haring x Disney Mickey Carry-On",
+    "category": "Carry-On",
+    "categoryID": "carry-on",
+    "price": "89.99",
+    "item_id": "153258XXXX",
+    "item_variant": "1532584450",
+    "variant": "1532584450",
+    "item_color": "Multi"
+  },
+  "gtmGA4Data": {
+    "item_id": "153258XXXX",
+    "item_variant": "1532584450",
+    "item_name": "Keith Haring x Disney Mickey Carry-On",
+    "item_category": "Carry-On",
+    "price": 89.99,
+    "currencyCode": "USD",
+    "variant": "1532584450",
+    "item_color": "Multi"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 89.99,
+      "currency": "USD",
+      "formatted": "$89.99",
+      "decimalPrice": "89.99"
+    },
+    "list": {
+      "value": 149.99,
+      "currency": "USD",
+      "formatted": "$149.99",
+      "decimalPrice": "149.99"
+    },
+    "percentageOff": "40% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"149.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $149.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $89.99 , was $149.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbfa32007/collections/_AT/Disney/500x500/153258-4450-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwbfa32007/collections/_AT/Disney/500x500/153258-4450-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw703894b3/collections/_AT/Disney/500x500/153258-4450-INTERIOR-9.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw703894b3/collections/_AT/Disney/500x500/153258-4450-INTERIOR-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd881c8a7/collections/_AT/Disney/500x500/153258-4450-EXPANSION-6.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwd881c8a7/collections/_AT/Disney/500x500/153258-4450-EXPANSION-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaccc8fe0/collections/_AT/Disney/500x500/153258-4450-HANDLE-10.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwaccc8fe0/collections/_AT/Disney/500x500/153258-4450-HANDLE-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw90402d71/collections/_AT/Disney/500x500/153258-4450-ZIPPER-8.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw90402d71/collections/_AT/Disney/500x500/153258-4450-ZIPPER-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3d32f81c/collections/_AT/Disney/500x500/153258-4450-WHEEL-5.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3d32f81c/collections/_AT/Disney/500x500/153258-4450-WHEEL-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw60ed2ef4/collections/_AT/Disney/500x500/153258-4450-BACK34-3.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw60ed2ef4/collections/_AT/Disney/500x500/153258-4450-BACK34-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw98fd2538/collections/_AT/Disney/500x500/153258-4450-ID_TAG-4.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw98fd2538/collections/_AT/Disney/500x500/153258-4450-ID_TAG-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd80255e3/collections/_AT/Disney/500x500/153258-4450-ID_TAG-7.jpg?sw=912&sh=912",
+        "index": "8",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwd80255e3/collections/_AT/Disney/500x500/153258-4450-ID_TAG-7.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbfa32007/collections/_AT/Disney/500x500/153258-4450-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwbfa32007/collections/_AT/Disney/500x500/153258-4450-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw703894b3/collections/_AT/Disney/500x500/153258-4450-INTERIOR-9.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw703894b3/collections/_AT/Disney/500x500/153258-4450-INTERIOR-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd881c8a7/collections/_AT/Disney/500x500/153258-4450-EXPANSION-6.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwd881c8a7/collections/_AT/Disney/500x500/153258-4450-EXPANSION-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaccc8fe0/collections/_AT/Disney/500x500/153258-4450-HANDLE-10.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwaccc8fe0/collections/_AT/Disney/500x500/153258-4450-HANDLE-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw90402d71/collections/_AT/Disney/500x500/153258-4450-ZIPPER-8.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw90402d71/collections/_AT/Disney/500x500/153258-4450-ZIPPER-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3d32f81c/collections/_AT/Disney/500x500/153258-4450-WHEEL-5.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3d32f81c/collections/_AT/Disney/500x500/153258-4450-WHEEL-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw60ed2ef4/collections/_AT/Disney/500x500/153258-4450-BACK34-3.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw60ed2ef4/collections/_AT/Disney/500x500/153258-4450-BACK34-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw98fd2538/collections/_AT/Disney/500x500/153258-4450-ID_TAG-4.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw98fd2538/collections/_AT/Disney/500x500/153258-4450-ID_TAG-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd80255e3/collections/_AT/Disney/500x500/153258-4450-ID_TAG-7.jpg?sw=176&sh=176",
+        "index": "8",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwd80255e3/collections/_AT/Disney/500x500/153258-4450-ID_TAG-7.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbfa32007/collections/_AT/Disney/500x500/153258-4450-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwbfa32007/collections/_AT/Disney/500x500/153258-4450-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw703894b3/collections/_AT/Disney/500x500/153258-4450-INTERIOR-9.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw703894b3/collections/_AT/Disney/500x500/153258-4450-INTERIOR-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd881c8a7/collections/_AT/Disney/500x500/153258-4450-EXPANSION-6.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwd881c8a7/collections/_AT/Disney/500x500/153258-4450-EXPANSION-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwaccc8fe0/collections/_AT/Disney/500x500/153258-4450-HANDLE-10.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwaccc8fe0/collections/_AT/Disney/500x500/153258-4450-HANDLE-10.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw90402d71/collections/_AT/Disney/500x500/153258-4450-ZIPPER-8.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw90402d71/collections/_AT/Disney/500x500/153258-4450-ZIPPER-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3d32f81c/collections/_AT/Disney/500x500/153258-4450-WHEEL-5.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3d32f81c/collections/_AT/Disney/500x500/153258-4450-WHEEL-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw60ed2ef4/collections/_AT/Disney/500x500/153258-4450-BACK34-3.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw60ed2ef4/collections/_AT/Disney/500x500/153258-4450-BACK34-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw98fd2538/collections/_AT/Disney/500x500/153258-4450-ID_TAG-4.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw98fd2538/collections/_AT/Disney/500x500/153258-4450-ID_TAG-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd80255e3/collections/_AT/Disney/500x500/153258-4450-ID_TAG-7.jpg?sw=3000&sh=3000",
+        "index": "8",
+        "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwd80255e3/collections/_AT/Disney/500x500/153258-4450-ID_TAG-7.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Keith Haring x Disney Mickey Carry-On",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Keith Haring x Disney Mickey Carry-On",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Keith Haring x Disney Mickey Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Keith Haring x Disney Mickey Carry-On",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Mickey",
+      "values": [
+        {
+          "id": "1532584450",
+          "description": null,
+          "displayValue": "Mickey",
+          "value": "1532584450",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=&pid=153258XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9df0ce8d/colors/AT_keith-haring-mickey.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Keith Haring x Disney Mickey Carry-On in the color Mickey.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9df0ce8d/colors/AT_keith-haring-mickey.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": true
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "It doesn't get much better than three icons - Mickey Mouse, Keith Haring and American Tourister! Take a trip with a carry on that looks like a work of art.",
+  "rating": 4.8,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Wed Apr 23 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_153258XXXX_color=1532584450&pid=1532584450&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22,
+  "overall-length": 14,
+  "overall-width": 9,
+  "unit-height": 18.7,
+  "unit-length": 13.8,
+  "unit-width": 8.9,
+  "unit-weight": 6.2,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45",
+  "product-dimensions": "18.7in\u00a0H x 13.8in\u00a0L x 8.9in\u00a0W",
+  "external-dimensions": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "1532584450"
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "ABS"
+      ]
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22in\u00a0H x 14in\u00a0L x 9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "18.7in\u00a0H x 13.8in\u00a0L x 8.9in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "specification": "Weight",
+      "value": 6.2
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on/keith-haring-x-disney-mickey-carry-on/153258XXXX.html?dwvar_153258XXXX_color=1532584450&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Keith Haring x Disney Mickey Carry-On | Hardside Luggage | American Tourister",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 ABS printed shell<br>\r\n\u2713 Expands 1.5\"<br>\r\n\u2713 ID Tag included<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 22.0\" x 14.0\" x 9.0\"</li>\r\n<li>Weight: 6.17 lbs</li>\r\n</ul>",
+  "headline": null,
+  "recommendations": [],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [
+    {
+      "class": "token-background--celery-green font-size--12 font-size--lg--16",
+      "name": "New"
+    }
+  ],
+  "selectedColorName": "Mickey",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "1532584450"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "18.7in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13.8in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8.9in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "6.2lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "ABS"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle",
+        "Top Carry Handle",
+        "Side Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Expandable",
+        "Interior organizer"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    }
+  ],
+  "wishlistpid": "1532584450",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

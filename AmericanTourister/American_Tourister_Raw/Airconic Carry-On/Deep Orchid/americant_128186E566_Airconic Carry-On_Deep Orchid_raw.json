@@ -1,0 +1,630 @@
+{
+  "uuid": "ada4c19e1548acfd305eda6b92",
+  "id": "128186E566",
+  "productName": "Airconic Carry-On",
+  "productType": "variant",
+  "brand": "American Tourister",
+  "gtmData": {
+    "id": "128186XXXX",
+    "name": "Airconic Carry-On",
+    "category": "Carry-On",
+    "categoryID": "carry-on",
+    "price": "89.99",
+    "item_id": "128186XXXX",
+    "item_variant": "128186E566",
+    "variant": "128186E566",
+    "item_color": "Purple"
+  },
+  "gtmGA4Data": {
+    "item_id": "128186XXXX",
+    "item_variant": "128186E566",
+    "item_name": "Airconic Carry-On",
+    "item_category": "Carry-On",
+    "price": 89.99,
+    "currencyCode": "USD",
+    "variant": "128186E566",
+    "item_color": "Purple"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 89.99,
+      "currency": "USD",
+      "formatted": "$89.99",
+      "decimalPrice": "89.99"
+    },
+    "list": {
+      "value": 139.99,
+      "currency": "USD",
+      "formatted": "$139.99",
+      "decimalPrice": "139.99"
+    },
+    "percentageOff": "36% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"139.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $139.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $89.99 , was $139.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3afe5628/collections/_AT/Airconic/500x500/128186-E566-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3afe5628/collections/_AT/Airconic/500x500/128186-E566-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf44ce4a6/collections/_AT/Airconic/500x500/128186-E566-INTERIOR-8.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf44ce4a6/collections/_AT/Airconic/500x500/128186-E566-INTERIOR-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4f8d8a00/collections/_AT/Airconic/500x500/128186-E566-WHEEL_HANDLE-6.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4f8d8a00/collections/_AT/Airconic/500x500/128186-E566-WHEEL_HANDLE-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwee50c29a/collections/_AT/Airconic/500x500/128186-E566-SIDE-3.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwee50c29a/collections/_AT/Airconic/500x500/128186-E566-SIDE-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw335aff33/collections/_AT/Airconic/500x500/128186-E566-BACK-5.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw335aff33/collections/_AT/Airconic/500x500/128186-E566-BACK-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8613c62b/collections/_AT/Airconic/500x500/128186-E566-LIFESTYLE-17.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8613c62b/collections/_AT/Airconic/500x500/128186-E566-LIFESTYLE-17.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3afe5628/collections/_AT/Airconic/500x500/128186-E566-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3afe5628/collections/_AT/Airconic/500x500/128186-E566-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf44ce4a6/collections/_AT/Airconic/500x500/128186-E566-INTERIOR-8.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf44ce4a6/collections/_AT/Airconic/500x500/128186-E566-INTERIOR-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4f8d8a00/collections/_AT/Airconic/500x500/128186-E566-WHEEL_HANDLE-6.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4f8d8a00/collections/_AT/Airconic/500x500/128186-E566-WHEEL_HANDLE-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwee50c29a/collections/_AT/Airconic/500x500/128186-E566-SIDE-3.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwee50c29a/collections/_AT/Airconic/500x500/128186-E566-SIDE-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw335aff33/collections/_AT/Airconic/500x500/128186-E566-BACK-5.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw335aff33/collections/_AT/Airconic/500x500/128186-E566-BACK-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8613c62b/collections/_AT/Airconic/500x500/128186-E566-LIFESTYLE-17.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8613c62b/collections/_AT/Airconic/500x500/128186-E566-LIFESTYLE-17.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3afe5628/collections/_AT/Airconic/500x500/128186-E566-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3afe5628/collections/_AT/Airconic/500x500/128186-E566-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf44ce4a6/collections/_AT/Airconic/500x500/128186-E566-INTERIOR-8.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf44ce4a6/collections/_AT/Airconic/500x500/128186-E566-INTERIOR-8.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4f8d8a00/collections/_AT/Airconic/500x500/128186-E566-WHEEL_HANDLE-6.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4f8d8a00/collections/_AT/Airconic/500x500/128186-E566-WHEEL_HANDLE-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwee50c29a/collections/_AT/Airconic/500x500/128186-E566-SIDE-3.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwee50c29a/collections/_AT/Airconic/500x500/128186-E566-SIDE-3.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw335aff33/collections/_AT/Airconic/500x500/128186-E566-BACK-5.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw335aff33/collections/_AT/Airconic/500x500/128186-E566-BACK-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Airconic Carry-On in the color Deep Orchid.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8613c62b/collections/_AT/Airconic/500x500/128186-E566-LIFESTYLE-17.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Airconic Carry-On in the color Deep Orchid.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8613c62b/collections/_AT/Airconic/500x500/128186-E566-LIFESTYLE-17.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Airconic Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Airconic Carry-On",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Airconic Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Airconic Carry-On",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Airconic Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Airconic Carry-On",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Deep Orchid",
+      "values": [
+        {
+          "id": "1281860581",
+          "description": null,
+          "displayValue": "Onyx Black",
+          "value": "1281860581",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=1281860581&pid=128186XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Airconic Carry-On in the color Onyx Black.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw35066b0a/colors/AT_onyx-black.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Airconic Carry-On in the color Onyx Black.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw35066b0a/colors/AT_onyx-black.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1281868397",
+          "description": null,
+          "displayValue": "Purist Blue",
+          "value": "1281868397",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Airconic Carry-On in the color Purist Blue.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwd162b2cf/colors/AT-Airconic-PuristBlue.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Airconic Carry-On in the color Purist Blue.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwd162b2cf/colors/AT-Airconic-PuristBlue.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "128186E566",
+          "description": null,
+          "displayValue": "Deep Orchid",
+          "value": "128186E566",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=&pid=128186XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Airconic Carry-On in the color Deep Orchid.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b16fa1b/colors/AT_deep-orchid.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Airconic Carry-On in the color Deep Orchid.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5b16fa1b/colors/AT_deep-orchid.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1281861013",
+          "description": null,
+          "displayValue": "Aqua Green",
+          "value": "1281861013",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=1281861013&pid=128186XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Airconic Carry-On in the color Aqua Green.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw40c2d1e2/colors/AT_aqua-green.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Airconic Carry-On in the color Aqua Green.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw40c2d1e2/colors/AT_aqua-green.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "1281866209",
+          "description": null,
+          "displayValue": "Dark Plum",
+          "value": "1281866209",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Airconic Carry-On in the color Dark Plum.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe2f2c3ef/colors/AT-Airconic_Dark_Plum_6209.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Airconic Carry-On in the color Dark Plum.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwe2f2c3ef/colors/AT-Airconic_Dark_Plum_6209.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "The 360\u00b0 line design gives a modern and dynamic touch to this lightweight Spinner Carry-On, while practical features like a water-repellent zipper make sure you can travel in comfort.<BR><BR>&#149; Extremely lightweight, weighing in at only 2kgs (4.4 lb)!<BR>&#149; Water-repellent coated zipper helps to protect your belongings from rain and moisture.  <BR>&#149; Designed to fit in the overhead compartment on most flights. *Carry-on standards vary by airline - always check with your airline before flying.<BR>&#149; Mounted 3-digit TSA-approved lock provides added security for your belongings.<BR>&#149; Dual Spinner wheels make it easy to navigate narrow airplane aisles as well as over a variety of surfaces.<BR>&#149; Multi-stage pull handle adjusts for a more comfortable grip.<BR>&#149; Retracting top carry-handle stays flush to the case to protect against damage.<BR>&#149; Interior features a zipped divider with mesh pocket and elastic cross-ribbons in both the top and bottom compartments. Also has a playful lining with geometric print.<BR>&#149; Constructed of 100% polypropylene offering extreme durability with a texture that reduces the visibility of scratches. <br>&#149; Feel secure with a limited 10 year<a href=\"https://www.samsonite.ca/Warranty.html\"> Warranty</a> <br><br>&#149; Weight: 4.4 lbs.<br><br>Body Dimensions: 18.5\" x 14.8\" x 7.5\"<br>Overall Dimensions: 21.5\" x 15.5\" x 10.3\"",
+  "shortDescription": "With Airconic, every adventure becomes iconic. Our lightest carry-on yet at just 4.4 lbs, Airconic gives you the freedom to pack it all without feeling weighed down. Designed for spontaneity, this spinner blends style with durability making it the ultimate travel companion for 1-3 day trips.",
+  "rating": 4.5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Wed Apr 23 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_128186XXXX_color=128186E566&pid=128186E566&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 21.7,
+  "overall-length": 15.8,
+  "overall-width": 7.9,
+  "unit-height": 19.3,
+  "unit-length": 14.5,
+  "unit-width": 7,
+  "unit-weight": 4.4,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45.4",
+  "product-dimensions": "19.3in\u00a0H x 14.5in\u00a0L x 7in\u00a0W",
+  "external-dimensions": "21.7in\u00a0H x 15.8in\u00a0L x 7.9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "128186E566"
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polypropylene"
+      ],
+      "tooltip": [
+        "Suitcase shell material is made of injection molded polyproplyene, a highly impact-resistant plastic that is strong, lightweight, flexible, and moisture resistant."
+      ]
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "21.7in\u00a0H x 15.8in\u00a0L x 7.9in\u00a0W",
+      "tooltip": [
+        "The total dimensions of the case including handles and wheels"
+      ]
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "19.3in\u00a0H x 14.5in\u00a0L x 7in\u00a0W",
+      "tooltip": [
+        "The dimensions of the case without handles or wheels; packing dimensions"
+      ]
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45.4"
+    },
+    {
+      "specification": "Weight",
+      "value": 4.4
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 3 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/luggage/carry-on/airconic-carry-on/128186XXXX.html?dwvar_128186XXXX_color=128186E566&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Airconic Carry-On Spinner | Hardside Luggage | American Tourister",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 Textured shiny polyproplene shell<br>\r\n\u2713 Recessed 3 digit TSA Lock<br>\r\n\u2713 Sturdy handle<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 21.7\" x 15.8\" x 7.9\"</li>\r\n<li>Weight: 4.43 lbs</li>\r\n</ul>",
+  "headline": null,
+  "recommendations": [],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Deep Orchid",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "128186E566"
+    },
+    {
+      "name": "Overall Height",
+      "value": "21.7in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15.8in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "7.9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "19.3in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.5in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "7in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "4.4lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45.4"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polypropylene"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle",
+        "Top Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Cross straps",
+        "Interior Divider",
+        "Interior pocket",
+        "TSA Lock"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    }
+  ],
+  "wishlistpid": "128186E566",
+  "categorized": true,
+  "categoryTree": "Luggage > Carry-On"
+}

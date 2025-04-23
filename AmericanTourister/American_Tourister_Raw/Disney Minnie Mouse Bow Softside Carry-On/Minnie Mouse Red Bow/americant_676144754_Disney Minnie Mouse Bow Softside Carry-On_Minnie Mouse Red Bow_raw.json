@@ -1,0 +1,581 @@
+{
+  "uuid": "155eab05d28e0b788fc8bdbc24",
+  "id": "676144754",
+  "productName": "Disney Minnie Mouse Bow Softside Carry-On",
+  "productType": "variant",
+  "brand": "American Tourister",
+  "gtmData": {
+    "id": "67614XXXX",
+    "name": "Disney Minnie Mouse Bow Softside Carry-On",
+    "category": "Luggage",
+    "categoryID": "disney-luggage",
+    "price": "89.99",
+    "item_id": "67614XXXX",
+    "item_variant": "676144754",
+    "variant": "676144754",
+    "item_color": "Black"
+  },
+  "gtmGA4Data": {
+    "item_id": "67614XXXX",
+    "item_variant": "676144754",
+    "item_name": "Disney Minnie Mouse Bow Softside Carry-On",
+    "item_category": "Luggage",
+    "price": 89.99,
+    "currencyCode": "USD",
+    "variant": "676144754",
+    "item_color": "Black"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 89.99,
+      "currency": "USD",
+      "formatted": "$89.99",
+      "decimalPrice": "89.99"
+    },
+    "list": {
+      "value": 149.99,
+      "currency": "USD",
+      "formatted": "$149.99",
+      "decimalPrice": "149.99"
+    },
+    "percentageOff": "40% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"149.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $149.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $89.99 , was $149.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw95c60ff0/collections/_AT/Disney/500x500/676144754be01.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw95c60ff0/collections/_AT/Disney/500x500/676144754be01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2787cb79/collections/_AT/Disney/500x500/676144754bi01.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw2787cb79/collections/_AT/Disney/500x500/676144754bi01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw84b9af8c/collections/_AT/Disney/500x500/676144754pf02.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw84b9af8c/collections/_AT/Disney/500x500/676144754pf02.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw03047021/collections/_AT/Disney/500x500/676144754pf11.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw03047021/collections/_AT/Disney/500x500/676144754pf11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1aea0a4b/collections/_AT/Disney/500x500/676144754pf15.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1aea0a4b/collections/_AT/Disney/500x500/676144754pf15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4927890d/collections/_AT/Disney/500x500/676144754be03.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4927890d/collections/_AT/Disney/500x500/676144754be03.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw07f56877/collections/_AT/Disney/500x500/676144754be02.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw07f56877/collections/_AT/Disney/500x500/676144754be02.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw63a139f9/collections/_AT/Disney/500x500/676144754pf05.jpg?sw=912&sh=912",
+        "index": "7",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw63a139f9/collections/_AT/Disney/500x500/676144754pf05.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw95c60ff0/collections/_AT/Disney/500x500/676144754be01.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw95c60ff0/collections/_AT/Disney/500x500/676144754be01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2787cb79/collections/_AT/Disney/500x500/676144754bi01.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw2787cb79/collections/_AT/Disney/500x500/676144754bi01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw84b9af8c/collections/_AT/Disney/500x500/676144754pf02.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw84b9af8c/collections/_AT/Disney/500x500/676144754pf02.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw03047021/collections/_AT/Disney/500x500/676144754pf11.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw03047021/collections/_AT/Disney/500x500/676144754pf11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1aea0a4b/collections/_AT/Disney/500x500/676144754pf15.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1aea0a4b/collections/_AT/Disney/500x500/676144754pf15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4927890d/collections/_AT/Disney/500x500/676144754be03.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4927890d/collections/_AT/Disney/500x500/676144754be03.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw07f56877/collections/_AT/Disney/500x500/676144754be02.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw07f56877/collections/_AT/Disney/500x500/676144754be02.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw63a139f9/collections/_AT/Disney/500x500/676144754pf05.jpg?sw=176&sh=176",
+        "index": "7",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw63a139f9/collections/_AT/Disney/500x500/676144754pf05.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw95c60ff0/collections/_AT/Disney/500x500/676144754be01.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw95c60ff0/collections/_AT/Disney/500x500/676144754be01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2787cb79/collections/_AT/Disney/500x500/676144754bi01.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw2787cb79/collections/_AT/Disney/500x500/676144754bi01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw84b9af8c/collections/_AT/Disney/500x500/676144754pf02.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw84b9af8c/collections/_AT/Disney/500x500/676144754pf02.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw03047021/collections/_AT/Disney/500x500/676144754pf11.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw03047021/collections/_AT/Disney/500x500/676144754pf11.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1aea0a4b/collections/_AT/Disney/500x500/676144754pf15.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1aea0a4b/collections/_AT/Disney/500x500/676144754pf15.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4927890d/collections/_AT/Disney/500x500/676144754be03.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4927890d/collections/_AT/Disney/500x500/676144754be03.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw07f56877/collections/_AT/Disney/500x500/676144754be02.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw07f56877/collections/_AT/Disney/500x500/676144754be02.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw63a139f9/collections/_AT/Disney/500x500/676144754pf05.jpg?sw=3000&sh=3000",
+        "index": "7",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw63a139f9/collections/_AT/Disney/500x500/676144754pf05.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Disney Minnie Mouse Bow Softside Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Disney Minnie Mouse Bow Softside Carry-On",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Minnie Mouse Red Bow",
+      "values": [
+        {
+          "id": "676144754",
+          "description": null,
+          "displayValue": "Minnie Mouse Red Bow",
+          "value": "676144754",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=&pid=67614XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw68d7a7e9/colors/AT-minnieredbowss.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Disney Minnie Mouse Bow Softside Carry-On in the color Minnie Mouse Red Bow.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw68d7a7e9/colors/AT-minnieredbowss.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": true
+    }
+  ],
+  "longDescription": "&#149; Single spinner wheels.<br>&#149; Beveled push button locking retractable pull handle.<br>&#149; Integrated top & side American Tourister branded carry handles.<br>&#149; American Tourister branded zipper pulls and ID tags. <br>&#149; Large packing compartment with large mesh pocket on interior panel.<br>&#149; Cross straps to keep belongings in place.<br>&#149; Fun Disney Minnie Mouse branded inside lining.<br><br>Carry-On size and weight allowances vary by airline. Go to <a href=\"http://shop.americantourister.com/AirlineBaggageAllowances.html\">AIRLINE CARRY-ON GUIDE</a> for more details. If the bag is overstuffed, it may not be accepted by the airlines.<br>&#149; Weight: 6.8 lbs.<br><br>Body Dimensions: 21.0\" x 14.5\" x 8.0\"<br>Overall Dimensions: 24.0\" x 14.5\" x 8.0\"",
+  "shortDescription": "Pack more fun with the Disney x American Tourister co-branded luggage!",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Wed Apr 23 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_67614XXXX_color=676144754&pid=676144754&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 24,
+  "overall-length": 14.5,
+  "overall-width": 8,
+  "unit-height": 21,
+  "unit-length": 14.5,
+  "unit-width": 8,
+  "unit-weight": 6.8,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "46.5",
+  "product-dimensions": "21in\u00a0H x 14.5in\u00a0L x 8in\u00a0W",
+  "external-dimensions": "24in\u00a0H x 14.5in\u00a0L x 8in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "676144754"
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "Polyester"
+      ],
+      "tooltip": [
+        "Durable Polyester fabric."
+      ]
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "24in\u00a0H x 14.5in\u00a0L x 8in\u00a0W"
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "21in\u00a0H x 14.5in\u00a0L x 8in\u00a0W"
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "46.5"
+    },
+    {
+      "specification": "Weight",
+      "value": 6.8
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/disney-%26-star-wars/luggage/disney-minnie-mouse-bow-softside-carry-on/67614XXXX.html?dwvar_67614XXXX_color=676144754&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Disney Minnie Mouse Bow Carry-On Spinner | Softside Luggage | American Tourister",
+  "pageDescription": null,
+  "pageKeywords": "minnie mouse red, red minnie mouse, bows minnie mouse, minnie mouse bows",
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 Polyester Softside<br>\r\n\u2713 Exterior packing compartments<br>\r\n\u2713 Disney Minnie Mouse branded inside lining<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 24.0\" x 14.5\" x 8.0\"</li>\r\n<li>Weight: 6.80 lbs</li>\r\n</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "122895XXXX"
+    },
+    {
+      "ID": "85673XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Minnie Mouse Red Bow",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "676144754"
+    },
+    {
+      "name": "Overall Height",
+      "value": "24in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14.5in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "8in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "21in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.5in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "8in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "6.8lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "46.5"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "Polyester"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle",
+        "Top Carry Handle",
+        "Side carry handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Cross straps",
+        "Interior pocket",
+        "Expandable"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    }
+  ],
+  "wishlistpid": "676144754",
+  "categorized": true,
+  "categoryTree": "Disney & Star Wars > Luggage"
+}

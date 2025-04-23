@@ -1,0 +1,616 @@
+{
+  "product": {
+    "uuid": "884b9dec743a130d975d0465da",
+    "id": "105894B191",
+    "productName": "Sonic Carry-On",
+    "productType": "variant",
+    "brand": "American Tourister",
+    "gtmData": {
+      "id": "105894XXXX",
+      "name": "Sonic Carry-On",
+      "category": "Carry-On",
+      "categoryID": "carry-on",
+      "price": "89.99",
+      "item_id": "105894XXXX",
+      "item_variant": "105894B191",
+      "variant": "105894B191",
+      "item_color": "Pink"
+    },
+    "gtmGA4Data": {
+      "item_id": "105894XXXX",
+      "item_variant": "105894B191",
+      "item_name": "Sonic Carry-On",
+      "item_category": "Carry-On",
+      "price": 89.99,
+      "currencyCode": "USD",
+      "variant": "105894B191",
+      "item_color": "Pink"
+    },
+    "attrsToUseForSwatch": "[\"color\",\"size\"]",
+    "attrGroupInclusion": null,
+    "pdpSwatchTypeAsImage": false,
+    "enableStickyAddToCart": true,
+    "enableVariantSelectionInPdpStickyAddToCart": true,
+    "hideQty": true,
+    "enableQuantityStepper": true,
+    "pdpCollapsibleContentDesktop4": {},
+    "pdpCollapsibleContentDesktop3": {},
+    "pdpCollapsibleContentDesktop2": {},
+    "pdpCollapsibleContentDesktop1": {},
+    "pdpHideSingleVariants": true,
+    "pdpImageColumnWidth": {},
+    "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+    "quickviewShowHeadlineAndDescription": true,
+    "price": {
+      "sales": {
+        "value": 89.99,
+        "currency": "USD",
+        "formatted": "$89.99",
+        "decimalPrice": "89.99"
+      },
+      "list": {
+        "value": 119.99,
+        "currency": "USD",
+        "formatted": "$119.99",
+        "decimalPrice": "119.99"
+      },
+      "percentageOff": "25% Off"
+    },
+    "showPercentageOff": true,
+    "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"119.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $119.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $89.99 , was $119.99\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b7e81dc/collections/_AT/Sonic/500x500/105894-B191-FRONT34.jpg?sw=912&sh=912",
+          "index": "0",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5b7e81dc/collections/_AT/Sonic/500x500/105894-B191-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbec2bdb5/collections/_AT/Sonic/500x500/105894-B191-INTERIOR-7.jpg?sw=912&sh=912",
+          "index": "1",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwbec2bdb5/collections/_AT/Sonic/500x500/105894-B191-INTERIOR-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9f3d0296/collections/_AT/Sonic/500x500/105894-B191-EXPANSION-8.jpg?sw=912&sh=912",
+          "index": "2",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9f3d0296/collections/_AT/Sonic/500x500/105894-B191-EXPANSION-8.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5f883311/collections/_AT/Sonic/500x500/105894-B191-ZIPPER-4.jpg?sw=912&sh=912",
+          "index": "3",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5f883311/collections/_AT/Sonic/500x500/105894-B191-ZIPPER-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcd6ab2a8/collections/_AT/Sonic/500x500/105894-B191-HANDLE-5.jpg?sw=912&sh=912",
+          "index": "4",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwcd6ab2a8/collections/_AT/Sonic/500x500/105894-B191-HANDLE-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw52048308/collections/_AT/Sonic/500x500/105894-B191-BACK34-2.jpg?sw=912&sh=912",
+          "index": "5",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw52048308/collections/_AT/Sonic/500x500/105894-B191-BACK34-2.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8f471157/collections/_AT/Sonic/500x500/105894-B191-WHEEL-6.jpg?sw=912&sh=912",
+          "index": "6",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8f471157/collections/_AT/Sonic/500x500/105894-B191-WHEEL-6.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b7e81dc/collections/_AT/Sonic/500x500/105894-B191-FRONT34.jpg?sw=176&sh=176",
+          "index": "0",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5b7e81dc/collections/_AT/Sonic/500x500/105894-B191-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbec2bdb5/collections/_AT/Sonic/500x500/105894-B191-INTERIOR-7.jpg?sw=176&sh=176",
+          "index": "1",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwbec2bdb5/collections/_AT/Sonic/500x500/105894-B191-INTERIOR-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9f3d0296/collections/_AT/Sonic/500x500/105894-B191-EXPANSION-8.jpg?sw=176&sh=176",
+          "index": "2",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9f3d0296/collections/_AT/Sonic/500x500/105894-B191-EXPANSION-8.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5f883311/collections/_AT/Sonic/500x500/105894-B191-ZIPPER-4.jpg?sw=176&sh=176",
+          "index": "3",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5f883311/collections/_AT/Sonic/500x500/105894-B191-ZIPPER-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcd6ab2a8/collections/_AT/Sonic/500x500/105894-B191-HANDLE-5.jpg?sw=176&sh=176",
+          "index": "4",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwcd6ab2a8/collections/_AT/Sonic/500x500/105894-B191-HANDLE-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw52048308/collections/_AT/Sonic/500x500/105894-B191-BACK34-2.jpg?sw=176&sh=176",
+          "index": "5",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw52048308/collections/_AT/Sonic/500x500/105894-B191-BACK34-2.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8f471157/collections/_AT/Sonic/500x500/105894-B191-WHEEL-6.jpg?sw=176&sh=176",
+          "index": "6",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8f471157/collections/_AT/Sonic/500x500/105894-B191-WHEEL-6.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "hi-res": [
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b7e81dc/collections/_AT/Sonic/500x500/105894-B191-FRONT34.jpg?sw=3000&sh=3000",
+          "index": "0",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5b7e81dc/collections/_AT/Sonic/500x500/105894-B191-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbec2bdb5/collections/_AT/Sonic/500x500/105894-B191-INTERIOR-7.jpg?sw=3000&sh=3000",
+          "index": "1",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwbec2bdb5/collections/_AT/Sonic/500x500/105894-B191-INTERIOR-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9f3d0296/collections/_AT/Sonic/500x500/105894-B191-EXPANSION-8.jpg?sw=3000&sh=3000",
+          "index": "2",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9f3d0296/collections/_AT/Sonic/500x500/105894-B191-EXPANSION-8.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5f883311/collections/_AT/Sonic/500x500/105894-B191-ZIPPER-4.jpg?sw=3000&sh=3000",
+          "index": "3",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5f883311/collections/_AT/Sonic/500x500/105894-B191-ZIPPER-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcd6ab2a8/collections/_AT/Sonic/500x500/105894-B191-HANDLE-5.jpg?sw=3000&sh=3000",
+          "index": "4",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwcd6ab2a8/collections/_AT/Sonic/500x500/105894-B191-HANDLE-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw52048308/collections/_AT/Sonic/500x500/105894-B191-BACK34-2.jpg?sw=3000&sh=3000",
+          "index": "5",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw52048308/collections/_AT/Sonic/500x500/105894-B191-BACK34-2.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8f471157/collections/_AT/Sonic/500x500/105894-B191-WHEEL-6.jpg?sw=3000&sh=3000",
+          "index": "6",
+          "title": "Sonic Carry-On in the color Fuchsia Pink.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8f471157/collections/_AT/Sonic/500x500/105894-B191-WHEEL-6.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "stacked-highlight": [
+        {
+          "alt": "Sonic Carry-On",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+          "index": "0",
+          "title": "Sonic Carry-On",
+          "absURL": {},
+          "type": "stacked-highlight"
+        }
+      ],
+      "pdp-background": [
+        {
+          "alt": "Sonic Carry-On",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+          "index": "0",
+          "title": "Sonic Carry-On",
+          "absURL": {},
+          "type": "pdp-background"
+        }
+      ],
+      "video-thumbnail": [
+        {
+          "alt": "Sonic Carry-On",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+          "index": "0",
+          "title": "Sonic Carry-On",
+          "absURL": {},
+          "type": "video-thumbnail"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 10,
+    "variationAttributes": [
+      {
+        "attributeId": "color",
+        "displayName": "Color",
+        "id": "color",
+        "swatchable": true,
+        "displayValue": "Fuchsia Pink",
+        "values": [
+          {
+            "id": "1058941041",
+            "description": null,
+            "displayValue": "Black",
+            "value": "1058941041",
+            "selected": false,
+            "default": false,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_105894XXXX_color=1058941041&pid=105894XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Sonic Carry-On in the color Black.",
+                  "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw13039d4f/colors/AT_sonic-black-2024.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Sonic Carry-On in the color Black.",
+                  "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw13039d4f/colors/AT_sonic-black-2024.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "1058940609",
+            "description": null,
+            "displayValue": "Sapphire Blue",
+            "value": "1058940609",
+            "selected": false,
+            "default": false,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_105894XXXX_color=1058940609&pid=105894XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Sonic Carry-On in the color Sapphire Blue.",
+                  "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3deefe1d/colors/AT_sonic-sapphire-blue-2024.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Sonic Carry-On in the color Sapphire Blue.",
+                  "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3deefe1d/colors/AT_sonic-sapphire-blue-2024.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "105894B191",
+            "description": null,
+            "displayValue": "Fuchsia Pink",
+            "value": "105894B191",
+            "selected": true,
+            "default": true,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_105894XXXX_color=&pid=105894XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Sonic Carry-On in the color Fuchsia Pink.",
+                  "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6b626ace/colors/AT_sonic-fuchsia-pink-2024.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Sonic Carry-On in the color Fuchsia Pink.",
+                  "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw6b626ace/colors/AT_sonic-fuchsia-pink-2024.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          }
+        ],
+        "isOnlyVariant": false
+      }
+    ],
+    "longDescription": "The Sonic lightweight carry on spinner suitcase weights in at just 7 pounds, and is easy to pack. The large interior compartment and exterior packing pockets offer plenty of room for everything you need for a 2-3 day adventure. Meeting most airline requirements for carry on sizing, the Sonic spinner suitcase makes travel a breeze with its ease of mobility and compact yet roomy style.<br><br>&#149; Single airflow spinner wheels for smooth ride<br>&#149; Expands 1.5\"<br>&#149; Easy grip soft molded kissing zipper pulls<br>&#149; Integrated top, side and bottom carry handles for easy lifting<br>&#149; Push button locking handle<br>&#149; Large interior packing compartment<br>&#149; Blouse pocket on door panel<br>&#149; Interior modesty pocket<br>&#149; Color pop cross-straps<br><br>Carry-On size and weight allowances vary by airline. Go to <a href=\"http://shop.americantourister.com/AirlineBaggageAllowances.html\">AIRLINE CARRY-ON GUIDE</a> for more details. If the bag is overstuffed, it may not be accepted by the airlines.<br><br>&#149; Weight: 7.1 lbs.<br><br>Body Dimensions: 20.25\" x 14.0\" x 8.0\"<br>Overall Dimensions: 23.0\" x 14.2\" x 11.0\"",
+    "shortDescription": "Sonic Softside Carry On Spinner is perfect for a 1-3 day trip, this carry on has everything you need to make your quick getaway stress free and fun!",
+    "rating": 5,
+    "promotions": null,
+    "attributes": null,
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": "Wed Apr 23 2025"
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&quantity=10"
+      }
+    ],
+    "features": {},
+    "overall-height": 23,
+    "overall-length": 15,
+    "overall-width": 9.4,
+    "unit-height": 20.3,
+    "unit-length": 14,
+    "unit-width": 8,
+    "unit-weight": 7.5,
+    "unit-uom": "in",
+    "unit-weight-type": "lbs",
+    "linear-dimension": "47.4",
+    "product-dimensions": "20.3in\u00a0H x 14in\u00a0L x 8in\u00a0W",
+    "external-dimensions": "23in\u00a0H x 15in\u00a0L x 9.4in\u00a0W",
+    "specifications": [
+      {
+        "specification": "Item #",
+        "value": "105894B191"
+      },
+      {
+        "specification": "Material",
+        "value": [
+          "Polyester"
+        ],
+        "tooltip": [
+          "Durable Polyester fabric."
+        ]
+      },
+      {
+        "specification": "External Dimensions",
+        "value": "23in\u00a0H x 15in\u00a0L x 9.4in\u00a0W",
+        "tooltip": [
+          "The total dimensions of the case including handles and wheels"
+        ]
+      },
+      {
+        "specification": "Internal Dimensions",
+        "value": "20.3in\u00a0H x 14in\u00a0L x 8in\u00a0W",
+        "tooltip": [
+          "The dimensions of the case without handles or wheels; packing dimensions"
+        ]
+      },
+      {
+        "specification": "Linear Dimension",
+        "value": "47.4"
+      },
+      {
+        "specification": "Weight",
+        "value": 7.5
+      },
+      {
+        "specification": "Expandable",
+        "value": "Yes",
+        "tooltip": [
+          "Does the case expand for added packing capacity?"
+        ]
+      },
+      {
+        "specification": "Warranty",
+        "value": [
+          "Limited 10 Year Global Warranty"
+        ],
+        "tooltip": [
+          "Warranty covers manufacturing defects. For more information please visit our warranty page"
+        ]
+      }
+    ],
+    "materials": [],
+    "selectedProductUrl": "/luggage/carry-on/sonic-carry-on/105894XXXX.html?dwvar_105894XXXX_color=105894B191&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": "Sonic Carry-On Spinner | Softside Luggage | American Tourister",
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "template": null,
+    "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 Durable and vibrant polyester<br>\r\n\u2713 Expands 1\"<br>\r\n\u2713 Large interior packing<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 23\" x 15\" x 9.4\"</li>\r\n<li>Weight: 7.5 lbs</li>\r\n</ul>",
+    "headline": null,
+    "recommendations": [],
+    "pdpAssetIds": [],
+    "pdpGalleryAssets": [],
+    "pdpVideoAssets": [],
+    "tabs": [],
+    "collapsibleContent": [],
+    "badges": [],
+    "selectedColorName": "Fuchsia Pink",
+    "compareSpecifications": [
+      {
+        "name": "Item #",
+        "value": "105894B191"
+      },
+      {
+        "name": "Overall Height",
+        "value": "23in"
+      },
+      {
+        "name": "Overall Length",
+        "value": "15in"
+      },
+      {
+        "name": "Overall Width",
+        "value": "9.4in"
+      },
+      {
+        "name": "Internal Height",
+        "value": "20.3in"
+      },
+      {
+        "name": "Internal Length",
+        "value": "14in"
+      },
+      {
+        "name": "Internal Width",
+        "value": "8in"
+      },
+      {
+        "name": "Weight",
+        "value": "7.5lbs"
+      },
+      {
+        "name": "Linear Dimension",
+        "value": "47.4"
+      },
+      {
+        "name": "Material",
+        "value": [
+          "Polyester"
+        ]
+      },
+      {
+        "name": "Handles",
+        "value": [
+          "Top Carry Handle",
+          "Side Carry Handle",
+          "Retractable Handle"
+        ]
+      },
+      {
+        "name": "Wheels",
+        "value": [
+          "Spinner Wheels"
+        ]
+      },
+      {
+        "name": "Packing Features",
+        "value": [
+          "Expandable",
+          "Cross straps",
+          "Stash Pockets"
+        ]
+      },
+      {
+        "name": "USB Port",
+        "value": "No"
+      },
+      {
+        "name": "Smart Sleeve",
+        "value": "No"
+      },
+      {
+        "name": "TSA Lock",
+        "value": "No"
+      },
+      {
+        "name": "Expandable",
+        "value": "Yes"
+      }
+    ],
+    "wishlistpid": "105894B191",
+    "categorized": true,
+    "categoryTree": "Luggage > Carry-On"
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected",
+    "unavailableMsg": "- not available with current selections"
+  },
+  "quickViewFullDetailMsg": "View Full Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "pickUpInStore": {
+    "actionUrl": "/on/demandware.store/Sites-americantourister-Site/en_US/Stores-InventorySearch?showMap=false&horizontalView=true&isForm=true",
+    "atsActionUrl": "/on/demandware.store/Sites-americantourister-Site/en_US/Stores-getAtsValue"
+  },
+  "quickViewSource": null,
+  "renderedTemplate": "<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"105894B191\"  data-swatchable-attributes=\"[&quot;color&quot;,&quot;size&quot;]\">\n    <div class=\"row \">\n        <!-- Product Images Carousel -->\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div class=\"primary-images col-12 col-md-8 image-display-slider\">\n    <div class=\"row\">\n        \n        <div class=\"badge-in-main-images mt-md-4 ml-md-5 pl-2 ml-1 pl-md-5 position-absolute w-md-100\">\n            \n\n\n\n\n<div class=\"badge-product-container badge-image-over justify-content-start\">\n    \n</div>\n\n\n        </div>\n        \n            <div class='primary-images-main col-12  col-lg-9 product-has-thumbnails order-md-2' cypress-target=\"pdpCarouselPrimaryImagesMain\">\n                <div class=\"slider-container slider-buttons-hidden slider-buttons-hidden-md slider-buttons-hidden-lg slider-bullets-hidden slider-bullets-hidden-md slider-bullets-hidden-lg\"\n                    data-slider-thumbnail-container=\"#slider-pdp-105894B191\"\n                    data-slider-loop=\"true\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b7e81dc/collections/_AT/Sonic/500x500/105894-B191-FRONT34.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b7e81dc/collections/_AT/Sonic/500x500/105894-B191-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 0\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbec2bdb5/collections/_AT/Sonic/500x500/105894-B191-INTERIOR-7.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbec2bdb5/collections/_AT/Sonic/500x500/105894-B191-INTERIOR-7.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 1\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9f3d0296/collections/_AT/Sonic/500x500/105894-B191-EXPANSION-8.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9f3d0296/collections/_AT/Sonic/500x500/105894-B191-EXPANSION-8.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 2\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5f883311/collections/_AT/Sonic/500x500/105894-B191-ZIPPER-4.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5f883311/collections/_AT/Sonic/500x500/105894-B191-ZIPPER-4.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 3\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcd6ab2a8/collections/_AT/Sonic/500x500/105894-B191-HANDLE-5.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcd6ab2a8/collections/_AT/Sonic/500x500/105894-B191-HANDLE-5.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 4\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw52048308/collections/_AT/Sonic/500x500/105894-B191-BACK34-2.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw52048308/collections/_AT/Sonic/500x500/105894-B191-BACK34-2.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 5\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8f471157/collections/_AT/Sonic/500x500/105894-B191-WHEEL-6.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8f471157/collections/_AT/Sonic/500x500/105894-B191-WHEEL-6.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 6\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n\n                    \n                        \n                    </div>\n                </div>\n            </div>\n\n            \n            \n            \n            \n                \n                \n            \n            \n\n            <div class=\"col-12  primary-images-thumbnails col-lg-3 order-md-1 \">\n                <div id=\"slider-pdp-105894B191\" class=\"slider-thumbnail-dots slider-container slider-thumbnails slider-buttons-inside slider-buttons-inside-md slider-buttons-inside-lg slider-thumbnails-vertical-md slider-thumbnails-vertical-lg\"\n                    data-slider-items=\"7\"\n                    data-slider-items-md=\"7\"\n                    data-slider-items-lg=\"7\"\n                    data-slider-items-max-display=\"5.0\"\n                    data-slider-items-max-display-site-pref=\"5.0\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                    data-slider-loop=\"true\"\n                    cypress-target=\"pdpCarouselSliderThumbnails\"\n                    style=\"\n                        --max-number-of-slides: 5.0;\n                        --thumbnail-product-slider-number-of-slides: 7;\n                        --thumbnail-product-slider-max-height: calc((var(--slider-thumbnail-width) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-md: calc((var(--slider-thumbnail-width-md) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-lg: calc((var(--slider-thumbnail-width-lg) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                    \"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b7e81dc/collections/_AT/Sonic/500x500/105894-B191-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 1\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbec2bdb5/collections/_AT/Sonic/500x500/105894-B191-INTERIOR-7.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 2\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9f3d0296/collections/_AT/Sonic/500x500/105894-B191-EXPANSION-8.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 3\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5f883311/collections/_AT/Sonic/500x500/105894-B191-ZIPPER-4.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 4\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwcd6ab2a8/collections/_AT/Sonic/500x500/105894-B191-HANDLE-5.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 5\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw52048308/collections/_AT/Sonic/500x500/105894-B191-BACK34-2.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 6\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8f471157/collections/_AT/Sonic/500x500/105894-B191-WHEEL-6.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Sonic Carry-On in the color Fuchsia Pink. image number 7\" itemprop=\"image\" />\n                            </div>\n                        \n\n                        \n                        \n                    </div>\n                    <div class=\"slider-thumbnail-controls d-none d-md-block\">\n                        <div class=\"prev icon-arrow-left-thin d-none\"></div>\n                        <div class=\"next icon-arrow-right-thin\"></div>\n                    </div>\n\n                    \n                    \n                    \n                </div>\n\n            </div>\n        \n        \n    </div>\n    \n        <div id=\"imageCarouselModal\" class=\"modal fade image-carousel-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"imageCarouselModal\">\n    <div class=\"modal-dialog modal-full-screen\" role=\"document\">\n        <div class=\"modal-content\">\n            <div class=\"modal-body\">\n                <img class=\"mw-100 mx-auto\" />\n                <button type=\"button\" class=\"icon-close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                    <span aria-hidden=\"true\" class=\"sr-only\">\u00d7</span>\n                </button>\n            </div>\n        </div>\n    </div>\n</div>\n    \n</div>\n\n\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-md-4\">\n            <div class=\"row\">\n                <div class=\"col\">\n                    <section>\n                        <h1 class=\"product-name\">Sonic Carry-On</h1>\n                    </section>\n                    <div class=\"sr-only\">\n                        no.\n<span class=\"product-id\">105894B191</span>\n\n                    </div>\n                </div>\n            </div>\n            \n\n            <div class=\"detail-panel\">\n                <!-- Attributes -->\n                <section class=\"attributes\">\n\n                    \n                    \n                    \n                    \n                        <div data-attr=\"color\" class=\"swatch row\">\n                            <div class=\"col-12\">\n                                \n                                \n\n\n\n\n\n\n    <div class=\"attribute clearfix\">\n        \n\n            \n            <span class=\"color non-input-label color-label\" id=\"product-attributes-aria-color\">\n                Color: <span class=\"color-display-value\">Fuchsia Pink</span>\n            </span>\n\n            \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Black\"\n                                aria-describedby=\"1058941041-main\"\n                                data-url=\"https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_105894XXXX_color=1058941041&amp;pid=105894XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"1058941041\"\n                                data-displayvalue=\"Black\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw13039d4f/colors/AT_sonic-black-2024.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"1058941041-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Sapphire Blue\"\n                                aria-describedby=\"1058940609-main\"\n                                data-url=\"https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_105894XXXX_color=1058940609&amp;pid=105894XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"1058940609\"\n                                data-displayvalue=\"Sapphire Blue\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3deefe1d/colors/AT_sonic-sapphire-blue-2024.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"1058940609-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Fuchsia Pink\"\n                                aria-describedby=\"105894B191-main\"\n                                data-url=\"https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_105894XXXX_color=&amp;pid=105894XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"105894B191\"\n                                data-displayvalue=\"Fuchsia Pink\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    default\n                                    selected\n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6b626ace/colors/AT_sonic-fuchsia-pink-2024.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"105894B191-main\" class=\"sr-only selected-assistive-text\">\n                                selected\n                            </span>\n                        </button>\n                    \n                \n            \n            \n            \n        \n    </div>\n\n\n\n                            </div>\n\n                            \n                                <!-- Quantity Drop Down Menu -->\n                                <div class=\"attribute quantity col-4 d-sm-none d-none\">\n                                    \n                                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                                    \n                                </div>\n                            \n                        </div>\n                    \n                    \n                        <div class=\"row mt-3\">\n                            <div class=\"col\">\n                                <b>Feature Highlights:</b><br>\r\n\u2713 Durable and vibrant polyester<br>\r\n\u2713 Expands 1\"<br>\r\n\u2713 Large interior packing<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 23\" x 15\" x 9.4\"</li>\r\n<li>Weight: 7.5 lbs</li>\r\n</ul>\n                            </div>\n                        </div>\n                    \n\n                    <div class=\"row availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                        <!-- Availability -->\n<div class=\"availability row product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n    <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n</div>\n\n\n\n\n\n\n\n\n\n                    </div>\n\n                    <!-- Applicable Promotions -->\n                    <div class=\"row mt-md-3\">\n                        <div class=\"col-12 promotions\">\n                            <div class=\"align-self-center\">\n                                \n\n\n\n\n                            </div>\n                        </div>\n                    </div>\n                </section>\n\n                    <!-- Options -->\n                    <div class=\"product-options\">\n                        \n                    </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n    \n</div>\n<div class=\"modal-footer row align-items-end\">\n    \n    \n\n    <div class=\"col\">\n        <div class=\"row align-items-center\">\n            <div class=\"col-12 col-md-8\">\n                <!-- Prices -->\n                <div class=\"prices clearfix\">\n                    \n                    \n\n\n\n    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"119.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $119.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n        <span class=\"sr-only\">, discount of</span>\n        <span class=\"percent-off\">25% Off</span>\n        \n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $89.99 , was $119.99 , discount of 25% Off\n</span>\n\n    </div>\n\n\n                </div>\n\n                <div class=\"availability d-none d-md-block align-self-end global-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                    <div class=\"row\">\n                        <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4 d-none\">\n                <!-- Quantity -->\n                <div class=\"quantity col-12\">\n                    \n                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=105894B191&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                    \n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4\">\n                <!-- Cart and [Optionally] Apple Pay -->\n                \n                    \n\n\n<div class=\"row cart-and-ipay\">\n    <div class=\"col-sm-12\">\n        <input type=\"hidden\" class=\"add-to-cart-url\" value=\"/on/demandware.store/Sites-americantourister-Site/en_US/Cart-AddProduct\"/>\n        <button class=\"add-to-cart-global btn btn-primary qv-product-edit-add\"\n                \n                    data-gtmdata=\"{&quot;id&quot;:&quot;105894XXXX&quot;,&quot;name&quot;:&quot;Sonic Carry-On&quot;,&quot;category&quot;:&quot;Carry-On&quot;,&quot;categoryID&quot;:&quot;carry-on&quot;,&quot;price&quot;:&quot;89.99&quot;,&quot;item_id&quot;:&quot;105894XXXX&quot;,&quot;item_variant&quot;:&quot;105894B191&quot;,&quot;variant&quot;:&quot;105894B191&quot;,&quot;item_color&quot;:&quot;Pink&quot;}\"\n                    data-gtmga4data=\"{&quot;item_id&quot;:&quot;105894XXXX&quot;,&quot;item_variant&quot;:&quot;105894B191&quot;,&quot;item_name&quot;:&quot;Sonic Carry-On&quot;,&quot;item_category&quot;:&quot;Carry-On&quot;,&quot;price&quot;:89.99,&quot;currencyCode&quot;:&quot;USD&quot;,&quot;variant&quot;:&quot;105894B191&quot;,&quot;item_color&quot;:&quot;Pink&quot;}\"\n                \n                data-pid=\"105894B191\"\n                >\n            <i class=\"fa fa-shopping-bag\"></i>\n            \n                Add to Bag\n            \n        </button>\n    </div>\n</div>\n\n                \n            </div>\n        </div>\n    </div>\n\n</div>\n",
+  "productUrl": "/luggage/carry-on/sonic-carry-on/105894B191.html",
+  "__gtmEvents": []
+}

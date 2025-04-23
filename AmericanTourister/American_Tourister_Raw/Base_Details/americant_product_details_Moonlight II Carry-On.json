@@ -1,0 +1,614 @@
+{
+  "product": {
+    "uuid": "af7bf0edc87baca1ae32751193",
+    "id": "1529275001",
+    "productName": "Moonlight II Carry-On",
+    "productType": "variant",
+    "brand": "American Tourister",
+    "gtmData": {
+      "id": "152927XXXX",
+      "name": "Moonlight II Carry-On",
+      "category": "Carry-On",
+      "categoryID": "carry-on",
+      "price": "119.99",
+      "item_id": "152927XXXX",
+      "item_variant": "1529275001",
+      "variant": "1529275001",
+      "item_color": "Green"
+    },
+    "gtmGA4Data": {
+      "item_id": "152927XXXX",
+      "item_variant": "1529275001",
+      "item_name": "Moonlight II Carry-On",
+      "item_category": "Carry-On",
+      "price": 119.99,
+      "currencyCode": "USD",
+      "variant": "1529275001",
+      "item_color": "Green"
+    },
+    "attrsToUseForSwatch": "[\"color\",\"size\"]",
+    "attrGroupInclusion": null,
+    "pdpSwatchTypeAsImage": false,
+    "enableStickyAddToCart": true,
+    "enableVariantSelectionInPdpStickyAddToCart": true,
+    "hideQty": true,
+    "enableQuantityStepper": true,
+    "pdpCollapsibleContentDesktop4": {},
+    "pdpCollapsibleContentDesktop3": {},
+    "pdpCollapsibleContentDesktop2": {},
+    "pdpCollapsibleContentDesktop1": {},
+    "pdpHideSingleVariants": true,
+    "pdpImageColumnWidth": {},
+    "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+    "quickviewShowHeadlineAndDescription": true,
+    "price": {
+      "sales": {
+        "value": 119.99,
+        "currency": "USD",
+        "formatted": "$119.99",
+        "decimalPrice": "119.99"
+      },
+      "list": null,
+      "percentageOff": null
+    },
+    "showPercentageOff": true,
+    "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"119.99\">\n        \n        $119.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $119.99\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f743068/collections/_AT/Moonlight/500x500/152927-5001-FRONT34.jpg?sw=912&sh=912",
+          "index": "0",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1f743068/collections/_AT/Moonlight/500x500/152927-5001-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf3790a4b/collections/_AT/Moonlight/500x500/152927-5001-INTERIOR-5.jpg?sw=912&sh=912",
+          "index": "1",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf3790a4b/collections/_AT/Moonlight/500x500/152927-5001-INTERIOR-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2940448f/collections/_AT/Moonlight/500x500/152927-5001-EXPANSION-6.jpg?sw=912&sh=912",
+          "index": "2",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw2940448f/collections/_AT/Moonlight/500x500/152927-5001-EXPANSION-6.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe3eb8758/collections/_AT/Moonlight/500x500/152927-5001-HANDLE-7.jpg?sw=912&sh=912",
+          "index": "3",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwe3eb8758/collections/_AT/Moonlight/500x500/152927-5001-HANDLE-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw283b9729/collections/_AT/Moonlight/500x500/152927-5001-ZIPPER-4.jpg?sw=912&sh=912",
+          "index": "4",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw283b9729/collections/_AT/Moonlight/500x500/152927-5001-ZIPPER-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc307cbf6/collections/_AT/Moonlight/500x500/152927-5001-WHEEL-8.jpg?sw=912&sh=912",
+          "index": "5",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwc307cbf6/collections/_AT/Moonlight/500x500/152927-5001-WHEEL-8.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b9de5f0/collections/_AT/Moonlight/500x500/152927-5001-BACK34-3.jpg?sw=912&sh=912",
+          "index": "6",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1b9de5f0/collections/_AT/Moonlight/500x500/152927-5001-BACK34-3.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f743068/collections/_AT/Moonlight/500x500/152927-5001-FRONT34.jpg?sw=176&sh=176",
+          "index": "0",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1f743068/collections/_AT/Moonlight/500x500/152927-5001-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf3790a4b/collections/_AT/Moonlight/500x500/152927-5001-INTERIOR-5.jpg?sw=176&sh=176",
+          "index": "1",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf3790a4b/collections/_AT/Moonlight/500x500/152927-5001-INTERIOR-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2940448f/collections/_AT/Moonlight/500x500/152927-5001-EXPANSION-6.jpg?sw=176&sh=176",
+          "index": "2",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw2940448f/collections/_AT/Moonlight/500x500/152927-5001-EXPANSION-6.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe3eb8758/collections/_AT/Moonlight/500x500/152927-5001-HANDLE-7.jpg?sw=176&sh=176",
+          "index": "3",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwe3eb8758/collections/_AT/Moonlight/500x500/152927-5001-HANDLE-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw283b9729/collections/_AT/Moonlight/500x500/152927-5001-ZIPPER-4.jpg?sw=176&sh=176",
+          "index": "4",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw283b9729/collections/_AT/Moonlight/500x500/152927-5001-ZIPPER-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc307cbf6/collections/_AT/Moonlight/500x500/152927-5001-WHEEL-8.jpg?sw=176&sh=176",
+          "index": "5",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwc307cbf6/collections/_AT/Moonlight/500x500/152927-5001-WHEEL-8.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b9de5f0/collections/_AT/Moonlight/500x500/152927-5001-BACK34-3.jpg?sw=176&sh=176",
+          "index": "6",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1b9de5f0/collections/_AT/Moonlight/500x500/152927-5001-BACK34-3.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "hi-res": [
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f743068/collections/_AT/Moonlight/500x500/152927-5001-FRONT34.jpg?sw=3000&sh=3000",
+          "index": "0",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1f743068/collections/_AT/Moonlight/500x500/152927-5001-FRONT34.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf3790a4b/collections/_AT/Moonlight/500x500/152927-5001-INTERIOR-5.jpg?sw=3000&sh=3000",
+          "index": "1",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf3790a4b/collections/_AT/Moonlight/500x500/152927-5001-INTERIOR-5.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2940448f/collections/_AT/Moonlight/500x500/152927-5001-EXPANSION-6.jpg?sw=3000&sh=3000",
+          "index": "2",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw2940448f/collections/_AT/Moonlight/500x500/152927-5001-EXPANSION-6.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe3eb8758/collections/_AT/Moonlight/500x500/152927-5001-HANDLE-7.jpg?sw=3000&sh=3000",
+          "index": "3",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwe3eb8758/collections/_AT/Moonlight/500x500/152927-5001-HANDLE-7.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw283b9729/collections/_AT/Moonlight/500x500/152927-5001-ZIPPER-4.jpg?sw=3000&sh=3000",
+          "index": "4",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw283b9729/collections/_AT/Moonlight/500x500/152927-5001-ZIPPER-4.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc307cbf6/collections/_AT/Moonlight/500x500/152927-5001-WHEEL-8.jpg?sw=3000&sh=3000",
+          "index": "5",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwc307cbf6/collections/_AT/Moonlight/500x500/152927-5001-WHEEL-8.jpg",
+          "type": "hi-res"
+        },
+        {
+          "alt": "Moonlight II Carry-On in the color Palm.",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b9de5f0/collections/_AT/Moonlight/500x500/152927-5001-BACK34-3.jpg?sw=3000&sh=3000",
+          "index": "6",
+          "title": "Moonlight II Carry-On in the color Palm.",
+          "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw1b9de5f0/collections/_AT/Moonlight/500x500/152927-5001-BACK34-3.jpg",
+          "type": "hi-res"
+        }
+      ],
+      "stacked-highlight": [
+        {
+          "alt": "Moonlight II Carry-On",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+          "index": "0",
+          "title": "Moonlight II Carry-On",
+          "absURL": {},
+          "type": "stacked-highlight"
+        }
+      ],
+      "pdp-background": [
+        {
+          "alt": "Moonlight II Carry-On",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+          "index": "0",
+          "title": "Moonlight II Carry-On",
+          "absURL": {},
+          "type": "pdp-background"
+        }
+      ],
+      "video-thumbnail": [
+        {
+          "alt": "Moonlight II Carry-On",
+          "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+          "index": "0",
+          "title": "Moonlight II Carry-On",
+          "absURL": {},
+          "type": "video-thumbnail"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 10,
+    "variationAttributes": [
+      {
+        "attributeId": "color",
+        "displayName": "Color",
+        "id": "color",
+        "swatchable": true,
+        "displayValue": "Palm",
+        "values": [
+          {
+            "id": "152927A373",
+            "description": null,
+            "displayValue": "Ombre Peach",
+            "value": "152927A373",
+            "selected": false,
+            "default": false,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_152927XXXX_color=152927A373&pid=152927XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Moonlight II Carry-On in the color Ombre Peach.",
+                  "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw17155780/colors/AT_ombre-peach.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Moonlight II Carry-On in the color Ombre Peach.",
+                  "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw17155780/colors/AT_ombre-peach.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "1529275001",
+            "description": null,
+            "displayValue": "Palm",
+            "value": "1529275001",
+            "selected": true,
+            "default": true,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_152927XXXX_color=&pid=152927XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Moonlight II Carry-On in the color Palm.",
+                  "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe6c6ea6b/colors/AT_palm.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Moonlight II Carry-On in the color Palm.",
+                  "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwe6c6ea6b/colors/AT_palm.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          },
+          {
+            "id": "152927T381",
+            "description": null,
+            "displayValue": "Poppy Pattern",
+            "value": "152927T381",
+            "selected": false,
+            "default": false,
+            "hide": false,
+            "selectable": true,
+            "available": true,
+            "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_152927XXXX_color=152927T381&pid=152927XXXX&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Moonlight II Carry-On in the color Poppy Pattern.",
+                  "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4df53b0f/colors/AT_poppy-pattern.jpg?sw=60&sh=60",
+                  "index": "0",
+                  "title": "Moonlight II Carry-On in the color Poppy Pattern.",
+                  "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4df53b0f/colors/AT_poppy-pattern.jpg",
+                  "type": "swatch"
+                }
+              ],
+              "type": "swatch"
+            }
+          }
+        ],
+        "isOnlyVariant": false
+      }
+    ],
+    "longDescription": null,
+    "shortDescription": "Moonlight II Hardside Carry-On Spinner is perfect for a 1-3 day trip, this carry on has everything you need to make your quick getaway stress free and fun!",
+    "rating": 5,
+    "promotions": null,
+    "attributes": null,
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": "Wed Apr 23 2025"
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&quantity=10"
+      }
+    ],
+    "features": {},
+    "overall-height": 22,
+    "overall-length": 15,
+    "overall-width": 9.5,
+    "unit-height": 19.3,
+    "unit-length": 14.5,
+    "unit-width": 9.5,
+    "unit-weight": 7.2,
+    "unit-uom": "in",
+    "unit-weight-type": "lbs",
+    "linear-dimension": "46.5",
+    "product-dimensions": "19.3in\u00a0H x 14.5in\u00a0L x 9.5in\u00a0W",
+    "external-dimensions": "22in\u00a0H x 15in\u00a0L x 9.5in\u00a0W",
+    "specifications": [
+      {
+        "specification": "Item #",
+        "value": "1529275001"
+      },
+      {
+        "specification": "Material",
+        "value": [
+          "ABS"
+        ]
+      },
+      {
+        "specification": "External Dimensions",
+        "value": "22in\u00a0H x 15in\u00a0L x 9.5in\u00a0W",
+        "tooltip": [
+          "The total dimensions of the case including handles and wheels"
+        ]
+      },
+      {
+        "specification": "Internal Dimensions",
+        "value": "19.3in\u00a0H x 14.5in\u00a0L x 9.5in\u00a0W",
+        "tooltip": [
+          "The dimensions of the case without handles or wheels; packing dimensions"
+        ]
+      },
+      {
+        "specification": "Linear Dimension",
+        "value": "46.5"
+      },
+      {
+        "specification": "Weight",
+        "value": 7.2
+      },
+      {
+        "specification": "Expandable",
+        "value": "Yes",
+        "tooltip": [
+          "Does the case expand for added packing capacity?"
+        ]
+      }
+    ],
+    "materials": [],
+    "selectedProductUrl": "/luggage/carry-on/moonlight-ii-carry-on/152927XXXX.html?dwvar_152927XXXX_color=1529275001&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "template": null,
+    "headlineDescription": "Moonlight II has beautiful prints and gracefully precise details, this hardside carry on has everything you need.\r\n<br>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 22.0\" x 15.0\" x 9.5\"</li>\r\n<li>Weight: 7.17 lbs</li>\r\n</ul>",
+    "headline": null,
+    "recommendations": [],
+    "pdpAssetIds": [],
+    "pdpGalleryAssets": [],
+    "pdpVideoAssets": [],
+    "tabs": [],
+    "collapsibleContent": [],
+    "badges": [
+      {
+        "class": "token-background--celery-green font-size--12 font-size--lg--16",
+        "name": "New"
+      }
+    ],
+    "selectedColorName": "Palm",
+    "compareSpecifications": [
+      {
+        "name": "Item #",
+        "value": "1529275001"
+      },
+      {
+        "name": "Overall Height",
+        "value": "22in",
+        "tooltip": "The total height of the case including handles and wheels"
+      },
+      {
+        "name": "Overall Length",
+        "value": "15in",
+        "tooltip": "The total length of the case including handles and wheels"
+      },
+      {
+        "name": "Overall Width",
+        "value": "9.5in",
+        "tooltip": "The total width of the case including handles and wheels"
+      },
+      {
+        "name": "Internal Height",
+        "value": "19.3in",
+        "tooltip": "The height of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Internal Length",
+        "value": "14.5in",
+        "tooltip": "The length of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Internal Width",
+        "value": "9.5in",
+        "tooltip": "The width of the case without handles or wheels; packing dimensions"
+      },
+      {
+        "name": "Weight",
+        "value": "7.2lbs"
+      },
+      {
+        "name": "Linear Dimension",
+        "value": "46.5"
+      },
+      {
+        "name": "Material",
+        "value": [
+          "ABS"
+        ]
+      },
+      {
+        "name": "Handles",
+        "value": [
+          "Retractable Handle",
+          "Top Carry Handle",
+          "Side Carry Handle"
+        ]
+      },
+      {
+        "name": "Wheels",
+        "value": [
+          "Spinner Wheels"
+        ]
+      },
+      {
+        "name": "Packing Features",
+        "value": [
+          "Cross straps",
+          "Interior Divider",
+          "Expandable"
+        ]
+      },
+      {
+        "name": "USB Port",
+        "value": "No",
+        "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+      },
+      {
+        "name": "Smart Sleeve",
+        "value": "No",
+        "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+      },
+      {
+        "name": "TSA Lock",
+        "value": "No",
+        "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      },
+      {
+        "name": "Expandable",
+        "value": "Yes",
+        "tooltip": "Does the case expand for added packing capacity?"
+      }
+    ],
+    "wishlistpid": "1529275001",
+    "categorized": true,
+    "categoryTree": "Luggage > Carry-On"
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected",
+    "unavailableMsg": "- not available with current selections"
+  },
+  "quickViewFullDetailMsg": "View Full Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "pickUpInStore": {
+    "actionUrl": "/on/demandware.store/Sites-americantourister-Site/en_US/Stores-InventorySearch?showMap=false&horizontalView=true&isForm=true",
+    "atsActionUrl": "/on/demandware.store/Sites-americantourister-Site/en_US/Stores-getAtsValue"
+  },
+  "quickViewSource": null,
+  "renderedTemplate": "<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"1529275001\"  data-swatchable-attributes=\"[&quot;color&quot;,&quot;size&quot;]\">\n    <div class=\"row \">\n        <!-- Product Images Carousel -->\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div class=\"primary-images col-12 col-md-8 image-display-slider\">\n    <div class=\"row\">\n        \n        <div class=\"badge-in-main-images mt-md-4 ml-md-5 pl-2 ml-1 pl-md-5 position-absolute w-md-100\">\n            \n\n\n\n\n<div class=\"badge-product-container badge-image-over justify-content-start\">\n    \n        \n            <span class=\"badge-product token-background--celery-green font-size--12 font-size--lg--16\">New</span>\n            \n        \n        \n</div>\n\n\n        </div>\n        \n            <div class='primary-images-main col-12  col-lg-9 product-has-thumbnails order-md-2' cypress-target=\"pdpCarouselPrimaryImagesMain\">\n                <div class=\"slider-container slider-buttons-hidden slider-buttons-hidden-md slider-buttons-hidden-lg slider-bullets-hidden slider-bullets-hidden-md slider-bullets-hidden-lg\"\n                    data-slider-thumbnail-container=\"#slider-pdp-1529275001\"\n                    data-slider-loop=\"true\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f743068/collections/_AT/Moonlight/500x500/152927-5001-FRONT34.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f743068/collections/_AT/Moonlight/500x500/152927-5001-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 0\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf3790a4b/collections/_AT/Moonlight/500x500/152927-5001-INTERIOR-5.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf3790a4b/collections/_AT/Moonlight/500x500/152927-5001-INTERIOR-5.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 1\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2940448f/collections/_AT/Moonlight/500x500/152927-5001-EXPANSION-6.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2940448f/collections/_AT/Moonlight/500x500/152927-5001-EXPANSION-6.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 2\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe3eb8758/collections/_AT/Moonlight/500x500/152927-5001-HANDLE-7.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe3eb8758/collections/_AT/Moonlight/500x500/152927-5001-HANDLE-7.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 3\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw283b9729/collections/_AT/Moonlight/500x500/152927-5001-ZIPPER-4.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw283b9729/collections/_AT/Moonlight/500x500/152927-5001-ZIPPER-4.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 4\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc307cbf6/collections/_AT/Moonlight/500x500/152927-5001-WHEEL-8.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc307cbf6/collections/_AT/Moonlight/500x500/152927-5001-WHEEL-8.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 5\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n                            \n                                <a class=\"slide no-zoom\" href=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b9de5f0/collections/_AT/Moonlight/500x500/152927-5001-BACK34-3.jpg?sw=3000&amp;sh=3000\">\n                            \n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b9de5f0/collections/_AT/Moonlight/500x500/152927-5001-BACK34-3.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 6\" itemprop=\"image\" />\n                                \n                                \n                            \n                                </a>\n                            \n                        \n\n                    \n                        \n                    </div>\n                </div>\n            </div>\n\n            \n            \n            \n            \n                \n                \n            \n            \n\n            <div class=\"col-12  primary-images-thumbnails col-lg-3 order-md-1 \">\n                <div id=\"slider-pdp-1529275001\" class=\"slider-thumbnail-dots slider-container slider-thumbnails slider-buttons-inside slider-buttons-inside-md slider-buttons-inside-lg slider-thumbnails-vertical-md slider-thumbnails-vertical-lg\"\n                    data-slider-items=\"7\"\n                    data-slider-items-md=\"7\"\n                    data-slider-items-lg=\"7\"\n                    data-slider-items-max-display=\"5.0\"\n                    data-slider-items-max-display-site-pref=\"5.0\"\n                    data-slider-gutter=\"1\"\n                    data-slider-gutter-md=\"1\"\n                    data-slider-gutter-lg=\"1\"\n                    data-slider-loop=\"true\"\n                    cypress-target=\"pdpCarouselSliderThumbnails\"\n                    style=\"\n                        --max-number-of-slides: 5.0;\n                        --thumbnail-product-slider-number-of-slides: 7;\n                        --thumbnail-product-slider-max-height: calc((var(--slider-thumbnail-width) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-md: calc((var(--slider-thumbnail-width-md) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                        --thumbnail-product-slider-max-height-lg: calc((var(--slider-thumbnail-width-lg) * var(--max-number-of-slides)) + (var(--slider-thumbnail-spacing) * (var(--max-number-of-slides) - 1 )));\n                    \"\n                >\n                    <div class=\"slider\">\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1f743068/collections/_AT/Moonlight/500x500/152927-5001-FRONT34.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 1\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf3790a4b/collections/_AT/Moonlight/500x500/152927-5001-INTERIOR-5.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 2\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw2940448f/collections/_AT/Moonlight/500x500/152927-5001-EXPANSION-6.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 3\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe3eb8758/collections/_AT/Moonlight/500x500/152927-5001-HANDLE-7.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 4\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw283b9729/collections/_AT/Moonlight/500x500/152927-5001-ZIPPER-4.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 5\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc307cbf6/collections/_AT/Moonlight/500x500/152927-5001-WHEEL-8.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 6\" itemprop=\"image\" />\n                            </div>\n                        \n                            \n                            <div class=\"slide\">\n                                <img src=\"https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw1b9de5f0/collections/_AT/Moonlight/500x500/152927-5001-BACK34-3.jpg?sw=912&amp;sh=912\" class=\"d-block img-fluid\" alt=\"Moonlight II Carry-On in the color Palm. image number 7\" itemprop=\"image\" />\n                            </div>\n                        \n\n                        \n                        \n                    </div>\n                    <div class=\"slider-thumbnail-controls d-none d-md-block\">\n                        <div class=\"prev icon-arrow-left-thin d-none\"></div>\n                        <div class=\"next icon-arrow-right-thin\"></div>\n                    </div>\n\n                    \n                    \n                    \n                </div>\n\n            </div>\n        \n        \n    </div>\n    \n        <div id=\"imageCarouselModal\" class=\"modal fade image-carousel-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"imageCarouselModal\">\n    <div class=\"modal-dialog modal-full-screen\" role=\"document\">\n        <div class=\"modal-content\">\n            <div class=\"modal-body\">\n                <img class=\"mw-100 mx-auto\" />\n                <button type=\"button\" class=\"icon-close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                    <span aria-hidden=\"true\" class=\"sr-only\">\u00d7</span>\n                </button>\n            </div>\n        </div>\n    </div>\n</div>\n    \n</div>\n\n\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-md-4\">\n            <div class=\"row\">\n                <div class=\"col\">\n                    <section>\n                        <h1 class=\"product-name\">Moonlight II Carry-On</h1>\n                    </section>\n                    <div class=\"sr-only\">\n                        no.\n<span class=\"product-id\">1529275001</span>\n\n                    </div>\n                </div>\n            </div>\n            \n\n            <div class=\"detail-panel\">\n                <!-- Attributes -->\n                <section class=\"attributes\">\n\n                    \n                    \n                    \n                    \n                        <div data-attr=\"color\" class=\"swatch row\">\n                            <div class=\"col-12\">\n                                \n                                \n\n\n\n\n\n\n    <div class=\"attribute clearfix\">\n        \n\n            \n            <span class=\"color non-input-label color-label\" id=\"product-attributes-aria-color\">\n                Color: <span class=\"color-display-value\">Palm</span>\n            </span>\n\n            \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Ombre Peach\"\n                                aria-describedby=\"152927A373-main\"\n                                data-url=\"https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_152927XXXX_color=152927A373&amp;pid=152927XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"152927A373\"\n                                data-displayvalue=\"Ombre Peach\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw17155780/colors/AT_ombre-peach.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"152927A373-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Palm\"\n                                aria-describedby=\"1529275001-main\"\n                                data-url=\"https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_152927XXXX_color=&amp;pid=152927XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"1529275001\"\n                                data-displayvalue=\"Palm\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    default\n                                    selected\n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe6c6ea6b/colors/AT_palm.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"1529275001-main\" class=\"sr-only selected-assistive-text\">\n                                selected\n                            </span>\n                        </button>\n                    \n                \n            \n                \n                \n                    \n                        \n                        <button class=\"color-attribute \"\n                                aria-label=\"Select Color Poppy Pattern\"\n                                aria-describedby=\"152927T381-main\"\n                                data-url=\"https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_152927XXXX_color=152927T381&amp;pid=152927XXXX&amp;quantity=1\" \n                                cypress-target=\"productColorSwatch\"\n                        >\n                            <span data-attr-value=\"152927T381\"\n                                data-displayvalue=\"Poppy Pattern\"\n                                class=\"swatch\n                                    color-value\n                                    swatch-circle\n                                    swatch-value\n                                    \n                                    \n                                    selectable\n                                    available\n                                \"\n                                style=\"background-image: url(https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4df53b0f/colors/AT_poppy-pattern.jpg?sw=60&amp;sh=60)\"\n                            >\n                            </span>\n                            <span id=\"152927T381-main\" class=\"sr-only selected-assistive-text\">\n                                \n                            </span>\n                        </button>\n                    \n                \n            \n            \n            \n        \n    </div>\n\n\n\n                            </div>\n\n                            \n                                <!-- Quantity Drop Down Menu -->\n                                <div class=\"attribute quantity col-4 d-sm-none d-none\">\n                                    \n                                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                                    \n                                </div>\n                            \n                        </div>\n                    \n                    \n                        <div class=\"row mt-3\">\n                            <div class=\"col\">\n                                Moonlight II has beautiful prints and gracefully precise details, this hardside carry on has everything you need.\r\n<br>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 22.0\" x 15.0\" x 9.5\"</li>\r\n<li>Weight: 7.17 lbs</li>\r\n</ul>\n                            </div>\n                        </div>\n                    \n\n                    <div class=\"row availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                        <!-- Availability -->\n<div class=\"availability row product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n    <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n</div>\n\n\n\n\n\n\n\n\n\n                    </div>\n\n                    <!-- Applicable Promotions -->\n                    <div class=\"row mt-md-3\">\n                        <div class=\"col-12 promotions\">\n                            <div class=\"align-self-center\">\n                                \n\n\n\n\n                            </div>\n                        </div>\n                    </div>\n                </section>\n\n                    <!-- Options -->\n                    <div class=\"product-options\">\n                        \n                    </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n    \n</div>\n<div class=\"modal-footer row align-items-end\">\n    \n    \n\n    <div class=\"col\">\n        <div class=\"row align-items-center\">\n            <div class=\"col-12 col-md-8\">\n                <!-- Prices -->\n                <div class=\"prices clearfix\">\n                    \n                    \n\n\n\n    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n\n    \n    <span class=\"sales\">\n        \n        \n            <span class=\"value\" content=\"119.99\">\n        \n        $119.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is $119.99\n</span>\n\n    </div>\n\n\n                </div>\n\n                <div class=\"availability d-none d-md-block align-self-end global-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                    <div class=\"row\">\n                        <div class=\"col-12 availability-container align-items-center\">\n    <label class=\"availability non-input-label mb-0 mr-2\">Availability:</label>\n    <ul class=\"list-unstyled availability-msg m-0\">\n        <li>\n            \n                In Stock\n            \n        </li>\n    </ul>\n    <i class=\"icon-checkmark text--green pb-1 pl-2  in-stock-checkmark\"></i>\n</div>\n\n\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4 d-none\">\n                <!-- Quantity -->\n                <div class=\"quantity col-12\">\n                    \n                        \n\n\n\n\n\n\n\n\n\n\n\n<label class=\"sr-only\" for=\"quantity-1\">\n    Select quantity:\n</label>\n<select\n    class=\"quantity-select custom-select form-control d-none\"\n    id=\"quantity-1\"\n    name=\"quantity-select\"\n    tabindex=\"0\"\n    cypress-target=\"productQuantitySelect\"\n>\n    \n        \n            \n        \n        <option value=\"1\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=1\"\n                selected\n        >\n            1\n        </option>\n    \n        \n        <option value=\"2\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=2\"\n                \n        >\n            2\n        </option>\n    \n        \n        <option value=\"3\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=3\"\n                \n        >\n            3\n        </option>\n    \n        \n        <option value=\"4\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=4\"\n                \n        >\n            4\n        </option>\n    \n        \n        <option value=\"5\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=5\"\n                \n        >\n            5\n        </option>\n    \n        \n        <option value=\"6\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=6\"\n                \n        >\n            6\n        </option>\n    \n        \n        <option value=\"7\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=7\"\n                \n        >\n            7\n        </option>\n    \n        \n        <option value=\"8\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=8\"\n                \n        >\n            8\n        </option>\n    \n        \n        <option value=\"9\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=9\"\n                \n        >\n            9\n        </option>\n    \n        \n        <option value=\"10\"\n            data-url=\"/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?pid=1529275001&amp;quantity=10\"\n                \n        >\n            10\n        </option>\n    \n</select>\n\n\n    <div\n    class=\"quantity-stepper form-control \"\n    data-min=\"1\"\n    data-max=\"10\"\n    cypress-target=\"productQuantityStepper\"\n>\n    <button class=\"icon-minus\" data-action=\"decrease\" aria-label=\"Decrease Quantity\"></button>\n    <input name=\"qty-stepper\" type=\"text\" value=\"1\" data-qty=\"1\" />\n    <button class=\"icon-plus\" data-action=\"increase\" aria-label=\"Increase Quantity\"></button>\n</div>\n\n\n\n                    \n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-4\">\n                <!-- Cart and [Optionally] Apple Pay -->\n                \n                    \n\n\n<div class=\"row cart-and-ipay\">\n    <div class=\"col-sm-12\">\n        <input type=\"hidden\" class=\"add-to-cart-url\" value=\"/on/demandware.store/Sites-americantourister-Site/en_US/Cart-AddProduct\"/>\n        <button class=\"add-to-cart-global btn btn-primary qv-product-edit-add\"\n                \n                    data-gtmdata=\"{&quot;id&quot;:&quot;152927XXXX&quot;,&quot;name&quot;:&quot;Moonlight II Carry-On&quot;,&quot;category&quot;:&quot;Carry-On&quot;,&quot;categoryID&quot;:&quot;carry-on&quot;,&quot;price&quot;:&quot;119.99&quot;,&quot;item_id&quot;:&quot;152927XXXX&quot;,&quot;item_variant&quot;:&quot;1529275001&quot;,&quot;variant&quot;:&quot;1529275001&quot;,&quot;item_color&quot;:&quot;Green&quot;}\"\n                    data-gtmga4data=\"{&quot;item_id&quot;:&quot;152927XXXX&quot;,&quot;item_variant&quot;:&quot;1529275001&quot;,&quot;item_name&quot;:&quot;Moonlight II Carry-On&quot;,&quot;item_category&quot;:&quot;Carry-On&quot;,&quot;price&quot;:119.99,&quot;currencyCode&quot;:&quot;USD&quot;,&quot;variant&quot;:&quot;1529275001&quot;,&quot;item_color&quot;:&quot;Green&quot;}\"\n                \n                data-pid=\"1529275001\"\n                >\n            <i class=\"fa fa-shopping-bag\"></i>\n            \n                Add to Bag\n            \n        </button>\n    </div>\n</div>\n\n                \n            </div>\n        </div>\n    </div>\n\n</div>\n",
+  "productUrl": "/luggage/carry-on/moonlight-ii-carry-on/1529275001.html",
+  "__gtmEvents": []
+}

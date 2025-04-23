@@ -1,0 +1,538 @@
+{
+  "uuid": "73d576058b2b607767b4dc324d",
+  "id": "151133A438",
+  "productName": "Star Wars Light vs. Dark Carry-On",
+  "productType": "variant",
+  "brand": "American Tourister",
+  "gtmData": {
+    "id": "151133XXXX",
+    "name": "Star Wars Light vs. Dark Carry-On",
+    "category": "Luggage",
+    "categoryID": "disney-luggage",
+    "price": "89.99",
+    "item_id": "151133XXXX",
+    "item_variant": "151133A438",
+    "variant": "151133A438",
+    "item_color": "Multi"
+  },
+  "gtmGA4Data": {
+    "item_id": "151133XXXX",
+    "item_variant": "151133A438",
+    "item_name": "Star Wars Light vs. Dark Carry-On",
+    "item_category": "Luggage",
+    "price": 89.99,
+    "currencyCode": "USD",
+    "variant": "151133A438",
+    "item_color": "Multi"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 89.99,
+      "currency": "USD",
+      "formatted": "$89.99",
+      "decimalPrice": "89.99"
+    },
+    "list": {
+      "value": 149.99,
+      "currency": "USD",
+      "formatted": "$149.99",
+      "decimalPrice": "149.99"
+    },
+    "percentageOff": "40% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"149.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $149.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $89.99 , was $149.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbb07705f/collections/_AT/starwars/500x500/151133-A438-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwbb07705f/collections/_AT/starwars/500x500/151133-A438-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw22715743/collections/_AT/starwars/500x500/151133-A438-DETAIL-4.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw22715743/collections/_AT/starwars/500x500/151133-A438-DETAIL-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf52f8866/collections/_AT/starwars/500x500/151133-A438-INTERIOR-7.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf52f8866/collections/_AT/starwars/500x500/151133-A438-INTERIOR-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b13eb27/collections/_AT/starwars/500x500/151133-A438-EXPANSION-9.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5b13eb27/collections/_AT/starwars/500x500/151133-A438-EXPANSION-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8a74c105/collections/_AT/starwars/500x500/151133-A438-BACK34-2.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8a74c105/collections/_AT/starwars/500x500/151133-A438-BACK34-2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa4680c16/collections/_AT/starwars/500x500/151133-A438-HANDLE-5.jpg?sw=912&sh=912",
+        "index": "5",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa4680c16/collections/_AT/starwars/500x500/151133-A438-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw090c7d38/collections/_AT/starwars/500x500/151133-A438-WHEEL-6.jpg?sw=912&sh=912",
+        "index": "6",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw090c7d38/collections/_AT/starwars/500x500/151133-A438-WHEEL-6.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbb07705f/collections/_AT/starwars/500x500/151133-A438-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwbb07705f/collections/_AT/starwars/500x500/151133-A438-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw22715743/collections/_AT/starwars/500x500/151133-A438-DETAIL-4.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw22715743/collections/_AT/starwars/500x500/151133-A438-DETAIL-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf52f8866/collections/_AT/starwars/500x500/151133-A438-INTERIOR-7.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf52f8866/collections/_AT/starwars/500x500/151133-A438-INTERIOR-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b13eb27/collections/_AT/starwars/500x500/151133-A438-EXPANSION-9.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5b13eb27/collections/_AT/starwars/500x500/151133-A438-EXPANSION-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8a74c105/collections/_AT/starwars/500x500/151133-A438-BACK34-2.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8a74c105/collections/_AT/starwars/500x500/151133-A438-BACK34-2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa4680c16/collections/_AT/starwars/500x500/151133-A438-HANDLE-5.jpg?sw=176&sh=176",
+        "index": "5",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa4680c16/collections/_AT/starwars/500x500/151133-A438-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw090c7d38/collections/_AT/starwars/500x500/151133-A438-WHEEL-6.jpg?sw=176&sh=176",
+        "index": "6",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw090c7d38/collections/_AT/starwars/500x500/151133-A438-WHEEL-6.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwbb07705f/collections/_AT/starwars/500x500/151133-A438-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwbb07705f/collections/_AT/starwars/500x500/151133-A438-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw22715743/collections/_AT/starwars/500x500/151133-A438-DETAIL-4.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw22715743/collections/_AT/starwars/500x500/151133-A438-DETAIL-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwf52f8866/collections/_AT/starwars/500x500/151133-A438-INTERIOR-7.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwf52f8866/collections/_AT/starwars/500x500/151133-A438-INTERIOR-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5b13eb27/collections/_AT/starwars/500x500/151133-A438-EXPANSION-9.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5b13eb27/collections/_AT/starwars/500x500/151133-A438-EXPANSION-9.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8a74c105/collections/_AT/starwars/500x500/151133-A438-BACK34-2.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw8a74c105/collections/_AT/starwars/500x500/151133-A438-BACK34-2.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwa4680c16/collections/_AT/starwars/500x500/151133-A438-HANDLE-5.jpg?sw=3000&sh=3000",
+        "index": "5",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwa4680c16/collections/_AT/starwars/500x500/151133-A438-HANDLE-5.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw090c7d38/collections/_AT/starwars/500x500/151133-A438-WHEEL-6.jpg?sw=3000&sh=3000",
+        "index": "6",
+        "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw090c7d38/collections/_AT/starwars/500x500/151133-A438-WHEEL-6.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Star Wars Light vs. Dark Carry-On",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Star Wars Light vs. Dark Carry-On",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Star Wars Light vs. Dark Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Star Wars Light vs. Dark Carry-On",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Light vs. Dark",
+      "values": [
+        {
+          "id": "151133A438",
+          "description": null,
+          "displayValue": "Light vs. Dark",
+          "value": "151133A438",
+          "selected": true,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=&pid=151133XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw4d144c7b/colors/AT_light-vs-dark.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Star Wars Light vs. Dark Carry-On in the color Light vs. Dark.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw4d144c7b/colors/AT_light-vs-dark.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": true
+    }
+  ],
+  "longDescription": null,
+  "shortDescription": "Travel to another galaxy with \r\nthis American Tourister x Star Wars hardside carry-on! This bag will show off your personality while giving you all the bells and whistles you need while traveling!",
+  "rating": 4.7,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Wed Apr 23 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_151133XXXX_color=151133A438&pid=151133A438&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22.5,
+  "overall-length": 14,
+  "overall-width": 9.5,
+  "unit-height": 19.3,
+  "unit-length": 13.3,
+  "unit-width": 9.8,
+  "unit-weight": 6.6,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "46",
+  "product-dimensions": "19.3in\u00a0H x 13.3in\u00a0L x 9.8in\u00a0W",
+  "external-dimensions": "22.5in\u00a0H x 14in\u00a0L x 9.5in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "151133A438"
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "ABS"
+      ]
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22.5in\u00a0H x 14in\u00a0L x 9.5in\u00a0W"
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "19.3in\u00a0H x 13.3in\u00a0L x 9.8in\u00a0W"
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "46"
+    },
+    {
+      "specification": "Weight",
+      "value": 6.6
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/disney-%26-star-wars/luggage/star-wars-light-vs.-dark-carry-on/151133XXXX.html?dwvar_151133XXXX_color=151133A438&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Star Wars Light vs. Dark Carry-On Spinner | Hardside Luggage | American Tourister",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 ABS printed shell<br>\r\n\u2713 Expands 1.5\"<br>\r\n\u2713 Interior organization<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 22.5\" x 14.0\" x 9.5\"</li>\r\n<li>Weight: 6.61 lbs</li>\r\n</ul>",
+  "headline": null,
+  "recommendations": [],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Light vs. Dark",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "151133A438"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22.5in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "14in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9.5in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "19.3in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "13.3in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "9.8in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "6.6lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "46"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "ABS"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Retractable Handle",
+        "Top Carry Handle",
+        "Side Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Cross straps",
+        "Interior Divider",
+        "Expandable"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    }
+  ],
+  "wishlistpid": "151133A438",
+  "categorized": true,
+  "categoryTree": "Disney & Star Wars > Luggage"
+}

@@ -1,0 +1,532 @@
+{
+  "uuid": "a7ef803ceb5885080db6b48af3",
+  "id": "657774431",
+  "productName": "Star Wars R2D2 Carry-On",
+  "productType": "variant",
+  "brand": "American Tourister",
+  "gtmData": {
+    "id": "65777XXXX",
+    "name": "Star Wars R2D2 Carry-On",
+    "category": "Luggage",
+    "categoryID": "disney-luggage",
+    "price": "89.99",
+    "item_id": "65777XXXX",
+    "item_variant": "657774431",
+    "variant": "657774431",
+    "item_color": "Blue"
+  },
+  "gtmGA4Data": {
+    "item_id": "65777XXXX",
+    "item_variant": "657774431",
+    "item_name": "Star Wars R2D2 Carry-On",
+    "item_category": "Luggage",
+    "price": 89.99,
+    "currencyCode": "USD",
+    "variant": "657774431",
+    "item_color": "Blue"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 89.99,
+      "currency": "USD",
+      "formatted": "$89.99",
+      "decimalPrice": "89.99"
+    },
+    "list": {
+      "value": 149.99,
+      "currency": "USD",
+      "formatted": "$149.99",
+      "decimalPrice": "149.99"
+    },
+    "percentageOff": "40% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"149.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $149.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $89.99 , was $149.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9d53e0d0/collections/_AT/starwars/500x500/657774431be01.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9d53e0d0/collections/_AT/starwars/500x500/657774431be01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw59ab5a6d/collections/_AT/starwars/500x500/657774431bi01.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw59ab5a6d/collections/_AT/starwars/500x500/657774431bi01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6b26a9a4/collections/_AT/starwars/500x500/657774431pf02.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw6b26a9a4/collections/_AT/starwars/500x500/657774431pf02.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3ff9d2d8/collections/_AT/starwars/500x500/657774431pf05.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3ff9d2d8/collections/_AT/starwars/500x500/657774431pf05.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9d53e0d0/collections/_AT/starwars/500x500/657774431be01.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9d53e0d0/collections/_AT/starwars/500x500/657774431be01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw59ab5a6d/collections/_AT/starwars/500x500/657774431bi01.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw59ab5a6d/collections/_AT/starwars/500x500/657774431bi01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6b26a9a4/collections/_AT/starwars/500x500/657774431pf02.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw6b26a9a4/collections/_AT/starwars/500x500/657774431pf02.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3ff9d2d8/collections/_AT/starwars/500x500/657774431pf05.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3ff9d2d8/collections/_AT/starwars/500x500/657774431pf05.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9d53e0d0/collections/_AT/starwars/500x500/657774431be01.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9d53e0d0/collections/_AT/starwars/500x500/657774431be01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw59ab5a6d/collections/_AT/starwars/500x500/657774431bi01.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw59ab5a6d/collections/_AT/starwars/500x500/657774431bi01.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw6b26a9a4/collections/_AT/starwars/500x500/657774431pf02.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw6b26a9a4/collections/_AT/starwars/500x500/657774431pf02.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3ff9d2d8/collections/_AT/starwars/500x500/657774431pf05.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3ff9d2d8/collections/_AT/starwars/500x500/657774431pf05.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Star Wars R2D2 Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Star Wars R2D2 Carry-On",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Star Wars R2D2 Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Star Wars R2D2 Carry-On",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Star Wars R2D2 Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Star Wars R2D2 Carry-On",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Star Wars R2D2",
+      "values": [
+        {
+          "id": "657774431",
+          "description": null,
+          "displayValue": "Star Wars R2D2",
+          "value": "657774431",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=&pid=65777XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw3e7133ab/colors/AT-Starwars-R2D2.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Star Wars R2D2 Carry-On in the color Star Wars R2D2.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw3e7133ab/colors/AT-Starwars-R2D2.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "657774608",
+          "description": null,
+          "displayValue": "Star Wars Storm Trooper",
+          "value": "657774608",
+          "selected": false,
+          "default": true,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Star Wars R2D2 Carry-On in the color Star Wars Storm Trooper.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwc91fc246/colors/AT-Starwars-StormTrooper.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Star Wars R2D2 Carry-On in the color Star Wars Storm Trooper.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwc91fc246/colors/AT-Starwars-StormTrooper.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "657774572",
+          "description": null,
+          "displayValue": "Darth Vader",
+          "value": "657774572",
+          "selected": false,
+          "default": false,
+          "hide": true,
+          "selectable": false,
+          "available": false,
+          "images": {
+            "swatch": [
+              {
+                "alt": "Star Wars R2D2 Carry-On in the color Darth Vader.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw48c54285/colors/AT-Starwars-Vader.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Star Wars R2D2 Carry-On in the color Darth Vader.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw48c54285/colors/AT-Starwars-Vader.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "&#149; Features single spinner wheels.<br>&#149; Star Wars branded push button pull handle.<br>&#149; Star Wars branded zipper pulls.<br>&#149; Split construction.<br>&#149; Large mesh pocket on interior of case for packing organization.<br>&#149; Cross straps to keep contents secure while traveling.<br><br>Carry-On size and weight allowances vary by airline. Go to <a href=\"http://shop.americantourister.com/AirlineBaggageAllowances.html\">AIRLINE CARRY-ON GUIDE</a> for more details. If the bag is overstuffed, it may not be accepted by the airlines.<br>&#149; Weight: 6.88 lbs.<br><br>Body Dimensions: 21.0\" x 14.75\" x 9.0\"<br>Overall Dimensions: 21.5\" x 15.0\" x 9.0\"",
+  "shortDescription": "Explore the Dark side with Star Wars x American Tourister Hardside Carry-On! This bag will show off your personality while giving you all the bells and whistles you need while traveling.",
+  "rating": 5,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Wed Apr 23 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_65777XXXX_color=657774572&pid=657774431&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 21.5,
+  "overall-length": 15,
+  "overall-width": 9,
+  "unit-height": 21,
+  "unit-length": 14.8,
+  "unit-width": 9,
+  "unit-weight": 6.9,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "45.5",
+  "product-dimensions": "21in\u00a0H x 14.8in\u00a0L x 9in\u00a0W",
+  "external-dimensions": "21.5in\u00a0H x 15in\u00a0L x 9in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "657774431"
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "ABS/Polycarbonate"
+      ],
+      "tooltip": [
+        "Shell material is made of vacuum formed polycarbonate, a highly impact-resistant plastic that is strong and lightweight."
+      ]
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "21.5in\u00a0H x 15in\u00a0L x 9in\u00a0W"
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "21in\u00a0H x 14.8in\u00a0L x 9in\u00a0W"
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "45.5"
+    },
+    {
+      "specification": "Weight",
+      "value": 6.9
+    },
+    {
+      "specification": "Expandable",
+      "value": "Yes",
+      "tooltip": [
+        "Does the case expand for added packing capacity?"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/disney-%26-star-wars/luggage/star-wars-r2d2-carry-on/65777XXXX.html?dwvar_65777XXXX_color=657774431&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Star Wars R2D2 Carry-On Spinner | Hardside Luggage | American Tourister",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 ABS/Polycarbonate printed shell<br>\r\n\u2713 Expands 1.5\"<br>\r\n\u2713 Packing organization<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 21.5\" x 15.0\" x 9.0\"</li>\r\n<li>Weight: 6.88 lbs</li>\r\n</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "122902XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [],
+  "selectedColorName": "Star Wars R2D2",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "657774431"
+    },
+    {
+      "name": "Overall Height",
+      "value": "21.5in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "15in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "9in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "21in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "14.8in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "9in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "6.9lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "45.5"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "ABS/Polycarbonate"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Push Button Handle",
+        "Side carry handle",
+        "Top Carry Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "Cross straps",
+        "Interior Divider",
+        "Expandable",
+        "Interior organizer",
+        "Interior pocket"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "No",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "Yes",
+      "tooltip": "Does the case expand for added packing capacity?"
+    }
+  ],
+  "wishlistpid": "657774431",
+  "categorized": true,
+  "categoryTree": "Disney & Star Wars > Luggage"
+}

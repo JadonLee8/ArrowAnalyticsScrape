@@ -1,0 +1,561 @@
+{
+  "uuid": "ee3ed42700d6e90178ba117a54",
+  "id": "856679700",
+  "productName": "Wavebreaker Disney Carry-On",
+  "productType": "variant",
+  "brand": "American Tourister",
+  "gtmData": {
+    "id": "85667XXXX",
+    "name": "Wavebreaker Disney Carry-On",
+    "category": "Luggage",
+    "categoryID": "disney-luggage",
+    "price": "89.99",
+    "item_id": "85667XXXX",
+    "item_variant": "856679700",
+    "variant": "856679700",
+    "item_color": "Black"
+  },
+  "gtmGA4Data": {
+    "item_id": "85667XXXX",
+    "item_variant": "856679700",
+    "item_name": "Wavebreaker Disney Carry-On",
+    "item_category": "Luggage",
+    "price": 89.99,
+    "currencyCode": "USD",
+    "variant": "856679700",
+    "item_color": "Black"
+  },
+  "attrsToUseForSwatch": "[\"color\",\"size\"]",
+  "attrGroupInclusion": null,
+  "pdpSwatchTypeAsImage": false,
+  "enableStickyAddToCart": true,
+  "enableVariantSelectionInPdpStickyAddToCart": true,
+  "hideQty": true,
+  "enableQuantityStepper": true,
+  "pdpCollapsibleContentDesktop4": {},
+  "pdpCollapsibleContentDesktop3": {},
+  "pdpCollapsibleContentDesktop2": {},
+  "pdpCollapsibleContentDesktop1": {},
+  "pdpHideSingleVariants": true,
+  "pdpImageColumnWidth": {},
+  "storeTypePreferences": "\n            [\n                {\n                    \"value\": \"default\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-default.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"retail\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-retail.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                },\n                {\n                    \"value\": \"outlet\",\n                    \"mapMarker\": {\n                        \"backgroundImage\": \"/images/icons/map-marker-outlet.svg\",\n                        \"color\": \"white\"\n                    }\n                }\n            ]\n            ",
+  "quickviewShowHeadlineAndDescription": true,
+  "price": {
+    "sales": {
+      "value": 89.99,
+      "currency": "USD",
+      "formatted": "$89.99",
+      "decimalPrice": "89.99"
+    },
+    "list": {
+      "value": 149.99,
+      "currency": "USD",
+      "formatted": "$149.99",
+      "decimalPrice": "149.99"
+    },
+    "percentageOff": "40% Off"
+  },
+  "showPercentageOff": true,
+  "renderedPrice": "    <div class=\"price\">\n        \n        \n\n\n\n<span class=\"default-pricing\">\n    \n    \n    \n    \n        \n    \n\n    \n    <span class=\"sales\">\n        \n            <span class=\"sr-only\">Now</span>\n            \n        \n        \n            <span class=\"value\" content=\"89.99\">\n        \n        $89.99\n\n\n        </span>\n        \n        \n    </span>\n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"149.99\">\n                    <span class=\"sr-only\">\n                        , was\n                        \n                    </span>\n                    $149.99\n\n\n                    \n                </span>\n            </span>\n        </del>\n    \n\n\n\n    \n</span>\n\n<!-- Screen reader-only combined label -->\n<span id=\"product-pricing-description\" class=\"sr-only\" aria-hidden=\"true\">\n    The current price is Now $89.99 , was $149.99\n</span>\n\n    </div>\n\n\n",
+  "images": {
+    "large": [
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw233c256b/collections/_AT/Disney/500x500/85667-9700-FRONT34.jpg?sw=912&sh=912",
+        "index": "0",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw233c256b/collections/_AT/Disney/500x500/85667-9700-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5f1be3de/collections/_AT/Disney/500x500/85667-9700-INTERIOR-6.jpg?sw=912&sh=912",
+        "index": "1",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5f1be3de/collections/_AT/Disney/500x500/85667-9700-INTERIOR-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9da62f7b/collections/_AT/Disney/500x500/85667-9700-SIDE-4.jpg?sw=912&sh=912",
+        "index": "2",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9da62f7b/collections/_AT/Disney/500x500/85667-9700-SIDE-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw328bf44a/collections/_AT/Disney/500x500/85667-9700-WHEEL_HANDLE-7.jpg?sw=912&sh=912",
+        "index": "3",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw328bf44a/collections/_AT/Disney/500x500/85667-9700-WHEEL_HANDLE-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7938ea5f/collections/_AT/Disney/500x500/85667-9700-BACK-2.jpg?sw=912&sh=912",
+        "index": "4",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw7938ea5f/collections/_AT/Disney/500x500/85667-9700-BACK-2.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "small": [
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw233c256b/collections/_AT/Disney/500x500/85667-9700-FRONT34.jpg?sw=176&sh=176",
+        "index": "0",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw233c256b/collections/_AT/Disney/500x500/85667-9700-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5f1be3de/collections/_AT/Disney/500x500/85667-9700-INTERIOR-6.jpg?sw=176&sh=176",
+        "index": "1",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5f1be3de/collections/_AT/Disney/500x500/85667-9700-INTERIOR-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9da62f7b/collections/_AT/Disney/500x500/85667-9700-SIDE-4.jpg?sw=176&sh=176",
+        "index": "2",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9da62f7b/collections/_AT/Disney/500x500/85667-9700-SIDE-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw328bf44a/collections/_AT/Disney/500x500/85667-9700-WHEEL_HANDLE-7.jpg?sw=176&sh=176",
+        "index": "3",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw328bf44a/collections/_AT/Disney/500x500/85667-9700-WHEEL_HANDLE-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7938ea5f/collections/_AT/Disney/500x500/85667-9700-BACK-2.jpg?sw=176&sh=176",
+        "index": "4",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw7938ea5f/collections/_AT/Disney/500x500/85667-9700-BACK-2.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "hi-res": [
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw233c256b/collections/_AT/Disney/500x500/85667-9700-FRONT34.jpg?sw=3000&sh=3000",
+        "index": "0",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw233c256b/collections/_AT/Disney/500x500/85667-9700-FRONT34.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw5f1be3de/collections/_AT/Disney/500x500/85667-9700-INTERIOR-6.jpg?sw=3000&sh=3000",
+        "index": "1",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw5f1be3de/collections/_AT/Disney/500x500/85667-9700-INTERIOR-6.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw9da62f7b/collections/_AT/Disney/500x500/85667-9700-SIDE-4.jpg?sw=3000&sh=3000",
+        "index": "2",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw9da62f7b/collections/_AT/Disney/500x500/85667-9700-SIDE-4.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw328bf44a/collections/_AT/Disney/500x500/85667-9700-WHEEL_HANDLE-7.jpg?sw=3000&sh=3000",
+        "index": "3",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw328bf44a/collections/_AT/Disney/500x500/85667-9700-WHEEL_HANDLE-7.jpg",
+        "type": "hi-res"
+      },
+      {
+        "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw7938ea5f/collections/_AT/Disney/500x500/85667-9700-BACK-2.jpg?sw=3000&sh=3000",
+        "index": "4",
+        "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+        "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw7938ea5f/collections/_AT/Disney/500x500/85667-9700-BACK-2.jpg",
+        "type": "hi-res"
+      }
+    ],
+    "stacked-highlight": [
+      {
+        "alt": "Wavebreaker Disney Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-stacked-highlight.png?sw=400&sh=400",
+        "index": "0",
+        "title": "Wavebreaker Disney Carry-On",
+        "absURL": {},
+        "type": "stacked-highlight"
+      }
+    ],
+    "pdp-background": [
+      {
+        "alt": "Wavebreaker Disney Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-pdp-background.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Wavebreaker Disney Carry-On",
+        "absURL": {},
+        "type": "pdp-background"
+      }
+    ],
+    "video-thumbnail": [
+      {
+        "alt": "Wavebreaker Disney Carry-On",
+        "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/Sites-americantourister-Site/-/en_US/v1745403048287/images/noimage-video-thumbnail.png?sw=912&sh=912",
+        "index": "0",
+        "title": "Wavebreaker Disney Carry-On",
+        "absURL": {},
+        "type": "video-thumbnail"
+      }
+    ]
+  },
+  "selectedQuantity": 1,
+  "minOrderQuantity": 1,
+  "maxOrderQuantity": 10,
+  "variationAttributes": [
+    {
+      "attributeId": "color",
+      "displayName": "Color",
+      "id": "color",
+      "swatchable": true,
+      "displayValue": "Winnie The Pooh",
+      "values": [
+        {
+          "id": "856677484",
+          "description": null,
+          "displayValue": "Minnie Comics White",
+          "value": "856677484",
+          "selected": false,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856677484&pid=85667XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Wavebreaker Disney Carry-On in the color Minnie Comics White.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe52d3d06/colors/AT_disney-wavebreaker-minnie.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Wavebreaker Disney Carry-On in the color Minnie Comics White.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwe52d3d06/colors/AT_disney-wavebreaker-minnie.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "856679700",
+          "description": null,
+          "displayValue": "Winnie The Pooh",
+          "value": "856679700",
+          "selected": true,
+          "default": false,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=&pid=85667XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dwe276d6bd/colors/AT_winnie-the-pooh.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Wavebreaker Disney Carry-On in the color Winnie The Pooh.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dwe276d6bd/colors/AT_winnie-the-pooh.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        },
+        {
+          "id": "856676976",
+          "description": null,
+          "displayValue": "Mickey Comics Red",
+          "value": "856676976",
+          "selected": false,
+          "default": true,
+          "hide": false,
+          "selectable": true,
+          "available": true,
+          "url": "https://shop.americantourister.com/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856676976&pid=85667XXXX&quantity=1",
+          "images": {
+            "swatch": [
+              {
+                "alt": "Wavebreaker Disney Carry-On in the color Mickey Comics Red.",
+                "url": "https://shop.americantourister.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw78726e0a/colors/AT_disney-wavebreaker-mickey.jpg?sw=60&sh=60",
+                "index": "0",
+                "title": "Wavebreaker Disney Carry-On in the color Mickey Comics Red.",
+                "absURL": "https://shop.americantourister.com/on/demandware.static/-/Sites-product-catalog/default/dw78726e0a/colors/AT_disney-wavebreaker-mickey.jpg",
+                "type": "swatch"
+              }
+            ],
+            "type": "swatch"
+          }
+        }
+      ],
+      "isOnlyVariant": false
+    }
+  ],
+  "longDescription": "Create your own travel stories with this Wavebreaker Disney collection! The texture helps to protect the surface against scratches, and the romantic Minnie Loves Mickey design has been designed especially for those who prefer travelling in Disney style.<br>&#149; Mounted lock to keep your case secure while en route.<br>&#149; Cross ribbons, zipped divider and pocket allow easy storing.<br>&#149; Carry-On size and weight allowances vary by airlines. Go to <a href=\"http://www.samsonite.ca/AirlineBaggageAllowances.html\">samsonite.ca/AirlineBaggageAllowances </a>for more details. If the bag is overstuffed, it may not be accepted by the airlines.<br>&#149; Weight: 5.8 lbs.<br><br>Body Dimensions: 19.0\" x 15.5\" x 7.75\"<br>Overall Dimensions: 21.0\" x 15.5\" x 7.75\"",
+  "shortDescription": "Travel with your favorite cuddly bear! The American Tourister x Winnie The Pooh, hardside suitcase, shows off your personality while giving you all the bells and whistles you need while traveling!",
+  "rating": 3.1,
+  "promotions": null,
+  "attributes": null,
+  "availability": {
+    "messages": [
+      "In Stock"
+    ],
+    "inStockDate": "Wed Apr 23 2025"
+  },
+  "available": true,
+  "options": [],
+  "quantities": [
+    {
+      "value": "1",
+      "selected": true,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=1"
+    },
+    {
+      "value": "2",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=2"
+    },
+    {
+      "value": "3",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=3"
+    },
+    {
+      "value": "4",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=4"
+    },
+    {
+      "value": "5",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=5"
+    },
+    {
+      "value": "6",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=6"
+    },
+    {
+      "value": "7",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=7"
+    },
+    {
+      "value": "8",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=8"
+    },
+    {
+      "value": "9",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=9"
+    },
+    {
+      "value": "10",
+      "selected": false,
+      "url": "/on/demandware.store/Sites-americantourister-Site/en_US/Product-Variation?dwvar_85667XXXX_color=856679700&pid=856679700&quantity=10"
+    }
+  ],
+  "features": {},
+  "overall-height": 22,
+  "overall-length": 16.2,
+  "overall-width": 8.3,
+  "unit-height": 21.6,
+  "unit-length": 15.8,
+  "unit-width": 7.9,
+  "unit-weight": 5.7,
+  "unit-uom": "in",
+  "unit-weight-type": "lbs",
+  "linear-dimension": "46.5",
+  "product-dimensions": "21.6in\u00a0H x 15.8in\u00a0L x 7.9in\u00a0W",
+  "external-dimensions": "22in\u00a0H x 16.2in\u00a0L x 8.3in\u00a0W",
+  "specifications": [
+    {
+      "specification": "Item #",
+      "value": "856679700"
+    },
+    {
+      "specification": "Material",
+      "value": [
+        "ABS/Polycarbonate"
+      ],
+      "tooltip": [
+        "Luggage is made from a vacuum-formed or pressure-formed shell. Strong ABS plastic, a temperature-resistant, highly impact-resistant material, is combined with a textured finish for the classic hardside look that is strong and lightweight."
+      ]
+    },
+    {
+      "specification": "External Dimensions",
+      "value": "22in\u00a0H x 16.2in\u00a0L x 8.3in\u00a0W"
+    },
+    {
+      "specification": "Internal Dimensions",
+      "value": "21.6in\u00a0H x 15.8in\u00a0L x 7.9in\u00a0W"
+    },
+    {
+      "specification": "Linear Dimension",
+      "value": "46.5"
+    },
+    {
+      "specification": "Weight",
+      "value": 5.7
+    },
+    {
+      "specification": "TSA Lock",
+      "value": "Yes",
+      "tooltip": [
+        "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+      ]
+    },
+    {
+      "specification": "Warranty",
+      "value": [
+        "Limited 10 Year Global Warranty"
+      ],
+      "tooltip": [
+        "Warranty covers manufacturing defects. For more information please visit our warranty page"
+      ]
+    }
+  ],
+  "materials": [],
+  "selectedProductUrl": "/disney-%26-star-wars/luggage/wavebreaker-disney-carry-on/85667XXXX.html?dwvar_85667XXXX_color=856679700&quantity=1",
+  "readyToOrder": true,
+  "online": true,
+  "pageTitle": "Wavebreaker Disney Carry-On Spinner | Hardside Luggage | American Tourister",
+  "pageDescription": null,
+  "pageKeywords": null,
+  "pageMetaTags": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "template": null,
+  "headlineDescription": "<b>Feature Highlights:</b><br>\r\n\u2713 Printed ABS Hardside<br>\r\n\u2713 TSA Lock<br>\r\n\u2713 Interior organization<br>\r\n<br>\r\n<b>Details:</b>\r\n<br>\r\n<ul>\r\n<li>Overall Dimensions: 22.0\" x 16.2\" x 8.3\"</li>\r\n<li>Weight: 5.69 lbs</li>\r\n</ul>",
+  "headline": null,
+  "recommendations": [
+    {
+      "ID": "74445XXXX"
+    }
+  ],
+  "pdpAssetIds": [],
+  "pdpGalleryAssets": [],
+  "pdpVideoAssets": [],
+  "tabs": [],
+  "collapsibleContent": [],
+  "badges": [
+    {
+      "class": "token-background--celery-green font-size--12 font-size--lg--16",
+      "name": "New"
+    }
+  ],
+  "selectedColorName": "Winnie The Pooh",
+  "compareSpecifications": [
+    {
+      "name": "Item #",
+      "value": "856679700"
+    },
+    {
+      "name": "Overall Height",
+      "value": "22in",
+      "tooltip": "The total height of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Length",
+      "value": "16.2in",
+      "tooltip": "The total length of the case including handles and wheels"
+    },
+    {
+      "name": "Overall Width",
+      "value": "8.3in",
+      "tooltip": "The total width of the case including handles and wheels"
+    },
+    {
+      "name": "Internal Height",
+      "value": "21.6in",
+      "tooltip": "The height of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Length",
+      "value": "15.8in",
+      "tooltip": "The length of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Internal Width",
+      "value": "7.9in",
+      "tooltip": "The width of the case without handles or wheels; packing dimensions"
+    },
+    {
+      "name": "Weight",
+      "value": "5.7lbs"
+    },
+    {
+      "name": "Linear Dimension",
+      "value": "46.5"
+    },
+    {
+      "name": "Material",
+      "value": [
+        "ABS/Polycarbonate"
+      ]
+    },
+    {
+      "name": "Handles",
+      "value": [
+        "Top Carry Handle",
+        "Side Carry Handle",
+        "Retractable Handle"
+      ]
+    },
+    {
+      "name": "Wheels",
+      "value": [
+        "Spinner Wheels"
+      ]
+    },
+    {
+      "name": "Packing Features",
+      "value": [
+        "TSA Lock",
+        "Cross straps",
+        "Interior organizer"
+      ]
+    },
+    {
+      "name": "USB Port",
+      "value": "No",
+      "tooltip": "Built in USB port lets you power devices on the go. Battery sold separately"
+    },
+    {
+      "name": "Smart Sleeve",
+      "value": "No",
+      "tooltip": "Strap that fits over most upright luggage handles for easy transportation"
+    },
+    {
+      "name": "TSA Lock",
+      "value": "Yes",
+      "tooltip": "To learn more about TSA locks and how to set the lock please visit our lock instructions page"
+    },
+    {
+      "name": "Expandable",
+      "value": "No",
+      "tooltip": "Does the case expand for added packing capacity?"
+    }
+  ],
+  "wishlistpid": "856679700",
+  "categorized": true,
+  "categoryTree": "Disney & Star Wars > Luggage"
+}
