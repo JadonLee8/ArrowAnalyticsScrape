@@ -33,16 +33,13 @@ def has_captcha(html):
         return True
     return False
 
-def get_product_ids():
+def get_product_ids(driver):
     # Get all luggage URLs from the page
     html = ""
-    driver = None
     
     refetch = 'y' if not os.path.exists('americant_all_luggage.html') else input("Would you like to refetch product IDs? (y/n)")
     if refetch == "y":
-        try:
-            driver = setup_driver()
-            
+        try:            
             # Load the webpage
             logger.info("Loading from URL: " + LUGGAGE_LIST_URL)
             html = fetch_html(driver, LUGGAGE_LIST_URL)
@@ -54,8 +51,6 @@ def get_product_ids():
         except Exception as e:
             logger.error(f"An error occurred: {str(e)}")
 
-        if driver:
-            driver.quit()
     else:
         logger.info("Loading from cached file")
         with open('americant_all_luggage.html', 'r', encoding='utf-8') as f:
@@ -260,12 +255,10 @@ def main():
         writer.writerow(headers)
     
     logger.info(f"Created new CSV file: {csv_path}")
-    
-    pids = get_product_ids()
     driver = setup_driver()
+    pids = get_product_ids(driver)
     product_colors = {}
     refetch = 'y' if not os.path.exists(os.path.join(RAW_DATA_FOLDER, 'product_colors.json')) else input("Would you like to refetch product color IDs? (y/n): ")
-    
     if refetch.lower() == 'y':
         try:
             for pid in pids:
@@ -273,19 +266,18 @@ def main():
                 if result:
                     product_colors.update(result)
                 time.sleep(1)
-        finally:
-            driver.quit()
+        except Exception as e:
+            logger.error(f"An error occurred while fetching product color IDs: {str(e)}")
             # Save the final color mappings
-        with open(os.path.join(RAW_DATA_FOLDER, 'product_colors.json'), 'w', encoding='utf-8') as f:
-            json.dump(product_colors, f, indent=2)
-        logger.info(f"Saved color mappings for {len(product_colors)} products")
+        finally:
+            with open(os.path.join(RAW_DATA_FOLDER, 'product_colors.json'), 'w', encoding='utf-8') as f:
+                json.dump(product_colors, f, indent=2)
+            logger.info(f"Saved color mappings for {len(product_colors)} products")
     else:
         logger.info("Loading existing color mappings")
         # Load existing color mappings from JSON
         with open(os.path.join(RAW_DATA_FOLDER, 'product_colors.json'), 'r', encoding='utf-8') as f:
             product_colors = json.load(f)
-        driver.quit()
-    driver = setup_driver()
     for product_name, color_mapping in product_colors.items():
         for color_name, color_id in color_mapping.items():
             product_details = get_product_color_details(driver, color_id)
