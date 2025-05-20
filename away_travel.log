@@ -1,0 +1,71 @@
+2025-05-20 13:58:24.599 | INFO     | __main__:<module>:95 - Starting Away Travel scraper
+2025-05-20 13:58:27.470 | SUCCESS  | __main__:load_cached_urls:44 - Loaded 13 product URLs from cache
+2025-05-20 13:58:27.470 | INFO     | __main__:<module>:113 - Starting product page processing
+2025-05-20 13:58:30.941 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/aluminum-bigger-carry-on-rose-gold
+2025-05-20 13:58:44.639 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/aluminum-carry-on-silver
+2025-05-20 13:58:51.428 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/bigger-carry-on-coast-blue
+2025-05-20 13:58:59.135 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/bigger-carry-on-flex-cloud-gray
+2025-05-20 13:59:06.951 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/carry-on-flex-tango-red
+2025-05-20 13:59:14.053 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/carry-on-sunshine-yellow
+2025-05-20 13:59:20.946 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/collegiate-bigger-carry-on-aub
+2025-05-20 13:59:28.062 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/executive-bigger-carry-on-coast-blue
+2025-05-20 13:59:34.144 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/executive-carry-on-olive-green
+2025-05-20 13:59:40.657 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/kids-carry-on-cotton-candy-pink
+2025-05-20 13:59:41.750 | INFO     | __main__:<module>:119 - Closing browser session
+2025-05-20 14:26:12.055 | INFO     | __main__:<module>:137 - Starting Away Travel scraper
+2025-05-20 14:26:16.441 | SUCCESS  | __main__:load_cached_urls:86 - Loaded 13 product URLs from cache
+2025-05-20 14:26:16.443 | INFO     | __main__:<module>:155 - Starting product page processing
+2025-05-20 14:26:19.731 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/aluminum-bigger-carry-on-rose-gold
+2025-05-20 14:26:31.448 | INFO     | __main__:process_product_page:34 - Found product type: The Bigger Carry-On: Aluminum Edition
+2025-05-20 14:26:35.079 | SUCCESS  | __main__:process_product_page:73 - Found 180 color variants for The Bigger Carry-On: Aluminum Edition
+2025-05-20 14:26:35.079 | INFO     | __main__:process_product_page:75 - Added 180 new URLs to The Bigger Carry-On: Aluminum Edition
+2025-05-20 14:26:37.080 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/aluminum-carry-on-silver
+2025-05-20 14:26:41.755 | INFO     | __main__:process_product_page:34 - Found product type: The Carry-On: Aluminum Edition
+2025-05-20 14:26:43.809 | SUCCESS  | __main__:process_product_page:73 - Found 57 color variants for The Carry-On: Aluminum Edition
+2025-05-20 14:26:43.809 | INFO     | __main__:process_product_page:75 - Added 57 new URLs to The Carry-On: Aluminum Edition
+2025-05-20 14:26:45.810 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/bigger-carry-on-coast-blue
+2025-05-20 14:26:49.238 | INFO     | __main__:process_product_page:34 - Found product type: The Bigger Carry-On
+2025-05-20 14:26:49.966 | SUCCESS  | __main__:process_product_page:73 - Found 11 color variants for The Bigger Carry-On
+2025-05-20 14:26:49.966 | INFO     | __main__:process_product_page:75 - Added 11 new URLs to The Bigger Carry-On
+2025-05-20 14:26:51.968 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/bigger-carry-on-flex-cloud-gray
+2025-05-20 14:26:57.059 | INFO     | __main__:process_product_page:34 - Found product type: The Bigger Carry-On Flex
+2025-05-20 14:26:58.893 | SUCCESS  | __main__:process_product_page:73 - Found 44 color variants for The Bigger Carry-On Flex
+2025-05-20 14:26:58.893 | INFO     | __main__:process_product_page:75 - Added 44 new URLs to The Bigger Carry-On Flex
+2025-05-20 14:27:00.894 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/carry-on-flex-tango-red
+2025-05-20 14:27:04.745 | INFO     | __main__:process_product_page:34 - Found product type: The Carry-On Flex
+2025-05-20 14:27:07.389 | SUCCESS  | __main__:process_product_page:73 - Found 101 color variants for The Carry-On Flex
+2025-05-20 14:27:07.390 | INFO     | __main__:process_product_page:75 - Added 101 new URLs to The Carry-On Flex
+2025-05-20 14:27:09.391 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/carry-on-sunshine-yellow
+2025-05-20 14:27:14.068 | INFO     | __main__:process_product_page:34 - Found product type: The Carry-On
+2025-05-20 14:27:15.829 | SUCCESS  | __main__:process_product_page:73 - Found 51 color variants for The Carry-On
+2025-05-20 14:27:15.829 | INFO     | __main__:process_product_page:75 - Added 51 new URLs to The Carry-On
+2025-05-20 14:27:17.830 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/collegiate-bigger-carry-on-aub
+2025-05-20 14:27:22.396 | INFO     | __main__:process_product_page:34 - Found product type: The Collegiate Bigger Carry-On
+2025-05-20 14:27:24.807 | SUCCESS  | __main__:process_product_page:73 - Found 78 color variants for The Collegiate Bigger Carry-On
+2025-05-20 14:27:24.809 | INFO     | __main__:process_product_page:75 - Added 78 new URLs to The Collegiate Bigger Carry-On
+2025-05-20 14:27:26.809 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/executive-bigger-carry-on-coast-blue
+2025-05-20 14:27:31.908 | INFO     | __main__:process_product_page:34 - Found product type: The Executive Bigger Carry-On
+2025-05-20 14:27:34.105 | SUCCESS  | __main__:process_product_page:73 - Found 69 color variants for The Executive Bigger Carry-On
+2025-05-20 14:27:34.106 | INFO     | __main__:process_product_page:75 - Added 69 new URLs to The Executive Bigger Carry-On
+2025-05-20 14:27:36.107 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/executive-carry-on-olive-green
+2025-05-20 14:27:40.486 | INFO     | __main__:process_product_page:34 - Found product type: The Executive Carry-On
+2025-05-20 14:27:42.928 | SUCCESS  | __main__:process_product_page:73 - Found 82 color variants for The Executive Carry-On
+2025-05-20 14:27:42.930 | INFO     | __main__:process_product_page:75 - Added 82 new URLs to The Executive Carry-On
+2025-05-20 14:27:44.931 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/kids-carry-on-cotton-candy-pink
+2025-05-20 14:27:49.746 | INFO     | __main__:process_product_page:34 - Found product type: The Kids Carry-On
+2025-05-20 14:27:51.283 | SUCCESS  | __main__:process_product_page:73 - Found 32 color variants for The Kids Carry-On
+2025-05-20 14:27:51.283 | INFO     | __main__:process_product_page:75 - Added 32 new URLs to The Kids Carry-On
+2025-05-20 14:27:53.284 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/softside-bigger-carry-on-navy-blue
+2025-05-20 14:27:57.703 | INFO     | __main__:process_product_page:34 - Found product type: The Softside Bigger Carry-On
+2025-05-20 14:28:00.030 | SUCCESS  | __main__:process_product_page:73 - Found 65 color variants for The Softside Bigger Carry-On
+2025-05-20 14:28:00.030 | INFO     | __main__:process_product_page:75 - Added 65 new URLs to The Softside Bigger Carry-On
+2025-05-20 14:28:02.032 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/softside-carry-on-cloud-gray
+2025-05-20 14:28:06.234 | INFO     | __main__:process_product_page:34 - Found product type: The Softside Carry-On
+2025-05-20 14:28:08.590 | SUCCESS  | __main__:process_product_page:73 - Found 76 color variants for The Softside Carry-On
+2025-05-20 14:28:08.590 | INFO     | __main__:process_product_page:75 - Added 76 new URLs to The Softside Carry-On
+2025-05-20 14:28:10.591 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/softside-compact-carry-on-olive-green
+2025-05-20 14:28:15.151 | INFO     | __main__:process_product_page:34 - Found product type: The Softside Compact Carry-On
+2025-05-20 14:28:16.965 | SUCCESS  | __main__:process_product_page:73 - Found 62 color variants for The Softside Compact Carry-On
+2025-05-20 14:28:16.966 | INFO     | __main__:process_product_page:75 - Added 62 new URLs to The Softside Compact Carry-On
+2025-05-20 14:28:18.967 | INFO     | __main__:<module>:161 - Closing browser session
+2025-05-20 14:28:19.804 | SUCCESS  | __main__:<module>:164 - Scraping completed successfully
