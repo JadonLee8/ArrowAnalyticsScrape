@@ -6,84 +6,22 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from loguru import logger
+import re
 
 # Configure loguru
 logger.add("away_travel.log", rotation="1 day", retention="7 days", level="INFO")
 
 COLLECTION_URL = "https://www.awaytravel.com/collections/carry-on-luggage"
+DATA_FOLDER = "AwayTravel_Data"
 OUTPUT_JSON   = "urls.json"
 SCROLL_PAUSE  = 1             # seconds between scroll checks
-PAGE_LOAD_WAIT = 10          # seconds to wait for page load
-
-def process_product_page(driver, url):
-    try:
-        logger.info(f"Processing product page: {url}")
-        driver.get(url)
-        
-        # Wait for the page to load
-        WebDriverWait(driver, PAGE_LOAD_WAIT).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
-        
-        # Get the product type from the h1 element
-        try:
-            product_type = driver.find_element(
-                By.CSS_SELECTOR,
-                'div[sub-section-id^="title--template--"] h1'
-            ).text.strip()
-            logger.info(f"Found product type: {product_type}")
-        except Exception as e:
-            logger.error(f"Could not find product type: {str(e)}")
-            return
-        
-        # Find all color variant radio inputs
-        color_variants = driver.find_elements(
-            By.CSS_SELECTOR,
-            'input[type="radio"][data-product-url]'
-        )
-        
-        # Extract URLs and organize by type
-        variant_urls = {
-            "https://www.awaytravel.com" + input.get_attribute("data-product-url")
-            if input.get_attribute("data-product-url").startswith("/")
-            else input.get_attribute("data-product-url")
-            for input in color_variants
-        }
-        
-        # Load existing data or create new structure
-        try:
-            with open("product_variants.json", "r", encoding="utf-8") as f:
-                all_variants = json.load(f)
-        except FileNotFoundError:
-            all_variants = {}
-        
-        # Update the data structure
-        if product_type not in all_variants:
-            all_variants[product_type] = []
-        
-        # Add new URLs, avoiding duplicates
-        existing_urls = set(all_variants[product_type])
-        new_urls = list(variant_urls - existing_urls)
-        all_variants[product_type].extend(new_urls)
-        
-        # Save updated data
-        with open("product_variants.json", "w", encoding="utf-8") as f:
-            json.dump(all_variants, f, indent=2)
-        
-        logger.success(f"Found {len(variant_urls)} color variants for {product_type}")
-        if new_urls:
-            logger.info(f"Added {len(new_urls)} new URLs to {product_type}")
-        
-        time.sleep(2)  # Small delay between pages to be respectful
-        
-    except Exception as e:
-        logger.error(f"Error processing {url}: {str(e)}")
+PAGE_LOAD_WAIT = 2          # seconds to wait for page load
 
 def load_cached_urls():
     try:
         with open(OUTPUT_JSON, "r", encoding="utf-8") as f:
             urls = json.load(f)
-            logger.success(f"Loaded {len(urls)} product URLs from cache")
+            logger.success(f"Loaded variants for {len(urls)} products from cache")
             return urls
     except FileNotFoundError:
         logger.warning("No cached URLs found")
@@ -97,7 +35,7 @@ def collect_product_urls():
         logger.info(f"Navigating to {COLLECTION_URL}")
         driver.get(COLLECTION_URL)
 
-        # 2️⃣  Scroll until no new content loads
+        # Scroll until no new content loads
         logger.info("Scrolling to load all products")
         last_height = driver.execute_script("return document.body.scrollHeight")
         while True:
@@ -108,57 +46,105 @@ def collect_product_urls():
                 break
             last_height = new_height
 
-        # 3️⃣  Grab every /products/… link that appears on the page
-        logger.info("Collecting product URLs")
-        anchors = driver.find_elements(
-            By.CSS_SELECTOR,
-            'accessible-link.block.group\\/product[href^="/products/"]'
-        )
-        urls = {
-            "https://www.awaytravel.com" + a.get_attribute("href")
-            if a.get_attribute("href").startswith("/")
-            else a.get_attribute("href")
-            for a in anchors
-        }
+        # Find all variant pickers and their color variants
+        logger.info("Collecting variant URLs")
+        variant_pickers = driver.find_elements(By.CSS_SELECTOR, 'variant-picker')
+        
+        all_variants = {}
+        for picker in variant_pickers:
+            # Get the product type from the parent main-product element
+            try:
+                product_type = picker.find_element(
+                    By.XPATH,
+                    './ancestor::main-product//a[contains(@class, "h6")]'
+                ).text.strip()
+            except Exception as e:
+                logger.error(f"Could not find product type for a variant picker: {str(e)}")
+                continue
 
-        # 4️⃣  Persist to JSON
-        logger.info(f"Saving {len(urls)} URLs to {OUTPUT_JSON}")
+            # Find all radio inputs within this variant picker
+            radio_inputs = picker.find_elements(
+                By.CSS_SELECTOR,
+                'swiper-slide input[type="radio"][data-product-url]'
+            )
+            
+            # Extract URLs for this product type
+            variant_urls = {
+                "https://www.awaytravel.com" + input.get_attribute("data-product-url")
+                if input.get_attribute("data-product-url").startswith("/")
+                else input.get_attribute("data-product-url")
+                for input in radio_inputs
+            }
+            
+            if variant_urls:
+                all_variants[product_type] = list(variant_urls)
+                logger.info(f"Found {len(variant_urls)} variants for {product_type}")
+
+        # Persist to JSON
+        logger.info(f"Saving variants for {len(all_variants)} products to {OUTPUT_JSON}")
         with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-            json.dump(sorted(urls), f, indent=2)
+            json.dump(all_variants, f, indent=2)
 
-        logger.success(f"Saved {len(urls)} product URLs to {OUTPUT_JSON}")
-        return urls
+        logger.success(f"Saved variants for {len(all_variants)} products to {OUTPUT_JSON}")
+        return all_variants
 
     finally:
         logger.info("Closing browser session")
         driver.quit()
+
+def get_product_data(url):
+    logger.info(f"Getting product data for {url}")
+    driver = uc.Chrome(headless=False, use_subprocess=False)  # Set to False for headed mode
+    driver.get(url)
+    time.sleep(PAGE_LOAD_WAIT)
+
+    # wait for body to load
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+
+    # get color
+    color = driver.find_element(By.XPATH, '//span[@data-selected-value]').text.strip()
+    product_name = driver.find_element(By.XPATH, '//main-product[1]//section//div//h1').text.strip()
+    
+    size_attributes = driver.find_element(By.XPATH, "//below-the-fold-listener//section//div//div[3]//div//div//div//p").get_attribute("innerHTML")
+    size_attributes = re.split(r'<br>|</strong>', size_attributes)
+    dimensions = size_attributes[1]
+    weight = size_attributes[5]
+    return product_name, color, dimensions, weight
 
 if __name__ == "__main__":
     logger.info("Starting Away Travel scraper")
     
-    # Ask user if they want to use cached URLs or fetch new ones
-    while True:
-        choice = input("Would you like to:\n1. Use cached product URLs\n2. Fetch new product URLs\nEnter 1 or 2: ").strip()
-        if choice in ["1", "2"]:
-            break
-        logger.warning("Invalid choice. Please enter 1 or 2.")
+    # Check if we have cached URLs
+    cached_urls = load_cached_urls()
+    all_variants = []
+    if cached_urls:
+        # Ask user if they want to use cached URLs or fetch new ones
+        while True:
+            choice = input("Would you like to:\n1. Use cached product URLs\n2. Fetch new product URLs\nEnter 1 or 2: ").strip()
+            if choice in ["1", "2"]:
+                break
+            logger.warning("Invalid choice. Please enter 1 or 2.")
 
-    if choice == "1":
-        urls = load_cached_urls()
-        if urls is None:
-            logger.info("No cached URLs found. Fetching new URLs...")
-            urls = collect_product_urls()
+        if choice == "1":
+            logger.info("Using cached URLs")
+            all_variants = cached_urls
+        else:
+            logger.info("Fetching new URLs")
+            all_variants = collect_product_urls()
     else:
-        urls = collect_product_urls()
-    
-    # Then process each product page
-    logger.info("Starting product page processing")
-    driver = uc.Chrome(headless=False, use_subprocess=False)
-    try:
-        for url in urls:
-            process_product_page(driver, url)
-    finally:
-        logger.info("Closing browser session")
-        driver.quit()
+        logger.info("No cached URLs found. Fetching new URLs...")
+        all_variants = collect_product_urls()
+
+    # Test get_product_data with first URL
+    if all_variants:
+        first_product_type = next(iter(all_variants))
+        first_url = all_variants[first_product_type][0]
+        logger.info(f"Testing get_product_data with URL: {first_url}")
+        product_name, color, dimensions, weight = get_product_data(first_url)
+        logger.info(f"Product Name: {product_name}")
+        logger.info(f"Color: {color}")
+        logger.info(f"Dimensions: {dimensions}")
+        logger.info(f"Weight: {weight}")
     
     logger.success("Scraping completed successfully")
+
