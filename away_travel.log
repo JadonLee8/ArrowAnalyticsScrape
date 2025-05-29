@@ -1,71 +1,188 @@
-2025-05-20 13:58:24.599 | INFO     | __main__:<module>:95 - Starting Away Travel scraper
-2025-05-20 13:58:27.470 | SUCCESS  | __main__:load_cached_urls:44 - Loaded 13 product URLs from cache
-2025-05-20 13:58:27.470 | INFO     | __main__:<module>:113 - Starting product page processing
-2025-05-20 13:58:30.941 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/aluminum-bigger-carry-on-rose-gold
-2025-05-20 13:58:44.639 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/aluminum-carry-on-silver
-2025-05-20 13:58:51.428 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/bigger-carry-on-coast-blue
-2025-05-20 13:58:59.135 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/bigger-carry-on-flex-cloud-gray
-2025-05-20 13:59:06.951 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/carry-on-flex-tango-red
-2025-05-20 13:59:14.053 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/carry-on-sunshine-yellow
-2025-05-20 13:59:20.946 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/collegiate-bigger-carry-on-aub
-2025-05-20 13:59:28.062 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/executive-bigger-carry-on-coast-blue
-2025-05-20 13:59:34.144 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/executive-carry-on-olive-green
-2025-05-20 13:59:40.657 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/kids-carry-on-cotton-candy-pink
-2025-05-20 13:59:41.750 | INFO     | __main__:<module>:119 - Closing browser session
-2025-05-20 14:26:12.055 | INFO     | __main__:<module>:137 - Starting Away Travel scraper
-2025-05-20 14:26:16.441 | SUCCESS  | __main__:load_cached_urls:86 - Loaded 13 product URLs from cache
-2025-05-20 14:26:16.443 | INFO     | __main__:<module>:155 - Starting product page processing
-2025-05-20 14:26:19.731 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/aluminum-bigger-carry-on-rose-gold
-2025-05-20 14:26:31.448 | INFO     | __main__:process_product_page:34 - Found product type: The Bigger Carry-On: Aluminum Edition
-2025-05-20 14:26:35.079 | SUCCESS  | __main__:process_product_page:73 - Found 180 color variants for The Bigger Carry-On: Aluminum Edition
-2025-05-20 14:26:35.079 | INFO     | __main__:process_product_page:75 - Added 180 new URLs to The Bigger Carry-On: Aluminum Edition
-2025-05-20 14:26:37.080 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/aluminum-carry-on-silver
-2025-05-20 14:26:41.755 | INFO     | __main__:process_product_page:34 - Found product type: The Carry-On: Aluminum Edition
-2025-05-20 14:26:43.809 | SUCCESS  | __main__:process_product_page:73 - Found 57 color variants for The Carry-On: Aluminum Edition
-2025-05-20 14:26:43.809 | INFO     | __main__:process_product_page:75 - Added 57 new URLs to The Carry-On: Aluminum Edition
-2025-05-20 14:26:45.810 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/bigger-carry-on-coast-blue
-2025-05-20 14:26:49.238 | INFO     | __main__:process_product_page:34 - Found product type: The Bigger Carry-On
-2025-05-20 14:26:49.966 | SUCCESS  | __main__:process_product_page:73 - Found 11 color variants for The Bigger Carry-On
-2025-05-20 14:26:49.966 | INFO     | __main__:process_product_page:75 - Added 11 new URLs to The Bigger Carry-On
-2025-05-20 14:26:51.968 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/bigger-carry-on-flex-cloud-gray
-2025-05-20 14:26:57.059 | INFO     | __main__:process_product_page:34 - Found product type: The Bigger Carry-On Flex
-2025-05-20 14:26:58.893 | SUCCESS  | __main__:process_product_page:73 - Found 44 color variants for The Bigger Carry-On Flex
-2025-05-20 14:26:58.893 | INFO     | __main__:process_product_page:75 - Added 44 new URLs to The Bigger Carry-On Flex
-2025-05-20 14:27:00.894 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/carry-on-flex-tango-red
-2025-05-20 14:27:04.745 | INFO     | __main__:process_product_page:34 - Found product type: The Carry-On Flex
-2025-05-20 14:27:07.389 | SUCCESS  | __main__:process_product_page:73 - Found 101 color variants for The Carry-On Flex
-2025-05-20 14:27:07.390 | INFO     | __main__:process_product_page:75 - Added 101 new URLs to The Carry-On Flex
-2025-05-20 14:27:09.391 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/carry-on-sunshine-yellow
-2025-05-20 14:27:14.068 | INFO     | __main__:process_product_page:34 - Found product type: The Carry-On
-2025-05-20 14:27:15.829 | SUCCESS  | __main__:process_product_page:73 - Found 51 color variants for The Carry-On
-2025-05-20 14:27:15.829 | INFO     | __main__:process_product_page:75 - Added 51 new URLs to The Carry-On
-2025-05-20 14:27:17.830 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/collegiate-bigger-carry-on-aub
-2025-05-20 14:27:22.396 | INFO     | __main__:process_product_page:34 - Found product type: The Collegiate Bigger Carry-On
-2025-05-20 14:27:24.807 | SUCCESS  | __main__:process_product_page:73 - Found 78 color variants for The Collegiate Bigger Carry-On
-2025-05-20 14:27:24.809 | INFO     | __main__:process_product_page:75 - Added 78 new URLs to The Collegiate Bigger Carry-On
-2025-05-20 14:27:26.809 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/executive-bigger-carry-on-coast-blue
-2025-05-20 14:27:31.908 | INFO     | __main__:process_product_page:34 - Found product type: The Executive Bigger Carry-On
-2025-05-20 14:27:34.105 | SUCCESS  | __main__:process_product_page:73 - Found 69 color variants for The Executive Bigger Carry-On
-2025-05-20 14:27:34.106 | INFO     | __main__:process_product_page:75 - Added 69 new URLs to The Executive Bigger Carry-On
-2025-05-20 14:27:36.107 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/executive-carry-on-olive-green
-2025-05-20 14:27:40.486 | INFO     | __main__:process_product_page:34 - Found product type: The Executive Carry-On
-2025-05-20 14:27:42.928 | SUCCESS  | __main__:process_product_page:73 - Found 82 color variants for The Executive Carry-On
-2025-05-20 14:27:42.930 | INFO     | __main__:process_product_page:75 - Added 82 new URLs to The Executive Carry-On
-2025-05-20 14:27:44.931 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/kids-carry-on-cotton-candy-pink
-2025-05-20 14:27:49.746 | INFO     | __main__:process_product_page:34 - Found product type: The Kids Carry-On
-2025-05-20 14:27:51.283 | SUCCESS  | __main__:process_product_page:73 - Found 32 color variants for The Kids Carry-On
-2025-05-20 14:27:51.283 | INFO     | __main__:process_product_page:75 - Added 32 new URLs to The Kids Carry-On
-2025-05-20 14:27:53.284 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/softside-bigger-carry-on-navy-blue
-2025-05-20 14:27:57.703 | INFO     | __main__:process_product_page:34 - Found product type: The Softside Bigger Carry-On
-2025-05-20 14:28:00.030 | SUCCESS  | __main__:process_product_page:73 - Found 65 color variants for The Softside Bigger Carry-On
-2025-05-20 14:28:00.030 | INFO     | __main__:process_product_page:75 - Added 65 new URLs to The Softside Bigger Carry-On
-2025-05-20 14:28:02.032 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/softside-carry-on-cloud-gray
-2025-05-20 14:28:06.234 | INFO     | __main__:process_product_page:34 - Found product type: The Softside Carry-On
-2025-05-20 14:28:08.590 | SUCCESS  | __main__:process_product_page:73 - Found 76 color variants for The Softside Carry-On
-2025-05-20 14:28:08.590 | INFO     | __main__:process_product_page:75 - Added 76 new URLs to The Softside Carry-On
-2025-05-20 14:28:10.591 | INFO     | __main__:process_product_page:20 - Processing product page: https://www.awaytravel.com/products/softside-compact-carry-on-olive-green
-2025-05-20 14:28:15.151 | INFO     | __main__:process_product_page:34 - Found product type: The Softside Compact Carry-On
-2025-05-20 14:28:16.965 | SUCCESS  | __main__:process_product_page:73 - Found 62 color variants for The Softside Compact Carry-On
-2025-05-20 14:28:16.966 | INFO     | __main__:process_product_page:75 - Added 62 new URLs to The Softside Compact Carry-On
-2025-05-20 14:28:18.967 | INFO     | __main__:<module>:161 - Closing browser session
-2025-05-20 14:28:19.804 | SUCCESS  | __main__:<module>:164 - Scraping completed successfully
+2025-05-28 17:22:29.338 | INFO     | __main__:<module>:114 - Starting Away Travel scraper
+2025-05-28 17:22:29.342 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:23:27.982 | INFO     | __main__:<module>:128 - Using cached URLs
+2025-05-28 17:23:27.982 | INFO     | __main__:<module>:141 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:23:27.982 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:23:46.719 | INFO     | __main__:<module>:143 - Product Name: The Carry-On
+2025-05-28 17:23:46.722 | INFO     | __main__:<module>:144 - Color: Sea Green
+2025-05-28 17:23:46.722 | INFO     | __main__:<module>:145 - Dimensions: N/A
+2025-05-28 17:23:46.722 | INFO     | __main__:<module>:146 - Weight: N/A
+2025-05-28 17:23:46.723 | SUCCESS  | __main__:<module>:148 - Scraping completed successfully
+2025-05-28 17:25:39.809 | INFO     | __main__:<module>:115 - Starting Away Travel scraper
+2025-05-28 17:25:39.810 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:25:42.871 | INFO     | __main__:<module>:129 - Using cached URLs
+2025-05-28 17:25:42.872 | INFO     | __main__:<module>:142 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:25:42.872 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:28:09.005 | INFO     | __main__:<module>:115 - Starting Away Travel scraper
+2025-05-28 17:28:09.007 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:28:11.026 | INFO     | __main__:<module>:129 - Using cached URLs
+2025-05-28 17:28:11.026 | INFO     | __main__:<module>:142 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:28:11.026 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:28:22.446 | INFO     | __main__:<module>:144 - Product Name: The Carry-On
+2025-05-28 17:28:22.447 | INFO     | __main__:<module>:145 - Color: Sea Green
+2025-05-28 17:28:22.448 | INFO     | __main__:<module>:146 - Dimensions: N/A
+2025-05-28 17:28:22.449 | INFO     | __main__:<module>:147 - Weight: N/A
+2025-05-28 17:28:22.449 | SUCCESS  | __main__:<module>:149 - Scraping completed successfully
+2025-05-28 17:28:36.977 | INFO     | __main__:<module>:116 - Starting Away Travel scraper
+2025-05-28 17:28:36.979 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:28:39.264 | INFO     | __main__:<module>:130 - Using cached URLs
+2025-05-28 17:28:39.265 | INFO     | __main__:<module>:143 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:28:39.265 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:28:50.447 | INFO     | __main__:<module>:145 - Product Name: The Carry-On
+2025-05-28 17:28:50.448 | INFO     | __main__:<module>:146 - Color: Sea Green
+2025-05-28 17:28:50.448 | INFO     | __main__:<module>:147 - Dimensions: N/A
+2025-05-28 17:28:50.448 | INFO     | __main__:<module>:148 - Weight: N/A
+2025-05-28 17:28:50.448 | SUCCESS  | __main__:<module>:150 - Scraping completed successfully
+2025-05-28 17:29:34.634 | INFO     | __main__:<module>:116 - Starting Away Travel scraper
+2025-05-28 17:29:34.636 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:29:42.829 | INFO     | __main__:<module>:130 - Using cached URLs
+2025-05-28 17:29:42.829 | INFO     | __main__:<module>:143 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:29:42.830 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:29:55.336 | INFO     | __main__:<module>:145 - Product Name: The Carry-On
+2025-05-28 17:29:55.336 | INFO     | __main__:<module>:146 - Color: Sea Green
+2025-05-28 17:29:55.336 | INFO     | __main__:<module>:147 - Dimensions: N/A
+2025-05-28 17:29:55.336 | INFO     | __main__:<module>:148 - Weight: N/A
+2025-05-28 17:29:55.337 | SUCCESS  | __main__:<module>:150 - Scraping completed successfully
+2025-05-28 17:32:24.014 | INFO     | __main__:<module>:116 - Starting Away Travel scraper
+2025-05-28 17:32:24.015 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:32:26.296 | INFO     | __main__:<module>:130 - Using cached URLs
+2025-05-28 17:32:26.297 | INFO     | __main__:<module>:143 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:32:26.297 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:32:37.567 | INFO     | __main__:<module>:145 - Product Name: The Carry-On
+2025-05-28 17:32:37.568 | INFO     | __main__:<module>:146 - Color: Sea Green
+2025-05-28 17:32:37.568 | INFO     | __main__:<module>:147 - Dimensions: N/A
+2025-05-28 17:32:37.568 | INFO     | __main__:<module>:148 - Weight: N/A
+2025-05-28 17:32:37.568 | SUCCESS  | __main__:<module>:150 - Scraping completed successfully
+2025-05-28 17:33:59.348 | INFO     | __main__:<module>:118 - Starting Away Travel scraper
+2025-05-28 17:33:59.349 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:34:02.099 | INFO     | __main__:<module>:132 - Using cached URLs
+2025-05-28 17:34:02.099 | INFO     | __main__:<module>:145 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:34:02.099 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:35:08.172 | INFO     | __main__:<module>:118 - Starting Away Travel scraper
+2025-05-28 17:35:08.173 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:35:10.628 | INFO     | __main__:<module>:132 - Using cached URLs
+2025-05-28 17:35:10.628 | INFO     | __main__:<module>:145 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:35:10.628 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:35:21.655 | INFO     | __main__:<module>:147 - Product Name: The Carry-On
+2025-05-28 17:35:21.656 | INFO     | __main__:<module>:148 - Color: Sea Green
+2025-05-28 17:35:21.656 | INFO     | __main__:<module>:149 - Dimensions: N/A
+2025-05-28 17:35:21.656 | INFO     | __main__:<module>:150 - Weight: N/A
+2025-05-28 17:35:21.656 | SUCCESS  | __main__:<module>:152 - Scraping completed successfully
+2025-05-28 17:37:42.465 | INFO     | __main__:<module>:118 - Starting Away Travel scraper
+2025-05-28 17:37:42.466 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:37:44.945 | INFO     | __main__:<module>:132 - Using cached URLs
+2025-05-28 17:37:44.945 | INFO     | __main__:<module>:145 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:37:44.945 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:38:13.971 | INFO     | __main__:<module>:118 - Starting Away Travel scraper
+2025-05-28 17:38:13.973 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:38:16.583 | INFO     | __main__:<module>:132 - Using cached URLs
+2025-05-28 17:38:16.583 | INFO     | __main__:<module>:145 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:38:16.583 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:38:28.255 | INFO     | __main__:<module>:147 - Product Name: The Carry-On
+2025-05-28 17:38:28.256 | INFO     | __main__:<module>:148 - Color: Sea Green
+2025-05-28 17:38:28.256 | INFO     | __main__:<module>:149 - Dimensions: N/A
+2025-05-28 17:38:28.256 | INFO     | __main__:<module>:150 - Weight: N/A
+2025-05-28 17:38:28.256 | SUCCESS  | __main__:<module>:152 - Scraping completed successfully
+2025-05-28 17:39:04.871 | INFO     | __main__:<module>:116 - Starting Away Travel scraper
+2025-05-28 17:39:04.872 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:39:06.459 | INFO     | __main__:<module>:130 - Using cached URLs
+2025-05-28 17:39:06.460 | INFO     | __main__:<module>:143 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:39:06.460 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:39:18.472 | INFO     | __main__:<module>:145 - Product Name: The Carry-On
+2025-05-28 17:39:18.472 | INFO     | __main__:<module>:146 - Color: Sea Green
+2025-05-28 17:39:18.472 | INFO     | __main__:<module>:147 - Dimensions: N/A
+2025-05-28 17:39:18.473 | INFO     | __main__:<module>:148 - Weight: N/A
+2025-05-28 17:39:18.473 | SUCCESS  | __main__:<module>:150 - Scraping completed successfully
+2025-05-28 17:39:50.037 | INFO     | __main__:<module>:116 - Starting Away Travel scraper
+2025-05-28 17:39:50.038 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:41:00.639 | INFO     | __main__:<module>:130 - Using cached URLs
+2025-05-28 17:41:00.639 | INFO     | __main__:<module>:143 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:41:00.639 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:41:15.677 | INFO     | __main__:<module>:145 - Product Name: The Carry-On
+2025-05-28 17:41:15.677 | INFO     | __main__:<module>:146 - Color: Sea Green
+2025-05-28 17:41:15.677 | INFO     | __main__:<module>:147 - Dimensions: N/A
+2025-05-28 17:41:15.677 | INFO     | __main__:<module>:148 - Weight: N/A
+2025-05-28 17:41:15.680 | SUCCESS  | __main__:<module>:150 - Scraping completed successfully
+2025-05-28 17:41:50.020 | INFO     | __main__:<module>:118 - Starting Away Travel scraper
+2025-05-28 17:41:50.022 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:41:51.940 | INFO     | __main__:<module>:132 - Using cached URLs
+2025-05-28 17:41:51.941 | INFO     | __main__:<module>:145 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:41:51.941 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:42:02.551 | INFO     | __main__:<module>:147 - Product Name: The Carry-On
+2025-05-28 17:42:02.552 | INFO     | __main__:<module>:148 - Color: Sea Green
+2025-05-28 17:42:02.552 | INFO     | __main__:<module>:149 - Dimensions: N/A
+2025-05-28 17:42:02.552 | INFO     | __main__:<module>:150 - Weight: N/A
+2025-05-28 17:42:02.552 | SUCCESS  | __main__:<module>:152 - Scraping completed successfully
+2025-05-28 17:42:27.711 | INFO     | __main__:<module>:118 - Starting Away Travel scraper
+2025-05-28 17:42:27.712 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:42:30.467 | INFO     | __main__:<module>:132 - Using cached URLs
+2025-05-28 17:42:30.468 | INFO     | __main__:<module>:145 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:42:30.468 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:42:41.458 | INFO     | __main__:<module>:147 - Product Name: The Carry-On
+2025-05-28 17:42:41.458 | INFO     | __main__:<module>:148 - Color: Sea Green
+2025-05-28 17:42:41.458 | INFO     | __main__:<module>:149 - Dimensions: N/A
+2025-05-28 17:42:41.458 | INFO     | __main__:<module>:150 - Weight: N/A
+2025-05-28 17:42:41.459 | SUCCESS  | __main__:<module>:152 - Scraping completed successfully
+2025-05-28 17:44:57.239 | INFO     | __main__:<module>:116 - Starting Away Travel scraper
+2025-05-28 17:44:57.240 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:44:58.924 | INFO     | __main__:<module>:130 - Using cached URLs
+2025-05-28 17:44:58.924 | INFO     | __main__:<module>:143 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:44:58.925 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:45:22.971 | INFO     | __main__:<module>:117 - Starting Away Travel scraper
+2025-05-28 17:45:22.973 | SUCCESS  | __main__:load_cached_urls:23 - Loaded variants for 13 products from cache
+2025-05-28 17:45:24.962 | INFO     | __main__:<module>:131 - Using cached URLs
+2025-05-28 17:45:24.963 | INFO     | __main__:<module>:144 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:45:24.963 | INFO     | __main__:get_product_data:95 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:47:53.385 | INFO     | __main__:<module>:116 - Starting Away Travel scraper
+2025-05-28 17:47:53.386 | SUCCESS  | __main__:load_cached_urls:24 - Loaded variants for 13 products from cache
+2025-05-28 17:47:54.894 | INFO     | __main__:<module>:130 - Using cached URLs
+2025-05-28 17:47:54.894 | INFO     | __main__:<module>:143 - Testing get_product_data with URL: https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:47:54.894 | INFO     | __main__:get_product_data:96 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 17:48:06.422 | INFO     | __main__:<module>:145 - Product Name: The Carry-On
+2025-05-28 17:48:06.422 | INFO     | __main__:<module>:146 - Color: Sea Green
+2025-05-28 17:48:06.422 | INFO     | __main__:<module>:147 - Dimensions:  21.7" x 14.4" x 9"
+2025-05-28 17:48:06.422 | INFO     | __main__:<module>:148 - Weight:  7.5 lbs
+2025-05-28 17:48:06.423 | SUCCESS  | __main__:<module>:150 - Scraping completed successfully
+2025-05-28 18:01:26.400 | INFO     | __main__:<module>:134 - Starting Away Travel scraper
+2025-05-28 18:01:26.401 | SUCCESS  | __main__:load_cached_urls:26 - Loaded variants for 13 products from cache
+2025-05-28 18:01:29.142 | INFO     | __main__:<module>:148 - Using cached URLs
+2025-05-28 18:01:32.416 | INFO     | __main__:get_product_data:98 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 18:01:32.416 | INFO     | __main__:get_product_data:101 - Checking for cache file for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 18:01:32.416 | INFO     | __main__:get_product_data:110 - Fetching product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 21:03:48.981 | INFO     | __main__:<module>:134 - Starting Away Travel scraper
+2025-05-28 21:03:49.001 | SUCCESS  | __main__:load_cached_urls:26 - Loaded variants for 13 products from cache
+2025-05-28 21:03:51.194 | INFO     | __main__:<module>:148 - Using cached URLs
+2025-05-28 21:03:52.942 | INFO     | __main__:get_product_data:98 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 21:03:52.942 | INFO     | __main__:get_product_data:110 - Fetching product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 21:04:32.570 | INFO     | __main__:<module>:134 - Starting Away Travel scraper
+2025-05-28 21:04:32.573 | SUCCESS  | __main__:load_cached_urls:26 - Loaded variants for 13 products from cache
+2025-05-28 21:04:34.945 | INFO     | __main__:<module>:148 - Using cached URLs
+2025-05-28 21:04:36.706 | INFO     | __main__:get_product_data:98 - Getting product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 21:04:36.708 | INFO     | __main__:get_product_data:110 - Fetching product data for https://www.awaytravel.com/products/carry-on-sea-green
+2025-05-28 21:10:41.510 | INFO     | __main__:<module>:136 - Starting Away Travel scraper
+2025-05-28 21:10:41.511 | SUCCESS  | __main__:load_cached_urls:26 - Loaded variants for 13 products from cache
+2025-05-28 21:10:43.974 | INFO     | __main__:<module>:150 - Using cached URLs
+2025-05-28 21:11:04.780 | INFO     | __main__:<module>:136 - Starting Away Travel scraper
+2025-05-28 21:11:04.781 | SUCCESS  | __main__:load_cached_urls:26 - Loaded variants for 13 products from cache
+2025-05-28 21:11:06.748 | INFO     | __main__:<module>:150 - Using cached URLs
+2025-05-28 21:11:09.786 | INFO     | __main__:get_product_data:99 - Getting product data for carry-on-sea-green
+2025-05-28 21:11:09.786 | INFO     | __main__:get_product_data:104 - Checking for cache file for carry-on-sea-green
+2025-05-28 21:11:09.786 | INFO     | __main__:get_product_data:112 - Fetching product data for carry-on-sea-green
+2025-05-28 21:12:09.710 | INFO     | __main__:<module>:136 - Starting Away Travel scraper
+2025-05-28 21:12:09.711 | SUCCESS  | __main__:load_cached_urls:26 - Loaded variants for 13 products from cache
+2025-05-28 21:12:11.940 | INFO     | __main__:<module>:150 - Using cached URLs
+2025-05-28 21:12:14.939 | INFO     | __main__:get_product_data:99 - Getting product data for carry-on-sea-green
+2025-05-28 21:12:14.940 | INFO     | __main__:get_product_data:104 - Checking for cache file for carry-on-sea-green
+2025-05-28 21:12:14.940 | INFO     | __main__:get_product_data:112 - Fetching product data for carry-on-sea-green
+2025-05-28 21:12:26.449 | INFO     | __main__:get_product_data:99 - Getting product data for carry-on-clay-pink
+2025-05-28 21:12:26.449 | INFO     | __main__:get_product_data:104 - Checking for cache file for carry-on-clay-pink
+2025-05-28 21:12:26.449 | INFO     | __main__:get_product_data:112 - Fetching product data for carry-on-clay-pink
+2025-05-28 21:12:38.204 | INFO     | __main__:get_product_data:99 - Getting product data for carry-on-tango-red
+2025-05-28 21:12:38.206 | INFO     | __main__:get_product_data:104 - Checking for cache file for carry-on-tango-red
+2025-05-28 21:12:38.206 | INFO     | __main__:get_product_data:112 - Fetching product data for carry-on-tango-red
+2025-05-28 21:12:50.798 | INFO     | __main__:get_product_data:99 - Getting product data for carry-on-coast-blue
+2025-05-28 21:12:50.798 | INFO     | __main__:get_product_data:104 - Checking for cache file for carry-on-coast-blue
+2025-05-28 21:12:50.798 | INFO     | __main__:get_product_data:112 - Fetching product data for carry-on-coast-blue
+2025-05-28 21:13:02.720 | INFO     | __main__:get_product_data:99 - Getting product data for carry-on-translucent-green
+2025-05-28 21:13:02.720 | INFO     | __main__:get_product_data:104 - Checking for cache file for carry-on-translucent-green
+2025-05-28 21:13:02.720 | INFO     | __main__:get_product_data:112 - Fetching product data for carry-on-translucent-green

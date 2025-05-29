@@ -7,12 +7,14 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from loguru import logger
 import re
+import os
 
 # Configure loguru
 logger.add("away_travel.log", rotation="1 day", retention="7 days", level="INFO")
 
 COLLECTION_URL = "https://www.awaytravel.com/collections/carry-on-luggage"
 DATA_FOLDER = "AwayTravel_Data"
+CACHE_DIR = "AwayTravel_Cache"
 OUTPUT_JSON   = "urls.json"
 SCROLL_PAUSE  = 1             # seconds between scroll checks
 PAGE_LOAD_WAIT = 2          # seconds to wait for page load
@@ -92,8 +94,22 @@ def collect_product_urls():
         logger.info("Closing browser session")
         driver.quit()
 
-def get_product_data(url):
-    logger.info(f"Getting product data for {url}")
+def get_product_data(url, use_cache=False):
+    url_brief = url.split("/")[-1]
+    logger.info(f"Getting product data for {url_brief}")
+    # the url brief is the last part of the url after the last /
+    cache_file = f"{CACHE_DIR}/{url_brief}.json"
+    if use_cache:
+        # check if cache file exists
+        logger.info(f"Checking for cache file for {url_brief}")
+        if os.path.exists(cache_file):
+            logger.info(f"Cache file found for {url_brief}")
+            with open(cache_file, "r", encoding="utf-8") as f:
+                json_data = json.load(f)
+                return json_data["product_name"], json_data["color"], json_data["dimensions"], json_data["weight"]
+    
+    # fetching product data
+    logger.info(f"Fetching product data for {url_brief}")
     driver = uc.Chrome(headless=False, use_subprocess=False)  # Set to False for headed mode
     driver.get(url)
     time.sleep(PAGE_LOAD_WAIT)
@@ -109,6 +125,11 @@ def get_product_data(url):
     size_attributes = re.split(r'<br>|</strong>', size_attributes)
     dimensions = size_attributes[1]
     weight = size_attributes[5]
+
+    # save to cache
+    with open(cache_file, "w", encoding="utf-8") as f:
+        json.dump({"product_name": product_name, "color": color, "dimensions": dimensions, "weight": weight}, f)
+    driver.quit()
     return product_name, color, dimensions, weight
 
 if __name__ == "__main__":
@@ -135,16 +156,16 @@ if __name__ == "__main__":
         logger.info("No cached URLs found. Fetching new URLs...")
         all_variants = collect_product_urls()
 
-    # Test get_product_data with first URL
-    if all_variants:
-        first_product_type = next(iter(all_variants))
-        first_url = all_variants[first_product_type][0]
-        logger.info(f"Testing get_product_data with URL: {first_url}")
-        product_name, color, dimensions, weight = get_product_data(first_url)
-        logger.info(f"Product Name: {product_name}")
-        logger.info(f"Color: {color}")
-        logger.info(f"Dimensions: {dimensions}")
-        logger.info(f"Weight: {weight}")
+    use_product_caches = input("Would you like to use product caches when possible? (y/n): ").strip() == 'y'
+
+    # create cache dir if it doesn't exist
+    if not os.path.exists(CACHE_DIR):
+        os.makedirs(CACHE_DIR)
+
+    for product_type, urls in all_variants.items():
+        for url in urls:
+            product_name, color, dimensions, weight = get_product_data(url, use_product_caches)
+            print(product_name, color, dimensions, weight)
     
     logger.success("Scraping completed successfully")
 

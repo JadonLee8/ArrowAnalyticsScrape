@@ -67,9 +67,13 @@ def fetch_base_luggage_urls(driver):
 
 def get_base_urls_list(json_data):
     base_urls = {}
+    print(json_data)
     for item in json_data.get("itemListElement", []):
-        base_urls.update({item.get("name"): item.get("url")})
-    logger.info(f"Extracted {len(base_urls)} base URLs")
+        if base_urls.get(item.get("name")):
+            base_urls[item.get("name")].append(item.get("url"))
+        else:
+            base_urls[item.get("name")] = [item.get("url")]
+    logger.info(f"Extracted {len(base_urls)} products")
     return base_urls
 
 def main():
@@ -77,7 +81,7 @@ def main():
     driver = uc.Chrome(headless=False, use_subprocess=False)
     base_urls_json = fetch_base_luggage_urls(driver)
     base_urls = get_base_urls_list(base_urls_json)
-    
+    print(base_urls)
     driver.quit()
 
 if __name__ == "__main__":

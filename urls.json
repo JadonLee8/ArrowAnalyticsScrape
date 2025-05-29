@@ -1,15 +1,124 @@
-[
-  "https://www.awaytravel.com/products/aluminum-bigger-carry-on-rose-gold",
-  "https://www.awaytravel.com/products/aluminum-carry-on-silver",
-  "https://www.awaytravel.com/products/bigger-carry-on-coast-blue",
-  "https://www.awaytravel.com/products/bigger-carry-on-flex-cloud-gray",
-  "https://www.awaytravel.com/products/carry-on-flex-tango-red",
-  "https://www.awaytravel.com/products/carry-on-sunshine-yellow",
-  "https://www.awaytravel.com/products/collegiate-bigger-carry-on-aub",
-  "https://www.awaytravel.com/products/executive-bigger-carry-on-coast-blue",
-  "https://www.awaytravel.com/products/executive-carry-on-olive-green",
-  "https://www.awaytravel.com/products/kids-carry-on-cotton-candy-pink",
-  "https://www.awaytravel.com/products/softside-bigger-carry-on-navy-blue",
-  "https://www.awaytravel.com/products/softside-carry-on-cloud-gray",
-  "https://www.awaytravel.com/products/softside-compact-carry-on-olive-green"
-]
+{
+  "The Carry-On": [
+    "https://www.awaytravel.com/products/carry-on-sea-green",
+    "https://www.awaytravel.com/products/carry-on-clay-pink",
+    "https://www.awaytravel.com/products/carry-on-tango-red",
+    "https://www.awaytravel.com/products/carry-on-coast-blue",
+    "https://www.awaytravel.com/products/carry-on-translucent-green",
+    "https://www.awaytravel.com/products/carry-on-olive-green",
+    "https://www.awaytravel.com/products/carry-on-jet-black",
+    "https://www.awaytravel.com/products/carry-on-sunshine-yellow",
+    "https://www.awaytravel.com/products/carry-on-cloud-gray",
+    "https://www.awaytravel.com/products/carry-on-navy-blue",
+    "https://www.awaytravel.com/products/carry-on-salt-white-gloss",
+    "https://www.awaytravel.com/products/carry-on-sorbet-orange"
+  ],
+  "The Bigger Carry-On": [
+    "https://www.awaytravel.com/products/bigger-carry-on-tango-red",
+    "https://www.awaytravel.com/products/bigger-carry-on-cloud-gray",
+    "https://www.awaytravel.com/products/bigger-carry-on-olive-green",
+    "https://www.awaytravel.com/products/bigger-carry-on-jet-black",
+    "https://www.awaytravel.com/products/bigger-carry-on-navy-blue",
+    "https://www.awaytravel.com/products/bigger-carry-on-coast-blue",
+    "https://www.awaytravel.com/products/bigger-carry-on-sunshine-yellow",
+    "https://www.awaytravel.com/products/bigger-carry-on-salt-white-gloss",
+    "https://www.awaytravel.com/products/bigger-carry-on-sea-green",
+    "https://www.awaytravel.com/products/bigger-carry-on-sorbet-orange"
+  ],
+  "The Carry-On Flex": [
+    "https://www.awaytravel.com/products/carry-on-flex-jet-black",
+    "https://www.awaytravel.com/products/carry-on-flex-clay-pink",
+    "https://www.awaytravel.com/products/carry-on-flex-sorbet-orange",
+    "https://www.awaytravel.com/products/carry-on-flex-navy-blue",
+    "https://www.awaytravel.com/products/carry-on-flex-olive-green",
+    "https://www.awaytravel.com/products/carry-on-flex-sunshine-yellow",
+    "https://www.awaytravel.com/products/carry-on-flex-salt-white-gloss",
+    "https://www.awaytravel.com/products/carry-on-flex-coast-blue",
+    "https://www.awaytravel.com/products/carry-on-flex-cloud-gray",
+    "https://www.awaytravel.com/products/carry-on-flex-sea-green",
+    "https://www.awaytravel.com/products/carry-on-flex-tango-red"
+  ],
+  "The Bigger Carry-On Flex": [
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-cloud-gray",
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-coast-blue",
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-salt-white-gloss",
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-jet-black",
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-tango-red",
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-sorbet-orange",
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-navy-blue",
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-sunshine-yellow",
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-sea-green",
+    "https://www.awaytravel.com/products/bigger-carry-on-flex-olive-green"
+  ],
+  "The Kids Carry-On": [
+    "https://www.awaytravel.com/products/kids-carry-on-splash-blue",
+    "https://www.awaytravel.com/products/kids-carry-on-cotton-candy-pink",
+    "https://www.awaytravel.com/products/kids-carry-on-poppy-orange",
+    "https://www.awaytravel.com/products/kids-carry-on-sunshine-yellow",
+    "https://www.awaytravel.com/products/kids-carry-on-froggy-green"
+  ],
+  "The Softside Compact Carry-On": [
+    "https://www.awaytravel.com/products/softside-compact-carry-on-coast-blue",
+    "https://www.awaytravel.com/products/softside-compact-carry-on-navy-blue",
+    "https://www.awaytravel.com/products/softside-compact-carry-on-jet-black",
+    "https://www.awaytravel.com/products/softside-compact-carry-on-olive-green"
+  ],
+  "The Softside Carry-On": [
+    "https://www.awaytravel.com/products/softside-carry-on-clay-pink",
+    "https://www.awaytravel.com/products/softside-carry-on-jet-black",
+    "https://www.awaytravel.com/products/softside-carry-on-olive-green",
+    "https://www.awaytravel.com/products/softside-carry-on-navy-blue",
+    "https://www.awaytravel.com/products/softside-carry-on-cloud-gray",
+    "https://www.awaytravel.com/products/softside-carry-on-coast-blue",
+    "https://www.awaytravel.com/products/softside-carry-on-plum-purple"
+  ],
+  "The Softside Bigger Carry-On": [
+    "https://www.awaytravel.com/products/softside-bigger-carry-on-jet-black",
+    "https://www.awaytravel.com/products/softside-bigger-carry-on-clay-pink",
+    "https://www.awaytravel.com/products/softside-bigger-carry-on-plum-purple",
+    "https://www.awaytravel.com/products/softside-bigger-carry-on-navy-blue",
+    "https://www.awaytravel.com/products/softside-bigger-carry-on-cloud-gray",
+    "https://www.awaytravel.com/products/softside-bigger-carry-on-coast-blue",
+    "https://www.awaytravel.com/products/softside-bigger-carry-on-olive-green"
+  ],
+  "The Executive Carry-On": [
+    "https://www.awaytravel.com/products/executive-carry-on-jet-black",
+    "https://www.awaytravel.com/products/executive-carry-on-coast-blue",
+    "https://www.awaytravel.com/products/executive-carry-on-cloud-gray",
+    "https://www.awaytravel.com/products/executive-carry-on-navy-blue",
+    "https://www.awaytravel.com/products/executive-carry-on-olive-green"
+  ],
+  "The Executive Bigger Carry-On": [
+    "https://www.awaytravel.com/products/executive-bigger-carry-on-cloud-gray",
+    "https://www.awaytravel.com/products/executive-bigger-carry-on-navy-blue",
+    "https://www.awaytravel.com/products/executive-bigger-carry-on-olive-green",
+    "https://www.awaytravel.com/products/executive-bigger-carry-on-coast-blue",
+    "https://www.awaytravel.com/products/executive-bigger-carry-on-jet-black"
+  ],
+  "The Carry-On: Aluminum Edition": [
+    "https://www.awaytravel.com/products/aluminum-carry-on-onyx-black",
+    "https://www.awaytravel.com/products/aluminum-carry-on-silver",
+    "https://www.awaytravel.com/products/aluminum-carry-on-rose-gold"
+  ],
+  "The Bigger Carry-On: Aluminum Edition": [
+    "https://www.awaytravel.com/products/aluminum-bigger-carry-on-onyx-black",
+    "https://www.awaytravel.com/products/aluminum-bigger-carry-on-rose-gold",
+    "https://www.awaytravel.com/products/aluminum-bigger-carry-on-silver"
+  ],
+  "The Collegiate Bigger Carry-On": [
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-umd",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-az",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-uconn",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-ucol",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-unc",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-aub",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-bama",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-texas",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-psu",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-ucla",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-asu",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-lsu",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-clem",
+    "https://www.awaytravel.com/products/collegiate-bigger-carry-on-mich"
+  ]
+}
