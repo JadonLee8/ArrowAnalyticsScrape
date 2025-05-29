@@ -94,7 +94,30 @@ def collect_product_urls():
         logger.info("Closing browser session")
         driver.quit()
 
-def get_product_data(url, use_cache=False):
+def get_image_urls(driver):
+    # Find the swiper container
+    swiper_container = driver.find_element(By.XPATH, "(//swiper-container)[2]")
+    # Find all swiper slides within the container
+    slides = swiper_container.find_elements(By.TAG_NAME, "swiper-slide")
+    
+    image_urls = []
+    for slide in slides:
+        try:
+            # Find the img element within each slide
+            img = slide.find_element(By.TAG_NAME, "img")
+            # Get the src attribute
+            img_url = img.get_attribute("src")
+            if img_url:
+                # remove the query string from the url
+                img_url = img_url.split("?")[0]
+                image_urls.append(img_url)
+        except Exception as e:
+            logger.warning(f"Could not get image URL from slide: {str(e)}")
+            continue
+    
+    return image_urls
+
+def get_product_data(url, driver, image_url_json, use_cache=False):
     url_brief = url.split("/")[-1]
     logger.info(f"Getting product data for {url_brief}")
     # the url brief is the last part of the url after the last /
@@ -106,11 +129,11 @@ def get_product_data(url, use_cache=False):
             logger.info(f"Cache file found for {url_brief}")
             with open(cache_file, "r", encoding="utf-8") as f:
                 json_data = json.load(f)
+                # Get image URLs from the image_url_json if available
                 return json_data["product_name"], json_data["color"], json_data["dimensions"], json_data["weight"]
     
     # fetching product data
     logger.info(f"Fetching product data for {url_brief}")
-    driver = uc.Chrome(headless=False, use_subprocess=False)  # Set to False for headed mode
     driver.get(url)
     time.sleep(PAGE_LOAD_WAIT)
 
@@ -129,8 +152,34 @@ def get_product_data(url, use_cache=False):
     # save to cache
     with open(cache_file, "w", encoding="utf-8") as f:
         json.dump({"product_name": product_name, "color": color, "dimensions": dimensions, "weight": weight}, f)
-    driver.quit()
+
+    image_urls = get_image_urls(driver)
+    # Initialize the dictionary for this product if it doesn't exist
+    if product_name not in image_url_json:
+        image_url_json[product_name] = {}
+    image_url_json[product_name][color] = image_urls
+    # Save image URLs after each product
+    with open(f"{DATA_FOLDER}/image_urls.json", 'w', encoding="utf-8") as f:
+        json.dump(image_url_json, f, indent=2)
+    logger.info(f"Saved data for {product_name}")
+
     return product_name, color, dimensions, weight
+
+# create a csv file with headers then return the path
+def create_csv():
+    if not os.path.exists(DATA_FOLDER):
+        os.makedirs(DATA_FOLDER)
+
+    base_csv_path = os.path.join(DATA_FOLDER, 'awaytravel_data.csv')
+    csv_path = f"{base_csv_path}"
+    counter = 1
+    while os.path.exists(csv_path):
+        csv_path = os.path.join(DATA_FOLDER, f'awaytravel_data({counter}).csv')
+        counter += 1
+    
+    with open(csv_path, 'w', encoding="utf-8") as f:
+        f.write("Brand, Product Name,Color,Dimensions,Weight\n")
+    return csv_path    
 
 if __name__ == "__main__":
     logger.info("Starting Away Travel scraper")
@@ -162,10 +211,25 @@ if __name__ == "__main__":
     if not os.path.exists(CACHE_DIR):
         os.makedirs(CACHE_DIR)
 
+    driver = uc.Chrome(headless=False, use_subprocess=False)  # Set to False for headed mode
+
+    csv_path = create_csv()
+    image_url_json = {}
+
+    csv = open(csv_path, 'a', encoding="utf-8")
+    if os.path.exists(f"{DATA_FOLDER}/image_urls.json"):
+        image_url_json = json.load(open(f"{DATA_FOLDER}/image_urls.json", 'r', encoding="utf-8"))
+    else:
+        image_url_json = {}
+
     for product_type, urls in all_variants.items():
         for url in urls:
-            product_name, color, dimensions, weight = get_product_data(url, use_product_caches)
-            print(product_name, color, dimensions, weight)
+            product_name, color, dimensions, weight = get_product_data(url, driver, image_url_json, use_product_caches)
+            csv.write(f"Away Travel,{product_name},{color},{dimensions},{weight}\n")
+            csv.flush()  # Force write to disk
+
+    driver.quit()
+    csv.close()
     
     logger.success("Scraping completed successfully")
 
